@@ -1,0 +1,2 @@
+id_encuesta,fecha,lugar,perfil,tiene_carro,ha_comprado_vendido,marca_preferida,presupuesto_usd,preferencia,ve_mercado,compraria_ahora,metodo_pago,tiempo_espera_venta,notas
+S01,2026-09-26,universidad,estudiante,si,nunca,toyota,10000-25000,moderno_importado,baja,si,efectivo_usd,1-3_meses,EJEMPLO - borra esta fila antes de empezar

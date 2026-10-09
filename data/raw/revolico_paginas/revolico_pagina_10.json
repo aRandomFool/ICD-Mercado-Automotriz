@@ -1,0 +1,910 @@
+{
+  "pageInfo": {
+    "startCursor": null,
+    "endCursor": null,
+    "hasNextPage": true,
+    "hasPreviousPage": true,
+    "pageCount": 71
+  },
+  "edges": [
+    {
+      "node": {
+        "id": "57492773",
+        "title": "VENTA DE AUTOS EN LA HABANA",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/venta-de-autos-en-la-habana-57492773",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-17T02:10:25.665Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/ab2558ea4e6104a76a027ccc3c49c53c30b7e050383fb4080f518f0e36f2fa9a"
+        },
+        "viewCount": 16
+      }
+    },
+    {
+      "node": {
+        "id": "57492735",
+        "title": "HYUNDAI TUCSON N LINE 2023",
+        "price": 38000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-tucson-n-line-2023-57492735",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-17T02:06:39.852Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/cfdc18d955a43afc83e3f415a4613143ff06b833c4f27bf7d0dd541598d1316d"
+        },
+        "viewCount": 21
+      }
+    },
+    {
+      "node": {
+        "id": "57492501",
+        "title": "Tengo estos carros disponibles",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/tengo-estos-carros-disponibles-57492501",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-17T01:44:51.452Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "48",
+        "mainImage": {
+          "gcsKey": "pics/e060cf18367239e3a01b1dfea40f2a8fe7e0674b54e1d86fe395d913fe9669ff"
+        },
+        "viewCount": 24
+      }
+    },
+    {
+      "node": {
+        "id": "57492018",
+        "title": "🔥🚨 🚘 HYUNDAI PALISADE 2022 CALLIGRAPHY 📍 La Habana ✨ VERSIÓN CALLIGRAPHY 💥",
+        "price": 35000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-palisade-2022-calligraphy-la-habana-version-calligraphy-57492018",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-17T01:01:03.451Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "41",
+        "mainImage": {
+          "gcsKey": "pics/6be8c94880e00e6c579f9837bd684604dfd914ebe4531bf321642d9eee101385"
+        },
+        "viewCount": 17
+      }
+    },
+    {
+      "node": {
+        "id": "57491992",
+        "title": "🚙 HYUNDAI SANTA FE 2018 💰",
+        "price": 22000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-santa-fe-2018-57491992",
+        "imagesCount": 6,
+        "updatedOnToOrder": "2026-09-17T00:58:42.300Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "41",
+        "mainImage": {
+          "gcsKey": "pics/0fed57672cfac9b3618ccf189146034be70a5b3005a7862fe43ce5390463c86b"
+        },
+        "viewCount": 13
+      }
+    },
+    {
+      "node": {
+        "id": "57491969",
+        "title": "🔥🚨  🛻 CHEVROLET COLORADO Z71 2021 🛻 💥",
+        "price": 35000,
+        "currency": "USD",
+        "permalink": "/item/chevrolet-colorado-z71-2021-57491969",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-17T00:56:42.250Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "41",
+        "mainImage": {
+          "gcsKey": "pics/9bc203f82e7c60ae5e310aab501a6fa7f6594737239520e4fa49d1c321283be0"
+        },
+        "viewCount": 12
+      }
+    },
+    {
+      "node": {
+        "id": "57491336",
+        "title": "NISSAN 2024 NUEVO 0KM",
+        "price": 30000,
+        "currency": "USD",
+        "permalink": "/item/nissan-2024-nuevo-0km-57491336",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-17T20:00:13.635Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "48",
+        "mainImage": {
+          "gcsKey": "pics/f60a892ac0f33ac2fce5f6a382a252b5e5f6f212efaf3def089e5100b1951384"
+        },
+        "viewCount": 8
+      }
+    },
+    {
+      "node": {
+        "id": "57490756",
+        "title": "Nissan 2024 0KM",
+        "price": 30000,
+        "currency": "USD",
+        "permalink": "/item/nissan-2024-0km-57490756",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T23:26:57.783Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "34",
+        "mainImage": {
+          "gcsKey": "pics/e3740f0d202f87d48391bc30539498a16cb1b58e6eb7060a5f2f1a22cc71c958"
+        },
+        "viewCount": 14
+      }
+    },
+    {
+      "node": {
+        "id": "57490179",
+        "title": "Acura Aspec 2022",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/acura-aspec-2022-57490179",
+        "imagesCount": 10,
+        "updatedOnToOrder": "2026-09-16T22:40:47.251Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/ee419d437ebca5847f4dcb4b2bfcb1e634abf01d20c84c604c56e5c0d53a1019"
+        },
+        "viewCount": 10
+      }
+    },
+    {
+      "node": {
+        "id": "57490155",
+        "title": "Wa.me/56525031 KIA RIO 2019 — MODERNO, AUTOMÁTICO Y PREPARADO PARA USTED  ¡Un auto sumamente confiable, cómodo y eficien",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/wame56525031-kia-rio-2019-moderno-automatico-y-preparado-para-usted-un-auto-sumamente-confiable-comodo-y-eficien-57490155",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-16T22:39:32.422Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/41d2bd84b7abae8886fc8a7106318e16541553d88489ba21013ca7a3d6ae28fc"
+        },
+        "viewCount": 29
+      }
+    },
+    {
+      "node": {
+        "id": "57488450",
+        "title": "Microbús de pasajeros capacidad de 8 plazas nuevos cero km",
+        "price": 1,
+        "currency": "USD",
+        "permalink": "/item/microbus-de-pasajeros-capacidad-de-8-plazas-nuevos-cero-km-57488450",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-16T20:55:30.554Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/897c86efe9d3710c56dd2b21accd23736ef759c48d3dd18aa59e4353c68cd540"
+        },
+        "viewCount": 39
+      }
+    },
+    {
+      "node": {
+        "id": "57488284",
+        "title": "Honda HR-V",
+        "price": 30000,
+        "currency": "USD",
+        "permalink": "/item/honda-hr-v-57488284",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T20:46:00.615Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/9fa2120c6a97cb8d28fe56765f0ce42da5e6bffee0688cd4e55c801979befeb5"
+        },
+        "viewCount": 13
+      }
+    },
+    {
+      "node": {
+        "id": "57488172",
+        "title": "Se vende Gelly",
+        "price": 11000,
+        "currency": "USD",
+        "permalink": "/item/se-vende-gelly-57488172",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-23T19:03:37.322Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "43",
+        "mainImage": {
+          "gcsKey": "pics/186f54ef798e8815c6bac63560126d86c48e691edd923bd6f6bce54feda79e9e"
+        },
+        "viewCount": 118
+      }
+    },
+    {
+      "node": {
+        "id": "57487903",
+        "title": "Cargador de Batería// Marca Total 120 USD",
+        "price": 120,
+        "currency": "USD",
+        "permalink": "/item/cargador-de-bateria-marca-total-120-usd-57487903",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T20:20:57.736Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "44",
+        "mainImage": {
+          "gcsKey": "pics/be164076b9f2d17f1263a20378e81c4f308229b6775b4e2e9a96191209a3e2a1"
+        },
+        "viewCount": 10
+      }
+    },
+    {
+      "node": {
+        "id": "57487716",
+        "title": "Santa fe 2017",
+        "price": 21500,
+        "currency": "USD",
+        "permalink": "/item/santa-fe-2017-57487716",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T20:08:29.853Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "35",
+        "mainImage": {
+          "gcsKey": "pics/e2bac6bc4a22b881d45dfcd0b42e60ab26651939d972517f193a39527cb36388"
+        },
+        "viewCount": 13
+      }
+    },
+    {
+      "node": {
+        "id": "57487696",
+        "title": "PALISADE",
+        "price": 28500,
+        "currency": "USD",
+        "permalink": "/item/palisade-57487696",
+        "imagesCount": 0,
+        "updatedOnToOrder": "2026-09-16T20:07:33.860Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "35",
+        "mainImage": null,
+        "viewCount": 11
+      }
+    },
+    {
+      "node": {
+        "id": "57487301",
+        "title": "Kia Picanto 2025 GT-Line",
+        "price": 24000,
+        "currency": "USD",
+        "permalink": "/item/kia-picanto-2025-gt-line-57487301",
+        "imagesCount": 7,
+        "updatedOnToOrder": "2026-09-19T15:45:07.994Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/bac07a440c30a251d732f071dff5b5b040e5228e47f6cc52da8b7c86ce5c23c8"
+        },
+        "viewCount": 80
+      }
+    },
+    {
+      "node": {
+        "id": "57487252",
+        "title": "Hyundai Sonata 2021",
+        "price": 23500,
+        "currency": "USD",
+        "permalink": "/item/hyundai-sonata-2021-57487252",
+        "imagesCount": 9,
+        "updatedOnToOrder": "2026-09-19T15:45:06.977Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/77b7b6bbbf6718e2402a2ea790e3d31e6d8278bfa0d0774ff25864012e2c6d13"
+        },
+        "viewCount": 38
+      }
+    },
+    {
+      "node": {
+        "id": "57487146",
+        "title": "KIA SELTOS 2025...add",
+        "price": 37000,
+        "currency": "USD",
+        "permalink": "/item/kia-seltos-2025add-57487146",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-24T20:53:12.374Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/60794ccab7f225e9bee923ae2f0664ab13f559cf4a2373366a9e2b368c560ca3"
+        },
+        "viewCount": 46
+      }
+    },
+    {
+      "node": {
+        "id": "57487113",
+        "title": "MG ZS 2025...add",
+        "price": 24000,
+        "currency": "USD",
+        "permalink": "/item/mg-zs-2025add-57487113",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-24T20:25:16.473Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/85c06de797a15e09f1cef0e82f45733e1dd5ff6c35e0d64e7755265dd98c9eb4"
+        },
+        "viewCount": 37
+      }
+    },
+    {
+      "node": {
+        "id": "57486924",
+        "title": "PALISADE CALIGRAFI  2021...add",
+        "price": 32000,
+        "currency": "USD",
+        "permalink": "/item/palisade-caligrafi-2021add-57486924",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-24T20:41:55.669Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/1148c385de97cd95e4c78f433e71d9c7e5d15088d8b0d5a20c98044fe9b94cb1"
+        },
+        "viewCount": 50
+      }
+    },
+    {
+      "node": {
+        "id": "57486628",
+        "title": "Se vende auto Opel",
+        "price": 3800,
+        "currency": "USD",
+        "permalink": "/item/se-vende-auto-opel-57486628",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-18T14:37:21.894Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/57e982e88ebe08215df5cf0e16b891ea355d9f321731481b1809701744d3131c"
+        },
+        "viewCount": 282
+      }
+    },
+    {
+      "node": {
+        "id": "57486304",
+        "title": "De uso trabajando al 100 te lo pruebo y todo ganga",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/de-uso-trabajando-al-100-te-lo-pruebo-y-todo-ganga-57486304",
+        "imagesCount": 6,
+        "updatedOnToOrder": "2026-09-16T18:48:15.595Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/9ec531b53ae580eb4224b0ee2eeb8263176255ad987a777b5578ff1fd61cc7f9"
+        },
+        "viewCount": 14
+      }
+    },
+    {
+      "node": {
+        "id": "57486256",
+        "title": "Patín de lada nuevo",
+        "price": 10,
+        "currency": "USD",
+        "permalink": "/item/patin-de-lada-nuevo-57486256",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T18:45:31.840Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/3613a57e9288851db1818c98855a4333e30cf4b4d85a2e3f9d890d9db59bcd80"
+        },
+        "viewCount": 6
+      }
+    },
+    {
+      "node": {
+        "id": "57485967",
+        "title": "Kit todo en uni infinity 6 con 15",
+        "price": 3950,
+        "currency": "USD",
+        "permalink": "/item/kit-todo-en-uni-infinity-6-con-15-57485967",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T18:32:28.365Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/f31c4ec31502a745d4c0667be364c2be21ece6f4389ce25aa46330d74e39c82d"
+        },
+        "viewCount": 5
+      }
+    },
+    {
+      "node": {
+        "id": "57484909",
+        "title": "Hyundai IONIQ 5 2024 ❤️",
+        "price": 39000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-ioniq-5-2024-57484909",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-16T17:44:43.147Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/083c4d6e90e323945c2b678f2f38bd5e47aa11fcc6274416b56ba345a68a7486"
+        },
+        "viewCount": 7
+      }
+    },
+    {
+      "node": {
+        "id": "57484522",
+        "title": "Hyundai Tucson 2020",
+        "price": 24000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-tucson-2020-57484522",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-16T17:22:36.097Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/017556f349117266674540d229700441522905ba124bf7ad091ce4a34c5ad032"
+        },
+        "viewCount": 11
+      }
+    },
+    {
+      "node": {
+        "id": "57484453",
+        "title": "Carro , Hyundai eléctrico , 2024💥🔥",
+        "price": 40000,
+        "currency": "USD",
+        "permalink": "/item/carro-hyundai-electrico-2024-57484453",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-24T03:25:32.869Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/1cb7aab9a0e8358fc98d135dccd8082feda3eba94da4fe964105e357636c632e"
+        },
+        "viewCount": 10
+      }
+    },
+    {
+      "node": {
+        "id": "57484403",
+        "title": "Se vende Buick 51 Descapotable",
+        "price": 13500,
+        "currency": "USD",
+        "permalink": "/item/se-vende-buick-51-descapotable-57484403",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-16T17:15:43.384Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/af1d1a8374a832862bec0034f0eaf7e12894d9fc813535be2905d958ea26e00f"
+        },
+        "viewCount": 76
+      }
+    },
+    {
+      "node": {
+        "id": "57484183",
+        "title": "🔥🚨 ¡OFERTA! HYUNDAI ELANTRA 2019 | $22,000 USD 🚨",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/oferta-hyundai-elantra-2019-22000-usd-57484183",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-16T17:03:26.240Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/90449c7390e40c725ad385ef1c20941337abbc02e97a80b3f545d3d98d8cc6af"
+        },
+        "viewCount": 9
+      }
+    },
+    {
+      "node": {
+        "id": "57484126",
+        "title": "⚡🚨 ¡OFERTA REBAJA CARRO ELECTRÓNICO HYUNDAI IONIQ 5 2023 🚨",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/oferta-rebaja-carro-electronico-hyundai-ioniq-5-2023-57484126",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-16T17:00:33.387Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/158a748700872e787e962ebf209dd1d0d0229d5b6e93e3cae19f1f4435ac586f"
+        },
+        "viewCount": 7
+      }
+    },
+    {
+      "node": {
+        "id": "57483939",
+        "title": "Vendo Moskvich Aleko 2141",
+        "price": 4000,
+        "currency": "USD",
+        "permalink": "/item/vendo-moskvich-aleko-2141-57483939",
+        "imagesCount": 10,
+        "updatedOnToOrder": "2026-09-16T16:51:21.822Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "41",
+        "mainImage": {
+          "gcsKey": "pics/7b2dd7d18121c97a084c4a87db8bd616627eb23732d7141a4e652876df09d1f8"
+        },
+        "viewCount": 73
+      }
+    },
+    {
+      "node": {
+        "id": "57483878",
+        "title": "*Hyundai Elantra 2019 ❤️*  60,704 millas 🛣️",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/hyundai-elantra-2019-60704-millas-57483878",
+        "imagesCount": 6,
+        "updatedOnToOrder": "2026-09-16T16:48:54.272Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/190ef35a1492b09479cad633571e027da3e3685f2271f32f5a085e45a3c6ce36"
+        },
+        "viewCount": 11
+      }
+    },
+    {
+      "node": {
+        "id": "57483573",
+        "title": "Delta 3 clasica",
+        "price": 635,
+        "currency": "USD",
+        "permalink": "/item/delta-3-clasica-57483573",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T16:33:37.143Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/d67996445b01470098d5d8b65427f17f0d0d097d0da3147551ced8a3c5a4a459"
+        },
+        "viewCount": 9
+      }
+    },
+    {
+      "node": {
+        "id": "57482116",
+        "title": "Kit todo en uno infinity 6 con 15",
+        "price": 4120,
+        "currency": "USD",
+        "permalink": "/item/kit-todo-en-uno-infinity-6-con-15-57482116",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T15:37:28.723Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/cbdbeb0bd8c2ec5e95d23128a444ca33ee5e32f20d8c4762c41de2d2209f9add"
+        },
+        "viewCount": 7
+      }
+    },
+    {
+      "node": {
+        "id": "57482094",
+        "title": "Cherolet 53 contrailer legalizado (chapa los 2)",
+        "price": 3500,
+        "currency": "USD",
+        "permalink": "/item/cherolet-53-contrailer-legalizado-chapa-los-2-57482094",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-16T15:36:35.646Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "41",
+        "mainImage": {
+          "gcsKey": "pics/004cae28396591927af620bc80049af9b89c82804a9a85003abbe0c3c083204b"
+        },
+        "viewCount": 33
+      }
+    },
+    {
+      "node": {
+        "id": "57482075",
+        "title": "Se vende Skoda Fabia Ranchera",
+        "price": 10000,
+        "currency": "USD",
+        "permalink": "/item/se-vende-skoda-fabia-ranchera-57482075",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-22T03:16:36.591Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/480356ccbdfbdc4929270a9a3e6231f76685322edcb07450479fe0d0266958fd"
+        },
+        "viewCount": 53
+      }
+    },
+    {
+      "node": {
+        "id": "57481936",
+        "title": "COMPRO LADA 5000 USD NO QUIERO TARECOS NI INTERMEDIARIOS",
+        "price": 5000,
+        "currency": "USD",
+        "permalink": "/item/compro-lada-5000-usd-no-quiero-tarecos-ni-intermediarios-57481936",
+        "imagesCount": 0,
+        "updatedOnToOrder": "2026-09-16T15:30:25.528Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": null,
+        "viewCount": 18
+      }
+    },
+    {
+      "node": {
+        "id": "57481820",
+        "title": "Vendo Auto SEAT Ibiza con trailer 52496969",
+        "price": 8500,
+        "currency": "USD",
+        "permalink": "/item/vendo-auto-seat-ibiza-52496969-57481820",
+        "imagesCount": 6,
+        "updatedOnToOrder": "2026-09-23T01:35:18.762Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/a82ad57df32cb5d2ac768d8e0b5ff4956a607ef6066111735123d6db8c441824"
+        },
+        "viewCount": 201
+      }
+    },
+    {
+      "node": {
+        "id": "57481709",
+        "title": "Hyundai IONIQ 5 2024",
+        "price": 37.5,
+        "currency": "USD",
+        "permalink": "/item/hyundai-ioniq-5-2024-57481709",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-16T15:22:36.919Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "34",
+        "mainImage": {
+          "gcsKey": "pics/25bf1238bf7da653518571e9fcde94aebb0d095a2313d440b327dabeed665529"
+        },
+        "viewCount": 6
+      }
+    },
+    {
+      "node": {
+        "id": "57480578",
+        "title": "Nissan Rogue 2017 Híbrido",
+        "price": 21500,
+        "currency": "USD",
+        "permalink": "/item/nissan-rogue-2017-hibrido-57480578",
+        "imagesCount": 7,
+        "updatedOnToOrder": "2026-09-16T14:45:55.838Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "41",
+        "mainImage": {
+          "gcsKey": "pics/7d1fea4f3c5bc387105dffe5fd51167face49b85ed86e268a479f54481ac23b8"
+        },
+        "viewCount": 17
+      }
+    },
+    {
+      "node": {
+        "id": "57480412",
+        "title": "🇨🇺 MINI COOPERS CLUBMAN | DISPONIBLE EN CUBA 🚘 | LA HABANA",
+        "price": 19.5,
+        "currency": "USD",
+        "permalink": "/item/mini-coopers-clubman-disponible-en-cuba-la-habana-57480412",
+        "imagesCount": 10,
+        "updatedOnToOrder": "2026-09-16T14:39:52.697Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "34",
+        "mainImage": {
+          "gcsKey": "pics/c1f46472a7da732c5e6f4e7cf630d4d6b0318369f7bf77d3513042ea76bf66f7"
+        },
+        "viewCount": 24
+      }
+    },
+    {
+      "node": {
+        "id": "57480228",
+        "title": "BMW i3 | A LA VENTA EN CUBA 🇨🇺 | ENTREGA DIRECTA EN LA HABANA",
+        "price": 14.7,
+        "currency": "USD",
+        "permalink": "/item/bmw-i3-a-la-venta-en-cuba-entrega-directa-en-la-habana-57480228",
+        "imagesCount": 10,
+        "updatedOnToOrder": "2026-09-16T14:33:12.776Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "34",
+        "mainImage": {
+          "gcsKey": "pics/08b6eff15d3dbd5dd98e5915a5a13f3d6c6b8711dc3a9aa2142d2618ed309a2b"
+        },
+        "viewCount": 29
+      }
+    },
+    {
+      "node": {
+        "id": "57480001",
+        "title": "🇨🇺 ¡MINI COOPER DISPONIBLE EN CUBA! 🇨🇺",
+        "price": 18.5,
+        "currency": "USD",
+        "permalink": "/item/mini-cooper-disponible-en-cuba-57480001",
+        "imagesCount": 10,
+        "updatedOnToOrder": "2026-09-16T14:24:14.781Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "34",
+        "mainImage": {
+          "gcsKey": "pics/04c36b12a9e6dc39c1ad06889c963a646174808d4ee3879a5b13149a5e2e0eff"
+        },
+        "viewCount": 28
+      }
+    },
+    {
+      "node": {
+        "id": "57479878",
+        "title": "KIA SORENTO 2025",
+        "price": 50000,
+        "currency": "USD",
+        "permalink": "/item/kia-sorento-2025-57479878",
+        "imagesCount": 10,
+        "updatedOnToOrder": "2026-09-16T14:19:46.557Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/8d7314b9ff1c07c894149b9b413489dd2fbefa69dd0ba4e424655643c33f40d0"
+        },
+        "viewCount": 24
+      }
+    },
+    {
+      "node": {
+        "id": "57479461",
+        "title": "🚗 HYUNDAI ELANTRA 2019 – $19,500 USD 🛣️",
+        "price": 19500,
+        "currency": "USD",
+        "permalink": "/item/hyundai-elantra-2019-19500-usd-57479461",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-16T14:02:00.071Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/1a1225009c799d2b0e833c2dd4ca13b35d442e3c6fa5565aec78219261ed0a4a"
+        },
+        "viewCount": 7
+      }
+    },
+    {
+      "node": {
+        "id": "57479331",
+        "title": "LADA 1600. Único dueño.",
+        "price": 6000,
+        "currency": "CUP",
+        "permalink": "/item/lada-1600-unico-dueno-57479331",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-16T13:55:33.325Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "40",
+        "mainImage": {
+          "gcsKey": "pics/21b01db5bb40fc6558cbd532e89664719ea5f706216377e158326490fbc0ff76"
+        },
+        "viewCount": 88
+      }
+    },
+    {
+      "node": {
+        "id": "57478952",
+        "title": "moskvich aleko 2141",
+        "price": 2500,
+        "currency": "USD",
+        "permalink": "/item/moskvich-aleko-2141-57478952",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-16T13:40:27.818Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/9bd9d4d90e60f7f76efc15ea04b50708bc638f48ac51bb96bd593fc751961893"
+        },
+        "viewCount": 127
+      }
+    },
+    {
+      "node": {
+        "id": "57478618",
+        "title": "Hyundai IONIQ 2024",
+        "price": 39000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-ioniq-2024-57478618",
+        "imagesCount": 6,
+        "updatedOnToOrder": "2026-09-17T17:08:17.607Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/0f45f9ee1c0983c9f65c0150dd45d6ea9cceea2588d3a3d49bcbe5898164a73e"
+        },
+        "viewCount": 8
+      }
+    },
+    {
+      "node": {
+        "id": "57478446",
+        "title": "Hermoso Hyundai Tucson 2020",
+        "price": 24000,
+        "currency": "USD",
+        "permalink": "/item/hermoso-hyundai-tucson-2020-57478446",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-17T17:08:47.022Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/0abaf05e0bcc8db4dcaa6a137863fe76f6af82656354f6d52190d07f19c99ea4"
+        },
+        "viewCount": 8
+      }
+    }
+  ],
+  "meta": {
+    "total": 3517
+  }
+}

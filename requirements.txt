@@ -1,0 +1,21 @@
+# Dependencias del proyecto Mercado Automotriz de La Habana
+# Instalar con: pip install -r requirements.txt
+
+# Manipulación de datos
+pandas
+numpy
+
+# Visualización
+matplotlib
+seaborn
+
+# Modelado
+scikit-learn
+
+# Scraping (Fase 2)
+requests
+beautifulsoup4
+
+# Directorio de trabajo con notebooks
+notebook
+ipykernel

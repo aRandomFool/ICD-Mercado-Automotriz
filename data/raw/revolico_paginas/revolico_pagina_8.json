@@ -1,0 +1,912 @@
+{
+  "pageInfo": {
+    "startCursor": null,
+    "endCursor": null,
+    "hasNextPage": true,
+    "hasPreviousPage": true,
+    "pageCount": 71
+  },
+  "edges": [
+    {
+      "node": {
+        "id": "57537665",
+        "title": "🚘🔥 MERCEDES-BENZ GLC 2025 🔥🚘",
+        "price": 60000,
+        "currency": "USD",
+        "permalink": "/item/mercedes-benz-glc-2025-57537665",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-23T06:07:02.299Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "41",
+        "mainImage": {
+          "gcsKey": "pics/0039cce49a43053dbe94caf9c01897b1629d2ad55d08355d1efbfc755f81fff7"
+        },
+        "viewCount": 12
+      }
+    },
+    {
+      "node": {
+        "id": "57537407",
+        "title": "Venta de autos",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/venta-de-autos-57537407",
+        "imagesCount": 6,
+        "updatedOnToOrder": "2026-09-24T13:00:33.578Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/f6deed87f4411f0da13882e5c25f816fbb9ca50a94b8839a43a2afcdb59103b8"
+        },
+        "viewCount": 70
+      }
+    },
+    {
+      "node": {
+        "id": "57537103",
+        "title": "⭕ 🇰🇷 HYUNDAI SONATA SOPORT 2018",
+        "price": 20000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-sonata-soport-2018-57537103",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-19T03:30:35.459Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/096dfc65518287c7ef6e2ae59f657955384df0b2475d9fe5ae6d618c0a9c527d"
+        },
+        "viewCount": 16
+      }
+    },
+    {
+      "node": {
+        "id": "57536572",
+        "title": "Toyota 2024",
+        "price": 38000,
+        "currency": "USD",
+        "permalink": "/item/toyota-2024-57536572",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-19T02:24:49.299Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/59ca5002ea9a51fe43e28667eb6ec4452cf2c5e8c27a98f6a576c12cf7d3ae36"
+        },
+        "viewCount": 9
+      }
+    },
+    {
+      "node": {
+        "id": "57536526",
+        "title": "Hyundai IONIQ",
+        "price": 38000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-ioniq-57536526",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-19T02:19:13.301Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/df29bea5f5c239affade99ac47ee8b8e848e0322066e0777d5ceb0a66d9dbec7"
+        },
+        "viewCount": 8
+      }
+    },
+    {
+      "node": {
+        "id": "57536489",
+        "title": "HYUNDAI ELANTRA (AÑO 2019) — SEDÁN EJECUTIVO",
+        "price": 20000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-elantra-ano-2019-sedan-ejecutivo-57536489",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-21T17:40:05.382Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "43",
+        "mainImage": {
+          "gcsKey": "pics/8ab1ff2abb61b3efa95ea4598af59b5abb2938c0ff3b8ead396e30f4a44faf2b"
+        },
+        "viewCount": 13
+      }
+    },
+    {
+      "node": {
+        "id": "57536436",
+        "title": "*Hyundai Elantra 2019*",
+        "price": 19500,
+        "currency": "USD",
+        "permalink": "/item/hyundai-elantra-2019-57536436",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-19T02:07:53.041Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "37",
+        "mainImage": {
+          "gcsKey": "pics/b6e09eab962b43d4c27ff89da79c42ce49724fab096601779b7e9340e08a3b46"
+        },
+        "viewCount": 14
+      }
+    },
+    {
+      "node": {
+        "id": "57536287",
+        "title": "Geely ck 1.5  Mot llan",
+        "price": 11000,
+        "currency": "USD",
+        "permalink": "/item/geely-ck-15-mot-llan-57536287",
+        "imagesCount": 7,
+        "updatedOnToOrder": "2026-09-19T01:49:31.522Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/0fc612ba9b6c2573d4b588278cd0f669661fb93c58010245158828f3601f9e99"
+        },
+        "viewCount": 27
+      }
+    },
+    {
+      "node": {
+        "id": "57536108",
+        "title": "CAMIÓN",
+        "price": 12500,
+        "currency": "USD",
+        "permalink": "/item/camion-57536108",
+        "imagesCount": 0,
+        "updatedOnToOrder": "2026-09-19T01:33:01.952Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "34",
+        "mainImage": null,
+        "viewCount": 24
+      }
+    },
+    {
+      "node": {
+        "id": "57535710",
+        "title": "CARGADOR DE MOVILES PARA SU AUTO",
+        "price": 8,
+        "currency": "USD",
+        "permalink": "/item/cargador-de-moviles-para-su-auto-57535710",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-24T20:52:13.189Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/e86a981fd603b626b2bc36569e578429a2f60552031a028b8c52ade87a054a37"
+        },
+        "viewCount": 7
+      }
+    },
+    {
+      "node": {
+        "id": "57532931",
+        "title": "Hunday Sanra Fe",
+        "price": 32000,
+        "currency": "USD",
+        "permalink": "/item/hunday-sanra-fe-57532931",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T19:05:45.706Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/5d663b0351b2ca2fe39709defb72440c4aae440f17be431a72f7a8c3084169fe"
+        },
+        "viewCount": 15
+      }
+    },
+    {
+      "node": {
+        "id": "57531944",
+        "title": "Hyundai Elantra 2023",
+        "price": 23000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-elantra-2023-57531944",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-18T17:48:07.926Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/b4a4f5b284c07fa8718be5acd25c005c94075eff7a5b357e18f85b506c7b083d"
+        },
+        "viewCount": 36
+      }
+    },
+    {
+      "node": {
+        "id": "57530711",
+        "title": "carro buik de 1952",
+        "price": 3000,
+        "currency": "USD",
+        "permalink": "/item/carro-buik-de-1952-57530711",
+        "imagesCount": 8,
+        "updatedOnToOrder": "2026-09-18T16:49:29.955Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/c634e57fd629aaa544b64b89f429c1af2f312ed469707f8e9873db263ddba77b"
+        },
+        "viewCount": 80
+      }
+    },
+    {
+      "node": {
+        "id": "57530334",
+        "title": "Baterías de Auto Nuevas",
+        "price": 1,
+        "currency": "USD",
+        "permalink": "/item/baterias-de-auto-nuevas-57530334",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T16:35:29.889Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "37",
+        "mainImage": {
+          "gcsKey": "pics/40bf341b64ce8fa009060cc491d3b4a324aff2ec2f1e26b3d351381b0c7f3677"
+        },
+        "viewCount": 4
+      }
+    },
+    {
+      "node": {
+        "id": "57529508",
+        "title": "Dongfeng Vigo (471 km)",
+        "price": 40000,
+        "currency": "USD",
+        "permalink": "/item/dongfeng-vigo-471-km-57529508",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-18T16:03:47.946Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "35",
+        "mainImage": {
+          "gcsKey": "pics/cedc140e850f433041b72502507b69a66717d4657118f1ccc66961b57bedf320"
+        },
+        "viewCount": 17
+      }
+    },
+    {
+      "node": {
+        "id": "57528724",
+        "title": "Hyundai elantra",
+        "price": 20000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-elantra-57528724",
+        "imagesCount": 7,
+        "updatedOnToOrder": "2026-09-21T14:02:43.880Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/b6e09eab962b43d4c27ff89da79c42ce49724fab096601779b7e9340e08a3b46"
+        },
+        "viewCount": 22
+      }
+    },
+    {
+      "node": {
+        "id": "57528150",
+        "title": "Inflador de Neumáticos Portátil Inalámbrico de 150 PSI, 80000mah.",
+        "price": 32,
+        "currency": "USD",
+        "permalink": "/item/inflador-de-neumaticos-portatil-inalambrico-de-150-psi-80000mah-57528150",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T15:14:33.315Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/213aae8577e37343c58192079c961e024d725201f4e41a50e91519e69e313e21"
+        },
+        "viewCount": 6
+      }
+    },
+    {
+      "node": {
+        "id": "57528046",
+        "title": "Carros",
+        "price": 16000,
+        "currency": "USD",
+        "permalink": "/item/carros-57528046",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-18T15:10:49.623Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/57c062aaf9d06fea655a5ff8a4aee77be5ed0e5b47475e7bb3c2be021371a459"
+        },
+        "viewCount": 49
+      }
+    },
+    {
+      "node": {
+        "id": "57527092",
+        "title": "Se vende Carro Moderno Mitsubishi autlander del 2019 cuatro cilindros de 7 plazas con 140 millas. Color rojo vino",
+        "price": 26000,
+        "currency": "USD",
+        "permalink": "/item/se-vende-carro-moderno-mitsubishi-autlander-del-2019-cuatro-cilindros-de-7-plazas-con-140-millas-color-rojo-vino-57527092",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T14:40:19.211Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/093525f81091619ed354231397d5268fd826717fef02862d170bd071ea911aa5"
+        },
+        "viewCount": 25
+      }
+    },
+    {
+      "node": {
+        "id": "57526558",
+        "title": "NEUMÁTICOS RING 13 EN OFERTA",
+        "price": 25,
+        "currency": "USD",
+        "permalink": "/item/neumaticos-ring-13-en-oferta-57526558",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-23T13:52:19.500Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/98def827de8d658eb7ca84d2fe099723f70375d711ed1cc51756ec4b36dae1b4"
+        },
+        "viewCount": 7
+      }
+    },
+    {
+      "node": {
+        "id": "57526509",
+        "title": "JUEGO DE INYECTORES DE KIA PICANTO",
+        "price": 80,
+        "currency": "USD",
+        "permalink": "/item/juego-de-inyectores-de-kia-picanto-57526509",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-23T13:52:19.292Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/e15aaed88f4b325f047e5bd0a376e6ffbbb68ff31f28bff4ae8c921adc2a6a62"
+        },
+        "viewCount": 7
+      }
+    },
+    {
+      "node": {
+        "id": "57526415",
+        "title": "Toyota 2024",
+        "price": 40000,
+        "currency": "USD",
+        "permalink": "/item/toyota-2024-57526415",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T14:22:33.767Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "48",
+        "mainImage": {
+          "gcsKey": "pics/6373ffc5f6392c3ef20316d69b1ea589ec382d37d3e7db9460db2fe4fe2a8e47"
+        },
+        "viewCount": 18
+      }
+    },
+    {
+      "node": {
+        "id": "57526378",
+        "title": "Nissan 2024",
+        "price": 32000,
+        "currency": "USD",
+        "permalink": "/item/nissan-2024-57526378",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T14:21:26.583Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "48",
+        "mainImage": {
+          "gcsKey": "pics/9c74f480d606fc827f980fc6f545e6bbb9a1fa80588f8d8b117af9a36ff5d612"
+        },
+        "viewCount": 5
+      }
+    },
+    {
+      "node": {
+        "id": "57526279",
+        "title": "CLIP DE RETENCIÓN PARA AUTOS 190PIEZAS",
+        "price": 20,
+        "currency": "USD",
+        "permalink": "/item/clip-de-retencion-para-autos-190piezas-57526279",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-23T13:52:18.703Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/6c5b962d103a75c936495c970cf9c396153ae30e96cdb80cec97cc38876a4207"
+        },
+        "viewCount": 11
+      }
+    },
+    {
+      "node": {
+        "id": "57525683",
+        "title": "lada 2107 de fabrica",
+        "price": 6000,
+        "currency": "USD",
+        "permalink": "/item/lada-2107-de-fabrica-57525683",
+        "imagesCount": 5,
+        "updatedOnToOrder": "2026-09-18T13:59:22.861Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/4e4bbc2e1d713dc6f508b6cc8f88baf4c033aaa5b9dc0390cd708c10d39fd9b1"
+        },
+        "viewCount": 99
+      }
+    },
+    {
+      "node": {
+        "id": "57525241",
+        "title": "Ford Inglés del 52 con mecánica de Lada.",
+        "price": 3000,
+        "currency": "USD",
+        "permalink": "/item/ford-ingles-del-52-con-mecanica-de-lada-57525241",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-24T21:14:38.430Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "43",
+        "mainImage": {
+          "gcsKey": "pics/b25953cb3728da724409ac87ba2656fca2d320e624e0e5e13864ff1147ad8c25"
+        },
+        "viewCount": 102
+      }
+    },
+    {
+      "node": {
+        "id": "57524759",
+        "title": "Se Vende Kia Picanto 2025 GTline",
+        "price": 25000,
+        "currency": "USD",
+        "permalink": "/item/se-vende-kia-picanto-2025-gtline-57524759",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-18T13:30:06.072Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/21e5d34a4db89a4d831e9c1efa8788effb3cf5a8c1d19c1880e9b22c8af28f6c"
+        },
+        "viewCount": 12
+      }
+    },
+    {
+      "node": {
+        "id": "57524698",
+        "title": "Nissan Rogué Hybrida 2017",
+        "price": 21650,
+        "currency": "USD",
+        "permalink": "/item/nissan-rogue-hybrida-2017-57524698",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-20T15:09:45.634Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "41",
+        "mainImage": {
+          "gcsKey": "pics/8ced5239ee70e43c0acaf247dd6471094e8bdd3562fe7da2a7a36e77cc74a0ca"
+        },
+        "viewCount": 13
+      }
+    },
+    {
+      "node": {
+        "id": "57524593",
+        "title": "Hyundai",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/hyundai-57524593",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T13:25:05.951Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/66cad668a8165d5bec07307af80182fd07e7cc5771ced100c0cb611b7f0e3f38"
+        },
+        "viewCount": 11
+      }
+    },
+    {
+      "node": {
+        "id": "57524467",
+        "title": "cadillac",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/cadillac-57524467",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T13:21:26.457Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/a43e1226438bb1516556d46e71ba02f2301bf75872a6ca8b84b6b5d982e966bb"
+        },
+        "viewCount": 19
+      }
+    },
+    {
+      "node": {
+        "id": "57524387",
+        "title": "Vw tharu",
+        "price": null,
+        "currency": null,
+        "permalink": "/item/vw-tharu-57524387",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-18T13:18:32.964Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/856fba2b045f5134a36af57fb44b1105736db3c49b880a0fc3a8fe56b5737846"
+        },
+        "viewCount": 16
+      }
+    },
+    {
+      "node": {
+        "id": "57523459",
+        "title": "Vendo lada 1600",
+        "price": 7500,
+        "currency": "USD",
+        "permalink": "/item/vendo-lada-1600-57523459",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-24T14:45:55.738Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "37",
+        "mainImage": {
+          "gcsKey": "pics/149f442dc828b967475ad31ca622d3c1833e3df1fb9d93d20e5b9616990a5eb6"
+        },
+        "viewCount": 79
+      }
+    },
+    {
+      "node": {
+        "id": "57523122",
+        "title": "🚘⚡ ¡4 VOLKSWAGEN ID.4 100% ELÉCTRICOS EN VENTA! ⚡🚘",
+        "price": 32000,
+        "currency": "USD",
+        "permalink": "/item/4-volkswagen-id4-100-electricos-en-venta-57523122",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-18T12:31:00.971Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "44",
+        "mainImage": {
+          "gcsKey": "pics/c01d1b793116362eb8e48d0fce82473245d25c6a9a81bd2bf754367a8a3cd7c0"
+        },
+        "viewCount": 9
+      }
+    },
+    {
+      "node": {
+        "id": "57521005",
+        "title": "Toyota 2024 y Nissan 2024",
+        "price": 2,
+        "currency": "USD",
+        "permalink": "/item/toyota-2024-y-nissan-2024-57521005",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-18T09:55:10.720Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "44",
+        "mainImage": {
+          "gcsKey": "pics/bb15b86309004316ef117dc62e1781fda466c0c195956bcce01b94c72cb911e2"
+        },
+        "viewCount": 12
+      }
+    },
+    {
+      "node": {
+        "id": "57519532",
+        "title": "Hyundai Santa Fe",
+        "price": 24000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-santa-fe-57519532",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-21T02:56:44.054Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "48",
+        "mainImage": {
+          "gcsKey": "pics/b84f831e2b33e5f56f001733fbb1515e1a2ac8a1344898915598af422a98dd4c"
+        },
+        "viewCount": 38
+      }
+    },
+    {
+      "node": {
+        "id": "57518973",
+        "title": "VENDO BESTUNE JOY 03 2026🤑🤑54O06023",
+        "price": 34000,
+        "currency": "USD",
+        "permalink": "/item/vendo-bestune-joy-03-202654o06023-57518973",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-23T04:17:43.631Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/57e8cc5e88e94ad7dfa7be7f86b5cd2f944e48c1c0c4aba07022c167e554882f"
+        },
+        "viewCount": 28
+      }
+    },
+    {
+      "node": {
+        "id": "57518057",
+        "title": "Hyundai i10 en venta en La Habana – 14,000 USD",
+        "price": 14000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-i10-en-venta-en-la-habana-14000-usd-57518057",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T02:51:17.230Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/0144e48814e8d52a0e02d11caf646e8a33ba9f29b3a58c1b7c52d8baa5d61d6f"
+        },
+        "viewCount": 47
+      }
+    },
+    {
+      "node": {
+        "id": "57517974",
+        "title": "🚘✨ NISSAN 2024 ✨🚘  🔥 ¡NUEVO, 0 KILÓMETROS! 🔥",
+        "price": 32000,
+        "currency": "USD",
+        "permalink": "/item/nissan-2024-nuevo-0-kilometros-57517974",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-18T02:46:56.018Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "42",
+        "mainImage": {
+          "gcsKey": "pics/5f8b9bf2e9da2717d294b70c67ad319a3c3dfa8cbdb4a91ae3b97590fc3d982e"
+        },
+        "viewCount": 8
+      }
+    },
+    {
+      "node": {
+        "id": "57517940",
+        "title": "Vendo kia picanto nuevo  como lo ven en las fotos mas detalles al pv",
+        "price": 24000,
+        "currency": "USD",
+        "permalink": "/item/vendo-kia-picanto-nuevo-como-lo-ven-en-las-fotos-mas-detalles-al-pv-57517940",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-18T02:45:31.674Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "46",
+        "mainImage": {
+          "gcsKey": "pics/ceb10c655ec9fb9d3b7d6501be1092cac1e94baedcfb22a9973801354baa872b"
+        },
+        "viewCount": 25
+      }
+    },
+    {
+      "node": {
+        "id": "57517712",
+        "title": "🚨⭐️ PRODUCTO ESTRELLA ⭐️🚨  🚘✨ TOYOTA 2024 ✨🚘",
+        "price": 40000,
+        "currency": "USD",
+        "permalink": "/item/producto-estrella-toyota-2024-57517712",
+        "imagesCount": 2,
+        "updatedOnToOrder": "2026-09-18T02:33:42.608Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "42",
+        "mainImage": {
+          "gcsKey": "pics/dc198e355466db093be0460fe61031a8afa99960f2d294ca0eab333d905c9417"
+        },
+        "viewCount": 8
+      }
+    },
+    {
+      "node": {
+        "id": "57517402",
+        "title": "Nissan 2024",
+        "price": 30000,
+        "currency": "USD",
+        "permalink": "/item/nissan-2024-57517402",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T02:14:35.861Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/9c74f480d606fc827f980fc6f545e6bbb9a1fa80588f8d8b117af9a36ff5d612"
+        },
+        "viewCount": 7
+      }
+    },
+    {
+      "node": {
+        "id": "57517283",
+        "title": "Toyota listo para traspaso",
+        "price": 38000,
+        "currency": "USD",
+        "permalink": "/item/toyota-listo-para-traspaso-57517283",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T02:08:10.349Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/6373ffc5f6392c3ef20316d69b1ea589ec382d37d3e7db9460db2fe4fe2a8e47"
+        },
+        "viewCount": 11
+      }
+    },
+    {
+      "node": {
+        "id": "57516507",
+        "title": "Carro en venta VV DEL 2020‼️",
+        "price": 16000,
+        "currency": "USD",
+        "permalink": "/item/carro-en-venta-vv-del-2020-57516507",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-18T01:16:07.456Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/3bcd588c2b805d1c8fbc2651fc40a598623d4fab1b4eabb9c9476f4d481b7aca"
+        },
+        "viewCount": 23
+      }
+    },
+    {
+      "node": {
+        "id": "57515972",
+        "title": "*Hyundai Elantra 2019 *Carro Ahorrador de Gasolina ⛽️",
+        "price": 19500,
+        "currency": "USD",
+        "permalink": "/item/hyundai-elantra-2019-carro-ahorrador-de-gasolina-57515972",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-18T00:51:24.137Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "42",
+        "mainImage": {
+          "gcsKey": "pics/411015d65269d5ec99e9cdc2d64e8bc00552b3af5cad765b1ab72f0430fdb4d9"
+        },
+        "viewCount": 10
+      }
+    },
+    {
+      "node": {
+        "id": "57513028",
+        "title": "`Carro en venta VV DEL 2020`",
+        "price": 16000,
+        "currency": "USD",
+        "permalink": "/item/carro-en-venta-vv-del-2020-57513028",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-24T22:30:16.503Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "36",
+        "mainImage": {
+          "gcsKey": "pics/b83dbecf6c076badc621b0b5f319a53d3a65521d58c769f62f88c3b49a781749"
+        },
+        "viewCount": 39
+      }
+    },
+    {
+      "node": {
+        "id": "57512673",
+        "title": "Carro en venta VV DEL 2020",
+        "price": 16000,
+        "currency": "USD",
+        "permalink": "/item/carro-en-venta-vv-del-2020-57512673",
+        "imagesCount": 3,
+        "updatedOnToOrder": "2026-09-24T15:49:14.314Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "42",
+        "mainImage": {
+          "gcsKey": "pics/c599fa0de50a40f7ad1c4977c2f08ec3cdcb286d0101a7a370197cd564d3df25"
+        },
+        "viewCount": 44
+      }
+    },
+    {
+      "node": {
+        "id": "57511968",
+        "title": "Hyundai acent",
+        "price": 18000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-acent-57511968",
+        "imagesCount": 4,
+        "updatedOnToOrder": "2026-09-23T17:59:57.871Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "47",
+        "mainImage": {
+          "gcsKey": "pics/f736510c00cb9175bcf6669900e531b677ed159e11ac4b68b9af2e8fe21f0658"
+        },
+        "viewCount": 72
+      }
+    },
+    {
+      "node": {
+        "id": "57511755",
+        "title": "HYUNDAI SONATA SPORT 2018",
+        "price": 13579,
+        "currency": "USD",
+        "permalink": "/item/hyundai-sonata-sport-2018-57511755",
+        "imagesCount": 1,
+        "updatedOnToOrder": "2026-09-17T20:37:57.399Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "45",
+        "mainImage": {
+          "gcsKey": "pics/0364154db54f62ed0b09fcd00f3628d82202f17e969ccffac22beb7b965a364a"
+        },
+        "viewCount": 65
+      }
+    },
+    {
+      "node": {
+        "id": "57511370",
+        "title": "⭕ COLECCIÓN LAND ROVER RANGE ROVER SPORT 2017 – EDICIÓN EXCLUSIVA",
+        "price": 70000,
+        "currency": "USD",
+        "permalink": "/item/coleccion-land-rover-range-rover-sport-2017-edicion-exclusiva-57511370",
+        "imagesCount": 10,
+        "updatedOnToOrder": "2026-09-17T20:19:53.879Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/9c1ba7cf59643ae563ccfb7f31b3549c4432e68b9779fba4c62d075e51e5fb3c"
+        },
+        "viewCount": 15
+      }
+    },
+    {
+      "node": {
+        "id": "57511310",
+        "title": "🇰🇷 HYUNDAI SANTA FE 2017 – VERSIÓN AMERICANA",
+        "price": 23000,
+        "currency": "USD",
+        "permalink": "/item/hyundai-santa-fe-2017-version-americana-57511310",
+        "imagesCount": 7,
+        "updatedOnToOrder": "2026-09-17T20:17:27.176Z",
+        "isPromoted": false,
+        "provinceId": "1",
+        "municipalityId": "39",
+        "mainImage": {
+          "gcsKey": "pics/23cdb580d37fa3ab33ef137d33cef927f41c56bca18bfec2094e6904dc949a04"
+        },
+        "viewCount": 7
+      }
+    }
+  ],
+  "meta": {
+    "total": 3517
+  }
+}

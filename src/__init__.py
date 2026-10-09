@@ -1,0 +1,1 @@
+# Paquete src — módulos reutilizables del proyecto

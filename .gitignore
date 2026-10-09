@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+
+# Código compilado
+__pycache__/
+*.pyc
+
+# Notebooks de Jupyter
+.ipynb_checkpoints/
+
+# Datos crudos (no subir a repos públicos — son del mercado real)
+data/raw/*.json
+
+# IDE
+.vscode/
+.idea/
