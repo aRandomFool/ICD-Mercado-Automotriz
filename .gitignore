@@ -1,16 +1,54 @@
-# Entorno virtual
+# Entornos
 .venv/
+env/
+venv/
 
-# Código compilado
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+.pytest_cache/
 
-# Notebooks de Jupyter
+# Jupyter
 .ipynb_checkpoints/
 
-# Datos crudos (no subir a repos públicos — son del mercado real)
-data/raw/*.json
+# Datos crudos sensibles / resultados temporales
+*.log
+
+# Notebooks ejecutados (si se exportan)
+*.html
+*.pdf
+
+# Opencode (se registra en bitácora, pero no es necesario versionar archivos volátiles; la bitácora handoffs/journals se versiona si se desea)
+# opencode/ es carpeta de bitácora interna del flujo
+
+# OS
+.DS_Store
+Thumbs.db
 
 # IDE
 .vscode/
 .idea/
+
+# Otros
+*.swp
+
+# Ignorar archivos temporales
+*.tmp
+*.bak
+
+# Respaldos
+*.zip
+
+# No subir .env
+.env
+
+# Mantener estructura de raw con .gitkeep si aplica
+!data/raw/.gitkeep
+
+# Excluir archivos temporales de exploración si muy pesados (mantener src/exploracion para trazabilidad)
+# src/exploracion/*.json puede ser grande, pero se conserva por trazabilidad
+!src/exploracion/
+!src/exploracion/*.py
+!src/exploracion/*.md
+!src/exploracion/*.json

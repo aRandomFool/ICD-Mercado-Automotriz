@@ -7,8 +7,8 @@ Uso:
     py src/scraper_revolico.py
 
 Genera:
-    data/raw/anuncios.csv              -> anuncios con las columnas del esquema
-    data/raw/revolico_paginas/*.json   -> respaldo crudo de cada página
+    data/raw/clasificados/revolico/anuncios.csv              -> anuncios con las columnas del esquema
+    data/raw/clasificados/revolico/revolico_paginas/*.json   -> respaldo crudo de cada página
 
 Buenas prácticas: pausa entre páginas, pocas páginas, uso académico.
 No se guardan teléfonos ni datos de contacto de los vendedores.

@@ -11,6 +11,11 @@
 > parche local; ver `opencode/journals/004_2026-10-11_handoff_idle_schema.md`. Se
 > creó la sesión **"Reorganizando el proyecto"**
 > (`ses_ed62e5417ffeZWZhgQzACb4s5L`) — `opencode/handoffs/003_2026-10-11_reorganizando_el_proyecto.md`.
+> **Plan de reorganización aprobado (2026-10-11):** reorganizar a **7 etapas**
+> manteniendo las carpetas actuales + subcarpetas (nueva `comunicacion/`), criterio
+> clásico `< 2000`, Q1 como proxy de anuncios, y sustituir los notebooks por el
+> análisis de las **9 preguntas**. Detalle y plan de ejecución:
+> `opencode/handoffs/004_2026-10-11_reorganizacion_7_etapas.md`.
 > Sesión original: `ses_f3d85f00dffeZ9bcjZ8p89aUh5` (renombrada: *Mercado automotriz La Habana — scraper listo, falta EDA*).
 > **Fase 4 (EDA) completada** en la sesión `ses_f3a69397dffeGusRm7zPXMha76`.
 > **Fase 5 (modelo de precios) completada** en la sesión `ses_f3a69397dffeGusRm7zPXMha76`.

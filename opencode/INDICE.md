@@ -10,6 +10,7 @@ regla permanente: ver `README.md`.
 | 001 | 2026-10-11 | `001_2026-10-11_estado_proyecto.md` | Estado completo del proyecto (Fases 0–6 ✅, pendientes, nota venv) |
 | 002 | 2026-10-11 | `002_2026-10-11_fix_handoff_sesion.md` | Traspaso a sesión nueva (`ses_ed63e010…`) tras corregir el handoff |
 | 003 | 2026-10-11 | `003_2026-10-11_reorganizando_el_proyecto.md` | Traspaso a la sesión "Reorganizando el proyecto" (`ses_ed62e541…`) |
+| 004 | 2026-10-11 | `004_2026-10-11_reorganizacion_7_etapas.md` | **Ejecutar** la reorganización a 7 etapas + análisis de las 9 preguntas |
 
 ## Journals (`journals/`)
 
