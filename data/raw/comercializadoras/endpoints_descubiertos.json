@@ -1,12 +1,27 @@
 {
-  "fecha": "2026-10-11T04:56:00.019282",
+  "fecha": "2026-10-11T00:00:00",
+  "reverificacion": "2026-10-11",
   "hallazgos_js_inversa": {
     "tienda.mcvcommercial.com": {
       "plataforma": "pymesbulevar (Guajiritos SRL)",
       "apiUrl": "https://api.pymesbulevar.com/v1/",
       "imageUrl": "https://cdntienda.pymesbulevar.com/",
       "admin": "https://admintienda.mcvcommercial.com/",
-      "nota": "app Angular; rutas de catalogo en lazy-chunks. Sin precios en HTML estatico."
+      "bundle": "main.abb3dc2ee8e1cb20.js",
+      "tokenBusiness": "JWT embebido en el bundle; header de negocio = xxx-ff-id",
+      "BusinessId": 223,
+      "negocio": "Tienda MCV (tiendamcv@mcvcomercial.cu)",
+      "headers_requeridos": ["xxx-ff-id: <tokenBusiness>", "language: es", "version: <app>"],
+      "endpoints_catalogo": [
+        "GET /product?filter[$and][BusinessId]=223&limit=100&offset=0",
+        "GET /product/:id",
+        "GET /category-front",
+        "GET /category-tree",
+        "GET /brand?limit=100&offset=0",
+        "GET /section/front",
+        "GET /config"
+      ],
+      "nota": "paginacion por limit+offset (page repite la 1a pagina); 426 productos con precio USD. Catalogo = partes/piezas/neumaticos/herramientas/lubricantes, NO vehiculos completos. Extractor: src/extraer_catalogo_mcv.py"
     },
     "bdcone.online": {
       "plataforma": "WordPress",
@@ -20,11 +35,35 @@
       "nota": "precios de referencia EUR por modelo."
     }
   },
+  "dns_cubano_autoritativo": {
+    "resolver": "ns.ceniai.net.cu (NS del TLD .cu)",
+    "hallazgos": {
+      "www.unevol.cu": "200.55.182.106",
+      "www.tradex.cu": "200.55.140.227"
+    },
+    "nota": "Estos dominios NO resuelven en DNS publico; si en los NS autoritativos de CENIAI. Aun asi, la conexion HTTP desde esta red hace timeout."
+  },
+  "mirror_wayback": {
+    "nota": "Snapshot mas relevante por entidad (via web.archive.org). Evidencia de sitio corporativo sin catalogo de precios.",
+    "impexport.cu": "20231009130751 (Odoo; servicios de import/export, sin catalogo de autos)",
+    "unevol.cu": "20230529062426 (WooCommerce Volvo Penta; repuestos, sin autos)",
+    "tradex.cu": "20220627012039 (Drupal; mercancia in-bond/nacionalizada: piezas, marcas VOLVO/S-N; sin precios)",
+    "palco.cu": "20260809074415 (Angular SPA; subdominio automax.palco.cu = Odoo, /web 403)",
+    "maquimport.cu": "20250729014724 (corporativo + PDFs; sin catalogo)",
+    "axess.cu": "2021 (Drupal; categorias: neumaticos, baterias, autopartes; sin precios)",
+    "construimport.cu": "2023 (Drupal; baterias y rodamientos, partes; sin precios)",
+    "transimport.co.cu": "2013-2015 (HTML estatico; comercializadora, marcas; sin precios)",
+    "impocaribe.cu": "solo homepage",
+    "multiservi.cu": "sin snapshots",
+    "dta.cimex.com.cu": "sin snapshots",
+    "trdcaribe.co.cu": "sin snapshots",
+    "loginter.cu": "sin snapshots",
+    "eisa.co.cu": "sin snapshots"
+  },
   "no_accesibles_desde_esta_red": [
     "IMPEXPORT",
     "MULTISERVI",
     "CIMEX DTA",
-    "DUNA",
     "UNEVOL",
     "Tiendas Caribe (TRD)",
     "TRANSIMPORT",
@@ -35,10 +74,14 @@
     "CONSTRUIMPORT",
     "AXESS",
     "ImpoCARIBE",
-    "EISA",
-    "SOLIMPORT",
-    "DIVSE",
-    "IMPLUS"
+    "EISA"
   ],
-  "nota": "varios .cu no resuelven en DNS publico o no responden desde esta red; no implica cierre. Requiere red/circuito cubano para verificar."
+  "accesibles_y_verificados": [
+    "MCV Comercial (tienda, catalogo extraido)",
+    "SASA",
+    "DIVEP",
+    "BDC ONE",
+    "DONGFENG CUBA"
+  ],
+  "nota": "Re-verificacion 2026-10-11: se probo HTTPS+HTTP y conexion directa al IP con Host header (todas hacen timeout desde esta red). Los .cu solo serian verificables desde red/circuito cubano; la no respuesta no implica cierre."
 }

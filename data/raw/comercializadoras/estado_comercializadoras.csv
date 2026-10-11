@@ -1,24 +1,24 @@
 ﻿entidad,web,tipo,http_status,activo,dns,tiene_catalogo,tiene_precios,url_catalogo,tecnica,fecha,notas
-IMPEXPORT,impexport.cu,importacion/comercializacion,n/d,no,181.225.250.233,no,no,,,2026-10-11,DNS resuelve pero conexion HTTP no completa (firewall/caida)
-MCV Comercial,www.mcvcommercial.com,venta/renta/leasing,200,si,"104.21.14.86,172.67.158.133",parcial,no,https://tienda.mcvcommercial.com/,html+js,2026-10-11,tienda Angular/pymesbulevar (apiUrl descubierta); sin precio en HTML estatico
-MULTISERVI,multiservi.cu,importacion,n/d,no,181.225.238.161,no,no,,,2026-10-11,DNS resuelve pero conexion HTTP no completa (firewall/caida)
-CIMEX DTA,dta.cimex.com.cu,division transporte automotor,n/d,no,NXDOMAIN,no,no,,,2026-10-11,dominio no resuelve en DNS publico (no accesible desde esta red)
+IMPEXPORT,impexport.cu,importacion/comercializacion,timeout,no,181.225.250.233,no,no,,,2026-10-11,"re-verif 2026-10-11: DNS resuelve; HTTPS/HTTP y conexion directa al IP hacen timeout (firewall). Archivo: Odoo de servicios, sin catalogo de autos."
+MCV Comercial,www.mcvcommercial.com,venta/renta/leasing,200,si,"104.21.14.86,172.67.158.133",si,si,https://tienda.mcvcommercial.com/,api pymesbulevar,2026-10-11,"catalogo EXTRAIDO: 426 productos con precio USD (repuestos/neumaticos/herramientas/lubricantes/baterias), NO vehiculos. API api.pymesbulevar.com/v1 BusinessId=223; header xxx-ff-id. Script src/extraer_catalogo_mcv.py"
+MULTISERVI,multiservi.cu,importacion,timeout,no,181.225.238.161,no,no,,,2026-10-11,"re-verif: DNS resuelve; firewall (HTTPS/HTTP/IP directa timeout). Sin snapshots en Wayback."
+CIMEX DTA,dta.cimex.com.cu,division transporte automotor,NXDOMAIN,no,sin_A,no,no,,,2026-10-11,"re-verif: no resuelve en DNS publico ni autoritativo .cu. Sin snapshots. Difunde por redes sociales."
 DUNA,,importacion (aviso OFAC 2026-08),n/d,no,,no,no,,,2026-10-11,sin web listada en el TXT (canales sociales/telefono)
-SASA,www.sasa.com.cu,red de agencias/tiendas,200,si,181.225.233.209,no,no,,html+js,2026-10-11,posible SPA/JS; sin precio en HTML estatico.
-UNEVOL,unevol.cu,ensamblaje/comercializacion,n/d,no,sin_A,no,no,,,2026-10-11,dominio no resuelve en DNS publico (no accesible desde esta red)
-Tiendas Caribe (TRD),www.trdcaribe.co.cu,comercializacion minorista,n/d,no,sin_A,no,no,,,2026-10-11,dominio no resuelve en DNS publico (no accesible desde esta red)
-TRANSIMPORT,transimport.co.cu,equipo pesado,n/d,no,190.6.66.228,no,no,,,2026-10-11,DNS resuelve pero conexion HTTP no completa (firewall/caida)
-TRADEX,tradex.cu,vehiculos/ferrocarril,n/d,no,sin_A,no,no,,,2026-10-11,dominio no resuelve en DNS publico (no accesible desde esta red)
-PALCO (Importadora/Grupo),palco.cu,grupo empresarial,n/d,no,200.55.134.250,no,no,,,2026-10-11,DNS resuelve pero conexion HTTP no completa (firewall/caida)
-MAQUIMPORT,maquimport.cu,maquinaria/equipos,n/d,no,190.6.66.228,no,no,,,2026-10-11,DNS resuelve pero conexion HTTP no completa (firewall/caida)
-LOGINTER,loginter.cu,comercio exterior,n/d,no,dns_status=2,no,no,,,2026-10-11,dominio no resuelve en DNS publico (no accesible desde esta red)
-CONSTRUIMPORT,construimport.cu,equipos construccion,n/d,no,sin_A,no,no,,,2026-10-11,dominio no resuelve en DNS publico (no accesible desde esta red)
-AXESS,axess.cu,partes/agregados,n/d,no,181.225.227.27,no,no,,,2026-10-11,DNS resuelve pero conexion HTTP no completa (firewall/caida)
-ImpoCARIBE,impocaribe.cu,importacion personas naturales,n/d,no,190.6.70.226,no,no,,,2026-10-11,DNS resuelve pero conexion HTTP no completa (firewall/caida)
-EISA,eisa.co.cu,importacion vehiculos,n/d,no,sin_A,no,no,,,2026-10-11,dominio no resuelve en DNS publico (no accesible desde esta red)
-DIVEP,portal-divep.xutil.cu,vehiculos industria nacional,200,si,181.225.233.209,parcial,no,https://portal-divep.xutil.cu/es/ofertas,html+js,2026-10-11,posible SPA/JS; sin precio en HTML estatico. hay seccion de autos pero sin precio publico estatico.
+SASA,www.sasa.com.cu,red de agencias/tiendas,200,si,181.225.233.209,no,no,,html (Drupal),2026-10-11,"re-verif: portal informativo. Tienda solo partes/piezas/accesorios (sin precios online). Lineas de taller: Peugeot/Renault/Geely/Mitsubishi/BYD/JMC/Hyundai/Piaggio/Jawa/Lada/Suzuki. Venta de autos via Zonautoshop/canales."
+UNEVOL,unevol.cu,ensamblaje/comercializacion,timeout,no,www.unevol.cu=200.55.182.106,no,no,,,2026-10-11,"re-verif: dominio raiz no resuelve en DNS publico; www resuelve SOLO en NS cubano (CENIAI). Firewall. Archivo: WooCommerce Volvo Penta (repuestos), sin autos."
+Tiendas Caribe (TRD),www.trdcaribe.co.cu,comercializacion minorista,NXDOMAIN,no,sin_A,no,no,,,2026-10-11,"re-verif: no resuelve (publico ni autoritativo). Sin snapshots."
+TRANSIMPORT,transimport.co.cu,equipo pesado,timeout,no,190.6.66.228,no,no,,,2026-10-11,"re-verif: DNS resuelve; firewall. Archivo: HTML estatico antiguo (comercializadora/marcas), sin precios."
+TRADEX,tradex.cu,vehiculos/ferrocarril,timeout,no,www.tradex.cu=200.55.140.227,no,no,,,2026-10-11,"re-verif: raiz no resuelve en DNS publico; www resuelve en NS cubano. Firewall. Archivo: Drupal; mercancia in-bond/nacionalizada (piezas, marcas VOLVO/S-N), sin precios."
+PALCO (Importadora/Grupo),palco.cu,grupo empresarial,timeout,no,200.55.134.250,no,no,,,2026-10-11,"re-verif: DNS resuelve; firewall. Archivo: SPA Angular; subdominio automax.palco.cu = Odoo (/web 403). Sin catalogo publico de precios."
+MAQUIMPORT,maquimport.cu,maquinaria/equipos,timeout,no,190.6.66.228,no,no,,,2026-10-11,"re-verif: DNS resuelve; firewall. Archivo: corporativo + PDFs, sin catalogo."
+LOGINTER,loginter.cu,comercio exterior,NXDOMAIN,no,dns_status=2,no,no,,,2026-10-11,"re-verif: SERVFAIL, no resuelve. Sin snapshots."
+CONSTRUIMPORT,construimport.cu,equipos construccion,NXDOMAIN,no,sin_A,no,no,,,2026-10-11,"re-verif: no resuelve (publico ni autoritativo). Archivo: Drupal corporativo (baterias/rodamientos/partes), sin precios."
+AXESS,axess.cu,partes/agregados,timeout,no,181.225.227.27,no,no,,,2026-10-11,"re-verif: DNS resuelve; firewall. Archivo: categorias (neumaticos, baterias, autopartes), sin precios."
+ImpoCARIBE,impocaribe.cu,importacion personas naturales,timeout,no,190.6.70.226,no,no,,,2026-10-11,"re-verif: DNS resuelve; firewall. Archivo: solo homepage."
+EISA,eisa.co.cu,importacion vehiculos,NXDOMAIN,no,sin_A,no,no,,,2026-10-11,"re-verif: no resuelve (publico ni autoritativo). Sin snapshots."
+DIVEP,portal-divep.xutil.cu,vehiculos industria nacional,200,si,181.225.233.209,parcial,no,https://portal-divep.xutil.cu/es/ofertas,html (Drupal),2026-10-11,"re-verif: portal informativo. Comercializa piezas de vehiculos, ferreteria y riego; sin vehiculos con precio online."
 SOLIMPORT,,ciclomotores/motos (canales SASA),n/d,no,,no,no,,,2026-10-11,sin web listada en el TXT (canales sociales/telefono)
 DIVSE,,motos electricas/hibridas (Grupo PALCO),n/d,no,,no,no,,,2026-10-11,sin web listada en el TXT (canales sociales/telefono)
 IMPLUS,,transporte pasajeros (Grupo PALCO),n/d,no,,no,no,,,2026-10-11,sin web listada en el TXT (canales sociales/telefono)
-BDC ONE,bdcone.online,concesionario 0km,200,si,91.234.194.101,si,si,https://bdcone.online/autos/,html+js,2026-10-11,
-DONGFENG CUBA,dongfengqba.com,importador/marcas chinas,200,si,"104.21.42.47,172.67.156.54",si,si,https://dongfengqba.com/catalogo/,html+js,2026-10-11,
+BDC ONE,bdcone.online,concesionario 0km,200,si,91.234.194.101,si,si,https://bdcone.online/autos/,html+js,2026-10-11,catalogo 0km con precios EUR (13 modelos)
+DONGFENG CUBA,dongfengqba.com,importador/marcas chinas,200,si,"104.21.42.47,172.67.156.54",si,si,https://dongfengqba.com/catalogo/,html+js,2026-10-11,catalogo con precios de referencia EUR (27 modelos)
