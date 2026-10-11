@@ -152,3 +152,15 @@ discusión con limitaciones, conclusiones y anexos.
 
 Consulta **`docs/esquema_datos.md`**: define TODOS los campos que vas a recolectar,
 tanto de anuncios como de campo. Revísalo y ajústalo ANTES de empezar a recolectar.
+
+## Handoffs y journals del proyecto
+
+La carpeta **`opencode/`** es el **registro obligatorio** de todo handoff y
+journal ejecutado en el proyecto (regla permanente desde 2026-10-11):
+
+- `opencode/handoffs/` — documentos de traspaso entre sesiones (estado, archivos
+  clave, decisiones, siguiente paso). Ver `001_2026-10-11_estado_proyecto.md`.
+- `opencode/journals/` — bitácora de hallazgos y decisiones técnicas (ver
+  `001_2026-10-11_ampliacion_datos.md` y `002_2026-10-11_api_graphql_revolico.md`).
+- `opencode/INDICE.md` — tabla de registro con todas las entradas.
+- Convención y regla permanente documentadas en `opencode/README.md`.

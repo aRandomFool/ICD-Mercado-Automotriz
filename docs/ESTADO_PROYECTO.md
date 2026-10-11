@@ -1,7 +1,16 @@
 # 📋 Estado del Proyecto — Mercado Automotriz de La Habana
 
 > **Documento de traspaso entre sesiones.** Si estás en una sesión nueva, LEE ESTE
-> ARCHIVO completo antes de continuar. Última actualización: 2026-09-24.
+> ARCHIVO completo antes de continuar. Última actualización: 2026-10-11.
+> **Handoff corregido (2026-10-11):** el fallo *"the transfer data did not serialize"*
+> se resolvió actualizando OpenCode 2.0.6 → 2.0.26 y recargando el plugin de handoff
+> (detalle: `opencode/journals/003_2026-10-11_fix_handoff_opencode_2.0.26.md`;
+> traspaso: `opencode/handoffs/002_2026-10-11_fix_handoff_sesion.md`).
+> **Handoff re-verificado (2026-10-11):** un segundo fallo (el mensaje `idle` de
+> OpenCode 2.0.26 es incompatible con el schema del plugin) se resolvió con un
+> parche local; ver `opencode/journals/004_2026-10-11_handoff_idle_schema.md`. Se
+> creó la sesión **"Reorganizando el proyecto"**
+> (`ses_ed62e5417ffeZWZhgQzACb4s5L`) — `opencode/handoffs/003_2026-10-11_reorganizando_el_proyecto.md`.
 > Sesión original: `ses_f3d85f00dffeZ9bcjZ8p89aUh5` (renombrada: *Mercado automotriz La Habana — scraper listo, falta EDA*).
 > **Fase 4 (EDA) completada** en la sesión `ses_f3a69397dffeGusRm7zPXMha76`.
 > **Fase 5 (modelo de precios) completada** en la sesión `ses_f3a69397dffeGusRm7zPXMha76`.
@@ -70,9 +79,11 @@ ProyectoCD/  (D:\Dany\ProyectoCD)
 ├── docs/
 │   ├── esquema_datos.md          # ✅ esquema de campos (validado por el usuario)
 │   ├── guia_campo.md             # guía de campo (recolección en pausa)
+│   ├── ESTADO_PROYECTO.md        # ✅ estado verificado + traspaso entre sesiones
 │   └── instrumentos/
 │       ├── entrevista.md         # guía de entrevista
 │       └── encuesta.md           # encuesta lista
+├── opencode/                     # ✅ registro OBLIGATORIO de handoffs y journals (INDICE.md)
 ├── reports/                      # ✅ 7 gráficos Fase 4 (fig_01..fig_07) + 3 Fase 5 (fig_08..fig_10) + CSVs
 ├── .venv/                        # entorno virtual (Python 3.13.15)
 ├── requirements.txt
