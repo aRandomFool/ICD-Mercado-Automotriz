@@ -48,8 +48,8 @@ PAUSA_SEG = 4                    # pausa entre peticiones (respetar el sitio)
 BASE_URL = "https://www.revolico.com"
 HOY = date.today().isoformat()
 
-RUTA_CSV = os.path.join("data", "raw", "anuncios.csv")
-RUTA_CRUDO = os.path.join("data", "raw", "revolico_paginas")   # JSON por página, organizados
+RUTA_CSV = os.path.join("data", "raw", "clasificados", "revolico", "anuncios.csv")
+RUTA_CRUDO = os.path.join("data", "raw", "clasificados", "revolico", "revolico_paginas")   # JSON por página, organizados
 
 # Municipios de La Habana (id -> nombre), obtenidos de la API
 MUNICIPIOS = {

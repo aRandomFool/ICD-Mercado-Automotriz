@@ -1,0 +1,44 @@
+{
+  "fecha": "2026-10-11T04:56:00.019282",
+  "hallazgos_js_inversa": {
+    "tienda.mcvcommercial.com": {
+      "plataforma": "pymesbulevar (Guajiritos SRL)",
+      "apiUrl": "https://api.pymesbulevar.com/v1/",
+      "imageUrl": "https://cdntienda.pymesbulevar.com/",
+      "admin": "https://admintienda.mcvcommercial.com/",
+      "nota": "app Angular; rutas de catalogo en lazy-chunks. Sin precios en HTML estatico."
+    },
+    "bdcone.online": {
+      "plataforma": "WordPress",
+      "catalogo": "https://bdcone.online/autos/",
+      "nota": "precios en HTML (CSS .bdc-premium-precio), EUR."
+    },
+    "dongfengqba.com": {
+      "plataforma": "Astro (SSG)",
+      "catalogo": "https://dongfengqba.com/catalogo/",
+      "ficha_modelo": "https://dongfengqba.com/modelos/{slug}/",
+      "nota": "precios de referencia EUR por modelo."
+    }
+  },
+  "no_accesibles_desde_esta_red": [
+    "IMPEXPORT",
+    "MULTISERVI",
+    "CIMEX DTA",
+    "DUNA",
+    "UNEVOL",
+    "Tiendas Caribe (TRD)",
+    "TRANSIMPORT",
+    "TRADEX",
+    "PALCO (Importadora/Grupo)",
+    "MAQUIMPORT",
+    "LOGINTER",
+    "CONSTRUIMPORT",
+    "AXESS",
+    "ImpoCARIBE",
+    "EISA",
+    "SOLIMPORT",
+    "DIVSE",
+    "IMPLUS"
+  ],
+  "nota": "varios .cu no resuelven en DNS publico o no responden desde esta red; no implica cierre. Requiere red/circuito cubano para verificar."
+}
