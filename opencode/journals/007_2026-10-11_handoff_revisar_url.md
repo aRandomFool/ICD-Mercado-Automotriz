@@ -24,3 +24,9 @@ Verificar las URLs de scraping de los catálogos comerciales:
 - Commit `2d4f1` · handoff 005 · journal 006 · `src/scraper_comercializadoras.py`
 - `data/raw/comercializadoras/estado_comercializadoras.csv`
 - `data/raw/comercializadoras/endpoints_descubiertos.json`
+
+## Actualización (mismo día)
+
+Por indicación del usuario, la sesión actual (`ses_ed617d618ffe…`) retomó su
+nombre anterior: **"Reorganización 7 etapas + 9 preguntas"**. El handoff en cola
+(objetivo "Revisar URL scrapping", sesión `ses_ed5c8e270ffe…`) permanece vigente.
