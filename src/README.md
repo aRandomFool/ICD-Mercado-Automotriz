@@ -3,6 +3,7 @@
 | Archivo | Contenido |
 |---------|-----------|
 | `scraper_revolico.py` | ✅ **Scraper de anuncios de Carros en La Habana** (API GraphQL de Revolico) → `data/raw/anuncios.csv` |
+| `verificar_anuncios_revolico.py` | ✅ **Verificador en vivo de URLs** → detecta anuncios despublicados/eliminados/expirados (estados "soft" HTTP 200) y anota `anuncios.csv` |
 | `exploracion/` | Scripts que usamos para *descubrir* la API (análisis de bundles JS, sondeos). No son necesarios para generar datos, pero documentan el proceso de ingeniería inversa |
 
 ## Cómo volver a scrapear
