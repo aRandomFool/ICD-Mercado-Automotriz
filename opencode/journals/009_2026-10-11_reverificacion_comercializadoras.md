@@ -65,5 +65,4 @@ Endpoints del catálogo (chunk 790): `product`, `product/:id`, `category-front`,
 
 ## Estado
 
-Re-verificación y extracción completadas. Pendiente de este issue: commit + bitácora
-(este journal + handoff 007).
+Re-verificación y extracción completadas. Commit **`a44c9`** en `reorg-7-etapas`.
