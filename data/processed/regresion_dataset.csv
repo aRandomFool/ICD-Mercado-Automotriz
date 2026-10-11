@@ -1,6 +1,4 @@
 ﻿anio,marca,marca_g,municipio,vistas,imagenes,precio_usd,precio_log
-2018,toyota,toyota,"La Habana, Arroyo Naranjo",1,3,18500.0,9.825580063659602
-2024,hyundai,hyundai,"La Habana, Guanabacoa",1,4,38000.0,10.545367754151743
 2018,kia,kia,"La Habana, Diez de Octubre",7,5,14.0,2.70805020110221
 2023,kia,kia,"La Habana, Habana del Este",8,4,20000.0,9.90353755128617
 2021,no identificada,no identificada,"La Habana, Playa",1,8,29000.0,10.275085591132715
@@ -10,76 +8,42 @@
 2024,no identificada,no identificada,"La Habana, Plaza",3,1,33000.0,10.404293143019792
 2019,nissan,nissan,"La Habana, Guanabacoa",4,1,40000.0,10.596659732783579
 2016,nissan,nissan,"La Habana, Guanabacoa",6,1,37000.0,10.518700218288165
-2024,hyundai,hyundai,"La Habana, Habana Vieja",4,1,39000.0,10.571342565808699
 2024,hyundai,hyundai,"La Habana, Centro Habana",2,4,38000.0,10.545367754151743
 2006,audi,audi,"La Habana, Diez de Octubre",7,1,16500.0,9.711176264112805
 2019,hyundai,hyundai,"La Habana, Centro Habana",5,5,19000.0,9.852246888342531
-2020,hyundai,hyundai,"La Habana, Centro Habana",1,4,30500.0,10.32551474894327
-2023,hyundai,hyundai,"La Habana, Playa",6,3,32000.0,10.373522431293592
-2017,land rover,land rover,"La Habana, Playa",4,4,60000.0,11.002116507732017
-2017,no identificada,no identificada,"La Habana, Playa",6,4,55000.0,10.915106645867503
-2017,land rover,land rover,"La Habana, Playa",4,4,50000.0,10.819798284210286
 2017,no identificada,no identificada,"La Habana, Playa",4,3,52000.0,10.859018228147887
 2025,foton,foton,"La Habana, Playa",8,3,40000.0,10.596659732783579
-2018,ford,ford,"La Habana, Playa",6,4,50000.0,10.819798284210286
-2017,hyundai,hyundai,"La Habana, Playa",7,3,21200.0,9.961803629358965
-2022,nissan,nissan,"La Habana, Playa",5,2,25000.0,10.12667110305036
-2018,hyundai,hyundai,"La Habana, Playa",7,2,20000.0,9.90353755128617
 2023,hyundai,hyundai,"La Habana, Playa",3,4,35000.0,10.463131911491967
 2019,hyundai,hyundai,"La Habana, Plaza",11,8,20500.0,9.928228944424575
 2024,hyundai,hyundai,"La Habana, Arroyo Naranjo",4,1,38500.0,10.55843949396453
-2024,hyundai,hyundai,"La Habana, La Lisa",2,7,38000.0,10.545367754151743
-2024,hyundai,hyundai,"La Habana, Playa",2,4,38255.0,10.552055689698106
 2020,no identificada,no identificada,"La Habana, Cerro",12,3,15500.0,9.648659816955295
-2025,kia,kia,"La Habana, Playa",20,3,23500.0,10.064798252418377
-2022,chevrolet,chevrolet,"La Habana, Playa",14,4,38500.0,10.55843949396453
-2025,kia,kia,"La Habana, Playa",7,3,36500.0,10.505094936455558
-2019,bmw,bmw,"La Habana, Playa",5,2,46000.0,10.736418414365376
 2006,audi,audi,"La Habana, Centro Habana",31,6,16500.0,9.711176264112805
 2018,hyundai,hyundai,"La Habana, Habana Vieja",11,10,24000.0,10.085850775128717
-2018,toyota,toyota,"La Habana, Cerro",34,2,17000.0,9.741027444837728
 2017,no identificada,no identificada,"La Habana, Habana Vieja",5,0,25000.0,10.12667110305036
 2022,hyundai,hyundai,"La Habana, Centro Habana",14,5,29000.0,10.275085591132715
-2024,hyundai,hyundai,"La Habana, Playa",5,5,38255.0,10.552055689698106
-2024,hyundai,hyundai,"La Habana, Playa",3,1,38.0,3.6635616461296463
-2020,hyundai,hyundai,"La Habana, Playa",11,3,22500.0,10.021315031649332
-2017,no identificada,no identificada,"La Habana, Boyeros",7,2,23000.0,10.043292972227004
-2019,hyundai,hyundai,"La Habana, Boyeros",11,2,15000.0,9.61587214452889
 2025,foton,foton,"La Habana, Playa",11,2,53000.0,10.87806606028079
 1985,fiat,fiat,"La Habana, Boyeros",37,9,2500.0,7.824445930877619
 2019,kia,kia,"La Habana, Playa",13,1,18500.0,9.825580063659602
-2024,toyota,toyota,"La Habana, Centro Habana",6,1,40000.0,10.596659732783579
-2024,nissan,nissan,"La Habana, Centro Habana",5,1,32000.0,10.373522431293592
 2019,hyundai,hyundai,"La Habana, Playa",24,1,18500.0,9.825580063659602
 2024,nissan,nissan,"La Habana, Playa",4,1,38500.0,10.55843949396453
 2020,hyundai,hyundai,"La Habana, Arroyo Naranjo",7,4,28000.0,10.239995502805316
-2020,no identificada,no identificada,"La Habana, Marianao",11,2,15500.0,9.648659816955295
-2024,nissan,nissan,"La Habana, Plaza",13,3,38000.0,10.545367754151743
 2021,hyundai,hyundai,"La Habana, Playa",46,6,16000.0,9.680406499268875
-2020,chery,chery,"La Habana, Playa",10,4,20500.0,9.928228944424575
 2025,no identificada,no identificada,"La Habana, Boyeros",5,9,40000.0,10.596659732783579
 1971,no identificada,no identificada,"La Habana, Plaza",8,0,5200.0,8.556606193773073
 2017,hyundai,hyundai,"La Habana, Arroyo Naranjo",8,9,20000.0,9.90353755128617
 2011,geely,geely,"La Habana, Playa",42,3,10500.0,9.259225769705994
 2026,no identificada,no identificada,"La Habana, Marianao",12,4,25000.0,10.12667110305036
-2025,kia,kia,"La Habana, Marianao",9,1,25000.0,10.12667110305036
-2020,kia,kia,"La Habana, Marianao",13,1,18500.0,9.825580063659602
-2026,dongfeng,dongfeng,"La Habana, Marianao",4,2,82000.0,11.314486721293981
-2024,nissan,nissan,"La Habana, Marianao",9,2,32000.0,10.373522431293592
 1958,ford,ford,"La Habana, Plaza",64,3,4500.0,8.412054873292933
-2026,geely,geely,"La Habana, Plaza",8,7,35000.0,10.463131911491967
 2026,geely,geely,"La Habana, Plaza",3,0,35000.0,10.463131911491967
 2009,hyundai,hyundai,"La Habana, Playa",40,2,13000.0,9.472781556562168
 2019,toyota,toyota,"La Habana, Playa",37,2,18000.0,9.798182590890704
 2020,hyundai,hyundai,"La Habana, Playa",14,1,25000.0,10.12667110305036
-2026,geely,geely,"La Habana, Plaza",4,6,1.0,0.6931471805599453
 2020,hyundai,hyundai,"La Habana, Playa",22,1,26000.0,10.165890277802454
 2025,honda,honda,"La Habana, Playa",5,2,50000.0,10.819798284210286
 2025,hyundai,hyundai,"La Habana, Playa",11,1,45000.0,10.714439990727769
 2024,hyundai,hyundai,"La Habana, Habana Vieja",5,1,39000.0,10.571342565808699
 2006,lada,lada,"La Habana, Diez de Octubre",32,5,8000.0,8.987321812850125
 2020,mercedes-benz,mercedes-benz,"La Habana, Playa",21,3,50000.0,10.819798284210286
-2022,hyundai,hyundai,"La Habana, Playa",5,2,32000.0,10.373522431293592
 2019,mercedes-benz,mercedes-benz,"La Habana, Playa",32,1,20.0,3.044522437723423
 2024,hyundai,hyundai,"La Habana, Habana del Este",5,2,39000.0,10.571342565808699
 2020,no identificada,no identificada,"La Habana, Habana del Este",11,2,15500.0,9.648659816955295
@@ -100,20 +64,14 @@
 2025,no identificada,no identificada,"La Habana, Playa",10,3,55000.0,10.915106645867503
 2017,hyundai,hyundai,"La Habana, Playa",17,4,17600.0,9.77571099759397
 2024,no identificada,no identificada,"La Habana, Centro Habana",6,1,38000.0,10.545367754151743
-2025,no identificada,no identificada,"La Habana, Guanabacoa",17,6,56000.0,10.933124826700707
 2018,toyota,toyota,"La Habana, Guanabacoa",24,5,18000.0,9.798182590890704
 2020,no identificada,no identificada,"La Habana, Plaza",8,3,15500.0,9.648659816955295
 2019,nissan,nissan,"La Habana, Marianao",8,3,28000.0,10.239995502805316
 2019,no identificada,no identificada,"La Habana, Diez de Octubre",8,1,30.0,3.4339872044851463
 2022,bmw,bmw,"La Habana, Playa",10,1,111.0,4.718498871295094
-2024,hyundai,hyundai,"La Habana, Habana Vieja",3,6,39000.0,10.571342565808699
 2008,seat,seat,"La Habana, Plaza",28,2,11000.0,9.305741456739435
-2019,mercedes-benz,mercedes-benz,"La Habana, Arroyo Naranjo",24,4,26000.0,10.165890277802454
-2025,kia,kia,"La Habana, Playa",21,2,23500.0,10.064798252418377
-2022,toyota,toyota,"La Habana, Playa",14,3,40000.0,10.596659732783579
 2024,no identificada,no identificada,"La Habana, Playa",1,1,111.0,4.718498871295094
 2021,bmw,bmw,"La Habana, Playa",7,1,111.0,4.718498871295094
-2022,nissan,nissan,"La Habana, Playa",15,2,25000.0,10.12667110305036
 2018,ford,ford,"La Habana, Playa",17,2,50000.0,10.819798284210286
 2024,hyundai,hyundai,"La Habana, Playa",4,1,38000.0,10.545367754151743
 2024,toyota,toyota,"La Habana, Plaza",10,1,40000.0,10.596659732783579
@@ -134,41 +92,26 @@
 2016,nissan,nissan,"La Habana, Playa",44,6,18500.0,9.825580063659602
 2025,mercedes-benz,mercedes-benz,"La Habana, Guanabacoa",7,1,60000.0,11.002116507732017
 2019,hyundai,hyundai,"La Habana, Plaza",21,3,20500.0,9.928228944424575
-2018,no identificada,no identificada,"La Habana, Playa",42,3,19500.0,9.87822102528824
-2020,no identificada,no identificada,"La Habana, Diez de Octubre",20,3,16000.0,9.680406499268875
 2025,toyota,toyota,"La Habana, Playa",6,1,40500.0,10.609081944147828
-2024,hyundai,hyundai,"La Habana, Arroyo Naranjo",6,6,41000.0,10.62135173563291
-2020,nissan,nissan,"La Habana, Centro Habana",8,7,27000.0,10.203629181337648
-2020,chery,chery,"La Habana, Playa",6,1,25000.0,10.12667110305036
 1992,fiat,fiat,"La Habana, Playa",38,1,5500.0,8.612685172875459
-2022,chevrolet,chevrolet,"La Habana, Playa",27,3,38500.0,10.55843949396453
 2023,no identificada,no identificada,"La Habana, Playa",15,8,42000.0,10.645448706505872
 2007,no identificada,no identificada,"La Habana, Playa",44,3,9500.0,9.15915233520675
-2024,hyundai,hyundai,"La Habana, Arroyo Naranjo",4,7,37000.0,10.518700218288165
-2022,honda,honda,"La Habana, Plaza",18,10,32000.0,10.373522431293592
-1962,skoda,skoda,"La Habana, Diez de Octubre",19,0,4000.0,8.294299608857235
 2024,hyundai,hyundai,"La Habana, Playa",6,7,37500.0,10.53212287826962
 2019,hyundai,hyundai,"La Habana, Playa",11,6,19500.0,9.87822102528824
 2009,no identificada,no identificada,"La Habana, Diez de Octubre",37,2,11000.0,9.305741456739435
-2019,mitsubishi,mitsubishi,"La Habana, Centro Habana",14,1,26000.0,10.165890277802454
 2026,kia,kia,"La Habana, Habana del Este",13,3,50000.0,10.819798284210286
 2024,hyundai,hyundai,"La Habana, Cerro",13,3,39000.0,10.571342565808699
 2024,hyundai,hyundai,"La Habana, Playa",9,2,33000.0,10.404293143019792
 2016,porsche,porsche,"La Habana, Playa",23,1,111.0,4.718498871295094
 2017,land rover,land rover,"La Habana, Playa",13,3,111.0,4.718498871295094
 2023,hyundai,hyundai,"La Habana, Playa",15,3,35000.0,10.463131911491967
-2022,chevrolet,chevrolet,"La Habana, Playa",14,3,35000.0,10.463131911491967
 2021,audi,audi,"La Habana, Playa",13,3,111.0,4.718498871295094
-2018,porsche,porsche,"La Habana, Playa",21,2,111.0,4.718498871295094
 2018,hyundai,hyundai,"La Habana, Playa",21,1,111.0,4.718498871295094
 2018,hyundai,hyundai,"La Habana, Playa",5,0,111.0,4.718498871295094
-2022,toyota,toyota,"La Habana, Playa",14,3,40000.0,10.596659732783579
 2024,hyundai,hyundai,"La Habana, Playa",5,3,38255.0,10.552055689698106
-2020,chery,chery,"La Habana, Playa",20,3,20500.0,9.928228944424575
 2025,no identificada,no identificada,"La Habana, Habana del Este",33,5,25000.0,10.12667110305036
 2018,kia,kia,"La Habana, Diez de Octubre",91,5,14.0,2.70805020110221
 2025,hyundai,hyundai,"La Habana, Habana del Este",24,7,25000.0,10.12667110305036
-2024,hyundai,hyundai,"La Habana, Centro Habana",8,3,38000.0,10.545367754151743
 2013,peugeot,peugeot,"La Habana, Habana del Este",62,1,19800.0,9.893487720457795
 2017,hyundai,hyundai,"La Habana, San Miguel del Padrón",22,6,18.0,2.9444389791664403
 2025,kia,kia,"La Habana, Centro Habana",11,1,25000.0,10.12667110305036
@@ -186,7 +129,6 @@
 2019,hyundai,hyundai,"La Habana, Cerro",14,2,19500.0,9.87822102528824
 2023,hyundai,hyundai,"La Habana, Centro Habana",36,4,23000.0,10.043292972227004
 1952,no identificada,no identificada,"La Habana, Diez de Octubre",80,8,3000.0,8.006700845440367
-2019,mitsubishi,mitsubishi,"La Habana, Centro Habana",25,1,26000.0,10.165890277802454
 2024,toyota,toyota,"La Habana, San Miguel del Padrón",18,1,40000.0,10.596659732783579
 2024,nissan,nissan,"La Habana, San Miguel del Padrón",5,1,32000.0,10.373522431293592
 2025,kia,kia,"La Habana, Centro Habana",12,2,25000.0,10.12667110305036
@@ -222,15 +164,12 @@
 2024,hyundai,hyundai,"La Habana, Centro Habana",13,3,38255.0,10.552055689698106
 2017,hyundai,hyundai,"La Habana, Plaza",29,5,23000.0,10.043292972227004
 2025,no identificada,no identificada,"La Habana, Diez de Octubre",11,1,35000.0,10.463131911491967
-2024,toyota,toyota,"La Habana, San Miguel del Padrón",11,1,40000.0,10.596659732783579
-2024,nissan,nissan,"La Habana, San Miguel del Padrón",5,1,32000.0,10.373522431293592
 2016,hyundai,hyundai,"La Habana, Playa",23,1,17000.0,9.741027444837728
 2006,kia,kia,"La Habana, Cerro",21,1,5.0,1.791759469228055
 2024,no identificada,no identificada,"La Habana, Playa",43,1,13579.0,9.516353401112687
 2018,porsche,porsche,"La Habana, Playa",19,1,13579.0,9.516353401112687
 2019,hyundai,hyundai,"La Habana, Guanabacoa",7,4,19.5,3.0204248861443626
 2018,peugeot,peugeot,"La Habana, Diez de Octubre",43,5,20000.0,9.90353755128617
-2024,no identificada,no identificada,"La Habana, Habana del Este",24,6,40000.0,10.596659732783579
 2024,audi,audi,"La Habana, Playa",24,3,60000.0,11.002116507732017
 2020,toyota,toyota,"La Habana, Playa",29,1,24000.0,10.085850775128717
 2019,hyundai,hyundai,"La Habana, La Lisa",10,1,19.5,3.0204248861443626
@@ -260,13 +199,10 @@
 2020,hyundai,hyundai,"La Habana, Centro Habana",8,5,24000.0,10.085850775128717
 2019,hyundai,hyundai,"La Habana, Centro Habana",11,3,20000.0,9.90353755128617
 2019,hyundai,hyundai,"La Habana, Boyeros",12,6,20000.0,9.90353755128617
-2026,kia,kia,"La Habana, Playa",32,1,45000.0,10.714439990727769
 2024,hyundai,hyundai,"La Habana, Centro Habana",6,8,37.5,3.6506582412937387
 2020,hyundai,hyundai,"La Habana, Habana Vieja",14,4,25000.0,10.12667110305036
 2023,no identificada,no identificada,"La Habana, Centro Habana",10,1,34000.0,10.434145214930487
 2008,kia,kia,"La Habana, La Lisa",39,3,13500.0,9.510519035757246
-2017,no identificada,no identificada,"La Habana, Playa",58,8,20500.0,9.928228944424575
-2020,toyota,toyota,"La Habana, Centro Habana",8,5,35000.0,10.463131911491967
 2024,nissan,nissan,"La Habana, Playa",5,1,30000.0,10.308985993422082
 2024,toyota,toyota,"La Habana, Playa",9,1,38000.0,10.545367754151743
 2024,nissan,nissan,"La Habana, Marianao",4,0,32000.0,10.373522431293592
@@ -280,7 +216,6 @@
 2021,toyota,toyota,"La Habana, Plaza",22,4,46000.0,10.736418414365376
 2025,kia,kia,"La Habana, Habana del Este",31,8,24000.0,10.085850775128717
 2025,kia,kia,"La Habana, Playa",13,1,24000.0,10.085850775128717
-2019,mitsubishi,mitsubishi,"La Habana, Centro Habana",15,4,26000.0,10.165890277802454
 2024,toyota,toyota,"La Habana, Arroyo Naranjo",10,1,38000.0,10.545367754151743
 2024,nissan,nissan,"La Habana, Arroyo Naranjo",8,1,30000.0,10.308985993422082
 2019,kia,kia,"La Habana, Habana del Este",50,5,18000.0,9.798182590890704
@@ -292,10 +227,8 @@
 2019,hyundai,hyundai,"La Habana, Playa",10,5,19500.0,9.87822102528824
 2025,baic,baic,"La Habana, Playa",7,1,33000.0,10.404293143019792
 2020,no identificada,no identificada,"La Habana, Playa",31,5,23.0,3.1780538303479458
-2019,hyundai,hyundai,"La Habana, Arroyo Naranjo",9,7,21000.0,9.952325334619427
 2019,hyundai,hyundai,"La Habana, Centro Habana",9,1,21000.0,9.952325334619427
 2025,hyundai,hyundai,"La Habana, San Miguel del Padrón",28,10,11111.0,9.31578088443418
 2017,no identificada,no identificada,"La Habana, Boyeros",17,1,23000.0,10.043292972227004
-2019,hyundai,hyundai,"La Habana, Plaza",9,6,19500.0,9.87822102528824
 2024,hyundai,hyundai,"La Habana, Playa",5,2,40000.0,10.596659732783579
 2019,hyundai,hyundai,"La Habana, Boyeros",7,9,20000.0,9.90353755128617

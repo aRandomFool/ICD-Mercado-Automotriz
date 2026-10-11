@@ -55,9 +55,11 @@ Headers necesarios (sin ellos el sitio responde 403):
 ## Pendientes / siguiente sesión
 
 - [ ] Commit de todo el trabajo en `reorg-7-etapas`.
-- [ ] Decidir aguas abajo: si `preprocesamiento.py` / EDA deben **filtrar** o
-      solo **marcar** los 129 anuncios no disponibles (Q3 precio por marca,
-      Q4 rotación, etc.).
+- [x] **Decisión aguas abajo:** `preprocesamiento.py` y `generar_variables.py`
+      aplican `filtrar_activos` (`estado_verificacion == 'activo'`): los 129
+      anuncios no disponibles se **excluyen** del pipeline (helper en
+      `src/utils/limpieza.py`). Datos recalculados: interim 471, mercado 471,
+      regresión 233.
 - [ ] Pendientes previos intactos (MCV pymesbulevar, entidades red-dependentes,
       integrar 40 modelos de comercializadoras al dataset de mercado formal Q6).
 

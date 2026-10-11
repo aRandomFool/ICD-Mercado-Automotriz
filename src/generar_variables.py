@@ -8,6 +8,7 @@ import os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import pandas as pd
+from utils.limpieza import filtrar_activos
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
@@ -24,6 +25,8 @@ def main():
         df = pd.read_csv(INTERIM_PATH_FALLBACK, encoding='utf-8-sig')
     else:
         df = pd.read_csv(INTERIM_PATH, encoding='utf-8-sig')
+    # filtro por disponibilidad en vivo (solo anuncios activos); idempotente
+    df = filtrar_activos(df)
     # asegurar columnas
     if 'precio_usd' not in df.columns:
         TASA=710.0

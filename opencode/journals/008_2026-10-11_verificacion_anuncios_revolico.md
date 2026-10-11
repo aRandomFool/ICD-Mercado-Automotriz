@@ -33,6 +33,10 @@ HTTP 200 con páginas de estado que hay que leer por texto/componentes:
    anuncio (600 filas: estado, código HTTP, fecha).
 3. **`anuncios.csv`** anotado con columnas `estado_verificacion` y
    `verificado_el` (2026-10-11T09:57:47+00:00).
+4. **Filtro de disponibilidad en el pipeline** — helper `filtrar_activos` en
+   `src/utils/limpieza.py`, aplicado en `preprocesamiento.py` y
+   `generar_variables.py`. Solo se conservan los **anuncios activos**:
+   interim 471, `mercado_havana.csv` 471, `regresion_dataset.csv` 233.
 
 ## Lección
 

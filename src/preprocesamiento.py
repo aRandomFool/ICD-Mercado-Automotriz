@@ -5,6 +5,7 @@ src/preprocesamiento.py
 
 Etapa 02: Preprocesamiento de anuncios Revolico (nativo, coherente con lo validado).
 - Lee datos crudos reorganizados en data/raw/clasificados/revolico/anuncios.csv
+- Filtra anuncios no disponibles según estado_verificacion (solo ACTIVOS)
 - Aplica conversiones monetarias (TASA_CUP_USD=710), manejo de anio==0
 - Genera data/interim/anuncios_limpios.csv
 
@@ -16,6 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import pandas as pd
 import unicodedata
+from utils.limpieza import filtrar_activos
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
@@ -34,6 +36,8 @@ def main():
         print(f"[ERROR] No existe {RAW_PATH}. Revisa reestructura.")
         sys.exit(1)
     df = pd.read_csv(RAW_PATH, encoding='utf-8-sig')
+    # filtro por disponibilidad en vivo (solo anuncios activos)
+    df = filtrar_activos(df)
     # conversion
     df['precio_original'] = pd.to_numeric(df.get('precio_original', df.get('precio', 0)), errors='coerce')
     df['moneda'] = df.get('moneda', 'USD').astype(str).str.upper()
