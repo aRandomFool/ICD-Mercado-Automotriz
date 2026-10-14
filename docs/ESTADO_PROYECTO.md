@@ -24,6 +24,9 @@
 > (secciones 6bis y 6ter actualizadas con los resultados reales nuevos).
 > **Fase 6 (informe final) completada** en la sesión `ses_f3a69397dffeGusRm7zPXMha76`:
 > `notebooks/03_informe_final.ipynb` ✅ (proyecto Fases 0–6 terminado).
+> **Handoff 008 (2026-10-14):** traspaso a la sesión *Cambio_preguntas*
+> (`ses_ec70f4e50ffeP6HIgxjU51UIHo`) para **revisar/cambiar las preguntas de
+> investigación**. Ver `opencode/handoffs/008_2026-10-14_cambio_preguntas.md`.
 
 ---
 

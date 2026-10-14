@@ -14,6 +14,7 @@ regla permanente: ver `README.md`.
 | 005 | 2026-10-11 | `005_2026-10-11_catalogos_comercializadoras.md` | Catálogos de comercializadoras implementado (BDC ONE, Dongfeng) + fixes pendientes |
 | 006 | 2026-10-11 | `006_2026-10-11_verificacion_anuncios_revolico.md` | Verificación de anuncios Revolico (83 despublicados, 45 eliminados, 1 expirado) + implementación del verificador |
 | 007 | 2026-10-11 | `007_2026-10-11_reverificacion_comercializadoras.md` | Re-verificación `.cu` (4 vías) + catálogo real de MCV extraído (426 productos) |
+| 008 | 2026-10-14 | `008_2026-10-14_cambio_preguntas.md` | Cambio/revisión de las preguntas de investigación (`ses_ec70f4e50…`) |
 
 ## Journals (`journals/`)
 
