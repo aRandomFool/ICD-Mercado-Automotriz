@@ -29,6 +29,7 @@ regla permanente: ver `README.md`.
 | 007 | 2026-10-11 | `007_2026-10-11_handoff_revisar_url.md` | Handoff en cola + sesión renombrada a "Revisar URL scrapping" |
 | 008 | 2026-10-11 | `008_2026-10-11_verificacion_anuncios_revolico.md` | Verificación en vivo de 600 URLs: 129 no disponibles (21.5%) + verificador implementado |
 | 009 | 2026-10-11 | `009_2026-10-11_reverificacion_comercializadoras.md` | Re-verificación `.cu` + catálogo MCV (pymesbulevar) extraído con precios USD |
+| 010 | 2026-10-14 | `010_2026-10-14_cambio_preguntas_readme.md` | Cambio de Q2 (promedio) y Q9 (costo de mantener un auto) + README a 7 etapas |
 
 ---
 *Regla: al añadir una entrada, insertar la fila correspondiente al final de su

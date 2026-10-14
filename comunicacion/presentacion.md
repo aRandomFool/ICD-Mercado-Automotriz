@@ -8,7 +8,7 @@
 ## Diapositiva 2: Objetivo
 - Analizar factores que explican precios
 - Responder 9 preguntas (con proxy Q1)
-- Comparar formal/informal (Q6) y eléctrico vs combustión (Q9) cuando existan datos
+- Comparar formal/informal (Q6) y costo de mantener un auto (Q9, vía entrevistas) cuando existan datos
 
 ## Diapositiva 3: Metodología
 - Scraping GraphQL Revolico (src/scraper_revolico.py)

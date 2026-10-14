@@ -13,7 +13,7 @@ Ver notebooks en `notebooks/historico/` (01_eda, 02_modelo_precios, 03_informe_f
 
 ## Preguntas (resumen)
 
-1-5,7,8 respondibles con datos existentes. 6 (formal vs informal) y 9 (eléctrico vs combustión) requieren capturas nuevas (comercializadoras/entrevistas). 
+1-5,7,8 respondibles con datos existentes. 6 (formal vs informal) y 9 (costo de mantener un auto, vía entrevistas) requieren capturas nuevas (comercializadoras/entrevistas). 
 
 Detalles: `docs/preguntas_investigacion.md`.
 

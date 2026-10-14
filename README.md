@@ -2,16 +2,26 @@
 
 Proyecto de Ciencia de Datos (1er año) — Universidad de La Habana.
 
-**Objetivo:** analizar el mercado automotriz en La Habana combinando dos fuentes de datos:
+**Objetivo:** analizar el mercado automotriz en La Habana combinando **tres fuentes de recolección**:
 
-1. **Anuncios** scrapeados de sitios como Revolico y Porlalivre (el mercado "declarado").
-2. **Observaciones de campo** recolectadas en la calle (el mercado "real").
+1. **Anuncios de internet** (Revolico) — el mercado informal "declarado".
+2. **Comercializadoras autorizadas** — el mercado formal (catálogos y precios públicos).
+3. **Entrevistas y encuestas a personas naturales** — el mercado "real" (cualitativo/cuantitativo).
 
 ## Preguntas de investigación
 
-1. ¿Qué factores explican el precio de un carro en La Habana? (año, marca, estado, km...)
-2. ¿Los precios publicados en anuncios difieren de la realidad observada en la calle?
-3. ¿Qué segmentos de mercado existen? (clásicos, modernos, de trabajo...)
+1. ¿Cuál es la marca con mayor índice de publicaciones? *(proxy: anuncios de Revolico)*
+2. ¿Cuál es el promedio de precios por marca?
+3. ¿Existe una relación entre el precio y el año de fabricación?
+4. ¿Cuál es la marca con los precios más elevados?
+5. ¿Cuál es la proporción de anuncios de ventas de autos clásicos vs modernos?
+6. ¿Cuál es la diferencia entre los precios del mercado formal y el mercado informal?
+7. ¿Cuál es el municipio con mayor índice de publicaciones?
+8. ¿Existe una relación entre el municipio y el precio de venta?
+9. ¿Cuál es el costo de mantener un auto en la actualidad? *(se responde con las entrevistas)*
+
+> Fuente única y viva: `docs/preguntas_investigacion.md` (fuente, variables, análisis y estado por pregunta).
+> Criterio P5: **clásico** = `anio < 2000`; **moderno** = `anio >= 2000`. Q1 se documenta como **proxy** de anuncios.
 
 ## Cómo empezar (Windows)
 
@@ -35,123 +45,72 @@ jupyter notebook
 > Si PowerShell te bloquea la activación, ejecuta primero:
 > `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
 
+> Las versiones exactas ya validadas quedaron fijadas en `requirements-lock.txt`.
+
 ## Estructura del proyecto
 
 ```
 ProyectoCD/
 ├── data/
-│   ├── raw/          # datos crudos (anuncios.csv, campo.csv)
-│   └── processed/    # datos limpios (mercado_havana.csv, regresion_dataset.csv)
-├── notebooks/        # análisis paso a paso (Jupyter)
-├── src/              # módulos reutilizables (scraper, limpieza)
-├── docs/             # documentación del esquema de datos
-├── reports/          # gráficos y resultados finales
-├── requirements.txt
+│   ├── raw/
+│   │   ├── clasificados/revolico/   # anuncios.csv, verificacion_anuncios.csv, revolico_paginas/, respaldo_150_2026-09-24/
+│   │   ├── comercializadoras/       # comercializadoras.csv, estado_*, manifest.json + catalogos/ (MCV, Dongfeng, BDC ONE)
+│   │   └── entrevistas/             # Audios/ (entrevistas por transcribir/estructurar)
+│   ├── interim/                     # anuncios_limpios.csv (preprocesado)
+│   ├── processed/                   # mercado_havana.csv, regresion_dataset.csv
+│   └── tasas_cambio/                # tasas_usd.csv, tasas_eur_usd.csv
+├── notebooks/
+│   ├── 00_inicio.ipynb              # punto de entrada + verificación de entorno
+│   ├── 01_preprocesamiento.ipynb    # Etapa 02
+│   ├── 02_preguntas.ipynb           # Etapa 05: las 9 preguntas
+│   └── historico/                   # 01_eda, 02_modelo_precios, 03_informe_final (proyecto previo)
+├── src/
+│   ├── scraper_revolico.py          # captura Revolico (API GraphQL)
+│   ├── verificar_anuncios_revolico.py
+│   ├── scraper_comercializadoras.py # verificación HTTP+DNS + catálogos
+│   ├── extraer_catalogo_mcv.py
+│   ├── captura_entrevistas.py       # plantilla/validador de entrevistas
+│   ├── preprocesamiento.py          # Etapa 02
+│   ├── generar_variables.py         # Etapa 04
+│   ├── utils/                       # helpers, limpieza, validacion
+│   └── exploracion/                 # ingeniería inversa de la API (histórico)
+├── docs/
+│   ├── preguntas_investigacion.md   # fuente única y viva (9 preguntas)
+│   ├── fuentes.md                   # Revolico + comercializadoras + entrevistas
+│   ├── diccionario_datos.md         # esquema unificado (tipo_fuente / mercado)
+│   ├── esquema_datos.md · guia_campo.md · instrumentos/ (entrevista, encuesta) · ESTADO_PROYECTO.md
+├── reports/
+│   ├── figuras/                     # fig_*.png
+│   └── tablas/                      # *.csv
+├── comunicacion/                    # Etapa 07: informe_final.md + presentacion.md
+├── opencode/                        # bitácora obligatoria (handoffs/, journals/, INDICE.md)
+├── requirements.txt · requirements-lock.txt · .gitignore
 └── README.md
 ```
 
-## Hoja de ruta (fases)
+## Las 7 etapas (01–07)
 
-| Fase | Descripción | Archivo | Estado |
-|------|-------------|---------|--------|
-| 0 | Setup del entorno | este README | ✅ |
-| 1 | Revisar ~50–100 anuncios a mano y validar el esquema | `docs/esquema_datos.md` | ✅ |
-| 2 | Scraping de anuncios de Carros en La Habana | `data/raw/anuncios.csv` | ✅ 600 anuncios |
-| 3 | Recolección de campo (~100 observaciones) | `data/raw/campo.csv` + `docs/guia_campo.md` | ⏳ en curso — plantilla lista |
-| 4 | Limpieza y EDA | `notebooks/01_eda.ipynb` | ✅ 600 anuncios, 7 gráficos, dataset limpio |
-| 5 | Primer modelo de precios (regresión) | `notebooks/02_modelo_precios.ipynb` | ✅ M0–M3, lineal y log, split 75/25 + CV |
-| 6 | Informe final con gráficos | `notebooks/03_informe_final.ipynb` | ✅ **proyecto completo** |
+Las 7 etapas de la asignatura son el **concepto organizador**: las carpetas de
+primer nivel se mantienen (`data/`, `notebooks/`, `src/`, `docs/`, `reports/`) con
+subcarpetas, y la etapa 07 vive en `comunicacion/`.
 
-## Fase 2 completada — scraping de Revolico
+| Etapa | Nombre | Dónde | Estado |
+|-------|--------|-------|--------|
+| 01 | Capturar | `src/scraper_*.py`, `src/captura_entrevistas.py`, `data/raw/*` | Revolico ✅ · comercializadoras ✅ · entrevistas ⏳ |
+| 02 | Preprocesar | `src/preprocesamiento.py`, `notebooks/01_preprocesamiento.ipynb`, `data/interim/` | ✅ |
+| 03 | Estructurar y almacenar | `data/processed/`, `data/tasas_cambio/`, `docs/diccionario_datos.md` | ✅ |
+| 04 | Procesar | `src/generar_variables.py` | ✅ |
+| 05 | Analizar | `notebooks/02_preguntas.ipynb` | ✅ Q1–5,7,8 · pendientes Q6 y Q9 |
+| 06 | Presentar | `reports/figuras/`, `reports/tablas/` | ✅ |
+| 07 | Comunicar | `comunicacion/` | ✅ |
 
-`src/scraper_revolico.py` consulta la **API GraphQL de Revolico**
-(`https://graphql-api.revolico.app/`), descubierta analizando los bundles JS
-(ver `src/exploracion/`). Datos obtenidos:
+## Estado de las capturas
 
-- **3 517 anuncios** de carros publicados en La Habana (categoría `vehiculos-carros`).
-- Muestra guardada: **600 anuncios únicos** en `data/raw/anuncios.csv`
-  (ampliada de 150 el 2026-09-24; la muestra original quedó en
-  `data/raw/respaldo_150_2026-09-24/`).
-- Campos: precio, moneda (USD/CUP), municipio, marca, año (parcial), URL, fecha.
-- Sin teléfonos ni datos de contacto (privacidad).
-- Respaldo crudo JSON por página en `data/raw/revolico_paginas/` (formateado con
-  indentación para lectura directa).
+- **Anuncios (Revolico, informal):** 600 anuncios únicos en `data/raw/clasificados/revolico/anuncios.csv`. La verificación en vivo de URLs quedó en `verificacion_anuncios.csv` (83 despublicados, 45 eliminados, 1 expirado); el preprocesamiento (etapa 02) conserva solo los **activos**.
+- **Comercializadoras (formal):** verificación HTTP+DNS registrada en `estado_comercializadoras.csv` y `informe_catalogos.md`; catálogos con precios públicos de **BDC ONE**, **Dongfeng Cuba** y **MCV Comercial** en `data/raw/comercializadoras/catalogos/`. El resto de entidades no fueron verificables desde esta red (ver `docs/fuentes.md`).
+- **Entrevistas/encuestas (cualitativo):** audio en `data/raw/entrevistas/Audios/`, **pendiente de transcribir/estructurar**. Instrumentos en `docs/instrumentos/`.
 
-Re-ejecutar con: `py src\scraper_revolico.py`
-
-## Fase 4 completada — limpieza y EDA
-
-`notebooks/01_eda.ipynb` carga `data/raw/anuncios.csv`, limpia y analiza en
-estilo informe final (Carga → Limpieza → EDA → Hallazgos). Decisiones aplicadas:
-
-- Años faltantes → `anio = 0` (se excluyen solo de análisis que usan año).
-- Moneda: `1 USD = 710 CUP` (constante `TASA_CUP_USD` en el notebook).
-
-Resultados clave (verificados contra los datos reales, muestra ampliada de 600):
-
-- **600 anuncios** (92% con precio; mediana **19 500 USD**).
-- **94% de los anuncios con año son posteriores a 2010** → mercado moderno.
-- Año = factor más fuerte: **+716 USD por cada año** adicional (r = 0.30).
-- Segmentos: Toyota/Nissan/Hyundai/Kia (23.5–38k USD) vs. Lada/Daewoo (6–11k USD).
-
-Salidas:
-
-- **Gráficos** en `reports/`: `fig_01_precios.png` … `fig_07_precio_vs_vistas.png`.
-- **Dataset limpio** en `data/processed/mercado_havana.csv` (listo para la Fase 5).
-
-Re-ejecutar el notebook con: `py -m jupyter nbconvert --to notebook --execute --inplace notebooks\01_eda.ipynb`
-
-## Fase 5 completada — modelo de precios (regresión)
-
-`notebooks/02_modelo_precios.ipynb` entrena una regresión lineal (scikit-learn)
-sobre `data/processed/mercado_havana.csv` (muestra ampliada de 600), con el
-pipeline correcto: split 75/25 con semilla fija, transformaciones (One-Hot)
-ajustadas **solo en train**, evaluación en test + validación cruzada 5-fold.
-Decisiones aplicadas:
-
-- Datos incompletos → **excluir por modelo** (cada uno reporta su `n`): M0 n=555,
-  M1 n=300, M2/M3 n=247 (no se eliminan filas del dataset).
-- Dos variantes del target: `precio_usd` (lineal) y `log1p(precio_usd)`.
-
-Resultados clave (verificados contra los datos reales):
-
-- **4–5× más datos estabilizaron las métricas, pero el modelo aún no generaliza**:
-  R² de test ahora positivo en M1 (+0.04) y M2 (+0.03), M3 −0.49; en CV 5-fold el
-  R² sigue negativo (M1 −0.09, M2 −0.38, M3 −0.57) y el RMSE (~19–22k USD) es tan
-  alto como la desviación típica. La causa ya no es solo el tamaño: faltan
-  variables fuertes (km, estado, combustible están vacías en Revolico).
-- **El año sigue siendo el factor más fuerte**: **+716 USD por año** en M1
-  completo; r = 0.29 (en la muestra de 150 era +796 y r ≈ 0.46).
-- **La marca aporta señal**: bmw +51 878, ford +30 467, land rover +18 550,
-  fiat +10 166 USD sobre la base (audi); R² 0.092 → 0.312.
-
-Salidas:
-
-- **Gráficos** en `reports/`: `fig_08_prediccion_vs_real.png`,
-  `fig_09_coeficientes.png`, `fig_10_metricas_modelos.png`.
-- **Tablas**: `reports/tabla_metricas_modelos.csv`, `reports/coeficientes_m2.csv`.
-- **Dataset**: `data/processed/regresion_dataset.csv` (247 filas listas para el
-  informe final).
-
-Re-ejecutar el notebook con: `py -m jupyter nbconvert --to notebook --execute --inplace notebooks\02_modelo_precios.ipynb`
-
-## Fase 6 completada — informe final
-
-`notebooks/03_informe_final.ipynb` integra el proyecto completo (Fases 1–5) en
-estilo informe: portada, resumen ejecutivo, metodología (scraping, limpieza,
-modelado), resultados del EDA y del modelo con las figuras y tablas reales, la
-**comparación antes/después del scraping ampliado** (150 → 600 anuncios),
-discusión con limitaciones, conclusiones y anexos.
-
-- Solo 3 celdas de código, que **leen los CSV reales** (`data/processed/`,
-  `reports/`) para que todas las cifras citadas salgan de ejecución.
-- Figuras embebidas: `reports/fig_01_precios.png` … `fig_10_metricas_modelos.png`.
-- Exportar a HTML/PDF: `py -m jupyter nbconvert --to html notebooks\03_informe_final.ipynb`
-
-## El esquema de datos
-
-Consulta **`docs/esquema_datos.md`**: define TODOS los campos que vas a recolectar,
-tanto de anuncios como de campo. Revísalo y ajústalo ANTES de empezar a recolectar.
+> No se inventan datos: las preguntas 6 (formal vs informal) y 9 (costo de mantener un auto) quedan pendientes hasta completar las capturas correspondientes.
 
 ## Handoffs y journals del proyecto
 
@@ -159,8 +118,7 @@ La carpeta **`opencode/`** es el **registro obligatorio** de todo handoff y
 journal ejecutado en el proyecto (regla permanente desde 2026-10-11):
 
 - `opencode/handoffs/` — documentos de traspaso entre sesiones (estado, archivos
-  clave, decisiones, siguiente paso). Ver `001_2026-10-11_estado_proyecto.md`.
-- `opencode/journals/` — bitácora de hallazgos y decisiones técnicas (ver
-  `001_2026-10-11_ampliacion_datos.md` y `002_2026-10-11_api_graphql_revolico.md`).
+  clave, decisiones, siguiente paso).
+- `opencode/journals/` — bitácora de hallazgos y decisiones técnicas.
 - `opencode/INDICE.md` — tabla de registro con todas las entradas.
 - Convención y regla permanente documentadas en `opencode/README.md`.
