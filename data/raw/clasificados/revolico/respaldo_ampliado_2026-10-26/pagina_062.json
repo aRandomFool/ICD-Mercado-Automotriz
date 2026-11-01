@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57070741",
+    "title": "🚗 ELÉCTRICO 🚗  HYUNDAI IONIC 5 2022 BLACO. - CHAPA Y CERTIFICADO. PRECIO AJUSTABLE. TL 54833699",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/electrico-hyundai-ionic-5-2022-blaco-chapa-y-certificado-precio-ajustable-tl-54833699-57070741",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T13:41:35.070Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "57070685",
+    "title": "Lada 2107",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/lada-2107-57070685",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-28T16:11:01.871Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "47",
+    "viewCount": 548
+   }
+  },
+  {
+   "node": {
+    "id": "57070616",
+    "title": "¡SE VENDE! Volkswagen Gol 2003 - Excelente Estado y Económico",
+    "price": 12500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-volkswagen-gol-2003-excelente-estado-y-economico-57070616",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-08-28T16:08:10.765Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 89
+   }
+  },
+  {
+   "node": {
+    "id": "57070534",
+    "title": "🚗 ELECTRICO 🚗 VOLKSWAGEN ID4 GRIS 2022 - - CHAPA Y CERTIFICADO. TL 54833699",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/electrico-volkswagen-id4-gris-2022-chapa-y-certificado-tl-54833699-57070534",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T13:41:43.886Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 80
+   }
+  },
+  {
+   "node": {
+    "id": "57070270",
+    "title": "Se vende scoda favia 2005 perfectas condiciones  aire acondicionado",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-scoda-favia-2005-perfectas-condiciones-aire-acondicionado-57070270",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T15:52:42.852Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 135
+   }
+  },
+  {
+   "node": {
+    "id": "57069778",
+    "title": "Carro⚡️ Hyundai IONIQ 5 2024 🔥",
+    "price": 43000,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-ioniq-5-2024-57069778",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T15:28:59.341Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57069712",
+    "title": "Carro 🔥 Hyundai Elantra 2019",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-elantra-2019-57069712",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T15:26:15.419Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57067798",
+    "title": "Hyundai Elantra 2019",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57067798",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-08T19:00:11.865Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "57067307",
+    "title": "Se vende Geely Ck. 53179981",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/se-vende-geely-ck-53179981-57067307",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T13:44:07.841Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "57067213",
+    "title": "Kia rio 2021",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2021-57067213",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T13:40:27.767Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "57065349",
+    "title": "Troque",
+    "price": 1000,
+    "currency": "CUP",
+    "permalink": "/item/troque-57065349",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-28T11:58:36.211Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "57065270",
+    "title": "KIA PICANTO 2017",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2017-57065270",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-08-28T11:51:55.441Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 159
+   }
+  },
+  {
+   "node": {
+    "id": "57064916",
+    "title": "Hyundai Elantra 2023",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-57064916",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-08-28T11:22:50.808Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57064620",
+    "title": "Venta de Toyota corolla",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-toyota-corolla-57064620",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-08-28T10:45:40.828Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 129
+   }
+  },
+  {
+   "node": {
+    "id": "57047272",
+    "title": "Auto Arcfox T1 LV2 Full Eléctrico a 33mil usd. Recogida en San miguel",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/auto-arcfox-t1-lv2-full-electrico-a-33mil-usd-recogida-en-san-miguel-57047272",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T18:37:49.016Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "57063915",
+    "title": "Camioneta Chevrolet",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-chevrolet-57063915",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-28T07:27:08.128Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 284
+   }
+  },
+  {
+   "node": {
+    "id": "57063855",
+    "title": "Hyndai ioniQ 5 2024",
+    "price": 41000,
+    "currency": "USD",
+    "permalink": "/item/hyndai-ioniq-5-2024-57063855",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-08-28T07:00:13.938Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "57063488",
+    "title": "Compro TICO 53583818",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/compro-tico-53583818-57063488",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-28T05:20:05.096Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57063361",
+    "title": "FOTON truck",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/foton-truck-57063361",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T04:41:18.212Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "57063203",
+    "title": "Honda Accord 2015.. todo en orden... me subo para algo Superior",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-2015-todo-en-orden-canon-de-carro-57063203",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T11:23:20.150Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 260
+   }
+  },
+  {
+   "node": {
+    "id": "57063045",
+    "title": "Hyundai Elantra 2019   19.500 usd",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-19500-usd-57063045",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-28T03:52:21.306Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57055418",
+    "title": "SE VENDE LADA 2107 – MUY BUEN ESTADO",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-2107-muy-buen-estado-57055418",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-08-27T17:01:45.898Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 273
+   }
+  },
+  {
+   "node": {
+    "id": "57062376",
+    "title": "Hyundai",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-57062376",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T01:56:52.190Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "57061974",
+    "title": "Vendo moscovich mecánica de lada 2103",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/vendo-moscovich-mecanica-de-lada-2103-57061974",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-19T01:24:35.174Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 355
+   }
+  },
+  {
+   "node": {
+    "id": "57061923",
+    "title": "Se vende geely ck",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-geely-ck-57061923",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T13:48:26.391Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 137
+   }
+  },
+  {
+   "node": {
+    "id": "57060950",
+    "title": "💥Hyundai Elantra 2023💥",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-57060950",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-27T23:47:06.843Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "57059628",
+    "title": "Carro",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/carro-57059628",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-08-27T22:10:25.272Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57059569",
+    "title": "Carro eléctrico 🤩",
+    "price": 43000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57059569",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-08-27T22:05:10.695Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "57057310",
+    "title": "*🔥 Hyundai Elantra 2023*",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-57057310",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T14:22:09.066Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57059149",
+    "title": "11000 Renault Scala Automático con un estilo único en pintura negro mate. Equipado con transmisión automática suave, mot",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/11000-renault-scala-automatico-con-un-estilo-unico-en-pintura-negro-mate-equipado-con-transmision-automatica-suave-mot-57059149",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T13:56:50.358Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 394
+   }
+  },
+  {
+   "node": {
+    "id": "57059111",
+    "title": "32000 Hyundai Santa Cruz del año 2022, la combinación perfecta entre el confort premium de una SUV y la practicidad de",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/32000-hyundai-santa-cruz-del-ano-2022-la-combinacion-perfecta-entre-el-confort-premium-de-una-suv-y-la-practicidad-de-57059111",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:57:04.556Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 93
+   }
+  },
+  {
+   "node": {
+    "id": "57059051",
+    "title": "Hyundai IONIQ 5 2024 100% Eléctrico! Disponible en La Habana por $42,000 USD. Disfruta de una conducción potente,",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-disponible-en-la-habana-por-42000-usd-disfruta-de-una-conduccion-potente-57059051",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T13:56:54.475Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57059014",
+    "title": "impresionante BMW X6 del año 2016 Paquete M .Este imponente SUV coupé de alta gama se encuentra personalizado y",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/impresionante-bmw-x6-del-ano-2016-paquete-m-este-imponente-suv-coupe-de-alta-gama-se-encuentra-personalizado-y-57059014",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T13:56:22.058Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "57058969",
+    "title": "Hyundai Palisade 2023 en su versión tope de gama Calligraphy, la máxima expresión de lujo, confort y presencia",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2023-en-su-version-tope-de-gama-calligraphy-la-maxima-expresion-de-lujo-confort-y-presencia-57058969",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T13:56:35.675Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 154
+   }
+  },
+  {
+   "node": {
+    "id": "57058946",
+    "title": "Se vende espectacular Hyundai Santa Fe 2025 CalligraphyAl ser la versión Calligraphy, ofrece la máxima expresión de lujo",
+    "price": 44000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-espectacular-hyundai-santa-fe-2025-calligraphyal-ser-la-version-calligraphy-ofrece-la-maxima-expresion-de-lujo-57058946",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:57:00.059Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 234
+   }
+  },
+  {
+   "node": {
+    "id": "57058929",
+    "title": "Hyundai Santa Fe 2017 Un auto espacioso, seguro y con una presencia inigualable en la calle,",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2017-un-auto-espacioso-seguro-y-con-una-presencia-inigualable-en-la-calle-57058929",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:57:38.912Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 202
+   }
+  },
+  {
+   "node": {
+    "id": "57058547",
+    "title": "PALISADE",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/palisade-57058547",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-27T20:37:36.212Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 76
+   }
+  },
+  {
+   "node": {
+    "id": "57058342",
+    "title": "Kia Rio",
+    "price": 19,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-57058342",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-08-27T20:24:57.143Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57058275",
+    "title": "Carros en Oferta - Hyundai Elantra 2023",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/carros-en-oferta-hyundai-elantra-2023-57058275",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-12T14:56:39.449Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "57058058",
+    "title": "Vendo carro Hyundai acent automático del 2009, perfecto estado funciona todo interesados llamar a +5353314248",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/vendo-carro-hyundai-acent-automatico-del-2009-perfecto-estado-funciona-todo-interesados-llamar-a-5353314248-57058058",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-08-27T20:03:14.515Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 188
+   }
+  },
+  {
+   "node": {
+    "id": "57057738",
+    "title": "*🔥 Hyundai Elantra 2019*",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57057738",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-20T16:38:34.681Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57057636",
+    "title": "*⚡️ Hyundai IONIQ 5 2024 🔥*",
+    "price": 41100,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57057636",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-23T19:00:51.664Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57057631",
+    "title": "Carro Moderno Hyundai Elantra 2023",
+    "price": 29500,
+    "currency": "USD",
+    "permalink": "/item/carro-moderno-hyundai-elantra-2023-57057631",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-27T19:31:49.585Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57057409",
+    "title": "*🔥 Hyundai Elantra 2023*",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-57057409",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-31T15:28:48.402Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "57057358",
+    "title": "HYUNDAI IONIQ 5 2024",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-electrico-488-km-autonomia-50000-millas-57057358",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T12:45:36.822Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57057323",
+    "title": "🚗 Hyundai Elantra 2019",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-gasolina-60704-millas-economico-57057323",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T14:50:10.593Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57057283",
+    "title": "🚗 Hyundai Elantra 2023 Gasolina 29,000 Millas Excelente Estado",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-gasolina-29000-millas-excelente-estado-57057283",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-03T19:16:42.800Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57057282",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 41000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57057282",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-27T19:08:35.867Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57057233",
+    "title": "Hyundai Elantra 2019",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57057233",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-27T19:05:18.273Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57057170",
+    "title": "Hyundai Elantra 2023",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-57057170",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-27T19:00:59.668Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 7
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57095331",
+    "title": "🏅Hyundai Tucson 2022",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2022-57095331",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-03T21:27:42.124Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "81",
+    "viewCount": 96
+   }
+  },
+  {
+   "node": {
+    "id": "57095212",
+    "title": "*🔥 Hyundai Elantra 2023*",
+    "price": 29500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-57095212",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-05T05:50:21.913Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "57095159",
+    "title": "Toyota Sequoia SR5 i-force Max 2024 v6",
+    "price": 90000,
+    "currency": "USD",
+    "permalink": "/item/toyota-sequoia-sr5-i-force-max-2024-v6-57095159",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T19:48:14.560Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 80
+   }
+  },
+  {
+   "node": {
+    "id": "57095134",
+    "title": "*🔥 Hyundai Elantra 2019*",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57095134",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-05T05:49:36.325Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57095070",
+    "title": "⚡️ Hyundai IONIQ 5 2024 🔥",
+    "price": 41000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57095070",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-05T05:49:00.990Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57094985",
+    "title": "Vendo Glory 330 s",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/vendo-glory-330-s-57094985",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-08-29T23:12:51.070Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57094843",
+    "title": "Hago negocios por lada 2107",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hago-negocios-por-lada-2107-57094843",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-29T23:01:48.576Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 133
+   }
+  },
+  {
+   "node": {
+    "id": "57094814",
+    "title": "Venta de Toyota corolla 2025",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-toyota-corolla-2025-57094814",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-08-29T22:59:26.030Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 97
+   }
+  },
+  {
+   "node": {
+    "id": "57093699",
+    "title": "Venta de moshovish",
+    "price": 3800,
+    "currency": "USD",
+    "permalink": "/item/venta-de-moshovish-57093699",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-29T21:41:16.852Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 121
+   }
+  },
+  {
+   "node": {
+    "id": "57092775",
+    "title": "Jeep Willy 48",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/jeep-willy-48-57092775",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-29T20:30:21.035Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 386
+   }
+  },
+  {
+   "node": {
+    "id": "57091253",
+    "title": "Carro moshovish 2140",
+    "price": 3800,
+    "currency": "USD",
+    "permalink": "/item/-57091253",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-29T19:00:04.859Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "57091063",
+    "title": "Kia 2019",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/kia-2019-57091063",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-30T15:23:34.080Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57090349",
+    "title": "Hyundai elantra",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-57090349",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-29T18:04:49.961Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 113
+   }
+  },
+  {
+   "node": {
+    "id": "57089859",
+    "title": "Se pone bueno la foto te lo dice viene para gas y gasolina original nada de adaptación 110 y 220 vol por solo   1400usd",
+    "price": 1400,
+    "currency": "USD",
+    "permalink": "/item/se-pone-bueno-la-foto-te-lo-dice-viene-para-gas-y-gasolina-original-nada-de-adaptacion-110-y-220-vol-por-solo-1400usd-57089859",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-30T12:38:39.445Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57087552",
+    "title": "Hyundai Elantra 2019",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57087552",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-13T09:20:33.042Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "57087403",
+    "title": "Moskobish 2140 Caja5ta de lada",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/moskobish-2140-caja5ta-de-lada-57087403",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-29T15:20:23.081Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "18",
+    "viewCount": 176
+   }
+  },
+  {
+   "node": {
+    "id": "57086263",
+    "title": "Negoceo o cambio apartamento y polaco con mecánica de tico al 💯 y sin detalles por algo mayor",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/negoceo-o-cambio-apartamento-y-polaco-con-mecanica-de-tico-al-y-sin-detalles-por-algo-mayor-57086263",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-29T14:19:46.042Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57084784",
+    "title": "EL MAS NUEVO DE CUBA",
+    "price": 43500,
+    "currency": "USD",
+    "permalink": "/item/el-mas-nuevo-de-cuba-57084784",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-08-29T13:16:04.211Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 62
+   }
+  },
+  {
+   "node": {
+    "id": "57082904",
+    "title": "Bueno, Bonito y Barato *⚡️ Hyundai IONIQ 5 2024 🔥*",
+    "price": 41500,
+    "currency": "USD",
+    "permalink": "/item/bueno-bonito-y-barato-hyundai-ioniq-5-2024-57082904",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-29T09:45:10.936Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57082890",
+    "title": "No te lo pierda *🔥 Hyundai Elantra 2019*",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/no-te-lo-pierda-hyundai-elantra-2019-57082890",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-29T09:40:23.531Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57082238",
+    "title": "HYUNDAI SANTA FE 2019 LIMITE ÚLTIMATE EL MEJOR DE CUNA MAS DE 10 MIL USD  PERSONALISADO EN LA HYUNDAI venta o negocio",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2019-limite-ultimate-el-mejor-de-cuna-mas-de-10-mil-usd-personalisado-en-la-hyundai-venta-o-negocio-57082238",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-29T06:27:14.421Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "57082226",
+    "title": "Audi Q7 2020 AVION DE CARRO VENTA O NEGOCIO",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/audi-q7-2020-avion-de-carro-venta-o-negocio-57082226",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-29T06:25:25.680Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "57082221",
+    "title": "BMW X6 DIESEL 2009 caro anda de película",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/bmw-x6-diesel-2009-caro-anda-de-pelicula-57082221",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:59:21.610Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 153
+   }
+  },
+  {
+   "node": {
+    "id": "57082218",
+    "title": "Kia forte GT LINE 2020 un muñeco el carro venta o negocio",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/kia-forte-gt-line-2020-un-muneco-el-carro-venta-o-negocio-57082218",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-22T05:59:20.613Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 108
+   }
+  },
+  {
+   "node": {
+    "id": "57082210",
+    "title": "Hyundai sonata SEL 2020 carro de película venta o negocio",
+    "price": 22500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-sel-2020-carro-de-pelicula-venta-o-negocio-57082210",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-22T05:59:19.685Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 131
+   }
+  },
+  {
+   "node": {
+    "id": "57082207",
+    "title": "Kia  picanto 2012 carrito bueno sin detalles",
+    "price": 11500,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2012-carrito-bueno-sin-detalles-57082207",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-22T05:59:18.609Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 518
+   }
+  },
+  {
+   "node": {
+    "id": "57082191",
+    "title": "BMW X6 2016 TECHO DE CRISTAL ASIENTOS EN PIEL MOTOR V6 VITURBO venta o negocio",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/bmw-x6-2016-techo-de-cristal-asientos-en-piel-motor-v6-viturbo-venta-o-negocio-57082191",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-22T05:59:17.623Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "57082169",
+    "title": "SE VENDE CARRO NUEVO",
+    "price": 20900,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-nuevo-57082169",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T13:46:13.771Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 394
+   }
+  },
+  {
+   "node": {
+    "id": "57081287",
+    "title": "Hyundai Santa Fe 2017",
+    "price": 31000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2017-57081287",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T13:54:12.590Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 87
+   }
+  },
+  {
+   "node": {
+    "id": "57081284",
+    "title": "Hyundai Palisade Calligraphy 2022",
+    "price": 51000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-calligraphy-2022-57081284",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-26T14:22:06.166Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 101
+   }
+  },
+  {
+   "node": {
+    "id": "57080760",
+    "title": "Renault Grand Modus diesel 1.5 dci ,más repuestos",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/renault-grand-modus-diesel-15-dci-mas-repuestos-57080760",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-29T03:13:30.768Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 110
+   }
+  },
+  {
+   "node": {
+    "id": "57079057",
+    "title": "Trailer",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/trailer-57079057",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-29T00:53:19.323Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "57078626",
+    "title": "Delta 3 Pluss",
+    "price": 950,
+    "currency": "USD",
+    "permalink": "/item/delta-3-pluss-57078626",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-29T00:03:17.228Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57078166",
+    "title": "Vendo Toyota RAV4 2024",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/vendo-toyota-rav4-2024-57078166",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-08-28T23:25:34.642Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 152
+   }
+  },
+  {
+   "node": {
+    "id": "57078037",
+    "title": "Se vende Peugeot Junior 205",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-peugeot-junior-205-57078037",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-28T23:17:14.460Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 143
+   }
+  },
+  {
+   "node": {
+    "id": "57077092",
+    "title": "Venta de carros",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carros-57077092",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-28T22:07:05.567Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 101
+   }
+  },
+  {
+   "node": {
+    "id": "57077045",
+    "title": "Carros en venta en la habana",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/carros-en-venta-en-la-habana-57077045",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-28T22:04:10.166Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 140
+   }
+  },
+  {
+   "node": {
+    "id": "57076822",
+    "title": "CARRO BAIC BEIJING X35 . 📱5 3609924",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/carro-baic-beijing-x35-5-3609924-57076822",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T21:49:27.691Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57076645",
+    "title": "MOSKOVICH 2140",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/moskovich-2140-57076645",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-08-28T21:36:45.223Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 352
+   }
+  },
+  {
+   "node": {
+    "id": "57076583",
+    "title": "HYUNDAI ELANTRA N",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-n-57076583",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T02:09:23.249Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "14",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57076536",
+    "title": "Hyundai Eléctricos",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-electricos-57076536",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T02:09:21.660Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "14",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "57075996",
+    "title": "Peugeot 404",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-404-57075996",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-28T20:55:23.206Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "124",
+    "viewCount": 401
+   }
+  },
+  {
+   "node": {
+    "id": "57075882",
+    "title": "Se vende Lada 1600. Único dueño",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-1600-unico-dueno-57075882",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-08-28T20:48:18.875Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 150
+   }
+  },
+  {
+   "node": {
+    "id": "57075183",
+    "title": "Hyundai Tucson 2022",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2022-57075183",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-08T22:48:26.338Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "57075090",
+    "title": "Fiat Punto 1997 Diésel Original en buenas condiciones Soy Dueño",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/fiat-punto-1997-diesel-original-en-buenas-condiciones-soy-dueno-57075090",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-20T12:36:07.723Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 371
+   }
+  },
+  {
+   "node": {
+    "id": "57074883",
+    "title": "Se vende camioneta plataforma Chevrolet 48  Motor Chevrolet 53 caja 5ta Hyunday diferencial 3,5 freno de disco delante y",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-camioneta-plataforma-chevrolet-48-motor-chevrolet-53-caja-5ta-hyunday-diferencial-35-freno-de-disco-delante-y-57074883",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T19:47:51.286Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "57074258",
+    "title": "Renault año 57 1500 dólares",
+    "price": 1500,
+    "currency": "USD",
+    "permalink": "/item/renault-ano-57-1500-dolares-57074258",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-28T19:15:10.819Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 84
+   }
+  },
+  {
+   "node": {
+    "id": "57073811",
+    "title": "Hyundai Elantra",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-57073811",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-13T09:20:18.043Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57072709",
+    "title": "BMW 325i del 1993",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/bmw-325i-del-1993-57072709",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-08-28T18:06:20.067Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57072323",
+    "title": "EN VENTA CAMIÓN",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-camion-57072323",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-14T02:46:21.356Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 260
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

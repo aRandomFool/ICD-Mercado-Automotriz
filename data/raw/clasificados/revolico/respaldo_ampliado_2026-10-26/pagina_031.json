@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57807317",
+    "title": "🚨HONDA PILOT 2019(élite)🚨",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/honda-pilot-2019elite-57807317",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-30T23:13:26.943Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "57806732",
+    "title": "Se vende",
+    "price": 24,
+    "currency": "USD",
+    "permalink": "/item/se-vende-57806732",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-30T22:47:24.650Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57805739",
+    "title": "Honda Prologue Elite 2024",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/honda-prologue-elite-2024-57805739",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-30T22:02:16.758Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57805361",
+    "title": "MG3 2019",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/mg3-2019-57805361",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-30T21:44:53.671Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 152
+   }
+  },
+  {
+   "node": {
+    "id": "57804208",
+    "title": "Hola negocio o vendó este Moscovi.",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/hola-negocio-esto-dos-moscovi-de-petroleo-57804208",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-19T13:39:03.916Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 238
+   }
+  },
+  {
+   "node": {
+    "id": "57804187",
+    "title": "Vendo Moskvich",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/vendo-moskvich-57804187",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-06T19:13:02.876Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "33",
+    "viewCount": 124
+   }
+  },
+  {
+   "node": {
+    "id": "57804008",
+    "title": "BESTUNE 100% ELÉCTRICO 2025",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/bestune-100-electrico-2025-57804008",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-30T20:50:34.415Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57804006",
+    "title": "CAMBIO MI POLACO POR APARTAMENTO PEQUEÑO EN LA HABANA",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/cambio-mi-polaco-por-apartamento-pequeno-en-la-habana-57804006",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-30T20:50:29.790Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57803959",
+    "title": "Fotón toano 2025",
+    "price": 54000,
+    "currency": "USD",
+    "permalink": "/item/foton-toano-2025-57803959",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-30T20:48:11.926Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "57803910",
+    "title": "se venndeeee",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-venndeeee-57803910",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T20:46:04.666Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57803860",
+    "title": "Hyunday Ionic del 2024",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/hyunday-ionic-del-2024-57803860",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T20:44:02.834Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57803128",
+    "title": "Toyota Corolla 2025",
+    "price": 16450,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2025-57803128",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-30T20:10:58.269Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "1",
+    "viewCount": 204
+   }
+  },
+  {
+   "node": {
+    "id": "57802290",
+    "title": "Chevrolet colorado",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-57802290",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T19:33:21.681Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57802098",
+    "title": "Moscovi",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/moscovi-57802098",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T19:25:22.103Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57800759",
+    "title": "⛔️ LADA 1600 MOTOR 03 CAJA 4TA GANGA VENDO HOY ⛔️",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/lada-1600-motor-03-caja-4ta-ganga-vendo-hoy-57800759",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T20:10:12.672Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 479
+   }
+  },
+  {
+   "node": {
+    "id": "57800627",
+    "title": "Camión GMC C7500",
+    "price": 55000,
+    "currency": "USD",
+    "permalink": "/item/camion-gmc-c7500-57800627",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-22T18:46:42.915Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 95
+   }
+  },
+  {
+   "node": {
+    "id": "57799550",
+    "title": "Hyundai Santa Fe Calígraphy 2022",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-caligraphy-2022-57799550",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-30T17:48:25.244Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57799253",
+    "title": "Lada",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/lada-57799253",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-30T17:38:27.788Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 306
+   }
+  },
+  {
+   "node": {
+    "id": "57798703",
+    "title": "Vendo BAW F7 MT 2025",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/vendo-baw-f7-mt-2025-57798703",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-30T17:20:15.702Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57797863",
+    "title": "Hyundai Santa Fe",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/carro-57797863",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-26T16:22:37.084Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "57795386",
+    "title": "Carros exclusivos",
+    "price": 1000,
+    "currency": "USD",
+    "permalink": "/item/carros-exclusivos-57795386",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-30T15:22:14.924Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "57794830",
+    "title": "Hyundai Ioniq habana",
+    "price": 38,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-habana-57794830",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-30T15:05:54.391Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "57794189",
+    "title": "Hyundai Santa  Fe Calígraphy",
+    "price": 33.5,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-caligraphy-57794189",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-30T14:49:22.925Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57794050",
+    "title": "Fiat polaco moderno",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/fiat-polaco-moderno-57794050",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-07T13:49:09.691Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 164
+   }
+  },
+  {
+   "node": {
+    "id": "57793739",
+    "title": "🚨AUTOIMPORT CUBA 🚨",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/autoimport-cuba-57793739",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-30T14:38:27.817Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "57793669",
+    "title": "Toyota Tundra 4x4 V6 – 148,000 millas – Papeles en regla",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/toyota-tundra-4x4-v6-148000-millas-papeles-en-regla-57793669",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T14:36:40.012Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57793039",
+    "title": "♦️ _*BMW E46 2003 ♦️",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-e46-2003-57793039",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-30T14:18:43.136Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "57792816",
+    "title": "Se vende LADA 2105",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-2105-57792816",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-30T14:12:47.329Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 175
+   }
+  },
+  {
+   "node": {
+    "id": "57792464",
+    "title": "Kia EV 2026",
+    "price": 47000,
+    "currency": "USD",
+    "permalink": "/item/kia-ev-2026-57792464",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-30T14:01:43.567Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 32
+   }
+  },
+  {
+   "node": {
+    "id": "57792248",
+    "title": "Toyata",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/toyata-57792248",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-30T13:55:15.673Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57792093",
+    "title": "*Hyundai Santa Fe Calígraphy 🔥* Conduce el auto se tu sueños",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-caligraphy-conduce-el-auto-se-tu-suenos-57792093",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-23T17:04:54.641Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "57791498",
+    "title": "Delta  3 clásica",
+    "price": 610,
+    "currency": "USD",
+    "permalink": "/item/delta-3-clasica-57791498",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T13:31:30.599Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57791314",
+    "title": "DISPONIBLE AHORA MISMO 🖤🚗!!",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/disponible-ahora-mismo-57791314",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-02T02:23:55.809Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57790801",
+    "title": "♦️ _*VOLVO VVN 2017 ♦️",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/volvo-vvn-2017-57790801",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-30T13:10:10.874Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57789464",
+    "title": "Hyundai santa fe 2023",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2023-57789464",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-30T12:16:48.525Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "57789389",
+    "title": "Vendo y puede q de frente baje algo",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/vendo-y-puede-q-de-frente-baje-algo-57789389",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T12:12:33.295Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 135
+   }
+  },
+  {
+   "node": {
+    "id": "57789362",
+    "title": "Hyundai sonata full limited 2019",
+    "price": 21,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-full-limited-2019-57789362",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-30T12:11:18.771Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "57789167",
+    "title": "🚗*LADA 2107 DEL AÑO 2010*🚗",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-del-ano-2010-57789167",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-30T12:00:22.599Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 83
+   }
+  },
+  {
+   "node": {
+    "id": "57786933",
+    "title": "Carros",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/carros-57786933",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-13T22:41:54.378Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "57786428",
+    "title": "Hunday Santa Fe Caligraphy Híbrido",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/hunday-santa-fe-caligraphy-hibrido-57786428",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-15T10:34:34.033Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "57786377",
+    "title": "Camioneta Baw en venta🚘",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/camioneta-baw-en-venta-57786377",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T14:25:02.079Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57786115",
+    "title": "Se vende camioneta de trabajo con 2 años de garantía",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/se-vende-camioneta-de-trabajo-con-2-anos-de-garantia-57786115",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-30T05:00:15.772Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57786116",
+    "title": "Se vende camioneta de trabajo con 2 años de garantía",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/se-vende-camioneta-de-trabajo-con-2-anos-de-garantia-57786116",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-30T05:00:15.881Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "57786003",
+    "title": "Auto o Carro Hyundai Santa Fe Calígraphy",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/auto-o-carro-hyundai-santa-fe-caligraphy-57786003",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-30T04:45:50.170Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 3
+   }
+  },
+  {
+   "node": {
+    "id": "57785875",
+    "title": "HYUNDAI SANTA FE ULTIMATE 2016 (AWD 3.3L) — ¡AL DETALLE Y CON MÁS DE $3,000 EN EXTRAS! 🔥  ¡Una versión Ultimate súper e",
+    "price": 24500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-ultimate-2016-awd-33l-al-detalle-y-con-mas-de-3000-en-extras-una-version-ultimate-super-e-57785875",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-30T04:30:34.369Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57785876",
+    "title": "Kia EV5 2026",
+    "price": 47000,
+    "currency": "USD",
+    "permalink": "/item/kia-ev5-2026-57785876",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T21:57:47.591Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57785849",
+    "title": "Wa.me/56525031 HYUNDAI ACCENT 2015 🦈 — ¡AUTOMÁTICO, MOTOR NUEVO Y MÚSICA A FULL   ¡Un carro sumamente moderno, cómodo y",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/wame56525031-hyundai-accent-2015-automatico-motor-nuevo-y-musica-a-full-un-carro-sumamente-moderno-comodo-y-57785849",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-30T04:27:59.336Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57785614",
+    "title": "Desodorantes corporales",
+    "price": 1100,
+    "currency": "CUP",
+    "permalink": "/item/desodorantes-corporales-57785614",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T04:00:11.544Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "57785585",
+    "title": "Hyunday IONIQ 5 2024 full equipado 2",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyunday-ioniq-5-2024-full-equipado-2-57785585",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T03:32:38.426Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57785546",
+    "title": "Honda Pilot 2023 de 8 plazas",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/honda-pilot-2023-de-8-plazas-57785546",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T03:32:27.397Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57190460",
+    "title": "Se vende Opel 1959",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-opel-1959-57190460",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-03T21:36:55.189Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "57190313",
+    "title": "Aleko diesel",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/aleko-diesel-57190313",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-03T21:25:02.745Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 93
+   }
+  },
+  {
+   "node": {
+    "id": "57188814",
+    "title": "MG 3 2018 - AUTOMÁTICO - 14,000 USD - OPORTUNIDAD",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/mg-3-2018-automatico-14000-usd-oportunidad-57188814",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-15T14:23:38.292Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 125
+   }
+  },
+  {
+   "node": {
+    "id": "57188813",
+    "title": "MG 3 2018 - AUTOMÁTICO - 14,000 USD - OPORTUNIDAD",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/mg-3-2018-automatico-14000-usd-oportunidad-57188813",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-15T14:23:38.402Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57188131",
+    "title": "HYUNDAI ELANTRA 2023 - 60,704 MILLAS - GASOLINA - $21,000 USD",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-60704-millas-gasolina-21000-usd-57188131",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-15T14:23:38.101Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 94
+   }
+  },
+  {
+   "node": {
+    "id": "57186825",
+    "title": "Chevrolet del 51",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/chevrolet-del-51-57186825",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-03T18:16:07.379Z",
+    "isPromoted": false,
+    "provinceId": "7",
+    "municipalityId": "66",
+    "viewCount": 344
+   }
+  },
+  {
+   "node": {
+    "id": "57186444",
+    "title": "Se vende Hyundai Accent del 2008",
+    "price": 13,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-accent-del-2008-57186444",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-03T17:58:18.256Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 120
+   }
+  },
+  {
+   "node": {
+    "id": "57186394",
+    "title": "KIA FORTE GT 2022 — ¡DEPORTIVO, POTENTE Y",
+    "price": 25500,
+    "currency": "USD",
+    "permalink": "/item/kia-forte-gt-2022-deportivo-potente-y-57186394",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-12T05:42:06.538Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 62
+   }
+  },
+  {
+   "node": {
+    "id": "57185095",
+    "title": "Toyota yaris 2015",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2015-57185095",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-03T17:05:14.434Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 116
+   }
+  },
+  {
+   "node": {
+    "id": "57184043",
+    "title": "♥️ HIUNDAY ATOS 2007 CON AIRE Y CERTIFICO EN MANO  ♥️",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/hiunday-atos-2008-57184043",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T20:10:38.628Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 514
+   }
+  },
+  {
+   "node": {
+    "id": "57182881",
+    "title": "Vendo jeep willy con motor de lada",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/vendo-jeep-willy-con-motor-de-lada-57182881",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-03T15:25:55.259Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 130
+   }
+  },
+  {
+   "node": {
+    "id": "57182731",
+    "title": "Hyundai Elantra 2025 cero kilómetros",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2025-cero-kilometros-57182731",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-03T15:20:30.128Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "57182180",
+    "title": "TOYOTA LANDCRUISER 3.0 D - 4D-GX  2004 TURBO DIESEL",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/toyota-landcruiser-30-d-4d-gx-2004-turbo-diesel-57182180",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-03T14:58:24.589Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 233
+   }
+  },
+  {
+   "node": {
+    "id": "57181270",
+    "title": "Hyundai Santa Fe 2024",
+    "price": 41000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2024-57181270",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-03T14:25:20.474Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "57181250",
+    "title": "Venta autos combustible, venta de carros de combustible",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-autos-gasolina-57181250",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-17T18:45:56.084Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "57181176",
+    "title": "Camión marca  Hino del 2019",
+    "price": 49000,
+    "currency": "USD",
+    "permalink": "/item/camion-marca-hino-del-2019-57181176",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-03T14:21:28.024Z",
+    "isPromoted": false,
+    "provinceId": "7",
+    "municipalityId": "64",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57180429",
+    "title": "Geely ck 2010",
+    "price": 11500,
+    "currency": "USD",
+    "permalink": "/item/geely-ck-2010-57180429",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-03T13:53:40.901Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 130
+   }
+  },
+  {
+   "node": {
+    "id": "57179178",
+    "title": "Camión ligero refrigerado 41,800 usd  Carga 5 tonelada  1 año de uso Se  puede pasar a chapa particular. Interesados al",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/camion-ligero-refrigerado-41800-usd-carga-5-tonelada-1-ano-de-uso-se-puede-pasar-a-chapa-particular-interesados-al-57179178",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-03T13:06:46.713Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "57178902",
+    "title": "Chevrolet Colorado 2022 Z71🔥 Millas: 29.000  💵Precio: 36.500 USD 📍Ubicación: Arroyo Naranjo, Reparto Capri Interesado",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-2022-z71-millas-29000-precio-36500-usd-ubicacion-arroyo-naranjo-reparto-capri-interesado-57178902",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-03T12:55:14.544Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "57178889",
+    "title": "Kia Rio 2019 🔥 Millas: 86.00  💵Precio: 19.600 USD   Ubicación: Arroyo Naranjo, Reparto Capri Interesados al PV 58 62 1",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-millas-8600-precio-19600-usd-ubicacion-arroyo-naranjo-reparto-capri-interesados-al-pv-58-62-1-57178889",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-03T12:54:33.635Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57178867",
+    "title": "〽️Arcfox T1 LV2 Full Eléctrico〽️  ✔️ Hasta 375 km de autonomía ✔️ Motor eléctrico de 70 kW ✔️ Tracción delantera ✔️ Dire",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/arcfox-t1-lv2-full-electrico-hasta-375-km-de-autonomia-motor-electrico-de-70-kw-traccion-delantera-dire-57178867",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-03T12:53:32.632Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57178119",
+    "title": "Carro: Hyundai Sonata 2021",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-sonata-2021-57178119",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T23:44:00.626Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "57178091",
+    "title": "Carro: Hyundai Santa Cruz 2022",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carro-hyundai-santa-cruz-2022-57178091",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T23:43:51.709Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "57178061",
+    "title": "Carro: Hyundai IONIQ5 2022 (eléctrico)",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-ioniq5-2022-electrico-57178061",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T23:43:41.279Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57178029",
+    "title": "Carro: Hyundai Tucson 2018",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-tucson-2018-57178029",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T23:43:31.545Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57177981",
+    "title": "Carro: Hyundai Santa Fe 2019",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-santa-fe-2019-57177981",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T23:42:54.197Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57177932",
+    "title": "Carro: Hyundai Palisade Cell 2021",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-palisade-cell-2021-57177932",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T23:43:22.926Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57177915",
+    "title": "Carro: VW id4 2022",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/carro-vw-id4-2022-57177915",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T00:02:30.581Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57177870",
+    "title": "Carro: Toyota bz4x Limited (eléctrico) 2023",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/carro-toyota-bz4x-limited-electrico-2023-57177870",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T00:02:50.849Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "57177852",
+    "title": "Carro: Nissan Leaf 2022",
+    "price": 31000,
+    "currency": "USD",
+    "permalink": "/item/carro-nissan-leaf-2022-57177852",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T00:02:59.049Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57176842",
+    "title": "SE VENDE Fiat Tipo",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-fiat-tipo-57176842",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T20:11:07.555Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 172
+   }
+  },
+  {
+   "node": {
+    "id": "57176332",
+    "title": "Nissan 2019",
+    "price": 24500,
+    "currency": "USD",
+    "permalink": "/item/nissan-2019-57176332",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-03T08:28:51.709Z",
+    "isPromoted": false,
+    "provinceId": "7",
+    "municipalityId": "64",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "57174556",
+    "title": "Tucson",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/tucson-57174556",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-03T03:54:59.283Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "17",
+    "viewCount": 121
+   }
+  },
+  {
+   "node": {
+    "id": "57173822",
+    "title": "SE VENDE AUTOMÓVIL (CARRO) Hyundai IONIQ 5 2024",
+    "price": 41000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-automovil-carro-hyundai-ioniq-5-2024-57173822",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-26T13:20:06.508Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "57173677",
+    "title": "Se vende Aleko 2141, en perfectas condiciones",
+    "price": 5800,
+    "currency": "USD",
+    "permalink": "/item/se-vende-aleko-2141-en-perfectas-condiciones-57173677",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-03T02:49:27.338Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 244
+   }
+  },
+  {
+   "node": {
+    "id": "57173498",
+    "title": "Se vende citroen",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-citroen-57173498",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-18T19:35:02.327Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 200
+   }
+  },
+  {
+   "node": {
+    "id": "57172725",
+    "title": "Carro en venta",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carro-en-venta-57172725",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-03T01:49:32.057Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 100
+   }
+  },
+  {
+   "node": {
+    "id": "57172709",
+    "title": "Auto",
+    "price": 31000,
+    "currency": "USD",
+    "permalink": "/item/auto-57172709",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-08T01:01:02.744Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57169097",
+    "title": "Geely ck como nuevo",
+    "price": 11500,
+    "currency": "USD",
+    "permalink": "/item/geely-ck-como-nuevo-57169097",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-02T21:15:12.740Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 107
+   }
+  },
+  {
+   "node": {
+    "id": "57169038",
+    "title": "Geely ck como nuevo",
+    "price": 11500,
+    "currency": "USD",
+    "permalink": "/item/geely-ck-como-nuevo-57169038",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-02T21:12:25.404Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "57169037",
+    "title": "Geely ck como nuevo",
+    "price": 11500,
+    "currency": "USD",
+    "permalink": "/item/geely-ck-como-nuevo-57169037",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-02T21:12:24.205Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "57167291",
+    "title": "🔥 ¡La Fiera que Buscabas Llegó! 🔥",
+    "price": 34500,
+    "currency": "USD",
+    "permalink": "/item/la-fiera-que-buscabas-llego-57167291",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-15T00:11:32.685Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 80
+   }
+  },
+  {
+   "node": {
+    "id": "57167116",
+    "title": "Santa Fe 2023 hybrid con 72 mil único dueño",
+    "price": 320000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2023-hybrid-con-72-mil-unico-dueno-57167116",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-02T19:29:48.900Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57165298",
+    "title": "Chevrolet Colorado Lt 2021 en excelentes condiciones",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-lt-2021-en-excelentes-condiciones-57165298",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-09T23:29:28.697Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 59
+   }
+  },
+  {
+   "node": {
+    "id": "57164490",
+    "title": "Chevrolet Colorado Lt 2021 🔥",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-lt-2021-57164490",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-02T17:19:46.641Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57163782",
+    "title": "‼️Se vende polaco🚗 en 1700usd‼️ ‼️Escucho ofertas ‼️",
+    "price": 1700,
+    "currency": "USD",
+    "permalink": "/item/se-vende-polaco-57163782",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-10T17:50:05.937Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 216
+   }
+  },
+  {
+   "node": {
+    "id": "57163556",
+    "title": "Venta de Plymouth con motor de volga 24",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-plymouth-con-motor-de-volga-24-57163556",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-02T16:35:49.590Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 126
+   }
+  },
+  {
+   "node": {
+    "id": "57162889",
+    "title": "Vendo DFSK Glory 330 s",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/vendo-dfsk-glory-330-s-57162889",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-02T16:05:27.804Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57162816",
+    "title": "Jeep willy del 52 soy el dueño 52938086",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/jeep-willy-del-52-soy-el-dueno-52938086-57162816",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-02T16:02:43.845Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "57162664",
+    "title": "Chevrolet del 58",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-del-58-57162664",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-02T15:57:14.080Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 221
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

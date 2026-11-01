@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "55956629",
+    "title": "BMW en venta",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/bmw-en-venta-55956629",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-17T22:06:03.971Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 2644
+   }
+  },
+  {
+   "node": {
+    "id": "55955653",
+    "title": "HYUNDAI ELANTRA 2019 ($22400)",
+    "price": 22400,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-22400-55955653",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-17T15:32:51.364Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "55946667",
+    "title": "LIQUIDA CORSAIR IMPECABLE AL 63727637",
+    "price": 50,
+    "currency": "USD",
+    "permalink": "/item/liquida-corsair-impecable-al-63727637-55946667",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T11:08:57.928Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "55943535",
+    "title": "Vengo o negocio bestune yoice año 2026",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/vengo-o-negocio-bestune-yoice-ano-2026-55943535",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T12:07:35.087Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 199
+   }
+  },
+  {
+   "node": {
+    "id": "55943219",
+    "title": "La ganga del día 🚗🚗🚗🚗🚗🚗🚗Vendo o negocio Kia, Río, 2019",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/la-ganga-del-dia-vendo-o-negocio-kia-rio-2019-55943219",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-11T16:43:51.482Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 478
+   }
+  },
+  {
+   "node": {
+    "id": "55942348",
+    "title": "👍🏽HYUNDAI ELANTRA 2024🇺🇸👍🏽54006023",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-202454006023-55942348",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T04:46:42.246Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 165
+   }
+  },
+  {
+   "node": {
+    "id": "55938594",
+    "title": "GLC 200 2025...add",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/glc-200-2025-55938594",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T00:35:42.222Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 451
+   }
+  },
+  {
+   "node": {
+    "id": "55938555",
+    "title": "MG RX5 2025...add",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/mg-rx5-2025-55938555",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T21:20:26.824Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 363
+   }
+  },
+  {
+   "node": {
+    "id": "55938490",
+    "title": "JMC DIESEL 2023...add",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/jmc-diesel-2023-55938490",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-21T20:16:55.613Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 367
+   }
+  },
+  {
+   "node": {
+    "id": "55934245",
+    "title": "Venta de Fiat 126P ( Polaquito )",
+    "price": 2500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-fiat-126p-polaquito-55934245",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-18T18:22:34.986Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "71",
+    "viewCount": 980
+   }
+  },
+  {
+   "node": {
+    "id": "55928448",
+    "title": "Cambio o vendo Hyundai Accent",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-accent-55928448",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-20T12:16:56.827Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 374
+   }
+  },
+  {
+   "node": {
+    "id": "55916996",
+    "title": "Hyundai Santa Fe 2018",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2018-55916996",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-04T14:30:53.088Z",
+    "isPromoted": false,
+    "provinceId": "15",
+    "municipalityId": "154",
+    "viewCount": 161
+   }
+  },
+  {
+   "node": {
+    "id": "55916933",
+    "title": "Hyundai Elantra",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-55916933",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-01T03:22:32.008Z",
+    "isPromoted": false,
+    "provinceId": "15",
+    "municipalityId": "154",
+    "viewCount": 82
+   }
+  },
+  {
+   "node": {
+    "id": "55915994",
+    "title": "Vendo Chevrolet 52 descapotable, convertible, motor y caja Hyundai h100 Diesel, diferencial Ford Explorer",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/vendo-chevrolet-52-descapotable-convertible-motor-y-caja-hyundai-h100-diferencial-ford-explorer-55915994",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T19:40:30.153Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 1042
+   }
+  },
+  {
+   "node": {
+    "id": "55913342",
+    "title": "Vendo o negocio, Hyundai elantra, 2024 con 14,000 km",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-elantra-2025-con-14000-km-55913342",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-19T23:43:45.512Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 271
+   }
+  },
+  {
+   "node": {
+    "id": "55910746",
+    "title": "Lada 2105 en venta",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2105-55910746",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T17:57:26.693Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 524
+   }
+  },
+  {
+   "node": {
+    "id": "55896856",
+    "title": "‼️‼️2025 Hyundai Palisade Blanca Full Equipo SUV de Lujo Excelente Estado 12kilometro",
+    "price": 46000,
+    "currency": "USD",
+    "permalink": "/item/2025-hyundai-palisade-blanca-full-equipo-suv-de-lujo-excelente-estado-55896856",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-08T03:01:25.285Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 136
+   }
+  },
+  {
+   "node": {
+    "id": "55895832",
+    "title": "Se vende Hyundai i10 automático 2009",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-i10-automatico-2009-55895832",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-14T08:04:53.633Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 856
+   }
+  },
+  {
+   "node": {
+    "id": "55892818",
+    "title": "Honda prologue 2024..add",
+    "price": 47000,
+    "currency": "USD",
+    "permalink": "/item/honda-prologue-2024-55892818",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T01:06:05.972Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 195
+   }
+  },
+  {
+   "node": {
+    "id": "55891854",
+    "title": "SORENTO 2020...add",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/sorento-2020-55891854",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T00:35:23.604Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 231
+   }
+  },
+  {
+   "node": {
+    "id": "55884319",
+    "title": "Hyundai Tucson 2020 oferta especial",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2020-55884319",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-18T11:51:38.209Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 223
+   }
+  },
+  {
+   "node": {
+    "id": "55880277",
+    "title": "Vendo negocio Kia Picanto, 2008, mecánico",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-kia-picanto-2008-mecanico-55880277",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T18:38:53.110Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 565
+   }
+  },
+  {
+   "node": {
+    "id": "55851202",
+    "title": "¿Te imaginas estrenar un Hyundai Elantra 2025 Full Limited sin tener que pagar el valor completo de una sola vez?",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/te-imaginas-estrenar-un-hyundai-elantra-2025-full-limited-sin-tener-que-pagar-el-valor-completo-de-una-sola-vez-55851202",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T03:00:01.103Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 271
+   }
+  },
+  {
+   "node": {
+    "id": "55844170",
+    "title": "Hyundai Ioniq 5 full limited. 2024.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-ioniq-5-limited-2024-con-5-mil-milla-el-mejor-de-cuba-100-55844170",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T13:09:00.605Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 261
+   }
+  },
+  {
+   "node": {
+    "id": "55844094",
+    "title": "BMW iX xDrive50 AWD 2024 ⚡️SUV Full eléctrico, más de 500 km de autonomía, lujo y tecnología de última generación.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-ix-xdrive50-awd-2024-suv-full-electrico-mas-de-500-km-de-autonomia-lujo-y-tecnologia-de-ultima-generacion-55844094",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T13:25:01.176Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 377
+   }
+  },
+  {
+   "node": {
+    "id": "55808620",
+    "title": "Kia sportage 2024...........add",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/kia-sportage-2024-55808620",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-21T19:59:07.258Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 212
+   }
+  },
+  {
+   "node": {
+    "id": "55800986",
+    "title": "VENDO FIAT 125 ARGENTINO",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/vendo-fiat-125-argentino-55800986",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-07T16:32:01.614Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 320
+   }
+  },
+  {
+   "node": {
+    "id": "55799081",
+    "title": "GMC Sierra 2022........add",
+    "price": 72000,
+    "currency": "USD",
+    "permalink": "/item/gmc-sierra-2022-55799081",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T01:11:03.045Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 254
+   }
+  },
+  {
+   "node": {
+    "id": "55797038",
+    "title": "Toyota Rav4 2011 automático",
+    "price": 17500,
+    "currency": "USD",
+    "permalink": "/item/toyota-rav4-2011-automatico-55797038",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-21T12:41:46.326Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 286
+   }
+  },
+  {
+   "node": {
+    "id": "55781467",
+    "title": "TOYOTA FRONLANDER 2025...add",
+    "price": 41000,
+    "currency": "USD",
+    "permalink": "/item/toyota-fronlander-2025-55781467",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T01:06:44.017Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 233
+   }
+  },
+  {
+   "node": {
+    "id": "55776830",
+    "title": "NISSAN Primera / 1995 / fuel injection / 16 válvulas",
+    "price": 8500,
+    "currency": "CUP",
+    "permalink": "/item/nissan-primera-1995-fuel-injection-16-valvulas-detalles-de-pintura-55776830",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T19:11:42.468Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 552
+   }
+  },
+  {
+   "node": {
+    "id": "55776217",
+    "title": "BMW iX xDrive50 AWD 2025 ⚡️SUV Full eléctrico, más de 500 km de autonomía, lujo y tecnología de última generación.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-ix-xdrive50-awd-2025-suv-full-electrico-mas-de-500-km-de-autonomia-lujo-y-tecnologia-de-ultima-generacion-55776217",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T13:25:08.455Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 483
+   }
+  },
+  {
+   "node": {
+    "id": "55764880",
+    "title": "KIA PICANTO 2021..add",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2021-55764880",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-01T14:52:56.218Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 230
+   }
+  },
+  {
+   "node": {
+    "id": "55764850",
+    "title": "TOYOTA RAV 4 2022....add",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/toyota-rav-4-2022-55764850",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T19:34:22.965Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 622
+   }
+  },
+  {
+   "node": {
+    "id": "55764806",
+    "title": "Hyundai Tucson 2024...add",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2024-55764806",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T21:15:55.891Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 284
+   }
+  },
+  {
+   "node": {
+    "id": "55726049",
+    "title": "Vendo o negocio Kia Picanto, 2026 cero millas Gt line",
+    "price": 24500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-kia-picanto-2026-cero-millas-gt-line-55726049",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-20T18:40:45.978Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 273
+   }
+  },
+  {
+   "node": {
+    "id": "55726034",
+    "title": "Vendo negocio Kia Picanto, 2026, 0 km carro, impecable GT Line",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-kia-picanto-2026-0-km-carro-impecable-gt-line-55726034",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-17T12:48:27.202Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 322
+   }
+  },
+  {
+   "node": {
+    "id": "55724243",
+    "title": "Vendo o negocio yhundai IONIQ 6 eléctrico del 2025",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-yhundai-ioniq-6-electrico-del-2025-55724243",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-19T23:45:36.059Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 125
+   }
+  },
+  {
+   "node": {
+    "id": "55724185",
+    "title": "Vendo  o  negocio Hyundai, atos  2009",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-atos-2009-55724185",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-17T13:10:11.322Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 1006
+   }
+  },
+  {
+   "node": {
+    "id": "55723559",
+    "title": "VOLKSWAGEN JETTA DEL 91...add",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-jetta-del-91-55723559",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T01:58:58.729Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 594
+   }
+  },
+  {
+   "node": {
+    "id": "55720890",
+    "title": "KIA FORTE 2019...add",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/kia-forte-2019-55720890",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T21:24:06.263Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 232
+   }
+  },
+  {
+   "node": {
+    "id": "55709363",
+    "title": "🚗 TOYOTA YARIS 2006 EN VENTA 🚗",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2006-en-venta-55709363",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-21T15:45:30.869Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 208
+   }
+  },
+  {
+   "node": {
+    "id": "55709197",
+    "title": "TOYOTA YARIS 2006 EN VENTA – LA HABANA 🚗",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2006-en-venta-la-habana-55709197",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-22T16:50:40.647Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 661
+   }
+  },
+  {
+   "node": {
+    "id": "55709083",
+    "title": "🚗💎 TOYOTA YARIS – CALIDAD TOYOTA, CONFIANZA GARANTIZADA 💎🚗",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-calidad-toyota-confianza-garantizada-55709083",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-19T13:13:37.775Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 199
+   }
+  },
+  {
+   "node": {
+    "id": "55706939",
+    "title": "HYUNDAI IONIQ 6 2025..add",
+    "price": 55000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-6-2025-55706939",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-22T01:10:37.711Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 301
+   }
+  },
+  {
+   "node": {
+    "id": "55706899",
+    "title": "Nisssan leaf 2025..add",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/nisssan-leaf-2025-55706899",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T21:16:00.215Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 131
+   }
+  },
+  {
+   "node": {
+    "id": "55704141",
+    "title": "baterías nuevas con garantía para tu carro",
+    "price": 70,
+    "currency": "USD",
+    "permalink": "/item/baterias-nuevas-con-garantia-para-tu-carro-55704141",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-23T19:57:37.824Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 98
+   }
+  },
+  {
+   "node": {
+    "id": "55703123",
+    "title": "Se vende FIAT POLACO 126",
+    "price": 2000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-fiat-polaco-126-55703123",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T15:10:59.774Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 1687
+   }
+  },
+  {
+   "node": {
+    "id": "55690636",
+    "title": "MITSUBISHI OUTLANDER...add",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/mitsubishi-outlander-55690636",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T00:32:08.468Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 631
+   }
+  },
+  {
+   "node": {
+    "id": "55690308",
+    "title": "Hyundai Elantra 2017....add",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2017-55690308",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T20:14:54.381Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 140
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

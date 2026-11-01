@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58215641",
+    "title": "VENDO VOLKSWAGEN SUPER BEETLE 1972",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/vendo-volkswagen-super-beetle-1972-58215641",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-20T00:58:03.500Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 83
+   }
+  },
+  {
+   "node": {
+    "id": "58213786",
+    "title": "⚡ HYUNDAI IONIQ 5 · 2024 · 100% ELÉCTRICO ⚡  Olvídate de la gasolina y de las colas.",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-olvidate-de-la-gasolina-y-de-las-colas-58213786",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T20:28:05.264Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "58213419",
+    "title": "Kia PICANTO 2020®BALA✔️54006023",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2020bala54006023-58213419",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-18T23:31:10.694Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "82",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "58213402",
+    "title": "Hyundai Elantra",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-58213402",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-18T23:30:07.938Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58212889",
+    "title": "Se vende ambos carros interesados contactar al Pv",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-ambos-carros-interesados-contactar-al-pv-58212889",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-18T22:54:19.480Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58211128",
+    "title": "🇯🇵 TOYOTA COROLLA SE 2022 — EL MÁS DEPORTIVO",
+    "price": 24500,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-se-2022-el-mas-deportivo-58211128",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T11:14:51.002Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "58210673",
+    "title": "Camioneta con motor volga",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-con-motor-volga-58210673",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-18T20:52:34.229Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58209509",
+    "title": "Vendo hyundai palisade 2020 nuevo sin detalles",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-palisade-2020-nuevo-sin-detalles-58209509",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T14:46:49.372Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58209466",
+    "title": "Bateria 180 amp news",
+    "price": 110,
+    "currency": "USD",
+    "permalink": "/item/bateria-180-amp-news-58209466",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-18T19:59:28.372Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58208948",
+    "title": "😎TUCSON BASICO 2025😎54006023",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/tucson-basico-202554006023-58208948",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T22:53:02.164Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "58208841",
+    "title": "Santa fe",
+    "price": 27500,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-58208841",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T13:37:42.083Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58208814",
+    "title": "AUTO MINIVAN FORTHING M3",
+    "price": 24788,
+    "currency": "USD",
+    "permalink": "/item/auto-minivan-forthing-m3-58208814",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T03:28:46.163Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58208639",
+    "title": "Vendo VW Volkswagen Jetta motor 1.8 de Gasolina",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/vendo-volkswagen-jetta-motor-18-de-gasolina-58208639",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-23T17:58:23.300Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 155
+   }
+  },
+  {
+   "node": {
+    "id": "58208489",
+    "title": "Hyundai Tucson",
+    "price": 29,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-58208489",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-19T13:37:54.851Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "58208215",
+    "title": "*Hyundai Palisade 2025 🎉*  Millas: 3.608 ❇️",
+    "price": 54000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2025-millas-3608-58208215",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-18T18:47:26.810Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58208064",
+    "title": "*Hyundai Santa Fe Calligraphy🔥*  Año: 2022 Hibrido ✳️ Millas: 62.000 ✨",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-ano-2022-hibrido-millas-62000-58208064",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-18T18:38:15.898Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58207977",
+    "title": "Se vende LADA 1600 único dueño papeles en regla",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-1600-unico-dueno-papeles-en-regla-58207977",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-18T18:33:22.349Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "58206874",
+    "title": "VW Tiguan 2021 120k millas título limpio en Miami",
+    "price": 8900,
+    "currency": "USD",
+    "permalink": "/item/vw-tiguan-2021-120k-millas-titulo-limpio-en-miami-58206874",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-18T17:46:21.103Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 51
+   }
+  },
+  {
+   "node": {
+    "id": "58205256",
+    "title": "BESTUNE",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/bestune-58205256",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-18T16:28:44.333Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58204002",
+    "title": "⛔️ APROBECHEN PISICORRE 11 PLAZA LISTO PARA TRABAJO EN LA DESCRIPCION LOS DETALLES ⛔️",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/aprobechen-pisicorre-11-plaza-listo-para-trabajo-en-la-descripcion-los-detalles-58204002",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T17:46:33.533Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "61",
+    "viewCount": 92
+   }
+  },
+  {
+   "node": {
+    "id": "58203991",
+    "title": "🚗 ¡SE VENDE DONGFENG ELÉCTRICO! | COMO NUEVO (3,000 KM) ⚡🔋(2026)",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-dongfeng-electrico-como-nuevo-3000-km-2026-58203991",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T14:56:14.748Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58203904",
+    "title": "⛔️ VENDO LADA 1600 ORIGINAL DE FABRICA MOTOR 06 GRANDE CAJA 4TA DE LADA UNICO DUEÑO PAPAELES EN ORDEN CERTIFI EN MANO ⛔️",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-1600-original-de-fabrica-motor-06-grande-caja-4ta-de-lada-unico-dueno-papaeles-en-orden-certifi-en-mano-58203904",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T20:01:24.195Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 236
+   }
+  },
+  {
+   "node": {
+    "id": "58203878",
+    "title": "HYUNDAI SONATA 2021 EN VENTA! 🚘  🔥 Elegancia, potencia y confort en un solo vehículo.",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2021-en-venta-elegancia-potencia-y-confort-en-un-solo-vehiculo-58203878",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T14:56:14.486Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58203836",
+    "title": "Lada 2101",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/lada-2101-58203836",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T13:44:02.984Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 217
+   }
+  },
+  {
+   "node": {
+    "id": "58203799",
+    "title": "⛔️ VENDO MOSKOVICH 2140 MRCANICA DE LADA MOTR 03 CAJA 5TA CARRO BUENO CAMINA DE PELÍCULA ⛔️",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/vendo-moskovich-2140-mrcanica-de-lada-motr-03-carro-bueno-camina-de-pelicula-58203799",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T19:58:22.183Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 107
+   }
+  },
+  {
+   "node": {
+    "id": "58203728",
+    "title": "🇰🇷 HYUNDAI PALISADE CALLIGRAPHY 2022",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-calligraphy-2022-58203728",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T12:40:45.884Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "58203434",
+    "title": "BMW M4 2017 — PURO ADRENALINA 🔥",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/bmw-m4-2017-puro-adrenalina-58203434",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T11:43:17.922Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "58203356",
+    "title": "🇩🇪 AUDI Q7 DIÉSEL 2011 — ALTA GAMA 🔥",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/audi-q7-diesel-2011-alta-gama-58203356",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T11:42:16.666Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 59
+   }
+  },
+  {
+   "node": {
+    "id": "58203304",
+    "title": "HYUNDAI SANTA FE XL 2018",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-xl-2018-58203304",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T11:41:45.190Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "58203100",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-58203100",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-25T13:46:39.747Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58202664",
+    "title": "Toyota Yaris 2016 automático",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2016-automatico-58202664",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-18T14:38:02.414Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 93
+   }
+  },
+  {
+   "node": {
+    "id": "58202554",
+    "title": "Honda CRV 2017 240K millas Título limpio en Miami",
+    "price": 7900,
+    "currency": "USD",
+    "permalink": "/item/honda-crv-2017-240k-millas-titulo-limpio-en-miami-58202554",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-18T14:32:58.434Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "58202123",
+    "title": "Hyundai Santa Fe 2019 150k millas",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2019-150k-millas-58202123",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-18T14:09:43.524Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "58199517",
+    "title": "🚘 ¡SE VENDE CARRO MODELO HYUNDAI SONATA (2021)! 🚘",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-modelo-hyundai-sonata-2021-58199517",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T18:14:22.593Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58199485",
+    "title": "🚗 ¡SE VENDE CARRO ELÉCTRICO MODELO DONGFENG! | COMO NUEVO (3,000 KM) ⚡🔋(2026)",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-dongfeng-electrico-como-nuevo-3000-km-2026-58199485",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T18:14:21.591Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58199234",
+    "title": "KIA PICANTO 2020 AUTOMATICO",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/kia-picanto-2020-automatico-58199234",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T16:33:57.665Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "58198338",
+    "title": "A CUBA 🇨🇺 HYUNDAI ELANTRA 2021. MUY RÁPIDO. WhatsApp - +1 8195094753.",
+    "price": 5400,
+    "currency": "USD",
+    "permalink": "/item/a-cuba-hyundai-elantra-2021-muy-rapido-whatsapp-1-8195094753-58198338",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T02:12:18.850Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "134",
+    "viewCount": 90
+   }
+  },
+  {
+   "node": {
+    "id": "58198110",
+    "title": "🚗🔥 ¡SE VENDE HYUNDAI ATOS 2009 EN MUY BUENAS CONDICIONES!",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-atos-2009-en-muy-buenas-condiciones-58198110",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T13:31:15.926Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "58196579",
+    "title": "VW Super Beetle 1972 — 5.000 USD negociables",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/vw-super-beetle-1972-5000-usd-negociables-58196579",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-18T01:20:44.724Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 62
+   }
+  },
+  {
+   "node": {
+    "id": "58195349",
+    "title": "Hyundai Santa Fe en Óptimas Condiciones - Oportunidad Única",
+    "price": 23500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-en-optimas-condiciones-oportunidad-unica-58195349",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T23:02:39.169Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "58195336",
+    "title": "Lada 2107 en Buenas Condiciones - Oportunidad",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-en-buenas-condiciones-oportunidad-58195336",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T23:01:03.818Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "58195143",
+    "title": "Hyundai grand i 10 2020-2019",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-grand-i-10-2020-2019-58195143",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T22:44:16.124Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "21",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "58194739",
+    "title": "Auto moderno JAC JS2",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/auto-moderno-jac-js2-58194739",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T22:12:16.306Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58194733",
+    "title": "1 tanke de 5 litros boyero",
+    "price": 10,
+    "currency": "USD",
+    "permalink": "/item/1-tanke-de-5-litros-boyero-58194733",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-17T22:11:26.726Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58194471",
+    "title": "🔥🚘 HYUNDAI SANTA FE CALLIGRAPHY 2022 — HÍBRIDA",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2022-hibrida-58194471",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-17T21:44:10.776Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58194453",
+    "title": "🚘 HYUNDAI SANTA FE CALLIGRAPHY 2022 HÍBRIDA 🔥",
+    "price": 33200,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2022-hibrida-58194453",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-17T21:42:52.022Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58194443",
+    "title": "🚘 HYUNDAI IONIQ 5 2024 — 100% ELÉCTRICO ⚡🔥",
+    "price": 34900,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-58194443",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-17T21:42:21.782Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58194173",
+    "title": "HONDA HR-V 2024 Calidad, confort y eficiencia en un solo vehículo! Honda HR-V 2024",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/honda-hr-v-2024-calidad-confort-y-eficiencia-en-un-solo-vehiculo-honda-hr-v-2024-58194173",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-17T21:19:24.177Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "58193809",
+    "title": "Hiunday accent 2010, 14k, 50955258",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/hiunday-accent-2010-14k-50955258-58193809",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-17T20:45:26.779Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 84
+   }
+  },
+  {
+   "node": {
+    "id": "58193472",
+    "title": "Vendo o hago negocio vuelto a mi favor Crysler 53",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-hago-negocio-vuelto-a-mi-favor-crysler-53-58193472",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-17T20:16:01.704Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 72
+   }
+  }
+ ],
+ "meta": {
+  "total": 3947
+ }
+}

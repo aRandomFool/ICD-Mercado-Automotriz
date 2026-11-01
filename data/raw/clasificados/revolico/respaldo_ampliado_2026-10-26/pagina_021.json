@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58011394",
+    "title": "Hyundai Santa Fe",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-58011394",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-09T15:09:51.483Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58011389",
+    "title": "LADA 1600",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/lada-1600-58011389",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-10T15:06:39.724Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 358
+   }
+  },
+  {
+   "node": {
+    "id": "58011133",
+    "title": "Hyundai Santa Fe Calligraphy",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-58011133",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-09T14:58:26.525Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58011015",
+    "title": "Santa Fe 2024",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2024-58011015",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-09T14:53:48.937Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "58010995",
+    "title": "Santa fe 2023",
+    "price": 36500,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2023-58010995",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-09T14:53:04.303Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 3
+   }
+  },
+  {
+   "node": {
+    "id": "58010856",
+    "title": "Venta de mg",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-mg-58010856",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-09T14:47:36.748Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58010465",
+    "title": "Hyundai sonata",
+    "price": 19,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-58010465",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-09T14:33:58.388Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "58010100",
+    "title": "🔥 HYUNDAI SANTA CRUZ LIMITED 2023 🔥",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-cruz-limited-2023-58010100",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T13:48:48.296Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "58009564",
+    "title": "En venta Cadillac del 1948",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-cadillac-del-1948-58009564",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-09T13:55:49.038Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 62
+   }
+  },
+  {
+   "node": {
+    "id": "58008773",
+    "title": "TUCSON 2019 Motor 2,0 sin detalles esta en centro habana solo usd papeles y todo en regla es llegar y montar 22mil usd I",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/tucson-2019-motor-20-sin-detalles-esta-en-centro-habana-solo-usd-papeles-y-todo-en-regla-es-llegar-y-montar-22mil-usd-i-58008773",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-09T13:26:13.071Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "58008350",
+    "title": "Se venden",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/se-venden-58008350",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-09T13:10:11.571Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "58008061",
+    "title": "Hyundai Palisade 2020 , carrito como nuevo sin ningún tipo de detalles",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2020-carrito-como-nuevo-sin-ningun-tipo-de-detalles-58008061",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-09T12:57:26.875Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "58008029",
+    "title": "Se Vende Austin del año 55",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-austin-del-ano-55-58008029",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-09T12:55:54.402Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 120
+   }
+  },
+  {
+   "node": {
+    "id": "58007586",
+    "title": "💎 ¡PARA ESTRENAR! KIA SPORTAGE NUEVA – EDICIÓN PREMUM X-LINE 💎 Contacto: +5355284713",
+    "price": 47000,
+    "currency": "USD",
+    "permalink": "/item/para-estrenar-kia-sportage-nueva-edicion-premum-x-line-contacto-5355284713-58007586",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-09T12:37:54.581Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58006654",
+    "title": "Doy estas dos motos y 1000 Usd por auto …",
+    "price": 10500,
+    "currency": "USD",
+    "permalink": "/item/doy-estas-dos-motos-y-1000-usd-por-auto-58006654",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-09T11:55:24.732Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 86
+   }
+  },
+  {
+   "node": {
+    "id": "58005429",
+    "title": "Bestune T55 2025",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/bestune-t55-2025-58005429",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T14:53:22.907Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "58004549",
+    "title": "Carro",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/carro-58004549",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-09T07:47:47.514Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58004504",
+    "title": "VENDO CARRO EN $3500USD.EN PERFECTO ESTADO.52502624.Michel.",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/vendo-carro-en-3500usden-perfecto-estado52502624michel-58004504",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-09T07:38:40.676Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "58003281",
+    "title": "MG Zs en venta",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/mg-en-venta-58003281",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-14T20:25:42.747Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "58002944",
+    "title": "Venta de autos",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-de-autos-58002944",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-09T03:25:34.261Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "58002933",
+    "title": "Venta de autos",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-de-autos-58002933",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-09T03:24:21.005Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58002923",
+    "title": "Venta de autos",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-de-autos-58002923",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-09T03:23:29.804Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58001921",
+    "title": "Coche y silla de carro nuevo",
+    "price": 300,
+    "currency": "USD",
+    "permalink": "/item/coche-y-silla-de-carro-nuevo-58001921",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-09T02:09:06.419Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58000096",
+    "title": "Hyundai grand i10 2020",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-grand-i10-2020-58000096",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-09T00:25:55.330Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "21",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "57999910",
+    "title": "Cambio",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/cambio-57999910",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-09T00:15:01.335Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57999857",
+    "title": "LAND ROVER RANGE ROVER 2017",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/land-rover-range-rover-2017-57999857",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T15:10:14.821Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "57999815",
+    "title": "HYUNDAI TUCSON 2019",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2019-57999815",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T15:10:20.820Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "57999766",
+    "title": "HYUNDAI TUCSON FULL LIMITED 2022",
+    "price": 31000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-full-limited-2022-57999766",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T13:51:05.437Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "57999741",
+    "title": "NISSAN LEAF 2020",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/nissan-leaf-2020-57999741",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-24T13:52:23.284Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "57999602",
+    "title": "Yipi",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/yipi-57999602",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-08T23:55:03.331Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 92
+   }
+  },
+  {
+   "node": {
+    "id": "57999110",
+    "title": "guagua de 8 plasas  motor jimbey 1.5 litros doble arbol de eleva gasolina del 2026 va directo a chapa",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/guagua-de-8-plasas-motor-jimbey-15-litros-doble-arbol-de-eleva-gasolina-del-2026-va-directo-a-chapa-57999110",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-08T23:19:58.806Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57997879",
+    "title": "Santa Fe 2022 Bueno el carro buen precio",
+    "price": 27500,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2022-bueno-el-carro-buen-precio-57997879",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-20T14:42:30.223Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "57995906",
+    "title": "❗️Rebaja❗️Se vende ((58873843))!! Nissan sentra b13 !! 0 detalles de chapisteria...no se lo guardo a nadie... Vedado",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/rebajase-vende-58873843-nissan-sentra-b13-0-detalles-de-chapisteriano-se-lo-guardo-a-nadie-vedado-57995906",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-08T20:22:29.883Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 90
+   }
+  },
+  {
+   "node": {
+    "id": "57995650",
+    "title": "🇩🇪 _*MERCEDES-AMG G 63",
+    "price": 300000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-amg-g-63-57995650",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-08T20:09:06.821Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57995313",
+    "title": "Santa fe carros",
+    "price": 40,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-carros-57995313",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-08T19:49:25.674Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57995310",
+    "title": "VENTA DE AUTO VW GOL (CHAPA K) PRECIO NEGOCIABLE",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-auto-vw-gol-chapa-k-57995310",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-14T13:21:37.030Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 210
+   }
+  },
+  {
+   "node": {
+    "id": "57995142",
+    "title": "✅️CARROS✅️",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-57995142",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-19T17:02:03.988Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "57994676",
+    "title": "Toyota Corolla LE 2004",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-le-2004-57994676",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-08T19:17:35.399Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 210
+   }
+  },
+  {
+   "node": {
+    "id": "57993546",
+    "title": "Hyundai Sonata",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-ioniq-6-57993546",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T23:43:02.438Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57993545",
+    "title": "Se vende carro precio rico",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-precio-rico-57993545",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-08T18:29:06.617Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "57993216",
+    "title": "Palisade 2025",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/palisade-2025-57993216",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T17:52:53.042Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "57992648",
+    "title": "Honda",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/honda-57992648",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-21T17:52:53.260Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 51
+   }
+  },
+  {
+   "node": {
+    "id": "57992341",
+    "title": "Vendo mi Kia Rio 2009",
+    "price": 12,
+    "currency": "USD",
+    "permalink": "/item/vendo-mi-kia-rio-2009-57992341",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-08T17:38:31.420Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 54
+   }
+  },
+  {
+   "node": {
+    "id": "57992333",
+    "title": "Ganga",
+    "price": 3800,
+    "currency": "USD",
+    "permalink": "/item/ganga-57992333",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-08T17:38:11.691Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 59
+   }
+  },
+  {
+   "node": {
+    "id": "57992110",
+    "title": "Carros",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/carros-57992110",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T14:25:07.801Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 107
+   }
+  },
+  {
+   "node": {
+    "id": "57992059",
+    "title": "Venta de Auto",
+    "price": 13500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-auto-57992059",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T12:42:07.654Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 149
+   }
+  },
+  {
+   "node": {
+    "id": "57991999",
+    "title": "Camionetas",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/camionetas-57991999",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T14:25:02.793Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "2",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57989799",
+    "title": "2017 NISSAN SENTRA",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/2017-nissan-sentra-57989799",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-08T16:03:47.131Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "26",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "57987964",
+    "title": "Venda de carro total mente electrico",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/venda-de-carro-total-mente-electrico-57987964",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-08T15:01:56.322Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57987356",
+    "title": "Vendo byd s1 pro 2023  carro eléctrico  haciendo 300 km por carga",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/vendo-byd-s1-pro-2023-carro-electrico-haciendo-300-km-por-carga-57987356",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-08T14:42:59.025Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 25
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

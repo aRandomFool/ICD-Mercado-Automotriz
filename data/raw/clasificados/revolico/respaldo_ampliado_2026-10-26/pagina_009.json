@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58249899",
+    "title": "SCALA SM3 2009",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/scala-sm3-2009-58249899",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:28:33.864Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "17",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "58248929",
+    "title": "Mercedes Benz C200 2023",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/mercedes-benz-c200-2023-58248929",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T17:09:42.767Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "58248731",
+    "title": "Coche de uso en perfecta condiciones",
+    "price": 18000,
+    "currency": "CUP",
+    "permalink": "/item/coche-de-uso-en-perfecta-condiciones-58248731",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T17:02:13.297Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58248655",
+    "title": "Hyundai Tucson Full limited ultimate 2021",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-full-limited-ultimate-2021-58248655",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:59:27.505Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58248629",
+    "title": "Hyundai Santa Fe 2024",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2024-58248629",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:58:36.588Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58248592",
+    "title": "BMW M8 Competition",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/bmw-m8-competition-58248592",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:57:28.745Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58248561",
+    "title": "BMW M8",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/bmw-m8-58248561",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:56:24.232Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58247964",
+    "title": "Lada 1600 carro",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/lada-1600-carro-58247964",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T16:39:17.410Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "58247865",
+    "title": "TOYOTA YARIS 2005 | MECÁNICO  🇯🇵 ¡Económico, práctico y confiable!  ✅ Transmisión mecánica ❄️ Aire acondicionado",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2005-mecanico-economico-practico-y-confiable-transmision-mecanica-aire-acondicionado-58247865",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:36:17.117Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58247162",
+    "title": "Venta de carro : Hyundai Santa Fe Calligraphy",
+    "price": 33.5,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-hyundai-santa-fe-calligraphy-58247162",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-20T16:12:47.457Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58246647",
+    "title": "Venta de auto : Hyundai Ioniq",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-auto-hyundai-ioniq-58246647",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-20T15:57:30.152Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58246345",
+    "title": "Microbus",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/microbus-58246345",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-20T15:47:29.041Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58246272",
+    "title": "Polski-Polako-Polakito en venta",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/polski-polako-polakito-en-venta-58246272",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T15:45:05.027Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "58246266",
+    "title": "Toyota Yaris",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-58246266",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-20T15:44:52.885Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "58245683",
+    "title": "🚘🔥 HYUNDAI TUCSON 2019  🖤 Elegancia, confort y estilo en una sola SUV.",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2019-elegancia-confort-y-estilo-en-una-sola-suv-58245683",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T15:22:35.134Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58245081",
+    "title": "SE VENDE PEUGEOT 207",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-peugeot-207-58245081",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T13:57:09.562Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 106
+   }
+  },
+  {
+   "node": {
+    "id": "58244950",
+    "title": "Kia Picanto 2022",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2022-58244950",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T16:37:42.000Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 62
+   }
+  },
+  {
+   "node": {
+    "id": "58244695",
+    "title": "Peugeot 406 en Venta Ganguita",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-406-en-venta-ganguita-58244695",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T13:56:58.746Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 128
+   }
+  },
+  {
+   "node": {
+    "id": "58244307",
+    "title": "Hyundai Tucson  133mil millas  📱59764745 al WhatsApp",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-133mil-millas-59764745-al-whatsapp-58244307",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T14:36:13.810Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58243939",
+    "title": "Vendo internacional soy d matanzas  d matanzas motor m11 año 2010",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-internacional-soy-d-matanzas-d-matanzas-motor-m11-ano-2010-58243939",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T13:36:52.560Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "58243934",
+    "title": "Hyundai elantra 2018 mecánico",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2018-mecanico-58243934",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-22T15:08:22.586Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "58243902",
+    "title": "NO TE LO PIERDAS, HYUNDAI SANTA FE del 2015, automático, importado el año pasado. Con su certifico legal para vender.",
+    "price": 19900,
+    "currency": "USD",
+    "permalink": "/item/no-te-lo-pierdas-hyundai-santa-fe-del-2015-automatico-importado-el-ano-pasado-con-su-certifico-legal-para-vender-58243902",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-20T14:21:52.104Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58243180",
+    "title": "Nissan Rouge Sv Híbrido 2017",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/nissan-rouge-sv-hibrido-2017-58243180",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T13:57:04.508Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58242696",
+    "title": "🤑No lo pienses más 🎁Hyundai Tucson ⚫2019 🔥",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/no-lo-pienses-mas-hyundai-tucson-2019-58242696",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-21T14:11:43.507Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58242432",
+    "title": "Mitsubishi Outlander 2018, 60mil millas título limpio en Miami",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/mitsubishi-outlander-2018-60mil-millas-titulo-limpio-en-miami-58242432",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-20T13:30:13.491Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "58240870",
+    "title": "🚗🔥 TOYOTA YARIS 2005 | MECÁNICO",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2005-mecanico-58240870",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T17:30:48.721Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58240745",
+    "title": "Se vende ford vans de 14 plazas con aire acondicionado recien dada mantenimiento 38mil usd ajustable",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-ford-vans-de-14-plazas-con-aire-acondicionado-recien-dada-mantenimiento-38mil-usd-ajustable-58240745",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T12:17:55.316Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58240334",
+    "title": "*HYUNDAI IONIQ 5 2024 | 100% ELECTRICO ⚡🚘*  ✨ Modelo básico – Características principales:  🔋 Motor 100% eléctrico ⚡",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-modelo-basico-caracteristicas-principales-motor-100-electrico-58240334",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-24T13:03:25.316Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58239291",
+    "title": "Hyundai sonata 2016 límite y sonata 2018 blanco vendo o hago negocio los 2 sonata soy el dueño negocio sin intermediario",
+    "price": 18,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2016-limite-y-sonata-2018-blanco-vendo-o-hago-negocio-los-2-sonata-soy-el-dueno-negocio-sin-intermediario-58239291",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T09:48:09.881Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58238832",
+    "title": "Hunday sonata del 20-21",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hunday-sonata-del-30-21-58238832",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T18:22:33.925Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "58238430",
+    "title": "BESTUNE",
+    "price": 35500,
+    "currency": "USD",
+    "permalink": "/item/bestune-58238430",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T06:02:02.486Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58238295",
+    "title": "G80 PRECIO AJUSTABLE",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/g80-precio-ajustable-58238295",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T05:36:13.830Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58237939",
+    "title": "Cargador de batería inteligente de 6A",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/cargador-de-bateria-inteligente-de-6a-58237939",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T02:45:52.172Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58237703",
+    "title": "HYUNDAI IONIQ 5 2024 | 100% ELÉCTRICO ⚡🚘",
+    "price": 35,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-58237703",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-20T04:10:56.517Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58236866",
+    "title": "Se vende o se cambia",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-o-se-cambia-58236866",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T06:44:45.235Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "58236654",
+    "title": "Ford del 1931",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/ford-del-1931-58236654",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T12:34:17.839Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 107
+   }
+  },
+  {
+   "node": {
+    "id": "58236549",
+    "title": "AUTO MARCA FORTHING SX5 2026",
+    "price": 21271,
+    "currency": "USD",
+    "permalink": "/item/auto-marca-forthing-sx5-2026-58236549",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T17:22:12.960Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58236525",
+    "title": "Audi A6 2006",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/audi-a6-2006-58236525",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T02:30:21.131Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58235878",
+    "title": "Carro Eléctrico HYUNDAI",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-58235878",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T01:40:25.271Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58235530",
+    "title": "Toyota 2022",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/toyota-2022-58235530",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T01:13:07.028Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 32
+   }
+  },
+  {
+   "node": {
+    "id": "58235239",
+    "title": "Carro",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/carro-58235239",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T23:25:06.381Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "58235179",
+    "title": "Hyundai ioniq 5 2024 Eléctrico",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-electrico-58235179",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T20:53:18.139Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58235107",
+    "title": "NISSAN B13 en Venta. Habana",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/nissan-b13-en-venta-habana-58235107",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-21T23:21:45.889Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 80
+   }
+  },
+  {
+   "node": {
+    "id": "58234782",
+    "title": "Carro BDobleB Gol MK2-GTI",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/carro-bdobleb-gol-mk2-gti-58234782",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-20T00:17:05.294Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "58234572",
+    "title": "SE VENDE RENAULT SANDERO 2018",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-renault-sandero-2018-58234572",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-21T15:01:06.439Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58234300",
+    "title": "CARRO ELÉCTRICO",
+    "price": 430,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-58234300",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-19T23:33:00.967Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58234265",
+    "title": "VENTA DE MOSCOBI",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-moscobi-58234265",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T23:30:06.496Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "58233985",
+    "title": "Hyundai Sonata 2021",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2021-58233985",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T16:09:31.812Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "58233521",
+    "title": "Microbús de Pasajeros",
+    "price": 26500,
+    "currency": "USD",
+    "permalink": "/item/microbus-de-pasajeros-58233521",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T15:29:45.962Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "58233387",
+    "title": "Peugeot 301 del 2018 con piezas nuevas incluidas",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-del-2018-con-piezas-nuevas-incluidas-58233387",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-19T22:23:50.497Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 36
+   }
+  }
+ ],
+ "meta": {
+  "total": 3947
+ }
+}

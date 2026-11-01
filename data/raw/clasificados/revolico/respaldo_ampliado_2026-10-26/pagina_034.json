@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57743732",
+    "title": "⛔️ MOSKOVICH 2140 ACABADO DE PINTAR 3800 USD CAJA 5TA GANGA ⛔️",
+    "price": 3800,
+    "currency": "USD",
+    "permalink": "/item/moskovich-2140-acabado-de-pintar-3800-usd-nada-mas-caja-5ta-esvpara-hoy-ganga-57743732",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T15:57:16.487Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 367
+   }
+  },
+  {
+   "node": {
+    "id": "57743723",
+    "title": "Vendo Dongfeng Mage Hibrido 2026",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/vendo-dongfeng-mage-hibrido-2026-57743723",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-28T15:19:48.226Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57743383",
+    "title": "Chevrolet Malibu Lt 2019. Motor 1.5t 180k km. Soy dueño. No corredores, no doy comisión",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-malibu-lt-2019-motor-15t-180k-km-57743383",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T15:36:53.961Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 83
+   }
+  },
+  {
+   "node": {
+    "id": "57742472",
+    "title": "Delta 3",
+    "price": 755,
+    "currency": "USD",
+    "permalink": "/item/delta-3-57742472",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-28T14:38:55.920Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57742401",
+    "title": "Delta 3 classic",
+    "price": 620,
+    "currency": "USD",
+    "permalink": "/item/delta-3-classic-57742401",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-28T14:36:50.193Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57740954",
+    "title": "Kia Electrico",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/kia-electrico-57740954",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-21T00:55:06.835Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 32
+   }
+  },
+  {
+   "node": {
+    "id": "57739745",
+    "title": "Moskovish modelo 2108",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/moskovish-modelo-2108-57739745",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-29T15:10:33.735Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "57738966",
+    "title": "Carro o auto Hyundai IONIQ 5 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/carro-o-auto-hyundai-ioniq-5-2024-57738966",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T14:58:43.501Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "57738592",
+    "title": "Carros eléctricos",
+    "price": 37900,
+    "currency": "USD",
+    "permalink": "/item/carros-electricos-57738592",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-01T16:31:46.196Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57738447",
+    "title": "Venta de carros nuevos, ya están disponibles en la Habana contáctenos al 53492054",
+    "price": 5,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carros-nuevos-ya-estan-disponibles-en-la-habana-contactenos-al-53492054-57738447",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T13:33:10.054Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "57738248",
+    "title": "Venta de carro",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-57738248",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-28T12:29:45.077Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57737240",
+    "title": "Tanques plásticos en la habana",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/tanques-plasticos-en-la-habana-57737240",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-28T11:34:34.385Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57736985",
+    "title": "Vendo auto Fiat 600 del año 1958. Y SKODA/61",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-auto-fiat-600-del-ano-1958-y-skoda61-57736985",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-28T11:10:44.397Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57735627",
+    "title": "Carros",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-57735627",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-28T07:27:02.542Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 130
+   }
+  },
+  {
+   "node": {
+    "id": "57735626",
+    "title": "Carros",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-57735626",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-28T07:27:01.848Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57733445",
+    "title": "HYUNDAI IONIQ",
+    "price": 39.5,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-57733445",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-28T02:55:50.262Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57733128",
+    "title": "💥 HONDA CIVIC 💥",
+    "price": 23,
+    "currency": "USD",
+    "permalink": "/item/honda-civic-57733128",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-28T02:37:01.596Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "57732697",
+    "title": "Se vende Skoda Fabia Ranchera 2004",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-skoda-fabia-ranchera-2004-57732697",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-28T02:14:07.446Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57732451",
+    "title": "DONGFENG MAGE HEV",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/vendo-dongfeng-mage-hev-57732451",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T14:02:02.351Z",
+    "isPromoted": true,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 521
+   }
+  },
+  {
+   "node": {
+    "id": "57732140",
+    "title": "En 18 mil vendo o hago negocio un KIA RIO DEL 2020 con 70 mil km reales al WhatsApp para fotos 63275756",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/en-18-mil-vendo-o-hago-negocio-un-kia-rio-del-2020-con-70-mil-km-reales-al-whatsapp-para-fotos-63275756-57732140",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-28T01:47:30.852Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57731199",
+    "title": "Delta 3 Classic [600]",
+    "price": 600,
+    "currency": "USD",
+    "permalink": "/item/delta-3-classic-600-57731199",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-28T01:00:09.503Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57730269",
+    "title": "Hyunday IONIQ 5 2025, eléctrico",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyunday-ioniq-5-2025-electrico-57730269",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T22:14:02.339Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "57730231",
+    "title": "BMW M4 Competition 2024",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-m4-competition-2024-57730231",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T22:16:04.646Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 85
+   }
+  },
+  {
+   "node": {
+    "id": "57729938",
+    "title": "Camioneta Plataforma FORD",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/camioneta-plataforma-ford-57729938",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T08:43:13.038Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 103
+   }
+  },
+  {
+   "node": {
+    "id": "57729697",
+    "title": "Hyundai Atos 2009",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-atos-2009-57729697",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-27T23:34:19.960Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 162
+   }
+  },
+  {
+   "node": {
+    "id": "57728903",
+    "title": "Nissan Micra",
+    "price": 23999,
+    "currency": "USD",
+    "permalink": "/item/nissan-micra-57728903",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-27T22:43:08.888Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57728857",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-ioniq-5-2024-57728857",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-19T14:23:39.432Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57728437",
+    "title": "Vendo carro eléctrico, 0 km 2026,",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/vendo-carro-electrico-0-km-2026-57728437",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-27T22:15:30.629Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57727927",
+    "title": "Carro marca Daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-marca-daewoo-57727927",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:44:44.976Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "57727700",
+    "title": "Maxus g10 2016",
+    "price": 23,
+    "currency": "USD",
+    "permalink": "/item/maxus-g10-2016-57727700",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-27T21:34:13.774Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57726078",
+    "title": "Peugeot 404",
+    "price": 2800,
+    "currency": "USD",
+    "permalink": "/item/peugeot-404-57726078",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-27T20:15:50.877Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 262
+   }
+  },
+  {
+   "node": {
+    "id": "57726061",
+    "title": "Lada 2107 motor 1600",
+    "price": 7200,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-motor-1600-57726061",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-27T20:15:01.118Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 144
+   }
+  },
+  {
+   "node": {
+    "id": "57725781",
+    "title": "Ofertas de Autos en La Habana 0km con entrega inmediata",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/ofertas-de-autos-en-la-habana-0km-con-entrega-inmediata-57725781",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-27T20:03:30.106Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57725764",
+    "title": "Carro",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carro-57725764",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-27T20:03:06.893Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57725628",
+    "title": "Ofertas de Venta de Autos en Cuba a buen precio y entrega inmediata.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/ofertas-de-venta-de-autos-en-cuba-a-buen-precio-y-entrega-inmediata-57725628",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-27T19:57:28.105Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57724042",
+    "title": "⛔️ KIA PICANTO 2017 AUTOMÁTICO CARRO DE PELICULA TODO FUNCIONA AL 100% ES LLEGAR Y MONTAR ⛔️",
+    "price": 17500,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2017-automatico-carro-de-pelicula-todo-funciona-al-100-es-llegar-y-montar-57724042",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T17:44:26.977Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 88
+   }
+  },
+  {
+   "node": {
+    "id": "57723394",
+    "title": "GRAND I10 2020",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/grand-i10-2020-57723394",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-27T18:27:58.620Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "21",
+    "viewCount": 75
+   }
+  },
+  {
+   "node": {
+    "id": "57723310",
+    "title": "❤️ VENDO O NEGOCEO  LADA  1500 ESPECIAL MOTOR 03 CAJA 4TA CARRO BUENO DE PINTURA Y CHAPISTERIA PAPELES EN ORDEN ❤️",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-1500-especial-motor-03-caja-4ta-carro-bueno-de-pintura-y-chapisteria-papeles-en-orden-57723310",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T17:45:24.674Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 493
+   }
+  },
+  {
+   "node": {
+    "id": "57723297",
+    "title": "TOYOTA COROLLA 2018",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2018-57723297",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-27T18:24:48.751Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 112
+   }
+  },
+  {
+   "node": {
+    "id": "57723262",
+    "title": "MERCEDES C200 2016",
+    "price": 23500,
+    "currency": "USD",
+    "permalink": "/item/mercedes-c200-2016-57723262",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-27T18:23:29.559Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57723225",
+    "title": "HYUNDAI PALISADE 2021",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2021-57723225",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-27T18:21:44.607Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "21",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "57723194",
+    "title": "HONDA PROLOGUE 2024 VERSIÓN ÉLITE",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/honda-prologue-2024-version-elite-57723194",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-27T18:20:20.646Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "57723138",
+    "title": "HYUNDAI SANTAGE SPORT 2017",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santage-sport-2017-57723138",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-27T18:18:26.573Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57722814",
+    "title": "Auto en venta",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/auto-en-venta-57722814",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-13T21:09:32.842Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57722115",
+    "title": "BMW M4 2024",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-m4-2024-57722115",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T02:20:01.975Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "57721708",
+    "title": "Hyundai",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-57721708",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-27T17:07:42.842Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57721467",
+    "title": "Se vende Peugeot 107",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-peugeot-107-57721467",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-27T16:57:24.979Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 150
+   }
+  },
+  {
+   "node": {
+    "id": "57721357",
+    "title": "Lada 2107",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-57721357",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-27T16:52:01.552Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 161
+   }
+  },
+  {
+   "node": {
+    "id": "57720664",
+    "title": "Hyundai IONIQ 2024",
+    "price": 38,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-2024-57720664",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-27T16:20:52.393Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "57720570",
+    "title": "Se vende carro motor de volga caja 4ta",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-motor-de-volga-caja-4ta-57720570",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-27T16:16:42.063Z",
+    "isPromoted": false,
+    "provinceId": "11",
+    "municipalityId": "111",
+    "viewCount": 129
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

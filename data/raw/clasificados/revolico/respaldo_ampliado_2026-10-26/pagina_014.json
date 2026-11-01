@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58158645",
+    "title": "Hounday Atos 2009 en venta",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/hounday-atos-2009-en-venta-58158645",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T19:50:25.743Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "58158609",
+    "title": "Vendo AUDI A-6 DEL 2006",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/vendo-audi-a-6-del-2006-58158609",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-15T23:13:19.600Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58157909",
+    "title": "🔊MOSCOVICH 2140 RECIEN CHAPISTEADO Y PINTADO,LATA SANA CAMINANDO AL 100%,MOTOR Y CAJA ORIGINAL,4500 usd",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/moscovich-2140-recien-chapisteado-y-pintadolata-sana-caminando-al-100motor-y-caja-original4500-usd-58157909",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-16T13:55:28.545Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 51
+   }
+  },
+  {
+   "node": {
+    "id": "58157724",
+    "title": "Hyundai santa fe caligrafe 2022 venta o negocio soy el dueño en la Habana cerca del hospital William Soler precio negoci",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-caligrafe-2022-venta-o-negocio-soy-el-dueno-en-la-habana-cerca-del-hospital-william-soler-precio-negoci-58157724",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-15T21:48:16.209Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58157627",
+    "title": "Chevrolet año 50",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-ano-50-58157627",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T21:42:50.338Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 129
+   }
+  },
+  {
+   "node": {
+    "id": "58157460",
+    "title": "Venta de auto Chevrolet año 50",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-auto-chevrolet-ano-50-58157460",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-15T21:33:06.418Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58157396",
+    "title": "Se vende",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-58157396",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T21:28:49.416Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 123
+   }
+  },
+  {
+   "node": {
+    "id": "58156542",
+    "title": "Jeep en Venta",
+    "price": 25500,
+    "currency": "USD",
+    "permalink": "/item/jeep-en-venta-58156542",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T01:20:17.406Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "25",
+    "viewCount": 113
+   }
+  },
+  {
+   "node": {
+    "id": "58155620",
+    "title": "Kia Sorento",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/kia-sorento-58155620",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-19T14:19:39.040Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "58155552",
+    "title": "Vendo Moscovich 2140",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/vendo-moscovich-2140-58155552",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T03:54:47.788Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 192
+   }
+  },
+  {
+   "node": {
+    "id": "58155397",
+    "title": "Infinity y con 15 kw",
+    "price": 3550,
+    "currency": "USD",
+    "permalink": "/item/infinity-y-con-15-kw-58155397",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T19:24:51.160Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58155020",
+    "title": "Hyundai Tucson 2021♦️",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2021-58155020",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T19:08:13.664Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58154532",
+    "title": "Vendo carro ford Del 59 pisacorre con 8 plaza me ajusto en precio",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/vendo-carro-ford-del-59-pisacorre-con-8-plaza-me-ajusto-en-precio-58154532",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-15T18:50:05.257Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 83
+   }
+  },
+  {
+   "node": {
+    "id": "58153199",
+    "title": "Moskvich nuevo",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/moskvich-nuevo-58153199",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T02:05:43.491Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "58152133",
+    "title": "Venta de Carro",
+    "price": 33.5,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-58152133",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-15T17:08:12.568Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58151706",
+    "title": "MG ZS 2025....add",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/mg-zs-2025add-58151706",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T19:49:57.882Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58151061",
+    "title": "Vendo opel kadett en buen estado",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/vendo-opel-kadett-en-buen-estado-58151061",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T16:33:46.843Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58150157",
+    "title": "Camioneta BAW F7",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-baw-f7-58150157",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-22T17:39:22.755Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58150041",
+    "title": "Hyundai sonata Nline 2022...add",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-nline-2022add-58150041",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T19:48:24.629Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 82
+   }
+  },
+  {
+   "node": {
+    "id": "58149321",
+    "title": "MG RTX 2025...add",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/mg-rtx-2025add-58149321",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T19:48:45.643Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "58149256",
+    "title": "Audi q4...add",
+    "price": 52000,
+    "currency": "USD",
+    "permalink": "/item/audi-q4add-58149256",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T19:50:11.969Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "58149208",
+    "title": "Sonata Limited 2024...add",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/sonata-limited-2024add-58149208",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T01:02:21.877Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58149171",
+    "title": "Elantra 2023...add",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/elantra-2023add-58149171",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T19:50:25.217Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 88
+   }
+  },
+  {
+   "node": {
+    "id": "58149099",
+    "title": "MG 2025 ...add",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/mg-2025-add-58149099",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-23T21:34:26.489Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "58149008",
+    "title": "NISSAN PATHFINDER 2020...add",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/nissan-pathfinder-2020add-58149008",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T01:00:32.079Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "58148960",
+    "title": "Sonata 2024 Nline...add",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/sonata-2024-nlineadd-58148960",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-21T19:33:45.949Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "58148837",
+    "title": "Kia rio 2019...add",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019add-58148837",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T19:33:33.971Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "58148816",
+    "title": "Hyundai grand i10 2020",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-grand-i10-2020-58148816",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-15T15:16:31.844Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "21",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "58148796",
+    "title": "HYUNDAI TUCSON 2020.  Add",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2020-add-58148796",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T21:37:53.281Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "58148757",
+    "title": "Nissan Titan XD...add",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/nissan-titan-xdadd-58148757",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T19:29:05.832Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "58148633",
+    "title": "Dongfeng nami box01....add",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-nami-box01add-58148633",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T00:33:19.084Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "58148546",
+    "title": "HYUNDAI SONATA 2023...add",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2023add-58148546",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T19:47:52.243Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 129
+   }
+  },
+  {
+   "node": {
+    "id": "58148506",
+    "title": "HYUNDAI TUCSON 2022 N LINE",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2022-n-line-58148506",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T19:45:35.223Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "58148442",
+    "title": "Mitsubishi outlander 2018...add",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/mitsubishi-outlander-2018add-58148442",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-23T21:24:13.728Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "58148276",
+    "title": "BMW X5 2021 Competition 140000 KM todos sus mantenimientos acabados de hacer Paquete M Full Equipped",
+    "price": 62000,
+    "currency": "USD",
+    "permalink": "/item/bmw-x5-2021-competition-140000-km-todos-sus-mantenimientos-acabados-de-hacer-paquete-m-full-equipped-58148276",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-18T22:11:46.389Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 32
+   }
+  },
+  {
+   "node": {
+    "id": "58147009",
+    "title": "CARRO HONDA HR-V (2017)",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/carro-honda-hr-v-2017-58147009",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-15T14:09:05.367Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "58146292",
+    "title": "Geely ck 1.5 nuevo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/geely-ck-15-nuevo-58146292",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T15:18:12.757Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "58146209",
+    "title": "Toyota Tundra Gris en Venta",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/toyota-tundra-gris-en-venta-58146209",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T13:45:18.605Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58145947",
+    "title": "🚘KIA RIO 2019 HECHO 2021 ❤️🚘  🚗 Kia Rio 2019 actualizado a 2021 🛣️ 110,000 km (68,350 millas)  ✅ Diseño moderno y at",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-hecho-2021-kia-rio-2019-actualizado-a-2021-110000-km-68350-millas-diseno-moderno-y-at-58145947",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T15:18:12.214Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58145896",
+    "title": "*Hyundai Santa Fe Calligraphy 🔥*  📅 Año: 2022 Híbrido ✳️ 🛣️ Millas: 62.000 ✨ ⚙️ Motor: 2.0 🔥 👥 Capacidad: 5 pasajer",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-ano-2022-hibrido-millas-62000-motor-20-capacidad-5-pasajer-58145896",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T14:13:25.918Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58145605",
+    "title": "Honda accord híbrido 2022. Todo listo para traspaso. Llamar al 58873843. no negocioHonda accord híbrido 2022. Todo listo",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-hibrido-2022-todo-listo-para-traspaso-llamar-al-58873843-no-negociohonda-accord-hibrido-2022-todo-listo-58145605",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-15T13:23:25.983Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58145603",
+    "title": "Tiene un Peugeot de petróleo td5,",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/tiene-un-peugeot-de-petroleo-td5-58145603",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-15T13:23:24.246Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 120
+   }
+  },
+  {
+   "node": {
+    "id": "58145630",
+    "title": "Hyundai Santa fe 2020 motor de 2.4  Todo listo para traspaso.Llamar al 58873843. no negocio",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2020-motor-de-24-todo-listo-para-traspasollamar-al-58873843-no-negocio-58145630",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-15T13:24:14.548Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58145565",
+    "title": "Honda prologue básico 2024 haciendo por carga 500 km con 15mil millas recorridas, solo llegar y montar 58873843 Pinar de",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/honda-prologue-basico-2024-haciendo-por-carga-500-km-con-15mil-millas-recorridas-solo-llegar-y-montar-58873843-pinar-de-58145565",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-15T13:22:19.284Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58145556",
+    "title": "GMC Yukon-Denali 1:24 Licensed Friction Car (21 cm)",
+    "price": 16,
+    "currency": "USD",
+    "permalink": "/item/gmc-yukon-denali-124-licensed-friction-car-21-cm-58145556",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T13:21:57.442Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58145536",
+    "title": "Se vende Moskvich  soy del cotorro chapa y certifico en mano  listo para hacer traspso echo 58873843",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-moskvich-soy-del-cotorro-chapa-y-certifico-en-mano-listo-para-hacer-traspso-echo-58873843-58145536",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-15T13:21:25.434Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "58145498",
+    "title": "se vende Hyundai atos soy del vedado 58873843 no tiene aire",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-atos-soy-del-vedado-58873843-no-tiene-aire-58145498",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-15T13:20:03.992Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "58145469",
+    "title": "se vende Daewoo tico del 94 soy del vedado 58873843 no tiene aire",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-daewoo-tico-del-94-soy-del-vedado-58873843-no-tiene-aire-58145469",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-15T13:19:03.767Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 150
+   }
+  },
+  {
+   "node": {
+    "id": "58144839",
+    "title": "Camioneta baw f7 automatica 2026 okm",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-baw-f7-automatica-2026-okm-58144839",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-15T12:56:00.886Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "58143301",
+    "title": "KIA FORTE GT LINE 2024",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/kia-forte-gt-line-2024-58143301",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T22:35:24.627Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 38
+   }
+  }
+ ],
+ "meta": {
+  "total": 3945
+ }
+}

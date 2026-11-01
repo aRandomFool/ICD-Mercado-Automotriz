@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58078829",
+    "title": "Baterías",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/baterias-58078829",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-12T14:33:50.747Z",
+    "isPromoted": false,
+    "provinceId": "10",
+    "municipalityId": "95",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58078802",
+    "title": "24000 MG ZS del 2025 Prácticamente a estrenar, este moderno vehículo en impecable color blanco perlado destaca por su",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/24000-mg-zs-del-2025-practicamente-a-estrenar-este-moderno-vehiculo-en-impecable-color-blanco-perlado-destaca-por-su-58078802",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:58:22.065Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "58078726",
+    "title": "Daewoo Tico en  color gris, preparado con todo: rines deportivos, parrilla de carga en el techo y un equipo de música",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/daewoo-tico-en-color-gris-preparado-con-todo-rines-deportivos-parrilla-de-carga-en-el-techo-y-un-equipo-de-musica-58078726",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:58:27.458Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 204
+   }
+  },
+  {
+   "node": {
+    "id": "58078653",
+    "title": "Hyundai Santa Fe modelo 2024 en impecable . (No tiene techo de cristal)Este modelo de nueva generación ofrece",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-modelo-2024-en-impecable-no-tiene-techo-de-cristaleste-modelo-de-nueva-generacion-ofrece-58078653",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T13:58:07.149Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "58078577",
+    "title": "MOSCOVICH 2140 RECIEN CHAPISTEADO Y PINTADO,LATA SANA CAMINANDO AL100%,MOTOR Y CAJA ORIGINAL,CERTIFICO EN MANO 4500USD",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/moscovich-2140-recien-chapisteado-y-pintadolata-sana-caminando-al100motor-y-caja-originalcertifico-en-mano-4500usd-58078577",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T14:27:04.813Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "58078248",
+    "title": "En venta Daewoo Tico!!",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/en-venta-daewoo-tico-58078248",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T18:02:01.859Z",
+    "isPromoted": true,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 1212
+   }
+  },
+  {
+   "node": {
+    "id": "58078126",
+    "title": "Explit d 1.5 t",
+    "price": 485,
+    "currency": "USD",
+    "permalink": "/item/explit-d-15-t-58078126",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-12T14:14:59.649Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 1
+   }
+  },
+  {
+   "node": {
+    "id": "58077911",
+    "title": "Hyundai accent 2009 automático",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-accent-2009-automatico-58077911",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-19T13:17:46.201Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 109
+   }
+  },
+  {
+   "node": {
+    "id": "58076849",
+    "title": "!! Ganga !! Honda accord híbrido 2022. Todo listo para traspaso.  Llamar al 58873843. no negocio",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/ganga-honda-accord-hibrido-2022-todo-listo-para-traspaso-llamar-al-58873843-no-negocio-58076849",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-12T13:41:47.030Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58076693",
+    "title": "mosckovich con mecanica original de el .Todo listo para traspaso.Llamar al 58873843. no negocio",
+    "price": 3800,
+    "currency": "USD",
+    "permalink": "/item/mosckovich-con-mecanica-original-de-el-todo-listo-para-traspasollamar-al-58873843-no-negocio-58076693",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T13:36:34.233Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "58076404",
+    "title": "🚘 ¡HYUNDAI SONATA 2021 EN VENTA! 🚘  🔥 Elegancia, potencia y confort en un solo vehículo.  Se vende Hyundai Sonata año",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2021-en-venta-elegancia-potencia-y-confort-en-un-solo-vehiculo-se-vende-hyundai-sonata-ano-58076404",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-26T15:00:59.460Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58075320",
+    "title": "Lada 2105",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/lada-2105-58075320",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T18:30:36.337Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "58074921",
+    "title": "Hyundai Tucson SEL 2021",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-tucson-sel-2021-58074921",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T20:01:05.674Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "58074856",
+    "title": "Hyundai Santa Fe Calligraphy 2022 híbrido",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2022-hibrido-58074856",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T20:01:06.674Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58074801",
+    "title": "Peugeot 301 del 2018",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/peugeot-301-del-2018-58074801",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T20:01:07.674Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "9",
+    "viewCount": 178
+   }
+  },
+  {
+   "node": {
+    "id": "58073798",
+    "title": "Lada 2107 motor 03",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-motor-03-58073798",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T22:11:19.575Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 241
+   }
+  },
+  {
+   "node": {
+    "id": "58072523",
+    "title": "Nissan Automatico (2019)*",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/nissan-automatico-2019-58072523",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-12T10:03:38.767Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "58071422",
+    "title": "Delta 3 clasica combo completo",
+    "price": 880,
+    "currency": "USD",
+    "permalink": "/item/delta-3-clasica-combo-completo-58071422",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T05:06:25.359Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58070644",
+    "title": "Carrito suene económico ( FIAT CINQUENCENTO )",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/carrito-suene-economico-fiat-cinquencento-58070644",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-12T03:25:56.350Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 94
+   }
+  },
+  {
+   "node": {
+    "id": "58070502",
+    "title": "🚘 ¡HYUNDAI SONATA 2021 EN VENTA! 🚘",
+    "price": 2800,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2021-en-venta-58070502",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-21T08:38:07.109Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "58070448",
+    "title": "Carro",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carro-58070448",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-12T03:09:15.457Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "58070401",
+    "title": "Carros SUV GAC GS3 nacionalizado",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carros-suv-gac-gs3-nacionalizado-58070401",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-12T03:04:41.619Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58069917",
+    "title": "Se vende Hyundai IoniQ5,2025",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-ioniq52025-58069917",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T02:29:28.641Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58069823",
+    "title": "Se vende Audi Q8 e-tron 2024",
+    "price": 65000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-audi-q8-e-tron-2024-58069823",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T02:24:59.435Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "58069028",
+    "title": "Carro en Artemisa",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-en-artemisa-58069028",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-12T01:37:58.160Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 87
+   }
+  },
+  {
+   "node": {
+    "id": "58068546",
+    "title": "Patín de lada nuevo",
+    "price": 8,
+    "currency": "USD",
+    "permalink": "/item/patin-de-lada-nuevo-58068546",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-12T01:13:57.972Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58067801",
+    "title": "🚗 EN VENTA: Voyah Free 318 (Año 2026) - Híbrido Enchufable 🚗(LÍNEA DE LUJO DE DONGFENG) Contacto: 55284713",
+    "price": 72000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-voyah-free-318-ano-2026-hibrido-enchufable-linea-de-lujo-de-dongfeng-contacto-55284713-58067801",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-12T00:33:01.211Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58067756",
+    "title": "Hyundai IONIQ 5 CARRO ELÉCTRICO Tiene 50.000 millas",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-carro-electrico-tiene-50000-millas-58067756",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T00:29:36.011Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58067745",
+    "title": "¡Oportunidad en La Habana! Se vende Nissan X-Trail 2024 impecable. Contacto: 55284713",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/oportunidad-en-la-habana-se-vende-nissan-x-trail-2024-impecable-contacto-55284713-58067745",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T00:28:48.321Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58067724",
+    "title": "SKODA OCTAVIA 1962  Mecánica de fábrica.",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/skoda-octavia-1962-mecanica-de-fabrica-58067724",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-12T00:27:01.898Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "58067704",
+    "title": "⚡ ¡IMPECABLE Y COMO NUEVO! KIA SOLUTO / PEGAS 2025 – AUTOMÁTICO ⚡ Contacto: 55284713",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/impecable-y-como-nuevo-kia-soluto-pegas-2025-automatico-contacto-55284713-58067704",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-12T00:25:42.471Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "58067613",
+    "title": "🔥 ¡EL KIA PICANTO 2020 MÁS NUEVO DE TODOS! 🔥 Contacto: 55284713",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/el-kia-picanto-2020-mas-nuevo-de-todos-contacto-55284713-58067613",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-12T00:21:03.145Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "58067270",
+    "title": "Venta de Carro lada El auto esta en exelentes condiciones. No hay UN carro en la habana camine mejor que Este. $6000",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-lada-el-auto-esta-en-exelentes-condiciones-no-hay-un-carro-en-la-habana-camine-mejor-que-este-6000-58067270",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-11T23:58:43.686Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 89
+   }
+  },
+  {
+   "node": {
+    "id": "58064922",
+    "title": "EN VENTA LADA 1600",
+    "price": 7600,
+    "currency": "USD",
+    "permalink": "/item/en-venta-lada-1600-58064922",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T06:11:21.156Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 221
+   }
+  },
+  {
+   "node": {
+    "id": "58064572",
+    "title": "Hyundai Santa Fe 2021 en Venta",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2021-en-venta-58064572",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T21:21:51.766Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "58064420",
+    "title": "En 22 000 vendo o hago negocio un Hiunday Santa",
+    "price": 22,
+    "currency": "USD",
+    "permalink": "/item/en-22-000-vendo-o-hago-negocio-un-hiunday-santa-58064420",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T21:14:24.242Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "58064293",
+    "title": "Hyunday IONIQ 6 2025, con 3 mil millas",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyunday-ioniq-6-2025-con-3-mil-millas-58064293",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T22:14:10.537Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "58064211",
+    "title": "En 30 mil vendo Hiunday Santa Fe del 2023 53 mil kms recorrido modelo SEL 7 plazas al WhatsApp 63275756",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/en-30-mil-vendo-hiunday-santa-fe-del-2023-53-mil-kms-recorrido-modelo-sel-7-plazas-al-whatsapp-63275756-58064211",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T21:06:05.589Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "58063629",
+    "title": "Se vende Kia picanto 2017. Impecable.",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-kia-picanto-2017-impecable-58063629",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-11T20:43:16.021Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "58063495",
+    "title": "se vende tico... perfecto estado de mecánica y  detalles de chapisteria...precio 7000 usd...58873843...",
+    "price": 58873843,
+    "currency": "USD",
+    "permalink": "/item/se-vende-tico-perfecto-estado-de-mecanica-y-detalles-de-chapisteriaprecio-7000-usd58873843-58063495",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-11T20:36:15.115Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 79
+   }
+  },
+  {
+   "node": {
+    "id": "58063470",
+    "title": "se vende Hyundai accent 2022... perfecto estado de mecánica y chapisteria...80mil km recorridos...precio 24mil usd...588",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-accent-2022-perfecto-estado-de-mecanica-y-chapisteria80mil-km-recorridosprecio-24mil-usd588-58063470",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-11T20:34:46.096Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58063067",
+    "title": "Daewood cielo vendo o cambio 2 x moderno",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/daewood-cielo-vendo-o-cambio-2-x-moderno-58063067",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-11T20:13:30.473Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "58063028",
+    "title": "Geely ck en venta",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/geely-ck-en-venta-58063028",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-18T15:49:27.925Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "58062453",
+    "title": "🚗 *Nissan Automatico (2019)*",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/nissan-automatico-2019-58062453",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-11T19:48:40.626Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "58062038",
+    "title": "Land Rover o ranger Rover del 16 ahí en la foto salen más info",
+    "price": 43,
+    "currency": "USD",
+    "permalink": "/item/land-rover-o-ranger-rover-del-16-ahi-en-la-foto-salen-mas-info-58062038",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-11T19:31:32.775Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "58061052",
+    "title": "Vendo Lada 2101 en 6000 usd",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2101-en-6000-usd-58061052",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-11T18:48:43.425Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "58060957",
+    "title": "GAC GS4 Trumpchi 2017",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/gac-gs4-trumpchi-2017-58060957",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T18:44:32.308Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "58060785",
+    "title": "Solo venta 🙏🏾",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/solo-venta-58060785",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T18:37:13.437Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58060384",
+    "title": "🚘⚡ HYUNDAI IONIQ 5 — 100% ELÉCTRICO 🔥",
+    "price": 34800,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-100-electrico-58060384",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-11T18:20:03.561Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58060337",
+    "title": "🔥🔥GRAN REBAJA SEÑORES🔥🔥",
+    "price": 35500,
+    "currency": "USD",
+    "permalink": "/item/gran-rebaja-senores-58060337",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-11T18:17:46.822Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 7
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

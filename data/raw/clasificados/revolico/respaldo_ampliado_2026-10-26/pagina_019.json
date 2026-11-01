@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58059978",
+    "title": "Subwofer activo Gravity de excelente potencia y calidad",
+    "price": 180,
+    "currency": "USD",
+    "permalink": "/item/subwofer-activo-gravity-de-excelente-potencia-y-calidad-58059978",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T18:00:12.577Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58058783",
+    "title": "Carro",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/carro-58058783",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-11T17:17:14.915Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 89
+   }
+  },
+  {
+   "node": {
+    "id": "58058599",
+    "title": "Se vende o se negoce",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-o-se-negoce-58058599",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-11T17:09:32.961Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 54
+   }
+  },
+  {
+   "node": {
+    "id": "58058513",
+    "title": "Venta Kia Picanto 2017",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/venta-kia-picanto-2017-58058513",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-11T17:05:40.364Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "58057493",
+    "title": "Hyundai Santa Fe",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-58057493",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-24T16:38:59.139Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "58056789",
+    "title": "camión de pasajes y carga  Mecánica: Motor de Kp3 con caja Fuller y diferencial de daf",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/camion-de-pasajes-y-carga-mecanica-motor-de-kp3-con-caja-fuller-y-diferencial-de-daf-58056789",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T15:41:14.235Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 75
+   }
+  },
+  {
+   "node": {
+    "id": "58056727",
+    "title": "SE VENDE carro Almendron  de petróleo",
+    "price": 3800,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-almendron-de-petroleo-58056727",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-13T15:55:47.054Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 88
+   }
+  },
+  {
+   "node": {
+    "id": "58056724",
+    "title": "Vendo LADA 2107 en 4,500",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2107-en-4500-58056724",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-11T15:38:34.255Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 426
+   }
+  },
+  {
+   "node": {
+    "id": "58056659",
+    "title": "Dongfeng box 01 430",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-box-01-430-58056659",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-11T15:35:56.614Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58055850",
+    "title": "VENDO HYUNDAI IONIC 6 solo 6000 millas año 2025 nuevo 54143277",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-ionic-6-solo-6000-millas-ano-2025-nuevo-54143277-58055850",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-11T15:04:07.836Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 2
+   }
+  },
+  {
+   "node": {
+    "id": "58054787",
+    "title": "Se vende moskovich",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-moskovich-58054787",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-11T14:33:05.062Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "58053876",
+    "title": "Hyundai IONIQ 5",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-58053876",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T14:07:05.152Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58053111",
+    "title": "⚡ HYUNDAI IONIQ 5 · 2024 · 100% ELÉCTRICO ⚡",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-58053111",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T13:58:24.589Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58052688",
+    "title": "Venta de Chevrolet 57",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-chevrolet-57-58052688",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-11T13:26:25.535Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 87
+   }
+  },
+  {
+   "node": {
+    "id": "58052410",
+    "title": "VW",
+    "price": 45,
+    "currency": "USD",
+    "permalink": "/item/vw-58052410",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-21T04:15:12.522Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "58051832",
+    "title": "Chevrolet 58 original de gasolina",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-58-original-de-gasolina-58051832",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-11T12:51:35.197Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 102
+   }
+  },
+  {
+   "node": {
+    "id": "58051644",
+    "title": "Venta de autos",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-autos-58051644",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-11T12:42:14.870Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58051626",
+    "title": "Hyundai Santa Fe Calígraphy 🔥*",
+    "price": 62000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-caligraphy-58051626",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-11T12:41:30.217Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58051513",
+    "title": "Carrito para mandados",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carrito-para-mandados-58051513",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-21T18:25:26.164Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58051247",
+    "title": "Hyper Aion GT 2024, auto eléctrico",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyper-aion-gt-2024-auto-electrico-58051247",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T13:25:17.075Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 105
+   }
+  },
+  {
+   "node": {
+    "id": "58051166",
+    "title": "Hyunday IONIQ 6 2025,  al detalle 3mil millas",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyunday-ioniq-6-2025-al-detalle-3mil-millas-58051166",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-25T13:09:26.479Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "58050218",
+    "title": "Chevrolet 51",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-51-58050218",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T11:02:56.744Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 79
+   }
+  },
+  {
+   "node": {
+    "id": "58049438",
+    "title": "La Habana. 53584876 o 76471065 *Vehículos Modernos : -HYUNDAI IONIQ 5 Gris 100% Eléctrico....37000 USD  -HYUNDAI IONIQ 5",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/la-habana-53584876-o-76471065-vehiculos-modernos-hyundai-ioniq-5-gris-100-electrico37000-usd-hyundai-ioniq-5-58049438",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T08:54:00.055Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58049258",
+    "title": "CAMIÓN CHEVROLET CLÁSICO - Perfecto para mudanzas o cargar mercancía",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/camion-chevrolet-clasico-perfecto-para-mudanzas-o-cargar-mercancia-58049258",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T15:01:07.754Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 132
+   }
+  },
+  {
+   "node": {
+    "id": "58049176",
+    "title": "Carro",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/carro-58049176",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-14T19:35:01.068Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "58048965",
+    "title": "Dong Feng Nammi Box 01 EV 430 (modelo de 2026)",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/dong-feng-nammi-box-01-ev-430-modelo-de-2026-58048965",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T05:01:07.102Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58047602",
+    "title": "MG ZS 2025  Tan solo 24,000 km recorridos un SUV moderno, atractivo y perfecto",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/mg-zs-2025-tan-solo-24000-km-recorridos-un-suv-moderno-atractivo-y-perfecto-58047602",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-11T03:33:58.935Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "52",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58047485",
+    "title": "Kia picanto mornig GTLine año 2026",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-mornig-gtline-ano-2026-58047485",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T03:22:59.044Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "58046996",
+    "title": "Oferton! Los dos vanes por precio de uno",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/oferton-los-dos-vanes-por-precio-de-uno-58046996",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T02:44:30.007Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58046960",
+    "title": "Nissan Rouge Híbrido Sv2017",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/nissan-rouge-hibrido-sv2017-58046960",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-11T02:42:13.079Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58046924",
+    "title": "CARRO ELÉCTRICO NEW",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-new-58046924",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-11T02:39:41.782Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58046815",
+    "title": "Moscovich 2140",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/moscovich-2140-58046815",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T17:53:20.612Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 80
+   }
+  },
+  {
+   "node": {
+    "id": "58046064",
+    "title": "`Carro en venta VV DEL 2020`",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-vv-del-2020-58046064",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-11T01:44:57.152Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "58045769",
+    "title": "AUTO /MARCA MOSCOVICH/MODELO 2140",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/auto-marca-moscovichmodelo-2140-58045769",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-26T12:06:35.529Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 180
+   }
+  },
+  {
+   "node": {
+    "id": "58045515",
+    "title": "MG ZS 2025 Tan solo 24,000 km recorridos",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/mg-zs-2025-tan-solo-24000-km-recorridos-58045515",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-11T01:16:25.850Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58044103",
+    "title": "Hyunday Santa cruz XRT 2024",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyunday-santa-cruz-xrt-2024-58044103",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T13:25:30.983Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 70
+   }
+  },
+  {
+   "node": {
+    "id": "58044019",
+    "title": "Lada 2107 motor 03",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/lada-2107-motor-03-58044019",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T13:08:33.720Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 241
+   }
+  },
+  {
+   "node": {
+    "id": "58043523",
+    "title": "MG ZS 2025",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/mg-zs-2025-58043523",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T14:52:54.116Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58042918",
+    "title": "Vendo Opel kadett con buen funcionamiento",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/vendo-opel-kadett-con-buen-funcionamiento-58042918",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T22:05:20.923Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58042647",
+    "title": "Delta 3 Classic",
+    "price": 600,
+    "currency": "USD",
+    "permalink": "/item/delta-3-classic-58042647",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T19:29:55.590Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58042368",
+    "title": "Venta de carro lada , chapa y circulación",
+    "price": 1,
+    "currency": "CUP",
+    "permalink": "/item/venta-de-carro-lada-chapa-y-circulacion-58042368",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-10T21:33:05.725Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "58041345",
+    "title": "Se vende Chevrolet del 52.",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-chevrolet-del-52-58041345",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T20:38:25.374Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 138
+   }
+  },
+  {
+   "node": {
+    "id": "58041124",
+    "title": "🚗 FIAT TIPO 1991 – 4 PUERTAS – GASOLINA – $5,000 USD",
+    "price": 5,
+    "currency": "USD",
+    "permalink": "/item/fiat-tipo-1991-4-puertas-gasolina-5000-usd-58041124",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-11T17:37:05.335Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58041098",
+    "title": "🚗 FIAT TIPO 1991 – 4 PUERTAS – GASOLINA",
+    "price": 5,
+    "currency": "USD",
+    "permalink": "/item/fiat-tipo-1991-4-puertas-gasolina-58041098",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-11T17:37:20.861Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58040166",
+    "title": "GAC GS4 Trumpchi 2017 1.5L Turbo Premium Edition",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/gac-gs4-trumpchi-2017-15l-turbo-premium-edition-58040166",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-10T19:28:18.869Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "58040156",
+    "title": "MOSCOVICH 2140",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/moscovich-2140-58040156",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T14:02:11.514Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 116
+   }
+  },
+  {
+   "node": {
+    "id": "58040042",
+    "title": "Misubichi lancer 1995",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/misubichi-lancer-1995-58040042",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-10T19:22:51.155Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 59
+   }
+  },
+  {
+   "node": {
+    "id": "58040041",
+    "title": "Misubichi lancer 1995",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/misubichi-lancer-1995-58040041",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-10T19:22:50.856Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58039776",
+    "title": "VENDO HYUNDAI IONIC 6 AÑO 2025 NUEVO 54143277",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-ionic-6-ano-2025-nuevo-54143277-58039776",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-10T19:09:37.554Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58039458",
+    "title": "Hyundai Santa Fe Calligraphy",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-58039458",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-10T18:51:04.645Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 14
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57056404",
+    "title": "Kia Rio 2019",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-57056404",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-08-27T18:11:04.759Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57056382",
+    "title": "🚘 HYUNDAI ELANTRA 2023",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-57056382",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-02T02:35:49.511Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57056365",
+    "title": "Vendo trailer",
+    "price": 300,
+    "currency": "USD",
+    "permalink": "/item/vendo-trailer-57056365",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-27T18:06:58.600Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "57055773",
+    "title": "Auto eléctrico Hiunday ionic 6",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/auto-electrico-hiunday-ionic-6-57055773",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-27T17:24:51.117Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57055174",
+    "title": "Auto Modelo BAIC BEIJING X35",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/auto-modelo-baic-beijing-x35-57055174",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-27T16:48:57.829Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57054885",
+    "title": "Mercedes Benz",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-benz-57054885",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-27T16:33:33.541Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 222
+   }
+  },
+  {
+   "node": {
+    "id": "57054127",
+    "title": "Aleko díesel",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/aleko-diesel-57054127",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-27T15:56:00.854Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "57054045",
+    "title": "TOYOTA YARIS CROSS HÍBRIDO 2022",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-cross-hibrido-2022-57054045",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-08T20:28:25.704Z",
+    "isPromoted": false,
+    "provinceId": "12",
+    "municipalityId": "118",
+    "viewCount": 189
+   }
+  },
+  {
+   "node": {
+    "id": "57053629",
+    "title": "HONDA HRV 2025",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/honda-hrv-2025-57053629",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-28T14:21:47.750Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57050550",
+    "title": "Toyota Corolla SE 2021",
+    "price": 23500,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-se-2021-57050550",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-27T13:19:48.866Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57049970",
+    "title": "Se vende Toyota Corolla 2025",
+    "price": 21,
+    "currency": "USD",
+    "permalink": "/item/se-vende-toyota-corolla-2025-57049970",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-27T12:50:29.453Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 96
+   }
+  },
+  {
+   "node": {
+    "id": "57049854",
+    "title": "KIA RIO 2019",
+    "price": 18800,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-57049854",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-27T12:45:20.669Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "57048044",
+    "title": "🚗 SE VENDE LADA 2107 – MUY BUEN ESTADO",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-2107-muy-buen-estado-57048044",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-08-27T09:38:14.478Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 128
+   }
+  },
+  {
+   "node": {
+    "id": "57047992",
+    "title": "24000 Maxus 2024.Este imponente vehículo de doble cabina cuenta con un confiable y duradero motor 2.4L atmosférico",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/24000-maxus-2024este-imponente-vehiculo-de-doble-cabina-cuenta-con-un-confiable-y-duradero-motor-24l-atmosferico-57047992",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:58:37.554Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 136
+   }
+  },
+  {
+   "node": {
+    "id": "57047989",
+    "title": "10500 Hyundai i10 año 2009 con transmisión automática, perfecto si buscas confort de manejo, agilidad en el tráfico y",
+    "price": 10500,
+    "currency": "USD",
+    "permalink": "/item/10500-hyundai-i10-ano-2009-con-transmision-automatica-perfecto-si-buscas-confort-de-manejo-agilidad-en-el-trafico-y-57047989",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:59:05.933Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 580
+   }
+  },
+  {
+   "node": {
+    "id": "57047988",
+    "title": "Toyota Corolla 2020  $21,000 USD! Un auto que lo tiene todo: confiabilidad japonesa, diseño deportivo y confort superior",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2020-21000-usd-un-auto-que-lo-tiene-todo-confiabilidad-japonesa-diseno-deportivo-y-confort-superior-57047988",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:56:41.131Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 281
+   }
+  },
+  {
+   "node": {
+    "id": "57047968",
+    "title": "40000 Si buscas modernidad, ahorro y confort, este Honda Prologue 2024 100% Eléctrico de primera mano",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/40000-si-buscas-modernidad-ahorro-y-confort-este-honda-prologue-2024-100-electrico-de-primera-mano-57047968",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:59:01.799Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "57047961",
+    "title": "22000 usd  MERCEDES C200 AÑO 2017  Si buscas un auto con presencia, lujo y máxima comodidad, este es para ti.",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/22000-usd-mercedes-c200-ano-2017-si-buscas-un-auto-con-presencia-lujo-y-maxima-comodidad-este-es-para-ti-57047961",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:57:09.451Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 420
+   }
+  },
+  {
+   "node": {
+    "id": "57044836",
+    "title": "Renault 19 5ta puerta año 92",
+    "price": 10500,
+    "currency": "USD",
+    "permalink": "/item/renault-19-5ta-puerta-ano-92-57044836",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T17:08:04.824Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 143
+   }
+  },
+  {
+   "node": {
+    "id": "57043678",
+    "title": "Toyota corola SE 2021",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corola-se-2021-57043678",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-27T13:15:18.914Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57043047",
+    "title": "⚡DONGFENG VIGO PRO 2026⚡FULLELECTRICO🔝",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-vigo-proelecticro-57043047",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T03:10:49.678Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 103
+   }
+  },
+  {
+   "node": {
+    "id": "57041851",
+    "title": "HYUNDAI ELANTRA 2019 - OPORTUNIDAD ÚNICA 🚗🔥",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-oportunidad-unica-57041851",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-08-30T17:21:10.445Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57041471",
+    "title": "Venta de autos",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-de-autos-57041471",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-10T15:31:21.274Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57033987",
+    "title": "Camión de carga",
+    "price": 41500,
+    "currency": "USD",
+    "permalink": "/item/camion-de-carga-57033987",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-10T18:24:25.832Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57032498",
+    "title": "Carro BAIC BEIJING X35  - ⁠Año 2025 - ⁠7000km recorridos  - ⁠12km x litro en Ciudad  - ⁠nunca a cogido carretera - ⁠está",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/carro-baic-beijing-x35-ano-2025-7000km-recorridos-12km-x-litro-en-ciudad-nunca-a-cogido-carretera-esta-57032498",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-15T22:48:22.260Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57057089",
+    "title": "Venta de carro Chevrolet",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-chevrolet-57057089",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-08-30T20:06:00.899Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 559
+   }
+  },
+  {
+   "node": {
+    "id": "57048744",
+    "title": "Aceite de caja automática",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/aceite-de-caja-automatica-57048744",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-27T11:37:03.279Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57047976",
+    "title": "16000usd , cero gasto en gasolina y un estilo único, este Bestune Pony 2026 (0 km) . Auto 100% eléctrico, automático,",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/16000usd-cero-gasto-en-gasolina-y-un-estilo-unico-este-bestune-pony-2026-0-km-auto-100-electrico-automatico-57047976",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:58:55.824Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 220
+   }
+  },
+  {
+   "node": {
+    "id": "57047557",
+    "title": "Coches maleta☝️ 155usd",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/coches-maleta-155usd-57047557",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-15T23:27:58.157Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57047153",
+    "title": "HYUNDAI IONIQ 5 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57047153",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T13:59:54.289Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57035697",
+    "title": "Cargador de autos eléctricos",
+    "price": 300,
+    "currency": "USD",
+    "permalink": "/item/cargador-de-autos-electricos-57035697",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-28T17:09:54.382Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "57028555",
+    "title": "SLUG TUNED AGT Uragan (ULTRA COMPACT TRUCK GNn standard )",
+    "price": 1000,
+    "currency": "USD",
+    "permalink": "/item/slug-tuned-agt-uragan-ultra-compact-truck-gnn-standard-57028555",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-08T17:09:34.077Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 119
+   }
+  },
+  {
+   "node": {
+    "id": "57027269",
+    "title": "Carro BAIC BEIJEN Año 2025",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/carro-baic-beijen-ano-2025-57027269",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-04T13:03:05.446Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57026166",
+    "title": "Carro Shineray x30 2025",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/carto-shineray-x30-2025-57026166",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-27T11:47:47.697Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 105
+   }
+  },
+  {
+   "node": {
+    "id": "57026133",
+    "title": "Carro Volkswagen 2021",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/carro-volkswagen-2021-57026133",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-27T11:48:20.913Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "57026070",
+    "title": "Carro Toyota Carolla 2018",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/carro-toyota-carolla-2018-57026070",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-27T11:48:55.213Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "17",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "57026026",
+    "title": "Carro Hyundai Santa Fe sport",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-santa-fe-sport-57026026",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-27T11:49:34.002Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 67
+   }
+  },
+  {
+   "node": {
+    "id": "57025990",
+    "title": "Carro Nissan infinity 2018",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/carro-nissan-infinity-2018-57025990",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-27T11:57:07.503Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "81",
+    "viewCount": 100
+   }
+  },
+  {
+   "node": {
+    "id": "57024915",
+    "title": "SE VENDE CHEVROLET 51 Clásico 🇨🇺",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-chevrolet-51-clasico-57024915",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-04T14:27:38.309Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 806
+   }
+  },
+  {
+   "node": {
+    "id": "57024610",
+    "title": "PANEL DE ENCHUFE CON TAPA",
+    "price": 8,
+    "currency": "USD",
+    "permalink": "/item/panel-de-enchufe-con-tapa-57024610",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T03:21:45.377Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 54
+   }
+  },
+  {
+   "node": {
+    "id": "57023558",
+    "title": "Chevy 52 sin papeles",
+    "price": 1500,
+    "currency": "USD",
+    "permalink": "/item/chevy-52-sin-papeles-57023558",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-28T16:30:48.441Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "57023098",
+    "title": "🚗 Peugeot 301 del 2019 – Mecánico 5 vel.",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-del-2019-mecanico-5-vel-57023098",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-23T21:09:59.838Z",
+    "isPromoted": false,
+    "provinceId": "15",
+    "municipalityId": "154",
+    "viewCount": 135
+   }
+  },
+  {
+   "node": {
+    "id": "57022048",
+    "title": "Polaco 4000 usd",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/polaco-4000-usd-57022048",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-24T20:14:24.477Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 409
+   }
+  },
+  {
+   "node": {
+    "id": "57019549",
+    "title": "Fiat Polski 83",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/fiat-polski-83-57019549",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-17T14:07:15.358Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 158
+   }
+  },
+  {
+   "node": {
+    "id": "57014889",
+    "title": "Hyundai accent del 2005",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-accent-del-2005-57014889",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-24T22:24:23.126Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 644
+   }
+  },
+  {
+   "node": {
+    "id": "57014492",
+    "title": "Busco Gestor de ventas para vender un moskovich",
+    "price": 10,
+    "currency": "USD",
+    "permalink": "/item/busco-gestor-de-ventas-para-vender-un-moskovich-57014492",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-19T21:59:38.070Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "57010879",
+    "title": "Camioneta plataforma Chevrolet 48",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-plataforma-chevrolet-48-57010879",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-17T10:44:21.094Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 215
+   }
+  },
+  {
+   "node": {
+    "id": "57008965",
+    "title": "TOYOTA TUNDRA SR5 2021",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/toyota-tundra-sr5-2021-57008965",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-24T17:49:43.011Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 126
+   }
+  },
+  {
+   "node": {
+    "id": "57008381",
+    "title": "Auto electrico",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/auto-electrico-57008381",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-03T13:23:09.635Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "57008209",
+    "title": "Chevrolet Colorado 2022 Z71",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-2022-z71-57008209",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T11:45:21.990Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 70
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

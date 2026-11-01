@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57720451",
+    "title": "En venta lada blanco. Más info y especificaciones Whatsapp o llamadas",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-lada-blanco-mas-info-y-especificaciones-whatsapp-o-llamadas-57720451",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-27T16:13:04.433Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 131
+   }
+  },
+  {
+   "node": {
+    "id": "57719811",
+    "title": "❤️ Honda acorr esport motor  1,5 con turbo 2022 ase d 15 a 16 kilómetros por litro ❤️",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/honda-acorr-esport-motor-15-con-turbo-2022-ase-d-15-a-16-kilometros-por-litro-57719811",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T17:44:41.028Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "57719385",
+    "title": "Hyundai Sonata 2022 N Line",
+    "price": 10250,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2022-n-line-57719385",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-27T15:37:34.314Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "1",
+    "viewCount": 124
+   }
+  },
+  {
+   "node": {
+    "id": "57719264",
+    "title": "Vendo lada 2103 motor 06 grande y caja 5ta.hya que chapistear y pintar.me ajusto algo en precio",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2103-motor-06-grande-y-caja-5tahya-que-chapistear-y-pintarme-ajusto-algo-en-precio-57719264",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-27T15:34:21.669Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "57719208",
+    "title": "Vendo polaco con mecánica original",
+    "price": 2000,
+    "currency": "USD",
+    "permalink": "/item/vendo-polaco-con-mecanica-original-57719208",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-27T15:32:58.480Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "57718988",
+    "title": "🌩 Carro Eléctrico HYUNDAI IONIQ 5 2024 🌩",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57718988",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-26T17:17:47.419Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57718448",
+    "title": "Oldsmovil 53",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/oldsmovil-53-57718448",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-27T15:07:30.502Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "10",
+    "viewCount": 184
+   }
+  },
+  {
+   "node": {
+    "id": "57718297",
+    "title": "Carro Honda Odyssey elite",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carro-honda-odyssey-elite-57718297",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T16:01:22.246Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "57717739",
+    "title": "Delta 3 no es clásica es delta 3 normal  750 usd",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/delta-3-no-es-clasica-es-delta-3-normal-750-usd-57717739",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-27T14:40:24.187Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "81",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57717535",
+    "title": "Auto Honde Civic",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/auto-honde-civic-57717535",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-27T14:31:50.993Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57717382",
+    "title": "*Hyundai IONIQ 5 2024 ❤️",
+    "price": 38,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57717382",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-27T14:24:21.988Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57716978",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57716978",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-27T14:09:30.900Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "57715719",
+    "title": "❤️ HIUNDAY 2022 full límite turbo locura de carro vendo hago negocio recogo pabajo ❤️",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/hiunday-2022-full-limite-turbo-locura-de-carro-vendo-hago-negocio-recogo-pabajo-57715719",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T17:45:10.165Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 87
+   }
+  },
+  {
+   "node": {
+    "id": "57715636",
+    "title": "❤️ HIUNDAY ELANTRA ESPERADO CHAPA AÑO 2017 CARRO INPECABLE CERO DETALLE ❤️",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/hiunday-elantra-esperado-chapa-ano-2017-carro-inpecable-cero-detalle-57715636",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-22T17:08:29.800Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 84
+   }
+  },
+  {
+   "node": {
+    "id": "57715535",
+    "title": "❤️ KIA RIO 2019 CERO DETALLE DE CHAPISTERIA Y PINTURA ES LLEGAR Y MONTAR AIRE QUE PELA ❤️",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-cero-detalle-de-chapisteria-y-pintura-es-llegar-y-montar-aire-que-pela-57715535",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T20:13:44.232Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 94
+   }
+  },
+  {
+   "node": {
+    "id": "57715447",
+    "title": "❤️ MOSKOVICH 2140 EN BUENAS CONDICIONES UNICO DUEÑO MECANICA DE FÁBRICA ❤️",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/moskovich-2140-en-buenas-condiciones-unico-dueno-mecanica-de-fabrica-57715447",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T20:14:17.448Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 273
+   }
+  },
+  {
+   "node": {
+    "id": "57715286",
+    "title": "❤️ KIA PICANTO 2017 AUTOMÁTICO TODO FUNCIONANDO AL 100% AIRE QUE PELA ❤️",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2017-automatico-todo-funcionando-al-100-aire-que-pela-57715286",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T19:55:50.553Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "57714985",
+    "title": "❤️ PEUGEOT 301 AÑO 2015 AIRE QUE PELA VENDO O NEGOCEO PARA ABAJO ❤️",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-ano-2015-aire-que-pela-vendo-o-negoceo-para-abajo-57714985",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T19:55:42.554Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 140
+   }
+  },
+  {
+   "node": {
+    "id": "57714936",
+    "title": "❤️ SE VENDE CAMIÓN MOTOR CUMIN 102 ❤️",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-camion-motor-cumin-102-57714936",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-22T17:05:28.410Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 223
+   }
+  },
+  {
+   "node": {
+    "id": "57714836",
+    "title": "❤️ PEUGEOT 301 INPECABLE LLANTA 5 PALO AIRE QUE PELA 0 DETALLE DE CHAPISTERIA Y PINTURA ES LLEGAR Y MONTAR ❤️",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-inpecable-llanta-5-palo-aire-que-pela-0-detalle-de-chapisteria-y-pintura-es-llegar-y-montar-57714836",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T19:55:45.559Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "29",
+    "viewCount": 157
+   }
+  },
+  {
+   "node": {
+    "id": "57714741",
+    "title": "❤️ BUICK DEL 53 MOTOR AVIA CAJA DE CIL 130 CAMINA DE PELICULA ❤️",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/buick-del-53-motor-avia-caja-de-cil-130-camina-de-pelicula-57714741",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T17:44:35.736Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 228
+   }
+  },
+  {
+   "node": {
+    "id": "57713936",
+    "title": "Vendo Hyundai Elantra 2017",
+    "price": 18900,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-elantra-2017-57713936",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-27T11:48:21.512Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57713880",
+    "title": "Vendo un BMW  2017  tecnología alemana alta calidad",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/vendo-un-bmw-2017-tecnologia-alemana-alta-calidad-57713880",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-27T11:43:16.784Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "57713818",
+    "title": "Vendo Hyundai hybrid Edition limitada 2019",
+    "price": 19900,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-hybrid-edition-limitada-2019-57713818",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-27T11:39:06.342Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57712633",
+    "title": "Jeep Renegade 2019 — $26,000 USD",
+    "price": 13500,
+    "currency": "USD",
+    "permalink": "/item/jeep-renegade-2019-26000-usd-57712633",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-02T07:41:17.241Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57712624",
+    "title": "Infiniti Q50 2018 3.0 Turbo — $27,600 USD",
+    "price": 13500,
+    "currency": "USD",
+    "permalink": "/item/infiniti-q50-2018-30-turbo-27600-usd-57712624",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T07:39:56.007Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57712614",
+    "title": "Hyundai Elantra 2020 — $22,500 USD",
+    "price": 13500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2020-22500-usd-57712614",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-02T07:38:34.950Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57712330",
+    "title": "Carros",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-57712330",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-27T06:22:06.692Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57712329",
+    "title": "Carros",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-57712329",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-27T06:22:06.201Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57711681",
+    "title": "HONDA PROLONGUE 2024",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/honda-prolongue-2024-57711681",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-27T04:31:03.507Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57710711",
+    "title": "Honda Civic",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/honda-civic-57710711",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-27T03:06:35.380Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "57710424",
+    "title": "Desoto",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/desoto-57710424",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-27T02:47:52.525Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "57709400",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57709400",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-07T13:23:29.460Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57709154",
+    "title": "Se vende ford consul 59",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-ford-consul-59-57709154",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-27T01:12:28.404Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "28",
+    "viewCount": 170
+   }
+  },
+  {
+   "node": {
+    "id": "57709089",
+    "title": "‼️BUEN PRECIO ‼️VENDO LAS DOS BICIMOTOS JUNTAS‼️",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/buen-precio-vendo-las-dos-bicimotos-juntas-57709089",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-27T01:07:56.792Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57708819",
+    "title": "Se vende Subaru vivió en perfectas condiciones 52641050",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-subaru-vivio-en-perfectas-condiciones-52641050-57708819",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-15T18:24:57.904Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57707930",
+    "title": "Vendo Toyota Raize",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/vendo-toyota-raize-57707930",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-26T23:31:51.298Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57707778",
+    "title": "Wa.me/56525031📲 HYUNDAI ACCENT 2015  ¡AUTOMÁTICO, MOTOR NUEVO Y MÚSICA A FULL🔥  ¡Un carro sumamente moder",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/wame56525031-hyundai-accent-2015-automatico-motor-nuevo-y-musica-a-full-un-carro-sumamente-moder-57707778",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-26T23:20:13.215Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57706748",
+    "title": "Vw escarabajo",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/vw-escarabajo-57706748",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-26T22:10:38.568Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 291
+   }
+  },
+  {
+   "node": {
+    "id": "57704937",
+    "title": "Cheverolet 56",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/cheverolet-56-57704937",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-26T20:21:58.166Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "20",
+    "viewCount": 158
+   }
+  },
+  {
+   "node": {
+    "id": "57704461",
+    "title": "Kia picanto 2018 importado certifico en mano 14k",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2018-importado-certifico-en-mano-14k-57704461",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-26T19:58:22.927Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 325
+   }
+  },
+  {
+   "node": {
+    "id": "57703751",
+    "title": "Microbus",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/microbus-57703751",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-26T19:25:22.316Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "57703251",
+    "title": "Venta de Peugeot 205, petróleo.",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-peugeot-205-petroleo-57703251",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-26T18:59:07.636Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57701308",
+    "title": "Se vende Hyundai IONIQ 5 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-ioniq-5-2024-57701308",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-22T12:53:04.915Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57701267",
+    "title": "Vendo mosckovich 2140 o cambio x lada",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-mosckovich-2140-o-cambio-x-lada-57701267",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T12:32:53.099Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 157
+   }
+  },
+  {
+   "node": {
+    "id": "57699933",
+    "title": "Vendo o negoceo le pongo la java para algo más grande o recojo menos",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-o-negoceo-le-pongo-la-java-para-algo-mas-grande-o-recojo-menos-57699933",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-26T16:45:38.161Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 104
+   }
+  },
+  {
+   "node": {
+    "id": "57698743",
+    "title": "⚡ HYUNDAI IONIQ 5 · 2024 · 100% ELÉCTRICO ⚡",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-57698743",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-20T00:07:52.732Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57698169",
+    "title": "🚗 Carro Nissan Rogue SV 2.51 del 2016 con 113000 millas recorridas y certifico de venta listo ⚡",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/carro-nissan-rogue-sv-251-del-2016-con-113000-millas-recorridas-y-certifico-de-ventas-listo-57698169",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-18T16:04:23.556Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 124
+   }
+  },
+  {
+   "node": {
+    "id": "57696167",
+    "title": "Se vende Hyundai 2018!!!!",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-2018-57696167",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T16:32:06.797Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 746
+   }
+  },
+  {
+   "node": {
+    "id": "57695369",
+    "title": "Carro. Marca OPEL del 60",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/carro-marca-opel-del-60-57695369",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-17T22:28:43.088Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 108
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

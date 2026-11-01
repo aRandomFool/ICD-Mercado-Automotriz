@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57325101",
+    "title": "HYUNDAI ELANTRA 2019, 60700 millas",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-60700-millas-57325101",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-09T20:24:27.845Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57325100",
+    "title": "HYUNDAI ELANTRA 2019, 60700 millas",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-60700-millas-57325100",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-09T20:24:26.542Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "57324992",
+    "title": "Vendo Lada 2101",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2101-57324992",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-09T20:17:55.063Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 193
+   }
+  },
+  {
+   "node": {
+    "id": "57324843",
+    "title": "Vendo moskobich",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/vendo-moskobich-57324843",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-09T20:08:16.808Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 256
+   }
+  },
+  {
+   "node": {
+    "id": "57324673",
+    "title": "Se vende auto Daewoo.",
+    "price": 10500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-auto-daewoo-57324673",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-09T19:57:50.219Z",
+    "isPromoted": false,
+    "provinceId": "9",
+    "municipalityId": "83",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57324639",
+    "title": "LADA 2107 (AÑO 2000)",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-ano-2000-57324639",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T19:55:38.427Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 415
+   }
+  },
+  {
+   "node": {
+    "id": "57323604",
+    "title": "Carro eléctrico",
+    "price": 38.5,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57323604",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-09T19:12:31.186Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "57323377",
+    "title": "Vendo Renault del año 57  -Certifico listo para traspaso   -No tiene chapa porque se le hizo traspaso no apto  -Motor VW",
+    "price": 1700,
+    "currency": "USD",
+    "permalink": "/item/vendo-renault-del-ano-57-certifico-listo-para-traspaso-no-tiene-chapa-porque-se-le-hizo-traspaso-no-apto-motor-vw-57323377",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-17T17:15:23.164Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 200
+   }
+  },
+  {
+   "node": {
+    "id": "57323336",
+    "title": "HYUNDAI SONATA LIMITED 2021 — ¡EL MÁS FULL DE LA GAMA! 🔥",
+    "price": 26500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-limited-2021-el-mas-full-de-la-gama-57323336",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T19:03:30.637Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57323334",
+    "title": "Se vende camioneta plataforma Chevrolet 48  Motor Chevrolet 53 caja 5ta Hyunday diferencial 3,5 freno de disco delante y",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-camioneta-plataforma-chevrolet-48-motor-chevrolet-53-caja-5ta-hyunday-diferencial-35-freno-de-disco-delante-y-57323334",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-17T17:15:23.958Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 160
+   }
+  },
+  {
+   "node": {
+    "id": "57323228",
+    "title": "Lada 2105",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/lada-2105-57323228",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-09T18:59:15.232Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "57323073",
+    "title": "Carro eléctrico",
+    "price": 20.5,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57323073",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-09T18:53:37.366Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "57322098",
+    "title": "Hyundai Elantra 2019",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57322098",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T18:18:05.658Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57321909",
+    "title": "Auto moderno / Hyunda Elantra 2019",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/auto-moderno-hyunda-elantra-2019-57321909",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-10T14:55:15.758Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57321749",
+    "title": "Carro eléctrico Hyundai",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-57321749",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T12:37:43.781Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57321527",
+    "title": "Auto en venta",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/auto-en-venta-57321527",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-15T13:57:44.491Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57321060",
+    "title": "Moskvich 2140 gasolina",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/moskvich-2140-gasolina-57321060",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T17:40:59.349Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 187
+   }
+  },
+  {
+   "node": {
+    "id": "57319503",
+    "title": "Hyundai Elantra 2019",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57319503",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-10T12:12:16.252Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57319459",
+    "title": "Carro electrico Hyundai IONIQ 5 2024",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57319459",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-10T12:11:53.570Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57319412",
+    "title": "Venta de carro",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-57319412",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-09T16:42:50.847Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57319350",
+    "title": "Venta de carro",
+    "price": 40500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-57319350",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-09T16:40:54.822Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57319050",
+    "title": "HYUNDAI SONATA LIMITED 2021 — ¡EL MÁS FULL DE LA GAMA! 🔥",
+    "price": 26500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-limited-2021-el-mas-full-de-la-gama-57319050",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-09T16:29:14.205Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "21",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "57319015",
+    "title": "Sonata del 2021",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/sonata-del-2021-57319015",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-09T16:27:55.511Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "57318995",
+    "title": "Venta de carros",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/venta-de-carros-57318995",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-09T16:27:21.282Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57318839",
+    "title": "Bateria de 10 kwh   con 🚗 incluido",
+    "price": 3055,
+    "currency": "USD",
+    "permalink": "/item/bateria-de-10-kwh-con-incluido-57318839",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T16:22:07.367Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57318694",
+    "title": "Panel de 450 watt Messi con 🚗 incluido",
+    "price": 185,
+    "currency": "USD",
+    "permalink": "/item/panel-de-450-watt-messi-con-incluido-57318694",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T16:18:18.682Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57317278",
+    "title": "Hyundai en venta Habana",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-en-venta-habana-57317278",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-09T15:36:02.468Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57317170",
+    "title": "Vendo Moskovich. Hay que pintarlo y hacerle arreglos",
+    "price": 2000,
+    "currency": "USD",
+    "permalink": "/item/vendo-moskovich-hay-que-pintarlo-y-hacerle-arreglos-57317170",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-23T17:45:45.023Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 79
+   }
+  },
+  {
+   "node": {
+    "id": "57316693",
+    "title": "Chigo Terry 4",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/chigo-terry-4-57316693",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-15T14:49:36.685Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57316543",
+    "title": "Mg3 del 2024",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/mg3-del-2024-57316543",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-15T14:49:36.892Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 121
+   }
+  },
+  {
+   "node": {
+    "id": "57316418",
+    "title": "Bestune Pony Eléctrico. $13000",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/bestune-pony-electrico-13000-57316418",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-22T15:00:24.228Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 229
+   }
+  },
+  {
+   "node": {
+    "id": "57316138",
+    "title": "Hyundai Tucson del 2021 en impecables condiciones",
+    "price": 26500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-del-2021-en-impecables-condiciones-57316138",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-15T13:08:15.744Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57315533",
+    "title": "✅En Venta!!! Toyota Camry SE 2020",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/toyota-camry-se-2020-57315533",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-09T14:46:42.582Z",
+    "isPromoted": false,
+    "provinceId": "11",
+    "municipalityId": "101",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "57315247",
+    "title": "Se vende Lada 2105",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-2105-57315247",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-09T14:37:32.800Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 200
+   }
+  },
+  {
+   "node": {
+    "id": "57314370",
+    "title": "Vendo o hago negocio",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-o-hago-negocio-57314370",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T14:09:48.372Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "57313468",
+    "title": "*Hyundai IONIQ 5 2024✨*  *Carro 100% Eléctrico ⚡️*  Millas: 50.000 🛣️  *Precio: 38.500 USD* 💵",
+    "price": 38.5,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-carro-100-electrico-millas-50000-precio-38500-usd-57313468",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T13:39:50.507Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57313352",
+    "title": "Hyundai elantra 2019",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57313352",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-21T02:56:39.045Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57313298",
+    "title": "Hyundai Tucson 2017 Sport",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2017-sport-57313298",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-02T22:36:21.238Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 67
+   }
+  },
+  {
+   "node": {
+    "id": "57311826",
+    "title": "Hyundai IONIQ 5 2024✨",
+    "price": 38.5,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57311826",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-12T05:42:09.537Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57311608",
+    "title": "Gasolina importada a 2.25",
+    "price": 2.25,
+    "currency": "USD",
+    "permalink": "/item/gasolina-importada-a-225-57311608",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T12:36:27.453Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 81
+   }
+  },
+  {
+   "node": {
+    "id": "57309464",
+    "title": "Elantra 2021 híbrido 37 kilómetros por litro 64 mil millas recorridas  59764745 al WhatsApp 21.000 USD",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/elantra-2021-hibrido-37-kilometros-por-litro-64-mil-millas-recorridas-59764745-al-whatsapp-21000-usd-57309464",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-09T09:45:49.069Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "57308363",
+    "title": "*⚡️ Hyundai IONIQ 5 2024 🔥*  🔋 100% Eléctrico 🛣️ Hasta 488 km por carga 🔆 50,000 millas 💰 $40.000 USD",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-hasta-488-km-por-carga-50000-millas-40000-usd-57308363",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-12T17:32:53.658Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57308358",
+    "title": "*🔥 Hyundai Elantra 2019*  ⛽️ Gasolina 🔆 60,704 millas  💰 $20,200 USD  📍 Arroyo Naranjo, Reparto Capri  ✨ Cómodo",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-gasolina-60704-millas-20200-usd-arroyo-naranjo-reparto-capri-comodo-57308358",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-12T17:32:53.560Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57307030",
+    "title": "Nizzan",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/nizzan-57307030",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-09T03:06:49.101Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57306885",
+    "title": "Cargador para autos eléctrico",
+    "price": 370,
+    "currency": "USD",
+    "permalink": "/item/cargador-para-autos-electrico-57306885",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T02:56:39.798Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "57306651",
+    "title": "*⚡️ Hyundai IONIQ 5 2024 🔥*  🔋 100% Eléctrico 🛣️ Hasta 488 km por carga 🔆 50,000 millas 💰 $40.120 USD 📍**urbane",
+    "price": 40.12,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-hasta-488-km-por-carga-50000-millas-40120-usd-urbane-57306651",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T02:40:09.102Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57306593",
+    "title": "*🔥 Hyundai Elantra 2019*  ⛽️ Gasolina 🔆 60,704 millas  💰 $20,150 USD (NUEVO PRECIO)  📍 Arroyo Naranjo**urbane",
+    "price": 20.15,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-gasolina-60704-millas-20150-usd-nuevo-precio-arroyo-naranjourbane-57306593",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T02:36:25.979Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57306323",
+    "title": "Hyundai IONIQ 5 2024 mc2",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-mc2-57306323",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-13T17:54:35.221Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57305881",
+    "title": "*🔥 Hyundai Elantra 2019*",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57305881",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-01T20:12:07.186Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "57305639",
+    "title": "Se vende Hyundai Elantra del 2019",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-elantra-del-2019-57305639",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-09T01:36:29.799Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 14
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

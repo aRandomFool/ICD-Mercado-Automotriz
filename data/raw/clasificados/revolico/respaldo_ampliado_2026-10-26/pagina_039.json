@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57609825",
+    "title": "Carrito para mandados",
+    "price": 18,
+    "currency": "USD",
+    "permalink": "/item/carrito-para-mandados-57609825",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-19T23:27:10.094Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57609448",
+    "title": "Renault Kangoo de , Carga",
+    "price": 22999,
+    "currency": "USD",
+    "permalink": "/item/renault-kangoo-de-carga-57609448",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T13:48:05.815Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57609219",
+    "title": "Fiat Fiorino de carga",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/fiat-fiorino-de-carga-57609219",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T13:07:20.664Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 81
+   }
+  },
+  {
+   "node": {
+    "id": "57608817",
+    "title": "Carros Modernos",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-modernos-57608817",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-22T13:27:34.814Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "57608379",
+    "title": "Vehículos en plaza",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vehiculos-en-plaza-57608379",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T13:13:47.434Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57608197",
+    "title": "Mercedes Sprinter 211 , año 2020",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-sprinter-211-ano-2020-57608197",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-27T00:48:59.399Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "57608069",
+    "title": "Carro en venta",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-57608069",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-22T13:04:11.034Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 84
+   }
+  },
+  {
+   "node": {
+    "id": "57607983",
+    "title": "Renault Kangoo de carga , Diesel",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/renault-kangoo-de-carga-diesel-57607983",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T13:01:23.929Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57607847",
+    "title": "Camión 3,5 T Nissan NT 400",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/camion-35-t-57607847",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T12:57:44.326Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57607819",
+    "title": "Goma 185 65 R 15",
+    "price": 5000,
+    "currency": "CUP",
+    "permalink": "/item/goma-185-65-r-15-57607819",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T12:56:46.332Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57607210",
+    "title": "🚘 DONGFENG VIGO 480 – 100% ELÉCTRICO ⚡",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-vigo-480-100-electrico-57607210",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-22T12:34:51.827Z",
+    "isPromoted": false,
+    "provinceId": "11",
+    "municipalityId": "101",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57605962",
+    "title": "Carro moderno",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/carro-moderno-57605962",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-22T11:26:30.984Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57605750",
+    "title": "Bateria de carro 12v-70a",
+    "price": 120,
+    "currency": "USD",
+    "permalink": "/item/bateria-de-carro-12v-70a-57605750",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T01:22:26.753Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57604754",
+    "title": "GANGA En 20 MIL vendo o hago negocio un Mercedes Benz del 2019 al WhatsApp para enviarte fotos 63275756",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/ganga-en-20-mil-vendo-o-hago-negocio-un-mercedes-benz-del-2019-al-whatsapp-para-enviarte-fotos-63275756-57604754",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T09:16:49.209Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 133
+   }
+  },
+  {
+   "node": {
+    "id": "57604218",
+    "title": "‼️BASTA DE GASTAR EN GASOLINA ‼️ Hyundai IONIQ 5  ELÉCTRICO 2024 ❤️*",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/basta-de-gastar-en-gasolina-hyundai-ioniq-5-electrico-2024-57604218",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-27T16:03:51.074Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57604166",
+    "title": "‼️ SE VENDE VW DEL 2020`‼️",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-vw-del-2020-57604166",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-07T16:03:39.606Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 71
+   }
+  },
+  {
+   "node": {
+    "id": "57604165",
+    "title": "‼️ SE VENDE VW DEL 2020`‼️",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-vw-del-2020-57604165",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-22T06:41:45.524Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57603991",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57603991",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-22T06:18:52.319Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57603904",
+    "title": "COCHES DE BASTÓN",
+    "price": 140,
+    "currency": "USD",
+    "permalink": "/item/coches-de-baston-57603904",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-19T03:59:35.226Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57603879",
+    "title": "Ofertazaaa lo Rebajeeeee escríbeme me volví loco",
+    "price": 11,
+    "currency": "USD",
+    "permalink": "/item/ofertazaaa-lo-rebajeeeee-escribeme-me-volvi-loco-57603879",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-22T06:02:58.919Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57603856",
+    "title": "Hyundai santa cruz 2024 venta o negocio",
+    "price": 48000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-cruz-2024-venta-o-negocio-57603856",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-22T05:58:14.879Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57603848",
+    "title": "Hyundai Tucson 2021 venta o negocio",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2021-venta-o-negocio-57603848",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:56:44.380Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 94
+   }
+  },
+  {
+   "node": {
+    "id": "57603840",
+    "title": "Hyundai Tucson 2017 limited salón electro techo de cristal un muñeco el carro venta o negocio",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2017-limited-salon-electro-techo-de-cristal-un-muneco-el-carro-venta-o-negocio-57603840",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-22T05:55:43.206Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 108
+   }
+  },
+  {
+   "node": {
+    "id": "57603836",
+    "title": "Cuña HYUNDAI ionic 6 2024 venta o negoceo",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/cuna-hyundai-ionic-6-2024-venta-o-negoceo-57603836",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-22T05:54:51.598Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57603827",
+    "title": "Génesis GV 70 2025 en circulación carro de lujo nuevo de paquete venta o negocio",
+    "price": 65000,
+    "currency": "USD",
+    "permalink": "/item/genesis-gv-70-2025-en-circulacion-carro-de-lujo-nuevo-de-paquete-venta-o-negocio-57603827",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:53:46.097Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57603814",
+    "title": "BMW X6 COMPETITION 2022 49 MIL KM VENTA O NEGOCIO",
+    "price": 120000,
+    "currency": "USD",
+    "permalink": "/item/bmw-x6-competition-2022-49-mil-km-venta-o-negocio-57603814",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:52:00.112Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "57603808",
+    "title": "Hyundai santa fe 2018 venta o negocio",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2018-venta-o-negocio-57603808",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:51:02.517Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "57603801",
+    "title": "Hyundai palisade limited 2020 asientos en piel negro venta o negocio",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-limited-2020-asientos-en-piel-negro-venta-o-negocio-57603801",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:50:12.729Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57603791",
+    "title": "Hyundai santa fe 2024 sel una locura de carro venta o negocio",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2024-sel-una-locura-de-carro-venta-o-negocio-57603791",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:49:16.996Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "57603785",
+    "title": "Hyundai sonata nline 2022 venta o negocio",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-nline-2022-venta-o-negocio-57603785",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:48:31.106Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57603776",
+    "title": "Mercedes Benz 2016 c200 hecho AMG completo venta o negocio",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-benz-2016-c200-hecho-amg-completo-venta-o-negocio-57603776",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:47:36.597Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 194
+   }
+  },
+  {
+   "node": {
+    "id": "57603754",
+    "title": "Toyota Corolla 2018 le nuevonde paquete venta o negocio",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2018-le-nuevonde-paquete-venta-o-negocio-57603754",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:45:46.483Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57603747",
+    "title": "Guagua maxus taona 2025 diesel mecánica 17 plazas nueva de paquete venta o negocio",
+    "price": 55000,
+    "currency": "USD",
+    "permalink": "/item/guagua-maxus-taona-2025-diesel-mecanica-17-plazas-nueva-de-paquete-venta-o-negocio-57603747",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T05:44:46.820Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "57602807",
+    "title": "AUTO ELÉCTRICO ⚡️IONIQ 5 2024 SOLUCIÓN A TUS PROBLEMAS",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/auto-electrico-ioniq-5-2024-solucion-a-tus-problemas-57602807",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T04:08:49.477Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57602452",
+    "title": "En Venta Lada 2107",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/en-venta-lada-2107-57602452",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T03:39:09.634Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 162
+   }
+  },
+  {
+   "node": {
+    "id": "57601512",
+    "title": "Toyota Corolla 2018",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2018-57601512",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-22T02:40:18.269Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "57601329",
+    "title": "Oupes Exodus 2400",
+    "price": 1100,
+    "currency": "USD",
+    "permalink": "/item/oupes-exodus-2400-57601329",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:54:08.093Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "57600291",
+    "title": "🚨🔥 VOLKSWAGEN GOLF MK2 GL 🔥🚨",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-golf-mk2-gl-57600291",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T17:30:48.193Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 145
+   }
+  },
+  {
+   "node": {
+    "id": "57599954",
+    "title": "Moskovi aleco",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/moskovi-aleco-57599954",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-02T22:36:28.398Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 116
+   }
+  },
+  {
+   "node": {
+    "id": "57599294",
+    "title": "Carro VV 2020",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/carro-vv-2020-57599294",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T00:39:35.367Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57599015",
+    "title": "Opel de petróleo",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/opel-de-petroleo-57599015",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-22T00:23:10.145Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "57599005",
+    "title": "Vendo foto VW en 4500",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/vendo-foto-vw-en-4500-57599005",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T00:22:47.207Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 144
+   }
+  },
+  {
+   "node": {
+    "id": "57598836",
+    "title": "Carro TOYOTA COROLLA",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/carro-toyota-corolla-57598836",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T00:11:21.932Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57598815",
+    "title": "nissan rogue 2019",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/nissan-rogue-2019-57598815",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-22T00:09:56.105Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57598657",
+    "title": "Carro Nissan",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/carro-nissan-57598657",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T23:59:10.435Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57598638",
+    "title": "Infiniti Q50 3.0t 2019 Motor v6 twin turbo Asientos nuevos en piel  77k millas   Precio 30mil USD    pagar en cuba o EEU",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/infiniti-q50-30t-2019-motor-v6-twin-turbo-asientos-nuevos-en-piel-77k-millas-precio-30mil-usd-pagar-en-cuba-o-eeu-57598638",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T23:58:36.157Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57598023",
+    "title": "Hyundai Santa Fe 2018 Rojo",
+    "price": 28500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2025-57598023",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-30T23:57:49.768Z",
+    "isPromoted": false,
+    "provinceId": "15",
+    "municipalityId": "154",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "57597905",
+    "title": "Una buena oportunidad!!!",
+    "price": 2800,
+    "currency": "USD",
+    "permalink": "/item/una-buena-oportunidad-57597905",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T23:11:21.966Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 177
+   }
+  },
+  {
+   "node": {
+    "id": "57597773",
+    "title": "🔥HYUNDAI ELANTRAB2025",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantrab2025-57597773",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-21T23:03:04.182Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57597166",
+    "title": "SE VENDE LADA 2106 EN PERFECTO ESTADO , PRECIO LLAMAR A MAXIMILIANO",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-lada-2106-en-perfcto-esta-precio-llamar-al-no-57597166",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-08T23:06:41.557Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 221
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

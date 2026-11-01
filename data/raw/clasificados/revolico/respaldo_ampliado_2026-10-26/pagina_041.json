@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57574041",
+    "title": "🚘🔥 MERCEDES-BENZ GLC 2025 🔥🚘",
+    "price": 60000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-benz-glc-2025-57574041",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-23T12:47:26.805Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "57573947",
+    "title": "HYUNDAI ELANTRA 202...add",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-202add-57573947",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T00:48:22.233Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 126
+   }
+  },
+  {
+   "node": {
+    "id": "57572498",
+    "title": "Hyundai elantra 2019",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57572498",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T15:44:47.313Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "57570719",
+    "title": "Carro eléctrico New",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-new-57570719",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-20T19:17:16.361Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57570385",
+    "title": "Vendo En 40,500 USD Toyota Corolla Cross 2025 al WhatsApp 63275756",
+    "price": 40500,
+    "currency": "USD",
+    "permalink": "/item/vendo-en-40500-usd-toyota-corolla-cross-2025-al-whatsapp-63275756-57570385",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-20T19:05:25.519Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57569689",
+    "title": "Se vende lada 2107",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-2107-57569689",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-20T18:36:15.590Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 75
+   }
+  },
+  {
+   "node": {
+    "id": "57568701",
+    "title": "Se vende auto Chevrolet 57",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-auto-chevrolet-57-57568701",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-13T17:45:38.026Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 250
+   }
+  },
+  {
+   "node": {
+    "id": "57567124",
+    "title": "Carro eléctrico",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57567124",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-20T16:51:11.796Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57566800",
+    "title": "LADA 2107",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-57566800",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T16:38:47.573Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 175
+   }
+  },
+  {
+   "node": {
+    "id": "57566674",
+    "title": "Se vende camión",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-camion-57566674",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-20T16:33:08.866Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57565439",
+    "title": "Venta de carro automático",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-automatico-57565439",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T02:05:52.521Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "57563941",
+    "title": "Delta 3 Clasica",
+    "price": 600,
+    "currency": "USD",
+    "permalink": "/item/delta-3-clasica-57563941",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T16:55:58.968Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57563769",
+    "title": "Venta de autos",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-autos-57563769",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T14:40:25.884Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "18",
+    "viewCount": 88
+   }
+  },
+  {
+   "node": {
+    "id": "57563654",
+    "title": "Venta de autos cuba",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-autos-cuba-57563654",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T14:36:39.205Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "18",
+    "viewCount": 173
+   }
+  },
+  {
+   "node": {
+    "id": "57563367",
+    "title": "Carros eléctricos y de gasolina",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-electricos-y-de-gasolina-57563367",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T16:01:09.240Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "57562794",
+    "title": "2107 de fabrica",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/2107-de-fabrica-57562794",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T14:07:06.456Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 93
+   }
+  },
+  {
+   "node": {
+    "id": "57560756",
+    "title": "VENDO AUTO GEELY",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/vendo-auto-geely-57560756",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-20T12:45:40.837Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "23",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "57560174",
+    "title": "Arrancador y compresor de auto",
+    "price": 65,
+    "currency": "USD",
+    "permalink": "/item/arrancador-y-compresor-de-auto-57560174",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-20T12:21:04.117Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57559827",
+    "title": "Hyunday Santa cruz XRT 2024 full equipado",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/hyunday-santa-cruz-sport-2023-57559827",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-25T22:13:38.667Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "57557508",
+    "title": "Vw pointer 2007",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/vw-pointer-2007-57557508",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T07:37:40.885Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 150
+   }
+  },
+  {
+   "node": {
+    "id": "57556636",
+    "title": "Mercedes A180 en venta....",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-a180-en-venta-57556636",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T05:24:46.553Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 169
+   }
+  },
+  {
+   "node": {
+    "id": "57556431",
+    "title": "Carro Hyundai Ioniq 5 2024",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-ioniq-5-2024-57556431",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-15T15:49:06.859Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57556324",
+    "title": "Se vende carro Hyundai Elantra 2019",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-hyundai-elantra-2019-57556324",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-15T15:49:05.556Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57556127",
+    "title": "Se vende carro opiro del 2009",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-opiro-del-2009-57556127",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-20T04:14:35.390Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 67
+   }
+  },
+  {
+   "node": {
+    "id": "57554179",
+    "title": "Se vende glory 330 con 7 mil kilómetros",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-glory-330-con-7-mil-kilometros-57554179",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T02:09:50.067Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57553944",
+    "title": "🚨 KIA SPORTAGE 2026 X-LINE 🚨  🔥 ¡PRÁCTICAMENTE NUEVA! 🔥",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/kia-sportage-2026-x-line-practicamente-nueva-57553944",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T01:56:04.357Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57553741",
+    "title": "☎️Compro santa fe del 2017 en adelante",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/compro-santa-fe-del-2017-en-adelante-57553741",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-25T04:04:09.068Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57553519",
+    "title": "Ofertaaaaaaa Excelente carro en condiciones inmejorables",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/excelente-carro-en-condiciones-inmejorables-57553519",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-30T22:02:04.031Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "57553492",
+    "title": "*Hyundai IONIQ 5 2024 ❤️*  100% Eléctrico ⚡️  50,000 millas 🛣️",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-50000-millas-57553492",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T01:24:44.996Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57553022",
+    "title": "Kia rio 2009 se vende o se negocea",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2009-57553022",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-26T14:45:11.039Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "20",
+    "viewCount": 145
+   }
+  },
+  {
+   "node": {
+    "id": "57551807",
+    "title": "Carro eléctrico",
+    "price": 40,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57551807",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-19T23:19:39.828Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "57550812",
+    "title": "Se vende oldsmobile 57 modelo 88",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-oldsmobile-57-modelo-88-57550812",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-19T22:09:07.366Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 141
+   }
+  },
+  {
+   "node": {
+    "id": "57550629",
+    "title": "VolksWagen del 2020 -Espejos electricos  -Llantas y gomas casi nuevas  -musica pieoner con pantall",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-del-2020-espejos-electricos-llantas-y-gomas-casi-nuevas-musica-pieoner-con-pantall-57550629",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-19T21:59:45.670Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "57550392",
+    "title": "🚘🔥 BESTUNE T77 2025 🔥🚘",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/bestune-t77-2025-57550392",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T17:31:22.682Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 135
+   }
+  },
+  {
+   "node": {
+    "id": "57549524",
+    "title": "Se vende",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-57549524",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-19T20:53:16.565Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57548855",
+    "title": "Kia picanto 2018",
+    "price": 14,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2018-57548855",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-19T20:02:49.925Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 207
+   }
+  },
+  {
+   "node": {
+    "id": "57548702",
+    "title": "Se vende jeep listo para traspaso",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-jeep-listo-para-traspaso-57548702",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-19T19:48:18.640Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 261
+   }
+  },
+  {
+   "node": {
+    "id": "57547279",
+    "title": "PEUGEOT 107 (Modelo 2013). Automático 2-Tronic, único dueño. Piezas de Repuesto!",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/peugeot-107-modelo-2013-negro-automatico-2-tronic-unico-dueno-57547279",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-03T19:03:55.897Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 126
+   }
+  },
+  {
+   "node": {
+    "id": "57547053",
+    "title": "Mosckvich",
+    "price": 4200,
+    "currency": "USD",
+    "permalink": "/item/mosckvich-57547053",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-19T17:52:10.280Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "57545625",
+    "title": "Hyundai accent 2017",
+    "price": 18,
+    "currency": "USD",
+    "permalink": "/item/hyundai-accent-2017-57545625",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-19T16:30:49.140Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 76
+   }
+  },
+  {
+   "node": {
+    "id": "57543295",
+    "title": "Se Vende Kia Picanto GTline 2025",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-kia-picanto-gtline-2025-57543295",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-19T14:43:25.068Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57543117",
+    "title": "Nissan 2024",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/nissan-2024-57543117",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-19T14:38:38.510Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57543094",
+    "title": "Toyota 2024",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/toyota-2024-57543094",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-19T14:37:52.920Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57541833",
+    "title": "Hyundai IONIQ 5 2024(Carro 100% Eléctrico)",
+    "price": 50,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024carro-100-electrico-57541833",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-19T13:51:35.248Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57537701",
+    "title": "🚘 KIA RIO 2019",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-57537701",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T02:59:56.096Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 127
+   }
+  },
+  {
+   "node": {
+    "id": "57537665",
+    "title": "🚘🔥 MERCEDES-BENZ GLC 2025 🔥🚘",
+    "price": 60000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-benz-glc-2025-57537665",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T17:30:49.446Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "57537407",
+    "title": "Venta de autos",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/venta-de-autos-57537407",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T14:14:16.416Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 298
+   }
+  },
+  {
+   "node": {
+    "id": "57537103",
+    "title": "⭕ 🇰🇷 HYUNDAI SONATA SOPORT 2018",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-soport-2018-57537103",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-19T03:30:35.459Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57536572",
+    "title": "Toyota 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/toyota-2024-57536572",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-19T02:24:49.299Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "57536489",
+    "title": "HYUNDAI ELANTRA (AÑO 2019) — SEDÁN EJECUTIVO",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-ano-2019-sedan-ejecutivo-57536489",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-21T17:40:05.382Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 23
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

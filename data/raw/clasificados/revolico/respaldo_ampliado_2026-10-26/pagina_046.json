@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57428606",
+    "title": "Kit todo en uno infinity 6 con 15",
+    "price": 4080,
+    "currency": "USD",
+    "permalink": "/item/kit-todo-en-uno-infinity-6-con-15-57428606",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-14T11:26:23.651Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57426477",
+    "title": "🛒HONDA CIVIC 2020•BALA•🛒54006023",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/honda-civic-2020bala54006023-57426477",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-21T18:29:33.729Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 124
+   }
+  },
+  {
+   "node": {
+    "id": "57426046",
+    "title": "CARRO DE GASOLINA",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/carro-de-gasolina-57426046",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-17T20:17:35.458Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57426020",
+    "title": "CARRO 3B(BUENO, BONITO Y BARATO)",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/carro-3bbueno-bonito-y-barato-57426020",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-17T20:17:55.774Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57425587",
+    "title": "Toyota Sienna XLE Hybrid 2021",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/toyota-sienna-xle-hybrid-2021-57425587",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T23:43:09.974Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 100
+   }
+  },
+  {
+   "node": {
+    "id": "57423532",
+    "title": "Nissan Sunny 2025 0Km",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/nissan-sunny-2025-0km-57423532",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T23:46:47.482Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57423346",
+    "title": "Jeep willy del 52 diesel 52938086",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/jeep-willy-del-52-diesel-52938086-57423346",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-14T01:36:14.198Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 539
+   }
+  },
+  {
+   "node": {
+    "id": "57423282",
+    "title": "Se vende Peugeot expert en buenas condiciones solo realmente interesados por wasap a 53141828",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/se-vende-peugeot-expert-en-buenas-condiciones-solo-realmente-interesados-por-wasap-a-53141828-57423282",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-14T01:32:18.834Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 191
+   }
+  },
+  {
+   "node": {
+    "id": "57422065",
+    "title": "Hyundai Sonata",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-sonata-57422065",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-14T00:12:07.529Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 128
+   }
+  },
+  {
+   "node": {
+    "id": "57421100",
+    "title": "Carro electrico en venta",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-en-venta-57421100",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-13T23:08:31.666Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "57421013",
+    "title": "🚘 Hyundai Tucson 2020",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2020-57421013",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-01T20:12:08.242Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57420478",
+    "title": "Se cambia casa por carro",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/se-cambia-casa-por-carro-57420478",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T13:28:15.607Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "57420022",
+    "title": "2020 116000 millas toyota",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/2020-116000-millas-toyota-57420022",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T19:49:46.385Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57419938",
+    "title": "Camioneta 4 puertas",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-4-puertas-57419938",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-05T19:49:34.526Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "57419397",
+    "title": "Vendo Lada 2105",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2105-57419397",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-13T21:47:56.476Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 85
+   }
+  },
+  {
+   "node": {
+    "id": "57419311",
+    "title": "Delta 3 clásicc",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/delta-3-clasicc-57419311",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-13T21:44:13.934Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57418604",
+    "title": "Auto eléctrico",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/auto-electrico-57418604",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-17T14:07:31.354Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "57418431",
+    "title": "Se vende VW escarabajo alemán super beetle año 1971",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-vw-escarabajo-aleman-super-beetle-ano-1971-57418431",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-13T20:53:07.840Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 218
+   }
+  },
+  {
+   "node": {
+    "id": "57418232",
+    "title": "Picanto Deluxe 2026",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/picanto-deluxe-2026-57418232",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-13T20:41:34.135Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57417353",
+    "title": "KIA CARENS",
+    "price": 12.8,
+    "currency": "USD",
+    "permalink": "/item/kia-carens-57417353",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-13T19:59:45.035Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "57417263",
+    "title": "Toyota Corolla Cross 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-cross-2024-57417263",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-13T19:53:28.754Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "57416907",
+    "title": "Nissan Versa Sedán",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/nissan-versa-sedan-57416907",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-13T19:33:25.579Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "57416788",
+    "title": "Hyundai elantra IONIQ",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-ioniq-57416788",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-13T19:27:12.455Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57416787",
+    "title": "Hyundai elantra IONIQ",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-ioniq-57416787",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-13T19:27:10.964Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57416587",
+    "title": "Opel Record 59",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/en-venta-57416587",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-13T19:17:23.761Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 257
+   }
+  },
+  {
+   "node": {
+    "id": "57416364",
+    "title": "Vendo Lada 2107",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2107-57416364",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-15T09:38:19.885Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "57416135",
+    "title": "🚗 Venta Urgente: Fiat Tipo 1991 (+ Lote de Repuestos)",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/venta-urgente-fiat-tipo-1991-lote-de-repuestos-57416135",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-13T18:54:34.849Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 119
+   }
+  },
+  {
+   "node": {
+    "id": "57415733",
+    "title": "Hyundai SONATA 2024 SEL",
+    "price": 28500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2024-sel-57415733",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-25T17:57:49.768Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 81
+   }
+  },
+  {
+   "node": {
+    "id": "57415696",
+    "title": "HYUNDAI SANTA FE ULTIMATE 2016 (AWD 3.3L)",
+    "price": 24500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-ultimate-2016-awd-33l-57415696",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-25T17:57:48.799Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "57415662",
+    "title": "Delta 3 1500  840 con 🚗",
+    "price": 845,
+    "currency": "USD",
+    "permalink": "/item/delta-3-1500-840-con-57415662",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-13T18:33:17.826Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57415333",
+    "title": "Bella pieza de chamota.",
+    "price": 35,
+    "currency": "USD",
+    "permalink": "/item/bella-pieza-de-chamota-57415333",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-13T18:20:13.293Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57415217",
+    "title": "Motos de combustión automáticas 200 cc",
+    "price": 2400,
+    "currency": "USD",
+    "permalink": "/item/motos-de-combustion-automaticas-200-cc-57415217",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T16:45:49.654Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "57413993",
+    "title": "Bestune 2026 100% electrico Nuevo 0km",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/bestune-2026-100-electrico-nuevo-0km-57413993",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T16:34:03.583Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 140
+   }
+  },
+  {
+   "node": {
+    "id": "57413578",
+    "title": "🚘Venta Hyundai Tucson 2023| ⛽️Gasolina | ✅️Todo Impecable Nuevo |📍Ya en Cuba",
+    "price": 31000,
+    "currency": "USD",
+    "permalink": "/item/venta-hyundai-palisade-2020-gasolina-todo-impecable-nuevo-ya-en-cuba-57413578",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T15:08:02.133Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 263
+   }
+  },
+  {
+   "node": {
+    "id": "57413500",
+    "title": "Vendo Aleko 2141 (1990) en perfecto estado con motor nuevo de Lada 1600",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/vendo-aleko-2141-1990-en-perfecto-estado-con-motor-nuevo-de-lada-1600-57413500",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-13T17:04:36.588Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 94
+   }
+  },
+  {
+   "node": {
+    "id": "57413383",
+    "title": "Lada",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/lada-57413383",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-13T17:00:23.485Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 119
+   }
+  },
+  {
+   "node": {
+    "id": "57413176",
+    "title": "Vendo vw gol aire acondicionado funcionando al 100",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/vendo-vw-gol-aire-acondicionado-funcionando-al-100-57413176",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-13T16:52:19.745Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 336
+   }
+  },
+  {
+   "node": {
+    "id": "57413007",
+    "title": "Carro plataforma plegable de alta resistencia",
+    "price": 95,
+    "currency": "USD",
+    "permalink": "/item/carro-plataforma-plegable-de-alta-resistencia-57413007",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-13T16:44:55.774Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 3
+   }
+  },
+  {
+   "node": {
+    "id": "57412898",
+    "title": "Vendo Aleko en perfecto estado con motor nuevo de Lada 1600",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/vendo-aleko-en-perfecto-estado-con-motor-nuevo-de-lada-1600-57412898",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-13T16:39:58.734Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "57412571",
+    "title": "Hyundai tucson 2017",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2017-57412571",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-21T02:56:37.043Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 77
+   }
+  },
+  {
+   "node": {
+    "id": "57412553",
+    "title": "Hyundai Santa Fe 2023",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2023-57412553",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T02:56:36.043Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 98
+   }
+  },
+  {
+   "node": {
+    "id": "57412246",
+    "title": "carro en venta",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-57412246",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-21T13:04:36.500Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 166
+   }
+  },
+  {
+   "node": {
+    "id": "57412192",
+    "title": "Kit todo en uno infinity 6",
+    "price": 4080,
+    "currency": "USD",
+    "permalink": "/item/kit-todo-en-uno-infinity-6-57412192",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-13T16:09:41.037Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57412125",
+    "title": "MOSKVICH 2140 UN SOLO DUEÑO",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/moskvich-2140-un-solo-dueno-57412125",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-13T16:07:10.050Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "47",
+    "viewCount": 71
+   }
+  },
+  {
+   "node": {
+    "id": "57411767",
+    "title": "Vendo LADA 2107 , año de fabricación 2005 caja 5ta",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2107-ano-de-fabricacion-2005-caja-5ta-57411767",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-13T15:52:21.962Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 182
+   }
+  },
+  {
+   "node": {
+    "id": "57410837",
+    "title": "Dongfeng box 01 (430 km)",
+    "price": 31000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-box-01-430-km-57410837",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-16T01:20:22.633Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 51
+   }
+  },
+  {
+   "node": {
+    "id": "57409618",
+    "title": "Camioneta  de gasolina. Marca baw.  Modelo F7",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/camioneta-de-gasolina-marca-baw-modelo-f7-57409618",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-13T14:39:16.735Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57409616",
+    "title": "Camioneta  de gasolina. Marca baw.  Modelo F7",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/camioneta-de-gasolina-marca-baw-modelo-f7-57409616",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-13T14:39:15.929Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57409615",
+    "title": "Camioneta  de gasolina. Marca baw.  Modelo F7",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/camioneta-de-gasolina-marca-baw-modelo-f7-57409615",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-13T14:39:15.423Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57409385",
+    "title": "Santa fe👉🏼 2017👉🏼 motor 3.3👉🏼 7 plazas👉🏼 WhatsApp 📲 56998574",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2017-motor-33-7-plazas-whatsapp-56998574-57409385",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-13T14:32:26.045Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 16
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

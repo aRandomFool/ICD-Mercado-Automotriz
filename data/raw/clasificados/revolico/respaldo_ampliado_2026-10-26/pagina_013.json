@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58175189",
+    "title": "Se vende carro modernos",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-modernos-58175189",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-16T20:04:18.519Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58174573",
+    "title": "Auto BW Polo",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/auto-bw-polo-58174573",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-16T19:33:32.326Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58174566",
+    "title": "VW Polo",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/vw-polo-58174566",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-16T19:33:24.831Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "58174207",
+    "title": "MG3 2019 $14k",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/mg3-2019-14k-58174207",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-16T19:17:31.934Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "58173542",
+    "title": "Aire en 100 usd",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/aire-en-100-usd-58173542",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-16T18:41:37.666Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58173469",
+    "title": "En venta Skoda fabia 2006",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-skoda-fabia-2006-58173469",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-24T17:55:18.507Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "58172823",
+    "title": "Se vende o se hace negocio Baw F7, Nueva!!!",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-o-se-hace-negocio-baw-f7-nueva-58172823",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-16T18:05:36.790Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58171965",
+    "title": "Venta de carro Fiat 600",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-fiat-600-58171965",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-16T17:14:25.316Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "58171786",
+    "title": "DongFeng",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-58171786",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-16T17:04:39.153Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58170616",
+    "title": "HYUNDAI SANTA FE 2017 — VERSIÓN COREANO",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2017-version-coreano-58170616",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T11:15:42.396Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 54
+   }
+  },
+  {
+   "node": {
+    "id": "58170351",
+    "title": "⭕ HONDA CIVIC 2023",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/honda-civic-2023-58170351",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T11:41:30.052Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "58170041",
+    "title": "VW gti",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/vw-gti-58170041",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-16T15:41:41.330Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 109
+   }
+  },
+  {
+   "node": {
+    "id": "58170011",
+    "title": "Picanto del 17",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/picanto-del-17-58170011",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-16T15:40:29.275Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "58169768",
+    "title": "🔥 LA BESTIA — KIA K5 GT-LINE 2025 🔥",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/la-bestia-kia-k5-gt-line-2025-58169768",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T11:40:47.105Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58169558",
+    "title": "Chevrolet",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-58169558",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-16T15:21:32.985Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58169212",
+    "title": "HYUNDAI SANTA CRUZ FULL LIMITED 2023",
+    "price": 32500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-cruz-full-limited-2023-58169212",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-20T11:39:52.513Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "58169178",
+    "title": "🇰🇷 HYUNDAI SANTA CRUZ 2022",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-cruz-2022-58169178",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T11:39:42.301Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "58169038",
+    "title": "🚛 VOLVO VVN 2017 🚛",
+    "price": 56000,
+    "currency": "USD",
+    "permalink": "/item/volvo-vvn-2017-58169038",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T11:18:19.162Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58168784",
+    "title": "ISUZU 2017 — Motor 4HK1",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/isuzu-2017-motor-4hk1-58168784",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T16:28:05.185Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 32
+   }
+  },
+  {
+   "node": {
+    "id": "58168550",
+    "title": "🇬🇧 LAND ROVER RANGE ROVER VELAR 2019 — ALTA GAMA 🔥",
+    "price": 53000,
+    "currency": "USD",
+    "permalink": "/item/land-rover-range-rover-velar-2019-alta-gama-58168550",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T12:41:58.256Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "58168540",
+    "title": "HYUNDAY -KIA-HONDA- PALISADE-TUCSON LLAVES DE RESPUESTOS NO TE QUEDES SIN LA TUYA  INFO 58264084",
+    "price": 180,
+    "currency": "USD",
+    "permalink": "/item/hyunday-kia-honda-palisade-tucson-llaves-de-respuestos-no-te-quedes-sin-la-tuya-info-58264084-58168540",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T14:43:41.654Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58168356",
+    "title": "INFINITI Q50 2019 — PREPARADO PARA CORRER",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/infiniti-q50-2019-preparado-para-correr-58168356",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T12:41:00.376Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "58168351",
+    "title": "Ck del 2014",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/ck-del-2014-58168351",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-16T14:37:10.255Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "58167524",
+    "title": "Minivan Shineray  lo estrena usted",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/minivan-shineray-lo-estrena-usted-58167524",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T01:06:15.428Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58166858",
+    "title": "Vw",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/vw-58166858",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-16T13:49:20.599Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "58166685",
+    "title": "Van de 10 pasajeros nueva",
+    "price": 25500,
+    "currency": "USD",
+    "permalink": "/item/van-de-10-pasajeros-nueva-58166685",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-16T13:42:49.818Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "58166120",
+    "title": "Hyundai ioniq5",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq5-58166120",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T13:18:32.293Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58166032",
+    "title": "Hyundai ioniq5 2025",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq5-2025-58166032",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-16T13:14:11.491Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58165429",
+    "title": "Camioneta en La Habana",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-en-la-habana-58165429",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T15:46:57.603Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 85
+   }
+  },
+  {
+   "node": {
+    "id": "58165188",
+    "title": "Moskovich 2140",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/moskovich-2140-58165188",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-16T12:27:55.722Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "58164953",
+    "title": "Se vende",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-58164953",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T14:53:53.412Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "58164585",
+    "title": "BMW IX xDrive50 2024. Más de 500 km de autonomía",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-ix-xdrive50-2024-mas-de-500-km-de-autonomia-58164585",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T22:16:45.423Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "58164475",
+    "title": "Hyunday Palisade límite 2020",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyunday-palisade-limite-2020-58164475",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T22:12:50.557Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 59
+   }
+  },
+  {
+   "node": {
+    "id": "58164469",
+    "title": "Kia Stonic 2025, al detalle",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/kia-stonic-2025-al-detalle-58164469",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T22:12:06.976Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "58164452",
+    "title": "Hyunday Sonata 2017 al detalle",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyunday-sonata-2017-al-detalle-58164452",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T22:11:42.165Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "58164390",
+    "title": "Donación de Caping car",
+    "price": 1800,
+    "currency": "USD",
+    "permalink": "/item/donacion-de-caping-car-58164390",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-17T09:50:42.287Z",
+    "isPromoted": false,
+    "provinceId": "16",
+    "municipalityId": "161",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "58163535",
+    "title": "En Venta un Seat Ibiza",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-un-seat-ibiza-58163535",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-19T08:43:34.069Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "58163372",
+    "title": "Carro eléctrico",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-58163372",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T06:41:16.388Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "58163287",
+    "title": "Polski en venta",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/polski-en-venta-58163287",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T07:33:52.544Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "58163257",
+    "title": "Venta de carro marca Moskvich en el Vedado",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-marca-moskvich-en-el-vedado-58163257",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-23T10:33:09.697Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 100
+   }
+  },
+  {
+   "node": {
+    "id": "58162936",
+    "title": "Hyundai Santa Fe Calligraphy",
+    "price": 33.5,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-58162936",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-16T05:01:35.164Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58162516",
+    "title": "VENDO HONDA CIVIC 2023 MODELO SPORT TOURING",
+    "price": 25,
+    "currency": "USD",
+    "permalink": "/item/vendo-honda-civic-2023-modelo-sport-touring-58162516",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-16T04:10:46.493Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "58162232",
+    "title": "Guaguita Nuevo de paquete",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/guaguita-nuevo-de-paquete-58162232",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-16T03:44:18.554Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58161312",
+    "title": "BESTUNE",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/bestune-58161312",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T02:32:00.840Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58161213",
+    "title": "Honda Civic esport touring",
+    "price": 25,
+    "currency": "USD",
+    "permalink": "/item/honda-civic-esport-touring-58161213",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-19T14:39:21.351Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "58160866",
+    "title": "En venta Auto VW Golf( Valiant) 2019",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-auto-vw-golf-valiant-2019-58160866",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T02:05:32.593Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 109
+   }
+  },
+  {
+   "node": {
+    "id": "58160852",
+    "title": "Rastra  Freightliner",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/rastra-freightliner-58160852",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-17T14:55:24.136Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "20",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "58160239",
+    "title": "Hyundai Santa Fe Calligraphy 2024",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2024-58160239",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T19:45:28.217Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58160111",
+    "title": "Hyunday Sonata Sport 2017",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/hyunday-sonata-sport-2017-58160111",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T23:33:46.738Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "58158666",
+    "title": "Vendo AUDI A-6 año 2006",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/vendo-audi-a-6-ano-2006-58158666",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-15T23:18:30.130Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 45
+   }
+  }
+ ],
+ "meta": {
+  "total": 3945
+ }
+}

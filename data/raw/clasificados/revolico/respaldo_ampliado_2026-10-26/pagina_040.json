@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57596826",
+    "title": "Coches nuevos en caja 📦",
+    "price": 140,
+    "currency": "USD",
+    "permalink": "/item/coches-nuevos-en-caja-57596826",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T22:07:16.720Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57594284",
+    "title": "IA SORENTO 2009 4x4 PETRÓLEO (DIÉSEL) – EXCELENTE ESTADO",
+    "price": 19900,
+    "currency": "USD",
+    "permalink": "/item/ia-sorento-2009-4x4-petroleo-diesel-excelente-estado-57594284",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T20:02:12.184Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "10",
+    "viewCount": 474
+   }
+  },
+  {
+   "node": {
+    "id": "57593575",
+    "title": "SEAT Córdoba 2008 1.6",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/seat-cordoba-2008-16-57593575",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-21T19:26:31.807Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 116
+   }
+  },
+  {
+   "node": {
+    "id": "57593094",
+    "title": "Wa.me/56525031 VolksWagen del 2020 carro economico,buen confort y bien cuidado            👉🏽  Esta en ARTEMISA 👈🏽 ✅️",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/wame56525031-volkswagen-del-2020-carro-economicobuen-confort-y-bien-cuidado-esta-en-artemisa-57593094",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-21T19:06:13.816Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57591938",
+    "title": "Willy con mitsubishi canter",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/willy-con-mitsubishi-canter-57591938",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T12:41:46.720Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 447
+   }
+  },
+  {
+   "node": {
+    "id": "57591868",
+    "title": "Chevrolet 53 en 2800 con trailer 3500",
+    "price": 2800,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-53-en-2800-con-trailer-3500-57591868",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-21T18:08:15.520Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 182
+   }
+  },
+  {
+   "node": {
+    "id": "57591848",
+    "title": "Escatolina motor Mercedes-Benz",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/escatolina-motor-mercedes-benz-57591848",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-21T12:41:46.422Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 154
+   }
+  },
+  {
+   "node": {
+    "id": "57591631",
+    "title": "Golf GTD 1.9 diesel",
+    "price": 15,
+    "currency": "USD",
+    "permalink": "/item/golf-gtd-19-diesel-57591631",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T17:55:35.679Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 77
+   }
+  },
+  {
+   "node": {
+    "id": "57591378",
+    "title": "Carrito electrico de 4 ruedas* Batería de litio 74 vol por 60 amp V",
+    "price": 5350,
+    "currency": "USD",
+    "permalink": "/item/carrito-electrico-de-4-ruedas-bateria-de-litio-74-vol-por-60-amp-v-57591378",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T17:42:48.824Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "57591371",
+    "title": "Vendo mi Lada 2107",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/vendo-mi-lada-21067-57591371",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-21T17:42:35.867Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 244
+   }
+  },
+  {
+   "node": {
+    "id": "57590839",
+    "title": "Vendo Carro JAC",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/vendo-carro-con-solo-40-km-57590839",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-22T21:33:50.709Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 86
+   }
+  },
+  {
+   "node": {
+    "id": "57590583",
+    "title": "Daewoo Nexia",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/daewoo-nexia-57590583",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-26T12:46:28.280Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57590566",
+    "title": "Daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/daewoo-57590566",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-26T12:42:26.454Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "57590366",
+    "title": "Carro marca Daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-marca-daewoo-57590366",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T12:30:52.903Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "57589891",
+    "title": "Chevrolet 55",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-55-57589891",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-21T16:42:18.498Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 201
+   }
+  },
+  {
+   "node": {
+    "id": "57588986",
+    "title": "🚗 HYUNDAI IONIQ 5 2024 – 100% ELÉCTRICO – $38,000 USD ⚡",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-38000-usd-57588986",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T16:04:59.130Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57587136",
+    "title": "Vendo lada combi 2102",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-combi-2102-57587136",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-21T15:06:12.785Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57587071",
+    "title": "Vendo lada combi",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-combi-57587071",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-24T15:42:23.906Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 162
+   }
+  },
+  {
+   "node": {
+    "id": "57586788",
+    "title": "Nissan Versa",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/nissan-versa-57586788",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T14:51:52.384Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57586691",
+    "title": "Toyota Corolla Cross 2024",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-cross-2024-57586691",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T14:48:12.430Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57586082",
+    "title": "*Hyundai IONIQ 5 2024 ❤️*  100% Eléctrico ⚡️  50,000 millas 🛣️  Precio: $38.000 USD💵 #51183281(No dude en escribir y p",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-50000-millas-precio-38000-usd-51183281no-dude-en-escribir-y-p-57586082",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-21T14:29:03.487Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57585973",
+    "title": "Vendo Peugeot",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/vendo-peugeot-57585973",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-21T14:25:48.351Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 155
+   }
+  },
+  {
+   "node": {
+    "id": "57585124",
+    "title": "`Carro en venta VV DEL 2020`",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-vv-del-2020-57585124",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-21T13:59:10.441Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "57582929",
+    "title": "Carrito de Mandados",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carrito-de-mandados-57582929",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-19T12:52:29.849Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57582839",
+    "title": "Cargador de Carro Doble 38W 1HORA",
+    "price": 12,
+    "currency": "USD",
+    "permalink": "/item/cargador-de-carro-doble-38w-1hora-57582839",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-08T12:49:11.971Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57582834",
+    "title": "Carretilla Plegable Multiusos con Ruedas Todo Terreno",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carretilla-plegable-multiusos-con-ruedas-todo-terreno-57582834",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-19T12:52:29.651Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57581942",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57581942",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-21T11:54:16.656Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57581804",
+    "title": "SE VENDE RENAULT FLUENCE 2014  Automático CVT , Motor Nissan 2.0",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-renault-fluence-2014-automatico-cvt-motor-nissan-20-57581804",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T12:54:52.785Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "71",
+    "viewCount": 76
+   }
+  },
+  {
+   "node": {
+    "id": "57581587",
+    "title": "Carrito para mandados.plaza",
+    "price": 25,
+    "currency": "USD",
+    "permalink": "/item/carrito-para-mandadosplaza-57581587",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-21T11:27:32.838Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57581286",
+    "title": "EN VENTA IONIQ 5 2024⚡️",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-ioniq-5-2024-57581286",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-21T10:45:07.243Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57581109",
+    "title": "⚡️ Hyundai IONIQ 5 2024 ❤️",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57581109",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-21T10:23:00.831Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57579699",
+    "title": "✅Audi A4 2019 ,180 mil millas caminado certificó en mano 🤚",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/audi-a4-2019-180-mil-millas-caminado-certifico-en-mano-57579699",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-25T18:51:35.450Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57579563",
+    "title": "Hyundai Tucson Limited 2024",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-limited-2024-57579563",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-19T13:07:10.833Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57579531",
+    "title": "AUDI RS Q8 2024 — 4.0 TFSI V8 QUATTRO",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/audi-rs-q8-2024-40-tfsi-v8-quattro-57579531",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:27:01.554Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 117
+   }
+  },
+  {
+   "node": {
+    "id": "57579508",
+    "title": "BMW M850i xDRIVE CONVERTIBLE Motor: 4.4L V8",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-m850i-xdrive-convertible-motor-44l-v8-57579508",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:33:19.396Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 144
+   }
+  },
+  {
+   "node": {
+    "id": "57579455",
+    "title": "HYUNDAI SANTA FE SPORT 2018 — 2.4L",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-sport-2018-24l-57579455",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T12:41:47.577Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 98
+   }
+  },
+  {
+   "node": {
+    "id": "57579417",
+    "title": "Mitsubishi Outlander Sport SE 2021. Motor 2.0L,",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/mitsubishi-outlander-sport-se-2021-motor-20l-57579417",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-21T12:41:46.540Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "57579399",
+    "title": "Ford Transit gasolina",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/ford-transit-gasolina-57579399",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:28:49.353Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 112
+   }
+  },
+  {
+   "node": {
+    "id": "57579348",
+    "title": "Nissan Titan XD 2017, 5.0 V8 Turbo Diésel Cummins. 🔥",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/nissan-titan-xd-2017-50-v8-turbo-diesel-cummins-57579348",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T13:18:24.355Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 111
+   }
+  },
+  {
+   "node": {
+    "id": "57579307",
+    "title": "Toyota corolla 2021 se",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2021-se-57579307",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:30:00.758Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 135
+   }
+  },
+  {
+   "node": {
+    "id": "57579242",
+    "title": "Hyundai Sonata N Line 2025",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-n-line-2025-57579242",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:28:21.371Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 87
+   }
+  },
+  {
+   "node": {
+    "id": "57579139",
+    "title": "HYUNDAI ELANTRA LIMITED 2025 — FULL EQUIPO",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-limited-2025-full-equipo-57579139",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T12:35:05.951Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 107
+   }
+  },
+  {
+   "node": {
+    "id": "57579033",
+    "title": "Hyundai Santa Fe Calligraphy 2025, tope de gama.",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2025-tope-de-gama-57579033",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:29:09.170Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 105
+   }
+  },
+  {
+   "node": {
+    "id": "57578094",
+    "title": "🔥KIA PICANTO 2025 GT LINE🔥",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/kia-picanto-2025-gt-line-57578094",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-21T03:02:19.865Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 114
+   }
+  },
+  {
+   "node": {
+    "id": "57577705",
+    "title": "Hyundai IONIQ 2024",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-2024-57577705",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T02:27:02.605Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57577564",
+    "title": "En venta rin 14",
+    "price": 80,
+    "currency": "USD",
+    "permalink": "/item/en-venta-rin-14-57577564",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T02:17:34.743Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57576856",
+    "title": "Carro eléctrico Geometry",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-geometry-57576856",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T01:20:46.522Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57575960",
+    "title": "Nissan rogue sv 2.5l 2016",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/nissan-rogue-sv-25l-2016-57575960",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-24T00:44:58.286Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "57575426",
+    "title": "🚛 ¡HINO 258 REFRIGERADO EN VENTA! ❄️",
+    "price": 65000,
+    "currency": "USD",
+    "permalink": "/item/hino-258-refrigerado-en-venta-57575426",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-29T00:10:24.792Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57575161",
+    "title": "Vw 1600",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/vw-1600-57575161",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T23:28:37.220Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 144
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

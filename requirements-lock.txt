@@ -1,6 +1,9 @@
 # requirements-lock.txt (frozen for reproducibility)
 # Generated as part of reorg-7-etapas per handoff 004
-pandas==3.0.6
+# 2026-10-26 (Linux): pandas 3.0.6 no tiene build para Python 3.14 (venv de este
+# equipo usa 3.14.8); se fija 3.0.5 (misma línea 3.0.x) para mantener
+# compatibilidad con el código validado en Windows con 3.0.6.
+pandas==3.0.5
 numpy==2.5.3
 matplotlib==3.11.2
 seaborn==0.13.2

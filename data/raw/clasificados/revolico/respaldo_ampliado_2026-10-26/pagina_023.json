@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57964010",
+    "title": "Vendo carro Ford del 57",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-carro-ford-del-57-57964010",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-07T16:22:07.241Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 171
+   }
+  },
+  {
+   "node": {
+    "id": "57963803",
+    "title": "Se vende excelente camion de carga o pasajeros en 17 mil",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-excelente-camion-de-carga-o-pasajeros-en-17-mil-57963803",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-07T16:16:56.024Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "57963153",
+    "title": "BMW X6M",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/bmw-x6m-57963153",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T16:29:02.405Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "57962303",
+    "title": "*Hyundai Santa Fe Calligraphy🔥* confort y elegancia en un solo vehículo lo mejor para tu negocio o para la familia",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-confort-y-elegancia-en-un-solo-vehiculo-lo-mejor-para-tu-negocio-o-para-la-familia-57962303",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T14:56:13.886Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "57962309",
+    "title": "Toyota yaris vendo ó negocio",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/toyota-yaris-vendo-o-negocio-57962309",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-07T15:30:17.555Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "57962134",
+    "title": "Hyundai Santa Fe Calligraphy 2022 Híbrido",
+    "price": 33625,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2022-hibrido-57962134",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-07T15:24:51.996Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57962036",
+    "title": "🇫🇷 Peugeot 301 – Año 2018  📍",
+    "price": 13500,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-ano-2018-57962036",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-07T15:22:22.876Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 54
+   }
+  },
+  {
+   "node": {
+    "id": "57961733",
+    "title": "Vendo carro Gelly 2011",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/vendo-carto-gelly-2011-57961733",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-07T15:14:15.390Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57961212",
+    "title": "16500 Hyundai Sonata 2017 en impecable color blanco. Un sedán moderno, cómodo y sumamente espacioso que lo tiene",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/16500-hyundai-sonata-2017-en-impecable-color-blanco-un-sedan-moderno-comodo-y-sumamente-espacioso-que-lo-tiene-57961212",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:55:49.248Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 121
+   }
+  },
+  {
+   "node": {
+    "id": "57961160",
+    "title": "Hyundai Sonata SEL del año 2022, la combinación perfecta entre elegancia, tecnología de vanguardia y alto rendimiento",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-sel-del-ano-2022-la-combinacion-perfecta-entre-elegancia-tecnologia-de-vanguardia-y-alto-rendimiento-57961160",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:59:15.709Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 67
+   }
+  },
+  {
+   "node": {
+    "id": "57961103",
+    "title": "50000 Foton Tunland G7 4x4 en un hermoso color naranja. Yaa tiene chapa y certifico.Este imponente modelo combina",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/50000-foton-tunland-g7-4x4-en-un-hermoso-color-naranja-yaa-tiene-chapa-y-certificoeste-imponente-modelo-combina-57961103",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:59:20.710Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57961040",
+    "title": "50000 FOTON TUNLAND G9 4X4 DISPONIBLE .En venta impresionante camioneta pickup Foton Tunland G9 en elegante color negro,",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/50000-foton-tunland-g9-4x4-disponible-en-venta-impresionante-camioneta-pickup-foton-tunland-g9-en-elegante-color-negro-57961040",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:59:11.277Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 57
+   }
+  },
+  {
+   "node": {
+    "id": "57960990",
+    "title": "27000usd BYD Seagull 100% Eléctrico! Este moderno hatchback urbano combina un diseño vanguardista con la tecnología más",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/27000usd-byd-seagull-100-electrico-este-moderno-hatchback-urbano-combina-un-diseno-vanguardista-con-la-tecnologia-mas-57960990",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T13:58:50.280Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "57960893",
+    "title": "26000usd Toyota C-HR del año 2022, un crossover que redefine el estilo con un diseño vanguardista y deportivo",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/26000usd-toyota-c-hr-del-ano-2022-un-crossover-que-redefine-el-estilo-con-un-diseno-vanguardista-y-deportivo-57960893",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T13:58:43.946Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 122
+   }
+  },
+  {
+   "node": {
+    "id": "57959657",
+    "title": "Hunday Santa Fe Calígraphy: Año 2022 Híbrido",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hunday-santa-fe-caligraphy-ano-2022-hibrido-57959657",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-12T12:00:02.516Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57959544",
+    "title": "Se vende ((58873843))!! Nissan sentra b13 !! 0 detalles de chapisteria...no se lo guardo a nadie... Vedado",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-58873843-nissan-sentra-b13-0-detalles-de-chapisteriano-se-lo-guardo-a-nadie-vedado-57959544",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-07T14:13:06.857Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "57959527",
+    "title": "PEUGEOT 301 DEL 2018",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-del-2018-57959527",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-07T14:12:44.295Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 82
+   }
+  },
+  {
+   "node": {
+    "id": "57959381",
+    "title": "Hyundai Tucson SEL 2021",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-sel-2021-57959381",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-07T14:07:41.990Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "57958392",
+    "title": "Honda Accord 2025",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-2025-57958392",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-07T13:37:10.348Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57958178",
+    "title": "Hyundai Palisade 2025",
+    "price": 54000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2025-57958178",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-07T13:31:58.250Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57957890",
+    "title": "Guagua del 2026 de 8 plazas",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/guagua-del-2026-de-8-plazas-57957890",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-07T13:23:59.105Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57957704",
+    "title": "Carro en venta VW del 2020",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-w-del-2020-57957704",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-09T13:46:23.262Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "57957557",
+    "title": "Camioneta Chevrolet Colorado en venta",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-chevrolet-colorado-en-venta-57957557",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-07T13:15:12.745Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57956613",
+    "title": "Hyunday Elantra 2025 0km,  listo para estrenar",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/hyunday-elantra-2025-0km-listo-para-estrenar-57956613",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T22:12:28.962Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57955254",
+    "title": "Fiat Argentino del 55",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/fiat-argentino-del-55-57955254",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T17:23:46.285Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 62
+   }
+  },
+  {
+   "node": {
+    "id": "57955185",
+    "title": "Kia Picanto 2020!!!! Carrito como nuevo listo para compra precio negociable",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2020-carrito-como-nuevo-listo-para-compra-precio-negociable-57955185",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-18T22:12:39.663Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 177
+   }
+  },
+  {
+   "node": {
+    "id": "57954250",
+    "title": "Vendo Lada",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-57954250",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-07T10:12:33.005Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 195
+   }
+  },
+  {
+   "node": {
+    "id": "57953948",
+    "title": "TOYOTA CAMRY 2017 📍 Disponible en Cuba 🛣️ 156,000 millas 🎨 Color rojo ⭐ Interior premium con techo de estrellas negro",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/toyota-camry-2017-disponible-en-cuba-156000-millas-color-rojo-interior-premium-con-techo-de-estrellas-negro-57953948",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-07T09:07:50.260Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "57953905",
+    "title": "HYUNDAI IONIQ 5 .2024 .100%",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-57953905",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-07T08:58:52.114Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57953872",
+    "title": "Se vende Hyundai Palisade diesel,Coreano",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-hyundai-palisade-dieselcoreano-57953872",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T22:52:56.865Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57953566",
+    "title": "Oferto",
+    "price": 300,
+    "currency": "USD",
+    "permalink": "/item/oferto-57953566",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-07T07:43:54.595Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "56",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57952352",
+    "title": "Nissan Sentra",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/nissan-sentra-57952352",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-07T04:11:39.097Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57952318",
+    "title": "Land Rover Discovery Sport 2017",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/land-rover-discovery-sport-2017-57952318",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:59:39.167Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57952236",
+    "title": "Chevrolet High Country 2023",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-high-country-2023-57952236",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T15:44:01.738Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57952089",
+    "title": "BMW X6 Competition 2021",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/bmw-x6-competition-2021-57952089",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:29:06.407Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57951506",
+    "title": "Camioneta",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/camioneta-57951506",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-25T23:32:11.692Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57951461",
+    "title": "Guagua con cabina refrigerada",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/guagua-con-cabina-refrigerada-57951461",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T23:32:57.036Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57951285",
+    "title": "Ventas de papel blanco por cajas cada paquete trae 500 hojas",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/ventas-de-cajas-de-papel-57951285",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T14:17:53.894Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "57950400",
+    "title": "🇫🇷 Peugeot 301 – Año 2018  Un vehículo cómodo, económico",
+    "price": 13500,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-ano-2018-un-vehiculo-comodo-economico-57950400",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-07T02:07:21.898Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "57950394",
+    "title": "Carro plegable súper fuertes",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carro-plegable-super-fuertes-57950394",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-21T11:11:11.710Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57950261",
+    "title": "Chevrolet 51",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-51-57950261",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-07T01:59:44.289Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 191
+   }
+  },
+  {
+   "node": {
+    "id": "57950068",
+    "title": "🚗 ** JAC JS2 2025 EN VENTA – COMO NUEVO - CON GARANTIA Y MENOS DE 25,000 KM",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/jac-js2-2025-en-venta-como-nuevo-con-garantia-y-menos-de-25-mil-km-57950068",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-14T02:06:00.520Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 281
+   }
+  },
+  {
+   "node": {
+    "id": "57949971",
+    "title": "Peugeot 301 – Año 2018",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-ano-2018-57949971",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-07T01:45:26.817Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "57949742",
+    "title": "LADA 2105",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/lada-2105-57949742",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-07T01:35:35.148Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "14",
+    "viewCount": 120
+   }
+  },
+  {
+   "node": {
+    "id": "57949519",
+    "title": "Camión Refrigerado",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/camion-refrigerado-57949519",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-07T01:22:45.396Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "57949365",
+    "title": "VW ID4 PRO S 2023 NEGRO",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/vw-id4-pro-s-2023-negro-57949365",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-07T01:13:50.003Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57947857",
+    "title": "Pissicorre chevrolet 51 diésel",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/pissicorre-chevrolet-51-diesel-57947857",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-19T13:19:03.726Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 166
+   }
+  },
+  {
+   "node": {
+    "id": "57947291",
+    "title": "Bestune año 25 Nuevo",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/bestune-ano-25-nuevo-57947291",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-06T23:18:15.737Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57947251",
+    "title": "Kia Picanto Año 2021",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-ano-2021-57947251",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-06T23:16:11.182Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 103
+   }
+  },
+  {
+   "node": {
+    "id": "57947231",
+    "title": "HYUNDAI SANTA CRUZ 2023.....add",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-cruz-2023add-57947231",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T00:47:43.333Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 70
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

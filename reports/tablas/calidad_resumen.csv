@@ -1,0 +1,16 @@
+﻿indicador,valor,umbral,ok
+filas_totales,3958,meta 2000-5000 o universo,info
+duplicados_por_id,0,0,ok
+duplicados_por_url,0,0,ok
+duplicados_por_hash_camposclave,43,0,REVISAR
+pct_con_precio_usd,91.8,>= 60%,ok
+precios_negativos,0,0,ok
+precios_imposibles_bajos,3,"0 (se marcan, no se borran)",info
+precios_imposibles_altos,4,"0 (se marcan, no se borran)",info
+pct_con_anio,52.0,info,info
+anios_fuera_de_rango,1,0,REVISAR
+provincias_cubiertas,16,16 (catálogo Cuba),ok
+pct_sin_marca,31.1,<= 40% (dato intrínseco de Revolico),ok
+marcas_distintas,62,info,info
+fuentes_distintas,1,>= 1,ok
+anuncios_verificados_activos,471,se completa con verificar_anuncios_revolico.py,info

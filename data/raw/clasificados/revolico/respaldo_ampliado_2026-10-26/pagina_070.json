@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "56256992",
+    "title": "Hyundai Atos del 2009",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-atos-del-2009-56256992",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-04T13:02:45.140Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 135
+   }
+  },
+  {
+   "node": {
+    "id": "56256298",
+    "title": "Auto Hyunday",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/auto-hyunday-56256298",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-09T23:37:43.607Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 104
+   }
+  },
+  {
+   "node": {
+    "id": "56250383",
+    "title": "Carro VW sedan de 1958 en venta",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/carro-vw-sedan-de-1958-en-venta-56250383",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-07T09:14:06.500Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 656
+   }
+  },
+  {
+   "node": {
+    "id": "56247782",
+    "title": "Kia Morning 2020 full extra",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/kia-morning-2020-full-extra-56247782",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T00:02:10.677Z",
+    "isPromoted": true,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 3482
+   }
+  },
+  {
+   "node": {
+    "id": "56244512",
+    "title": "Carro eléctrico IS Pro S",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-is-pro-s-56244512",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-04T13:03:08.318Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "56238941",
+    "title": "Dongfeng Huge 2025..add",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-huge-2025-56238941",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-22T00:32:43.472Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 221
+   }
+  },
+  {
+   "node": {
+    "id": "56238648",
+    "title": "HYUNDAI ELANTRA 2019 ($18800)",
+    "price": 18800,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-18800-56238648",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-17T15:33:03.554Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 83
+   }
+  },
+  {
+   "node": {
+    "id": "56238507",
+    "title": "Hyundai Tucson 2016 ($19300)",
+    "price": 19300,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2016-19300-56238507",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-17T15:33:03.155Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 153
+   }
+  },
+  {
+   "node": {
+    "id": "56238506",
+    "title": "Hyundai Tucson 2016 ($19300)",
+    "price": 19300,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2016-19300-56238506",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-17T15:33:02.757Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 32
+   }
+  },
+  {
+   "node": {
+    "id": "56237859",
+    "title": "Carro eléctrico Pro S",
+    "price": 44000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-pro-s-56237859",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-04T13:03:08.420Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "56233660",
+    "title": "🚗 *Hyundai Sonata 2019* Listo para la venta con chapa y papeles al día.",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2019-listo-para-la-venta-con-chapa-y-papeles-al-dia-56233660",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-18T15:51:49.757Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 150
+   }
+  },
+  {
+   "node": {
+    "id": "56223567",
+    "title": "VENDO AUTO FIAT TIPO 🚗 ​Se vende este impecable Fiat Tipo",
+    "price": 7200,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-cambio-por-apartamento-fiat-tipo-se-vende-este-impecable-fiat-tipo-56223567",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T23:20:03.068Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 588
+   }
+  },
+  {
+   "node": {
+    "id": "56221557",
+    "title": "❤️ NISSAN SENTRA 2018 TODO INPECABLE FUNCIONADO AL 100% LLEGAR Y MONTAR ❤️",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/nissan-sentra-2018-todo-inpecable-funcionado-al-100-llegar-y-montar-56221557",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T17:44:02.476Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 401
+   }
+  },
+  {
+   "node": {
+    "id": "56220041",
+    "title": "🚗 SEL 2021 🚗 HYUNDAI PALISADE SET 2021 - CON CERTIFICO Y CHAPA. PRECIO AJUSTABLE. TL 54833699",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/sel-2021-hyundai-palisade-set-2021-con-certifico-y-chapa-precio-ajustable-tl-54833699-56220041",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T13:42:44.214Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 131
+   }
+  },
+  {
+   "node": {
+    "id": "56218120",
+    "title": "En venta Moskovich",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-moskovich-56218120",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-21T15:41:56.006Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 375
+   }
+  },
+  {
+   "node": {
+    "id": "56215081",
+    "title": "Vendo o cambio Moscovich",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-o-cambio-56215081",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T18:14:58.887Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 771
+   }
+  },
+  {
+   "node": {
+    "id": "56212692",
+    "title": "🔋 2022 🔋NISSAN LEAF ELECTRICO 2022 -  CON CHAPA Y CERTIFICO. PRECIO AJUSTABLE PARA INTERESADOS. TL 54833699",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/2022-nissan-leaf-electrico-2020-con-chapa-y-certifico-precio-ajustable-para-interesados-tl-54833699-56212692",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T13:42:29.572Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 180
+   }
+  },
+  {
+   "node": {
+    "id": "56210930",
+    "title": "Vendo un negocio, Kia Picanto, 2013",
+    "price": 12500,
+    "currency": "USD",
+    "permalink": "/item/vendo-un-negocio-kia-picanto-2013-56210930",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T18:39:22.752Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 440
+   }
+  },
+  {
+   "node": {
+    "id": "56206664",
+    "title": "Se vende Renault modificado con mecánica completa de Nissan Sentra B13 - 8 válvulas.",
+    "price": 4300,
+    "currency": "USD",
+    "permalink": "/item/se-vende-renault-modificado-con-mecanica-completa-de-nissan-sentra-b13-8-valvulas-56206664",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T16:59:51.911Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 641
+   }
+  },
+  {
+   "node": {
+    "id": "56202971",
+    "title": "🚗 2022 🚗 HYUNDAI KONA 2022 - CON CERTIFICO Y CHAPA. PRECIO AJUSTABLE. TL 54833699",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/2022-hyundai-kona-2022-con-certifico-y-chapa-56202971",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T13:43:04.248Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 184
+   }
+  },
+  {
+   "node": {
+    "id": "56198441",
+    "title": "NISSAN LEAF 2019 electrico...add",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/nissan-leaf-2019-electrico-56198441",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-22T00:58:33.969Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 154
+   }
+  },
+  {
+   "node": {
+    "id": "56198405",
+    "title": "KIA MORNING 2020...add",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/kia-morning-2020-56198405",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-23T21:32:37.153Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 876
+   }
+  },
+  {
+   "node": {
+    "id": "56193792",
+    "title": "Lada de 1999. Tel. 53308332",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/lada-de-1999-tel-53308332-56193792",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T12:11:31.134Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 1056
+   }
+  },
+  {
+   "node": {
+    "id": "56187291",
+    "title": "Hyundai santa cruz límite 2024",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-santa-cruz-limite-2024-56187291",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T13:08:51.847Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 364
+   }
+  },
+  {
+   "node": {
+    "id": "56180393",
+    "title": "VENDO ALEKO",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/vendo-aleko-56180393",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T12:39:19.684Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 993
+   }
+  },
+  {
+   "node": {
+    "id": "56177225",
+    "title": "HYUNDAI TUCSON 2020 LIMITED 59 49 38 46 WHATSAPP",
+    "price": 23,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2020-limited-59-49-38-46-whatsapp-56177225",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T23:28:28.702Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 404
+   }
+  },
+  {
+   "node": {
+    "id": "56161986",
+    "title": "Kia picanto 2017",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2017-56161986",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-19T13:21:53.955Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 313
+   }
+  },
+  {
+   "node": {
+    "id": "56159080",
+    "title": "- Modelo: Hyundai Tucson 2021",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/modelo-hyundai-tucson-2021-56159080",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-12T17:35:06.529Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 112
+   }
+  },
+  {
+   "node": {
+    "id": "56159001",
+    "title": "- Modelo: Hyundai Palisade 2021",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/modelo-hyundai-palisade-2021-56159001",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T17:35:06.288Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "56158976",
+    "title": "Modelo Lada",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/modelo-lada-56158976",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T17:35:06.320Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 201
+   }
+  },
+  {
+   "node": {
+    "id": "56159118",
+    "title": "- Modelo: Hyundai Sonata 2021",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/modelo-hyundai-sonata-2021-56159118",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-12T17:35:06.625Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 76
+   }
+  },
+  {
+   "node": {
+    "id": "56156441",
+    "title": "Chevrolet 8 plazas",
+    "price": 12,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-8-plazas-56156441",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T15:51:31.548Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 963
+   }
+  },
+  {
+   "node": {
+    "id": "56150532",
+    "title": "Bmw 2024",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-2024-56150532",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T15:29:49.097Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 107
+   }
+  },
+  {
+   "node": {
+    "id": "56150483",
+    "title": "Nissan titan diésel 2020, motor Cummins",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/nissan-titan-diesel-2020-motor-cummins-56150483",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-21T12:41:46.998Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "56150056",
+    "title": "Hyundai palisade calligraphy 2025",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-calligraphy-2025-56150056",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T15:27:37.925Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 151
+   }
+  },
+  {
+   "node": {
+    "id": "56148913",
+    "title": "🚗Automóvil Eléctrico 🚗Bestune 2026💵",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/automovil-electrico-bestune-2026-56148913",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T20:35:37.771Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 87
+   }
+  },
+  {
+   "node": {
+    "id": "56148892",
+    "title": "🛻Automóvil Eléctrico 🚗Marca Bestune 2026🛻",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/automovil-electrico-marca-bestune-2026-56148892",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T20:35:36.046Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "56145253",
+    "title": "Vendo o negocio, Hyundai Santa Fe,  callygrafhy 2023",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-callygrafhy-2023-56145253",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-20T18:34:37.235Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 163
+   }
+  },
+  {
+   "node": {
+    "id": "56145237",
+    "title": "Vendo o negocio ves túnel 100% eléctrico 2026",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-ves-tunel-100-electrico-2026-56145237",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T18:48:13.360Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 89
+   }
+  },
+  {
+   "node": {
+    "id": "56142394",
+    "title": "💵Venta Carro Eléctrico 🛻Marca Bestune 0 km🚗",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-carro-electrico-marca-bestune-0-km-56142394",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T20:35:35.851Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 94
+   }
+  },
+  {
+   "node": {
+    "id": "56140046",
+    "title": "Opel Rekord Olympia. Mecánica original y aire acondicionado",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/opel-rekord-olympia-mecanica-original-y-aire-acondicionado-56140046",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T21:11:46.211Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 478
+   }
+  },
+  {
+   "node": {
+    "id": "56132800",
+    "title": "Carro Bestune T55",
+    "price": 28500,
+    "currency": "USD",
+    "permalink": "/item/carro-bestun-t55-56132800",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T02:35:55.454Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 335
+   }
+  },
+  {
+   "node": {
+    "id": "56129929",
+    "title": "Sonata auto del año 2021",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/sonata-auto-del-ano-2021-56129929",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:32:34.751Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 111
+   }
+  },
+  {
+   "node": {
+    "id": "56129836",
+    "title": "Palisade auto moderno",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/palisade-auto-moderno-56129836",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:07:42.338Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 89
+   }
+  },
+  {
+   "node": {
+    "id": "56129790",
+    "title": "Tucson Hyundai lo mejor en autos y carros",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/tucson-hyundai-lo-mejor-en-autos-y-carros-56129790",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:07:49.859Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 141
+   }
+  },
+  {
+   "node": {
+    "id": "56129360",
+    "title": "Fiat 1100 mecánica de lada, caja 5ta de lada, salón de tico con pizarra de tico",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/fiat-1100-mecanica-de-lada-caja-5ta-de-lada-salon-de-tico-con-pizarra-de-tico-56129360",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-08-29T18:32:05.557Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 436
+   }
+  },
+  {
+   "node": {
+    "id": "56126142",
+    "title": "SANTA FE 2023 LÍMITED....add",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2023-limited-56126142",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T01:05:49.578Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 182
+   }
+  },
+  {
+   "node": {
+    "id": "56126087",
+    "title": "HYUNDAI TUCSON 2017 Full limited.....add",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2017-full-limited-56126087",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T00:36:01.739Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 569
+   }
+  },
+  {
+   "node": {
+    "id": "56125957",
+    "title": "SANTA FE 2020..add",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2020-56125957",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T21:17:46.152Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 470
+   }
+  },
+  {
+   "node": {
+    "id": "56122779",
+    "title": "Lada 1600 en venta caja 5ta,detalles en la chapisteria,con posibilidad de reposición en Sasa ( me ajusto)53546138",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/lada-en-venta-para-mas-informacion-53546138-56122779",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-18T17:34:06.384Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 775
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

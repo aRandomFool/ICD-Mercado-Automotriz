@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58303785",
+    "title": "Hyundai Santa Fe Calligraphy",
+    "price": 33300,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-58303785",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-22T20:32:33.145Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58303673",
+    "title": "Buen carro ideal para ti",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/buen-carro-ideal-para-ti-58303673",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-22T20:28:54.212Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58303129",
+    "title": "carretillas en venta",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carretillas-en-venta-58303129",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T20:09:19.653Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58302969",
+    "title": "Hyundai Tucson 2019 🔥* Millas: 88.000 🤍 Precio: 22.000 USD 💵",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2019-millas-88000-precio-22000-usd-58302969",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:45:37.305Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58302569",
+    "title": "Se vende honda prologue el tope de gama el Elite",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-honda-prologue-el-tope-de-gama-el-elite-58302569",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T19:46:53.754Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 31
+   }
+  },
+  {
+   "node": {
+    "id": "58301685",
+    "title": "CARRO DE 8PASAJEROS",
+    "price": 23500,
+    "currency": "USD",
+    "permalink": "/item/carro-de-8pasajeros-58301685",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-22T19:13:57.989Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58301621",
+    "title": "Se vende  honda eléctrico 2024 el modelo top de la honda",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-honda-electrico-2024-el-modelo-top-de-la-honda-58301621",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T19:12:12.442Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58301594",
+    "title": "CARRO DE 8 PASAJERO",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/carro-de-8-pasajero-58301594",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-22T19:11:28.724Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58301338",
+    "title": "Un buen carro",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/un-buen-carro-58301338",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-22T19:03:52.931Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58301320",
+    "title": "🇰🇷 KIA PICANTO MORNING 2018 ⭐",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-morning-2018-58301320",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T14:57:16.523Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "58300978",
+    "title": "Carretillas",
+    "price": 120,
+    "currency": "USD",
+    "permalink": "/item/carretillas-58300978",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T18:51:07.108Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58299661",
+    "title": "••••• Auto, coche, carro: Fiat Tipo 1.6, italiano, buen estado.",
+    "price": 9700,
+    "currency": "USD",
+    "permalink": "/item/auto-coche-carro-fiat-tipo-16-italiano-buen-estado-58299661",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T21:40:15.411Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "58299598",
+    "title": "Vendo Nissan Versa",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/vendo-nissan-versa-58299598",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T18:04:39.436Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58299160",
+    "title": "Vendo o cambio Mercedes Benz 616diesel por Willy años 55 o 47 con mecánica de LADA",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-cambio-mercedes-benz-616diesel-por-willy-anos-55-o-47-con-mecanica-de-lada-58299160",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T17:49:22.906Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "58299103",
+    "title": "Van eléctrica blanca",
+    "price": 48300,
+    "currency": "USD",
+    "permalink": "/item/van-electrica-blanca-58299103",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T14:10:48.850Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58299061",
+    "title": "Toyota Tercel full inyección",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/toyota-tercel-full-inyeccion-58299061",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T12:58:47.227Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 57
+   }
+  },
+  {
+   "node": {
+    "id": "58298877",
+    "title": "Vw escarabajo convertible original",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vw-escarabajo-convertible-original-58298877",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-22T17:39:56.941Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58298554",
+    "title": "Carro de Compras",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carro-de-compras-58298554",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T17:29:41.756Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 1
+   }
+  },
+  {
+   "node": {
+    "id": "58298074",
+    "title": "Herramientas para mecanica",
+    "price": 1111,
+    "currency": "USD",
+    "permalink": "/item/herramientas-para-mecanica-58298074",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T17:10:59.831Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58298012",
+    "title": "VENDO HYUNDAI ATOS,NO NEGOCIO.",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-atosno-negocio-58298012",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T12:10:20.368Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "58297630",
+    "title": "Vendo auto con aire acondicionado VW escarabajo convertible",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-auto-con-aire-acondicionado-vw-escarabajo-convertible-58297630",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T16:51:34.097Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "58297571",
+    "title": "Regulador de veloltaje triple",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/regulador-de-veloltaje-triple-58297571",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T14:33:08.886Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "53",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58297254",
+    "title": "Chevrolet clásico",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-clasico-58297254",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T16:34:24.825Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "58296965",
+    "title": "Hyundai Tucson 2019",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2019-58296965",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T12:45:01.006Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58295921",
+    "title": "AFORADOR DE KIA PICANTO DEL 2017-2023",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/aforador-de-kia-picanto-del-2017-2023-58295921",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T15:42:41.447Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58295707",
+    "title": "Carretilla para carga // 70 kg",
+    "price": 60,
+    "currency": "USD",
+    "permalink": "/item/carretilla-para-carga-70-kg-58295707",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-22T15:35:55.746Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58295232",
+    "title": "Sillones",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/sillones-58295232",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-22T15:20:55.160Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58294538",
+    "title": "Renta de autos en toda cuba",
+    "price": 60,
+    "currency": "USD",
+    "permalink": "/item/renta-de-autos-en-toda-cuba-58294538",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-24T17:25:10.872Z",
+    "isPromoted": false,
+    "provinceId": "11",
+    "municipalityId": "109",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "58294522",
+    "title": "Vendo motor de LADA 05 con su caja su transmission y su diferencial",
+    "price": 1000,
+    "currency": "USD",
+    "permalink": "/item/vendo-motor-de-lada-05-con-su-caja-su-transmission-y-su-diferencial-58294522",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-22T14:58:25.907Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "20",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58294377",
+    "title": "Carrito para mandado",
+    "price": 15,
+    "currency": "USD",
+    "permalink": "/item/carrito-para-mandado-58294377",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T14:53:42.758Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58291962",
+    "title": "Carritos de servicio",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carritos-de-servicio-58291962",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T13:36:20.260Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58291598",
+    "title": "Vendo Kia Picanto GT line 2025 9500Km recorrido.",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/vendo-kia-picanto-gt-line-2025-9500km-recorrido-58291598",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-22T13:23:47.366Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58291556",
+    "title": "Vendo tico 1994, certifico en mano 8500mil usd",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/vendo-tico-1994-certifico-en-mano-8500mil-usd-58291556",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-22T13:22:15.540Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "58291017",
+    "title": "Vendo polaco fiat",
+    "price": 2000,
+    "currency": "USD",
+    "permalink": "/item/vendo-polaco-fiat-58291017",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-22T12:58:59.641Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58290660",
+    "title": "Se vende nissan titan de gasolina pro4x en perfectas condiciones",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-nissan-titan-de-gasolina-pro4x-en-perfectas-condiciones-58290660",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-22T12:46:57.629Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58290659",
+    "title": "Vendo AUSTIN DEL 55",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/vendo-austin-del-55-58290659",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T12:46:55.860Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "58290530",
+    "title": "Hyundai palisade 2020 limited en venta",
+    "price": 29,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2020-limited-en-venta-58290530",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-22T12:42:30.064Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58289380",
+    "title": "Carro Multifuncional super fuerte OFERTA",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carro-multifuncional-super-fuerte-oferta-58289380",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T11:34:06.675Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 1
+   }
+  },
+  {
+   "node": {
+    "id": "58289271",
+    "title": "🇰🇷 HYUNDAI SONATA LIMITED 2021 🔥",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-limited-2021-58289271",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T12:42:34.228Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "58289236",
+    "title": "PEUGEOT 404 — CLÁSICO ADAPTADO",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/peugeot-404-clasico-adaptado-58289236",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-23T16:26:51.793Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 64
+   }
+  },
+  {
+   "node": {
+    "id": "58289196",
+    "title": "KIA SELTOS 2025",
+    "price": 36500,
+    "currency": "USD",
+    "permalink": "/item/kia-seltos-2025-58289196",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T12:42:17.791Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58288799",
+    "title": "Hyundai",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-58288799",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-22T10:58:27.140Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58288935",
+    "title": "CARRO G80",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/carro-g80-58288935",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T11:07:35.635Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58288982",
+    "title": "Chevrolet 1954",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-1954-58288982",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T11:10:14.364Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "58286614",
+    "title": "Food Truck Móvil original",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/food-truck-movil-original-58286614",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-22T04:28:47.384Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58286288",
+    "title": "Propano nuevo a estrenar por usted",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/propano-nuevo-a-estrenar-por-usted-58286288",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T03:55:00.318Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58286193",
+    "title": "Carro",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/carro-58286193",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-22T03:46:30.665Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58285659",
+    "title": "CUBA- UN AUTO DE NAVIDAD A CUBA. TOYOTA CAMRY 2020",
+    "price": 4800,
+    "currency": "USD",
+    "permalink": "/item/cuba-un-auto-de-navidad-a-cuba-toyota-camry-2020-58285659",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T02:12:30.745Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "81",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "58285520",
+    "title": "Moskvic de fabrica",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/moskvic-de-fabrica-58285520",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T13:06:10.556Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "58285468",
+    "title": "Kia rio 2023 al detalle",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2023-al-detalle-58285468",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T13:06:19.080Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 31
+   }
+  }
+ ],
+ "meta": {
+  "total": 3947
+ }
+}

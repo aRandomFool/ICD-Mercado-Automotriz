@@ -4,11 +4,15 @@
 
 - Origen: [revolico.app](https://revolico.app/)
 - Ruta: `data/raw/clasificados/revolico/`
-- Archivos: `anuncios.csv`, `revolico_paginas/` (JSON crudos), `respaldo_150_2026-09-24/` (respaldo histórico)
-- Método: API GraphQL (`https://graphql-api.revolico.app/`) vía `src/scraper_revolico.py` (GraphQL). No se guardan teléfonos ni datos de contacto.
-- Filtro aplicado: `subcategorySlug: "vehiculos-carros"`, `provinceSlug: "la-habana"`. Paginación 12 páginas × 50 = 600 anuncios únicos (deduplicados por `anuncio_id`).
-- Moneda: conversión a USD con `TASA_CUP_USD = 710` (ver `data/tasas_cambio/tasas_usd.csv`).
-- Notas: meta.total no fiable (puede incluir global); usar conteos reales.
+- Archivos: `anuncios.csv`, `verificacion_anuncios.csv`, `revolico_paginas/` (JSON crudos del scrape original), `respaldo_600_2026-10-26/` (muestra de 600 antes de ampliar), `respaldo_ampliado_2026-10-26/` (JSON crudos por página de la ampliación), `catalogo_geo/` (catálogo provincias/municipios de la API), `piloto_2026-10-26.csv` (piloto fase 1), `scraping_ampliado_2026-10-26.log` (log de ejecución)
+- Método: API GraphQL (`https://graphql-api.revolico.app/`).
+  - Scrape original (2026-09-24): `src/scraper_revolico.py` — 12 páginas, solo La Habana, 600 anuncios.
+  - **Ampliación nacional (2026-10-26): `src/scraper_revolico_ampliado.py`** — universo completo de carros de todo el país (~3 947 anuncios, 79 páginas de 50), fases piloto→escalado con pausa 4 s, reintentos con backoff, log y respaldo JSON por página. Filtra `subcategorySlug: "vehiculos-carros"` **sin** `provinceSlug` (alcance nacional). No guarda teléfonos ni datos de contacto.
+- Geografía: `provincia`/`municipio` del catálogo `ProvincesWithMunicipalities` de la API (16 provincias), cacheado en `catalogo_geo/provincias_municipios.json`.
+- Marcas: normalizadas con `src/utils/marcas.py` (ampliado con marcas de las comercializadoras: MG, Maxus, Mitsubishi, Dongfeng).
+- Moneda: conversión a USD con `TASA_CUP_USD = 710` (`data/tasas_cambio/tasas_usd.csv`) y EUR con 1.120529 (`tasas_eur_usd.csv`); MLC queda sin convertir (sin tasa documentada). Ver `docs/esquema_datos.md` §2.
+- Verificación en vivo: `src/verificar_anuncios_revolico.py` (pendiente de re-ejecutar sobre las filas ampliadas).
+- Notas: meta.total no fiable históricamente (puede incluir global); usar conteos reales. El universo medido para carros en país completo fue 3.947 el 2026-10-26.
 
 ## 2. Mercado formal - Comercializadoras autorizadas
 

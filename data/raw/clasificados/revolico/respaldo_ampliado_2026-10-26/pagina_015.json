@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58143301",
+    "title": "KIA FORTE GT LINE 2024",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/kia-forte-gt-line-2024-58143301",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T22:35:24.627Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "58143038",
+    "title": "Delta 3",
+    "price": 680,
+    "currency": "USD",
+    "permalink": "/item/delta-3-58143038",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-15T11:07:59.520Z",
+    "isPromoted": false,
+    "provinceId": "15",
+    "municipalityId": "154",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58142684",
+    "title": "HYUNDAI SANTA FE CALLIGRAPHY 2026",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2026-58142684",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T20:01:11.679Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "58142370",
+    "title": "Se vende Peugeot 404",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-peugeot-404-58142370",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-15T08:52:14.055Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "58142369",
+    "title": "Se vende Peugeot 404",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-peugeot-404-58142369",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-15T08:52:12.920Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58141916",
+    "title": "Se vende carro con mecánica de lada",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-con-mecanica-de-lada-58141916",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T12:52:51.931Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 107
+   }
+  },
+  {
+   "node": {
+    "id": "58141773",
+    "title": "Hyundai Santa Fe",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-58141773",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-21T00:45:36.220Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58141699",
+    "title": "🚘 ¡HYUNDAI SONATA 2021 EN VENTA! 🚘",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2021-en-venta-58141699",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-15T06:30:19.689Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58140961",
+    "title": "Super carro en venta marca Honda HR_V 2017",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/super-carro-en-venta-marca-honda-hr_v-2017-58140961",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-15T04:42:49.371Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58139537",
+    "title": "Lada 2105",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/lada-2105-58139537",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-15T02:39:20.297Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "58138917",
+    "title": "DONGFENG 2026",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-2026-58138917",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T14:53:13.229Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58134370",
+    "title": "Carro disponible para botal es combro y llevar Relleno",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carro-disponible-para-botal-es-combro-y-llevar-relleno-58134370",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T20:41:39.950Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "58134079",
+    "title": "Hyundai Santa Fe Calligraphy   Año: 2022 Híbrido Millas: 62.000 ✨ ⚙️ Motor: 2.0 🔥",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-ano-2022-hibrido-millas-62000-motor-20-58134079",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-14T20:25:33.898Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58133439",
+    "title": "En venta Mercedes Benz GLA200",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-mercedes-benz-gla200-58133439",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-14T19:56:29.475Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "58133375",
+    "title": "Se vende Plymouth del 50",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-plymouth-del-50-58133375",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-14T19:52:44.258Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "58133098",
+    "title": "Auto en venta",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/auto-en-venta-58133098",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-14T19:38:18.473Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "58133080",
+    "title": "Hyundai Santa Fe 2025 y accent 2017",
+    "price": 11111,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2025-y-accent-2017-58133080",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-14T19:37:36.315Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "58132208",
+    "title": "Vendo Kia rio 2021",
+    "price": 18,
+    "currency": "USD",
+    "permalink": "/item/vendo-kia-rio-2021-58132208",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-14T18:58:46.570Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58132028",
+    "title": "Peugeot 301 del 2018",
+    "price": 1000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-del-2018-58132028",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-16T13:06:47.431Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 104
+   }
+  },
+  {
+   "node": {
+    "id": "58131555",
+    "title": "🚘🔥MG ZS 2025 🔥🚘 Se da con el tanque lleno",
+    "price": 24500,
+    "currency": "USD",
+    "permalink": "/item/mg-zs-2025-58131555",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T00:02:45.564Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58131426",
+    "title": "✨ HONDA ACCORD SPORT 2022 ✨ SE DA CON EL TANQUE LLENO",
+    "price": 27500,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-sport-2022-58131426",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T00:01:37.699Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "58130776",
+    "title": "Polako",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/polako-58130776",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T18:21:35.477Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 173
+   }
+  },
+  {
+   "node": {
+    "id": "58130408",
+    "title": "❤️ GRAN I10 2020 CARRO AL DETALLE AIRE QUE PELA ❤️",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/gran-i10-2020-carro-al-detalle-aire-que-pela-58130408",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T20:11:43.927Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 90
+   }
+  },
+  {
+   "node": {
+    "id": "58130388",
+    "title": "❤️ GRAN I10 AUTOMATICO AÑO 2019 NO TIENE DETALLE NI DE PINTIRA NI CHAPISTERIA TODO AL 100 AIRE QUE PELA ❤️",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/gran-i10-automatico-ano-2019-no-tiene-detalle-ni-de-pintira-ni-chapisteria-todo-al-100-aire-que-pela-58130388",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T17:43:33.029Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 101
+   }
+  },
+  {
+   "node": {
+    "id": "58130258",
+    "title": "Lada 1600. Unico dueño",
+    "price": 5.5,
+    "currency": "USD",
+    "permalink": "/item/lada-1600-unico-dueno-58130258",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-14T17:40:04.159Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 128
+   }
+  },
+  {
+   "node": {
+    "id": "58129238",
+    "title": "❗️Santa Fe 2018❗️   23k💸 Impecable !  🔥🔥NO PIERDA SU OPORTUNIDAD🔥🔥   📱Escribir al 55014902 o unirse a nuestro cana",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2018-23k-impecable-no-pierda-su-oportunidad-escribir-al-55014902-o-unirse-a-nuestro-cana-58129238",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-21T01:56:18.805Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "58128855",
+    "title": "Domicilio incluido 4050 USD*Solo x hoy",
+    "price": 4050,
+    "currency": "USD",
+    "permalink": "/item/domicilio-incluido-4050-usdsolo-x-hoy-58128855",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T16:46:05.617Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58128654",
+    "title": "Sé vende este carro Mitsubishi Lancer original completo interesados al pv precio lindo 👌",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-este-carro-mitsubishi-lancer-original-completo-interesados-al-pv-precio-lindo-58128654",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-14T16:38:09.910Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 95
+   }
+  },
+  {
+   "node": {
+    "id": "58128406",
+    "title": "Compro lada",
+    "price": 11,
+    "currency": "USD",
+    "permalink": "/item/compro-lada-58128406",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T16:29:06.932Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58127793",
+    "title": "MOSCOVICH 2140 RECIEN CHAPISTEADO Y PINTADO",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/moscovich-2140-recien-chapisteado-y-pintado-58127793",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T12:20:29.980Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 103
+   }
+  },
+  {
+   "node": {
+    "id": "58126892",
+    "title": "Vendo Opel de petróleo",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/vendo-opel-de-petroleo-58126892",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-14T15:35:03.906Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58126770",
+    "title": "*Hyundai Santa Fe Calligraphy🔥*  Año: 2022 Hibrido ✳️ Millas: 62.000 ✨ Precio: 34.000 USD 💵   *urbane",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-ano-2022-hibrido-millas-62000-precio-34000-usd-urbane-58126770",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T15:31:07.915Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 3
+   }
+  },
+  {
+   "node": {
+    "id": "58126721",
+    "title": "Rebajado carro Tico a 8500 usd. Casino deportivo",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/rebajado-carro-tico-a-8500-usd-casino-deportivo-58126721",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-14T15:29:25.284Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "58126681",
+    "title": "En venta Daewoo del 94 como lo ven en foto (( 58873843 )) prácticamente nuevo, tubo de escape nuevo, gomas nuevas, repro",
+    "price": 7800,
+    "currency": "USD",
+    "permalink": "/item/en-venta-daewoo-del-94-como-lo-ven-en-foto-58873843-practicamente-nuevo-tubo-de-escape-nuevo-gomas-nuevas-repro-58126681",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-14T15:27:51.547Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "58125513",
+    "title": "🚙CARRO LADA🚙",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/carro-lada-58125513",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-14T14:49:05.285Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "58124955",
+    "title": "Carro lada",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/carro-lada-58124955",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-14T14:32:06.053Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "58123965",
+    "title": "Hyundai Santa Fe Calligraphy 2022",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2022-58123965",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T12:44:51.766Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "58123616",
+    "title": "Mantenedor de batería Stanley 2. Estación de energía portátil con puertos USB y toma de corriente continua de 12 V",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/mantenedor-de-bateria-stanley-2-estacion-de-energia-portatil-con-puertos-usb-y-toma-de-corriente-continua-de-12-v-58123616",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-14T13:50:18.497Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58123462",
+    "title": "Plymouth 1949 en venta.",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/plymouth-1949-en-venta-58123462",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-14T13:45:54.314Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 75
+   }
+  },
+  {
+   "node": {
+    "id": "58121397",
+    "title": "Combo d delta3 Classic (con bases)1020usd",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/combo-d-delta3-classic-con-bases1020usd-58121397",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T12:32:48.355Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "72",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58121182",
+    "title": "🔊MOSCOVICH 2140 RECIEN CHAPISTEADO Y PINTADO,LATA SANA CAMINANDO AL 100%,MOTOR Y CAJA ORIGINAL,CERTIFICO EN MANO LISTO",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/moscovich-2140-recien-chapisteado-y-pintadolata-sana-caminando-al-100motor-y-caja-originalcertifico-en-mano-listo-58121182",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-14T12:24:03.351Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "27",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "58121177",
+    "title": "BMW X6 M COMPETITION 2022 — ¡617 HP DE PURA POTENCIA, LUJO Y EXCLUSIVIDAD! 🔥",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-x6-m-competition-2022-617-hp-de-pura-potencia-lujo-y-exclusividad-58121177",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-14T12:23:59.960Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "58121076",
+    "title": "HYUNDAI IONIQ 5 2023 — ¡FUTURISTA, 100% ELÉCTRICO Y EQUIPAMIENTO",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-ioniq-5-2023-futurista-100-electrico-y-equipamiento-58121076",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-14T12:20:28.258Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58120909",
+    "title": "Kia Río 2019",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/kia-rio-2019-58120909",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-14T12:14:57.756Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58120902",
+    "title": "RANGE ROVER en venta",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/range-rover-en-venta-58120902",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-14T12:14:48.259Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "58120896",
+    "title": "Se vende Ford del 57",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-ford-del-57-58120896",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-14T12:14:31.029Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 90
+   }
+  },
+  {
+   "node": {
+    "id": "58120759",
+    "title": "Carro en venta",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-58120759",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-14T12:08:29.898Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58120187",
+    "title": "Se vende Fiat UNO 70S en funcionamiento. Motor 1.4 de gasolina. Todo en estado original.",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-fiat-1-70s-en-funcionamiento-motor-14-de-gasolina-todo-en-estado-original-58120187",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T23:13:05.143Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 116
+   }
+  },
+  {
+   "node": {
+    "id": "58119283",
+    "title": "GAC GS3 emzoom 0 km nuevo",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/gac-gs3-emzoom-0-km-nuevo-58119283",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T08:10:24.276Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58118178",
+    "title": "HYUNDAI SONATA 2023 SEL",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-sonata-2023-sel-58118178",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T20:01:09.671Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 43
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

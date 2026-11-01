@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "56122833",
+    "title": "🚗Venta auto eléctrico 🚗marca bestune 2026🛻",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-auto-electrico-marca-bestune-2026-56122833",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T20:35:37.284Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "56120734",
+    "title": "Carro en venta BESTUNE",
+    "price": 28500,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-bestune-56120734",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T12:10:59.878Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 325
+   }
+  },
+  {
+   "node": {
+    "id": "56118330",
+    "title": "Venta de Autos Eléctricos VW ID4 *Cero emisiones*  Entrega en Toda Cuba",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/venta-de-autos-electricos-vw-id4-cerro-emisiones-entrega-en-toda-cuba-56118330",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T12:47:29.837Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 248
+   }
+  },
+  {
+   "node": {
+    "id": "56114199",
+    "title": "Hyundai Kona 2022",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-kona-2022-56114199",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T18:45:41.161Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "56114174",
+    "title": "Lada 2105",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/lada-2105-56114174",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T18:45:34.284Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 450
+   }
+  },
+  {
+   "node": {
+    "id": "56114079",
+    "title": "Hyundai Palisade 2021",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2021-56114079",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T18:45:48.162Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 80
+   }
+  },
+  {
+   "node": {
+    "id": "56114018",
+    "title": "Hyundai Sonata 2021",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2021-56114018",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T18:45:27.259Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "56110904",
+    "title": "Hyundai Kona Pro auto en Cuba 🛡️",
+    "price": 111,
+    "currency": "USD",
+    "permalink": "/item/hyundai-kona-pro-auto-en-cuba-56110904",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T23:40:39.578Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 212
+   }
+  },
+  {
+   "node": {
+    "id": "56110866",
+    "title": "Lada original 2105 Super cuidado Ganga",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/lada-original-2105-super-cuidado-ganga-56110866",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T23:44:21.975Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 831
+   }
+  },
+  {
+   "node": {
+    "id": "56107189",
+    "title": "MG mg3 2019",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/mg-mg3-2019-56107189",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-26T11:02:11.365Z",
+    "isPromoted": true,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 3682
+   }
+  },
+  {
+   "node": {
+    "id": "56105442",
+    "title": "VENDO LADA 2105, BUEN ESTADO GENERAL. DETALLES AL 52663247",
+    "price": 5750,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2105-buen-estado-general-detalles-al-52663247-56105442",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T15:01:45.080Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "47",
+    "viewCount": 806
+   }
+  },
+  {
+   "node": {
+    "id": "56104906",
+    "title": "Hyundai Sonata Autos de Carreras Modernos",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-autos-de-carreras-modernos-56104906",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T20:13:22.054Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 177
+   }
+  },
+  {
+   "node": {
+    "id": "56104871",
+    "title": "Hyundai Palisade Autos en Cuba Autos Grandes Lujosos",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-autos-en-cuba-autos-grandes-lujosos-56104871",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T20:12:44.156Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "56104839",
+    "title": "Hyundai Tucson Hyundai Modernos Carros en La Habana",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-hyundai-modernos-carros-en-la-habana-56104839",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T20:13:32.126Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 137
+   }
+  },
+  {
+   "node": {
+    "id": "56104806",
+    "title": "Hyundai Kona Carro Nuevo",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-kona-carro-nuevo-56104806",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T20:12:35.433Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 166
+   }
+  },
+  {
+   "node": {
+    "id": "56104772",
+    "title": "Lada blanco como nuevo todo original",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/lada-blanco-como-nuevo-todo-original-56104772",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T20:12:53.584Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 722
+   }
+  },
+  {
+   "node": {
+    "id": "56100704",
+    "title": "Dongfeng Forthing M3",
+    "price": 25995,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-forthing-m3-56100704",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T18:18:28.175Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 235
+   }
+  },
+  {
+   "node": {
+    "id": "56099032",
+    "title": "Dongfeng Forthing M3",
+    "price": 25995,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-forthing-m3-56099032",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T11:31:55.598Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 148
+   }
+  },
+  {
+   "node": {
+    "id": "56097697",
+    "title": "Hyundai santa fe 2018",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2018-56097697",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:31:54.301Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 225
+   }
+  },
+  {
+   "node": {
+    "id": "56077022",
+    "title": "Fiat 600r clásico de 1958  puedo entrar en arreglo pero sin abuso pq la gsolina esta bajando, el esta muy bueno 53314059",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/fiat-600r-clasico-de-1958-53314059-judith-56077022",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-10T12:16:40.621Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 676
+   }
+  },
+  {
+   "node": {
+    "id": "56069575",
+    "title": "Sonata Hyundai 2021 💕",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/sonata-hyundai-2021-56069575",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:23:06.377Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 97
+   }
+  },
+  {
+   "node": {
+    "id": "56069558",
+    "title": "Palisade Hyundai 2021 Carro Grande 🖤",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/palisade-hyundai-2021-carro-grande-56069558",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:23:11.945Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "56069529",
+    "title": "Carro Grande y Moderno Hyundai Tucson",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/carro-grande-y-moderno-hyundai-tucson-56069529",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:23:51.468Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 131
+   }
+  },
+  {
+   "node": {
+    "id": "56069496",
+    "title": "Carro Nuevo Hyundai Kona",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/carro-nuevo-hyundai-kona-56069496",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:23:38.081Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "56069469",
+    "title": "Lada 2105 como nuevo, todo original",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/lada-2105-como-nuevo-todo-original-56069469",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:23:32.588Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 431
+   }
+  },
+  {
+   "node": {
+    "id": "56069315",
+    "title": "🫵 Sonata 2021 Hyundai con Chapa, Certifico y listo para traspaso",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/sonata-2021-hyundai-con-chapa-certifico-y-listo-para-traspaso-56069315",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T19:08:46.775Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 114
+   }
+  },
+  {
+   "node": {
+    "id": "56069304",
+    "title": "2021 Palisade Hyundai carros autos en La Habana",
+    "price": 10,
+    "currency": "USD",
+    "permalink": "/item/2021-palisade-hyundai-carros-autos-en-la-habana-56069304",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T19:08:33.978Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 117
+   }
+  },
+  {
+   "node": {
+    "id": "56069281",
+    "title": "Tucson 2021 💫 Hyundai auto carro moderno",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/tucson-2021-hyundai-auto-carro-moderno-56069281",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T19:08:55.847Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 134
+   }
+  },
+  {
+   "node": {
+    "id": "56068744",
+    "title": "VENDO LADA MODELO 2107",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-modelo-2107-56068744",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T14:17:23.842Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 1082
+   }
+  },
+  {
+   "node": {
+    "id": "56068079",
+    "title": "VENDO LADA MODELO 2103 ORIGINAL EN OPTIMAS CONDICIONES...",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-modelo-2103-original-en-optimas-condiciones-56068079",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T14:16:09.121Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 729
+   }
+  },
+  {
+   "node": {
+    "id": "56066826",
+    "title": "Auto Lada 2105",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/auto-lada-2105-56066826",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T19:36:33.801Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 379
+   }
+  },
+  {
+   "node": {
+    "id": "56066787",
+    "title": "Carro moderno Hyundai Kona 2022",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/carro-moderno-hyundai-kona-2022-56066787",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-18T14:36:33.171Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 76
+   }
+  },
+  {
+   "node": {
+    "id": "56065581",
+    "title": "🚗Carro Marca🛻 BESTUNE 2026🚗",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carro-marca-bestune-2026-56065581",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-11T20:35:35.738Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 85
+   }
+  },
+  {
+   "node": {
+    "id": "56054655",
+    "title": "Autos ya en plaza y a Pedidos ‼️",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/autos-ya-en-plaza-y-a-pedidos-56054655",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T13:51:12.128Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 1050
+   }
+  },
+  {
+   "node": {
+    "id": "56044641",
+    "title": "🦍⚜️NISSAN TITAN SL 4X4•BALA•💯54006023",
+    "price": 44500,
+    "currency": "USD",
+    "permalink": "/item/nissan-titan-sl-4x4bala54006023-56044641",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T06:08:56.488Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 191
+   }
+  },
+  {
+   "node": {
+    "id": "56043782",
+    "title": "Se vende caja de velocidad 4ta de vw golf",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/se-vende-caja-de-velocidad-de-vw-golf-56043782",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-17T02:20:33.016Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "56029577",
+    "title": "Vendo Bestune t77 2025",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-hago-negocio-bestune-t77-2025-56029577",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-13T17:48:36.740Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 199
+   }
+  },
+  {
+   "node": {
+    "id": "56016606",
+    "title": "Venta Hyundai Sonata Sport 2018. Motor nuevo instalado en concesionaria oficial",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/venta-hyundai-sonata-sport-2018-motor-nuevo-instalado-en-concesionaria-oficial-56016606",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-22T10:33:53.585Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 143
+   }
+  },
+  {
+   "node": {
+    "id": "56009579",
+    "title": "Vendo o negocio Kia Picanto 20 20 GT Line importado cuatro cilindros",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-kia-picanto-20-20-gt-line-importado-cuatro-cilindros-56009579",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T13:45:44.805Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 513
+   }
+  },
+  {
+   "node": {
+    "id": "56008128",
+    "title": "Vendo negocio Kia, Picanto 2017 hecho 21",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-kia-picanto-2017-hecho-21-56008128",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-17T12:48:11.786Z",
+    "isPromoted": false,
+    "provinceId": "9",
+    "municipalityId": "87",
+    "viewCount": 305
+   }
+  },
+  {
+   "node": {
+    "id": "56003677",
+    "title": "TUCSON 2016......add",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/tucson-2016-56003677",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T21:13:04.619Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 301
+   }
+  },
+  {
+   "node": {
+    "id": "56003581",
+    "title": "MAXUS 2015....add",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/maxus-2015-56003581",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T00:32:23.473Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 446
+   }
+  },
+  {
+   "node": {
+    "id": "56003573",
+    "title": "SANTA FE 2018....add",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2018-56003573",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T20:00:22.438Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 226
+   }
+  },
+  {
+   "node": {
+    "id": "56003557",
+    "title": "HONDA ACORD 2022..add",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/honda-acord-2022-56003557",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T00:49:43.258Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 515
+   }
+  },
+  {
+   "node": {
+    "id": "56003544",
+    "title": "HONDA PROLOGUE 2024..add",
+    "price": 46000,
+    "currency": "USD",
+    "permalink": "/item/honda-prologue-2024-56003544",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T00:47:02.744Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 266
+   }
+  },
+  {
+   "node": {
+    "id": "56003517",
+    "title": "VOLKSWAGEN 2025...add",
+    "price": 46000,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-2025-56003517",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T01:03:09.069Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 195
+   }
+  },
+  {
+   "node": {
+    "id": "55986183",
+    "title": "Vendo o negocio Audi, 2024 S Line 100% eléctrico 500 kilómetros de autonomía Boca",
+    "price": 60000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-audi-2024-s-line-100-electrico-500-kilometros-de-autonomia-boca-55986183",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-19T23:44:53.259Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 171
+   }
+  },
+  {
+   "node": {
+    "id": "55965736",
+    "title": "Pistola de Agua a Presion, 35Bar Hidrolavadora Inalambrica Recargable con 48V Batería de Litio,Manguera 5m",
+    "price": 55,
+    "currency": "USD",
+    "permalink": "/item/pistola-de-agua-a-presion-35bar-hidrolavadora-inalambrica-recargable-con-48v-bateria-de-litiomanguera-5m-55965736",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-07T04:53:36.976Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "55960893",
+    "title": "Volkswagen ID.6 Crozz   TAXI disponible 24h",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-id6-crozz-taxi-disponible-24h-hasta-7-personas-con-equipaje-55960893",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-22T02:37:15.872Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 117
+   }
+  },
+  {
+   "node": {
+    "id": "55957461",
+    "title": "Carro en para exportarlo Mitsubishi Outlander 2018  tres filas asiento  caminando perfecto l+17868686936",
+    "price": 11500,
+    "currency": "USD",
+    "permalink": "/item/carro-en-miami-para-exportar-mitsubishi-outlander-2018-tres-filas-asiento-4mil-caminando-perfecto-l17868686936-55957461",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-26T15:42:12.429Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 1034
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

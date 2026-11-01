@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57257149",
+    "title": "Hyundai h1",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-h1-57257149",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-07T04:35:41.642Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "1",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "57257067",
+    "title": "GRAND I10 2020",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/grand-i10-2020-57257067",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-07T04:24:13.731Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "2",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "57257018",
+    "title": "Carro moderno en venta en la habana a estrenar",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/carro-moderno-en-venta-en-la-habana-a-estrenar-57257018",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-07T04:17:33.546Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "57256959",
+    "title": "Delta 3 Classic  690 USD",
+    "price": 690,
+    "currency": "USD",
+    "permalink": "/item/delta-3-classic-690-usd-57256959",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-07T04:09:06.001Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": null,
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57255847",
+    "title": "Hyundai ioniq 5 full limited",
+    "price": 43000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-full-limited-57255847",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-07T02:41:42.230Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57255564",
+    "title": "Picanto 2017 hecho 2020",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/picanto-2017-hecho-2020-57255564",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-23T12:42:50.462Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 446
+   }
+  },
+  {
+   "node": {
+    "id": "57255545",
+    "title": "Hyundai Santa Cruz 2025",
+    "price": 44000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-cruz-2025-57255545",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-23T12:42:50.669Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 83
+   }
+  },
+  {
+   "node": {
+    "id": "57254410",
+    "title": "Autos. Carros. Automóviles",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/autos-carros-automoviles-57254410",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T14:11:39.476Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 79
+   }
+  },
+  {
+   "node": {
+    "id": "57254083",
+    "title": "🔥 CHERY TIGGO 4 2024 — ¡CERO DETALLES Y A ESTRENAR DE AGENCIA! 🔥",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/chery-tiggo-4-2024-cero-detalles-y-a-estrenar-de-agencia-57254083",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-07T00:48:56.967Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57253178",
+    "title": "🚘 2020 Cadillac CT5 Luxury",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/2020-cadillac-ct5-luxury-57253178",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-06T23:51:02.550Z",
+    "isPromoted": false,
+    "provinceId": "16",
+    "municipalityId": "160",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "57253036",
+    "title": "2025 Hyundai Elantra · SE Sedan 4D",
+    "price": 44000,
+    "currency": "USD",
+    "permalink": "/item/2025-hyundai-elantra-se-sedan-4d-57253036",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-16T22:46:19.850Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57253027",
+    "title": "Kia picanto 2018",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2018-57253027",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-06T23:38:31.766Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 273
+   }
+  },
+  {
+   "node": {
+    "id": "57252945",
+    "title": "2024 Chevrolet Silverado 1500 ZR2",
+    "price": 65000,
+    "currency": "USD",
+    "permalink": "/item/2024-chevrolet-silverado-1500-zr2-57252945",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-06T23:32:40.027Z",
+    "isPromoted": false,
+    "provinceId": "7",
+    "municipalityId": "67",
+    "viewCount": 80
+   }
+  },
+  {
+   "node": {
+    "id": "57252589",
+    "title": "Se vende",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-57252589",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-06T23:09:47.702Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57252434",
+    "title": "Venta de carros verdaderos interesados al pv",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/venta-de-carros-verdaderos-interesados-al-pv-57252434",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-06T23:01:05.110Z",
+    "isPromoted": false,
+    "provinceId": "12",
+    "municipalityId": "118",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "57252289",
+    "title": "2020 Ram 2500 Laramie Longhorn 4x4 Diesel",
+    "price": 52000,
+    "currency": "USD",
+    "permalink": "/item/2020-ram-2500-laramie-longhorn-4x4-diesel-57252289",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-06T22:51:11.405Z",
+    "isPromoted": false,
+    "provinceId": "5",
+    "municipalityId": "168",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57252205",
+    "title": "🔥🚨 2021 DODGE CHARGER R/T PLUS 🚨🔥",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/2021-dodge-charger-rt-plus-57252205",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-06T22:45:11.852Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "76",
+    "viewCount": 54
+   }
+  },
+  {
+   "node": {
+    "id": "57251446",
+    "title": "Kit todo en uno infinity 6 con 15 Precio 4200 USD con 🚗 incluído",
+    "price": 4200,
+    "currency": "USD",
+    "permalink": "/item/kit-todo-en-uno-infinity-6-con-15-precio-4450-usd-con-incluido-57251446",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-08T14:10:41.102Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57250224",
+    "title": "Dongfeng Forthing V5 Eléctrico News",
+    "price": 29791,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-forthing-v5-electrico-news-57250224",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T21:03:31.634Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 81
+   }
+  },
+  {
+   "node": {
+    "id": "57249877",
+    "title": "VW modelo Jetta Serie 2 de Gasolina. 📱52639677 o 76038943",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/vw-modelo-jetta-serie-2-de-gasolina-52639677-o-76038943-57249877",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-06T20:26:10.139Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "57249811",
+    "title": "🚨 MERCEDES-BENZ C200 2025 EN VENTA Se vende Mercedes-Benz C200, año 2025, en excelentes condiciones, prácticamente nuev",
+    "price": 58000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-benz-c200-2025-en-venta-se-vende-mercedes-benz-c200-ano-2025-en-excelentes-condiciones-practicamente-nuev-57249811",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-06T20:22:47.226Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 70
+   }
+  },
+  {
+   "node": {
+    "id": "57249517",
+    "title": "VENDO FORD 1932 TUDOR",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/vendo-ford-1932-tudor-57249517",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-06T20:06:25.445Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 218
+   }
+  },
+  {
+   "node": {
+    "id": "57249431",
+    "title": "Vw 1960",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/vw-1960-57249431",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-06T20:01:24.585Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 456
+   }
+  },
+  {
+   "node": {
+    "id": "57249085",
+    "title": "Kia picanto 2018 automático",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2018-automatico-57249085",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-06T19:42:09.284Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 279
+   }
+  },
+  {
+   "node": {
+    "id": "57248864",
+    "title": "Supergato. Ya con chapa, lista para traspaso",
+    "price": 2800,
+    "currency": "USD",
+    "permalink": "/item/supergato-ya-con-chapa-lista-para-traspaso-57248864",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-12T21:15:25.642Z",
+    "isPromoted": false,
+    "provinceId": "15",
+    "municipalityId": "154",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "57248607",
+    "title": "2022 Dodge Durango Citadel AWD",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/2022-dodge-durango-citadel-awd-57248607",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-06T19:13:01.579Z",
+    "isPromoted": false,
+    "provinceId": "14",
+    "municipalityId": "138",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57247534",
+    "title": "Skoda Fabia 2005",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/skoda-fabia-2005-57247534",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-06T18:25:17.184Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 125
+   }
+  },
+  {
+   "node": {
+    "id": "57247315",
+    "title": "Toyota bz4x Limited (eléctrico) 2023",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/carro-toyota-bz4x-limited-electrico-2023-57247315",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T18:46:26.171Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "57247061",
+    "title": "Haval M8 2023 eléctrico (Reev)-¡ MODERNO, ECOLÓGICO,Y CON AUTONOMÍA EXTENDIDA!",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/haval-m8-2023-electrico-reev-moderno-ecologicoy-con-autonomia-extendida-57247061",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-06T18:01:58.675Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57246888",
+    "title": "FIAT UNO S60",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/fiat-uno-s60-57246888",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-06T17:54:17.803Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 177
+   }
+  },
+  {
+   "node": {
+    "id": "57246033",
+    "title": "Aleko diesel",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/aleko-diesel-57246033",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-06T17:09:41.850Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 157
+   }
+  },
+  {
+   "node": {
+    "id": "57245410",
+    "title": "*Chevrolet Colorado Lt 2021 🔥*  *Tiene 67.000 KM CAMINADOS* ✅",
+    "price": 33850,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-lt-2021-tiene-67000-km-caminados-57245410",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-06T16:39:59.830Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57244930",
+    "title": "Vendo moscovich 2140",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/vendo-moscovich-2140-57244930",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-06T16:14:34.829Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57243802",
+    "title": "Vendo Donng Feng Vigo Air 2026 nuevo.",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/vendo-donng-feng-vigo-air-2026-nuevo-57243802",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-06T15:29:07.267Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57243800",
+    "title": "Vendo Donng Feng Vigo Air 2026 nuevo.",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/vendo-donng-feng-vigo-air-2026-nuevo-57243800",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-06T15:29:06.408Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57242779",
+    "title": "Hyundai ioniq 5 full limited  100% eléctrico  550 km de autonomía  Año 2024  Título limpio  17mil millas   Precio 43000",
+    "price": 43000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-full-limited-100-electrico-550-km-de-autonomia-ano-2024-titulo-limpio-17mil-millas-precio-43000-57242779",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-16T13:36:37.544Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57241978",
+    "title": "Cherry Tigo 4 del 2024",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/cherry-tigo-4-del-2024-57241978",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-18T02:39:32.331Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 101
+   }
+  },
+  {
+   "node": {
+    "id": "57241977",
+    "title": "Cherry Tigo 4 del 2024",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/cherry-tigo-4-del-2024-57241977",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-18T02:39:31.360Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57241519",
+    "title": "Hunday elantra del 2022",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hunday-elantra-del-2022-57241519",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-06T13:58:56.174Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 77
+   }
+  },
+  {
+   "node": {
+    "id": "57239864",
+    "title": "Kia K3 2024",
+    "price": 32,
+    "currency": "USD",
+    "permalink": "/item/kia-k3-2024-57239864",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-06T12:38:11.918Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57239865",
+    "title": "Kia K3 2024",
+    "price": 32,
+    "currency": "USD",
+    "permalink": "/item/kia-k3-2024-57239865",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-06T12:38:13.179Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57239543",
+    "title": "Vendo Toyota Yaris 2002. Camagüey",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/vendo-toyota-yaris-2002-camaguey-57239543",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-06T12:20:13.256Z",
+    "isPromoted": false,
+    "provinceId": "11",
+    "municipalityId": "101",
+    "viewCount": 246
+   }
+  },
+  {
+   "node": {
+    "id": "57239370",
+    "title": "Venta lada 2105",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/venta-lada-2105-57239370",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-06T12:09:08.892Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 236
+   }
+  },
+  {
+   "node": {
+    "id": "57238532",
+    "title": "SE VENDE Fiat 125p (Polacón), único dueño. Mecánica completa de Lada y motor 1600 del año 2022, gasolina, caja quinta.",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-fiat-125p-polacon-unico-dueno-mecanica-completa-de-lada-y-motor-1600-del-ano-2022-gasolina-caja-quinta-57238532",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-28T14:12:19.182Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 484
+   }
+  },
+  {
+   "node": {
+    "id": "57236665",
+    "title": "VW escarabajo alemán super beetle",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vw-escarabajo-aleman-super-beetle-57236665",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-06T03:40:35.700Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 219
+   }
+  },
+  {
+   "node": {
+    "id": "57236311",
+    "title": "Carro Vw pointer 2007",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/carro-vw-pointer-2007-57236311",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-06T02:59:53.359Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 174
+   }
+  },
+  {
+   "node": {
+    "id": "57236310",
+    "title": "Carro Vw pointer 2007",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/carro-vw-pointer-2007-57236310",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-06T02:59:51.950Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57234697",
+    "title": "‼️‼️‼️BATERÍAS PARA AUTOS DE 12V-70A Y 12V-100A‼️‼️‼️",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/baterias-para-autos-de-12v-70a-y-12v-100a-57234697",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T17:35:51.628Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "57234606",
+    "title": "TOYOTA COROLLA 2025",
+    "price": 24998,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2025-57234606",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-09T01:38:33.668Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 128
+   }
+  },
+  {
+   "node": {
+    "id": "57233909",
+    "title": "OUPES EXODUS",
+    "price": 555,
+    "currency": "USD",
+    "permalink": "/item/oupes-exodus-57233909",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T03:22:32.459Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 41
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

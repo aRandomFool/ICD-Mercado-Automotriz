@@ -23,28 +23,41 @@ Proyecto de Ciencia de Datos (1er año) — Universidad de La Habana.
 > Fuente única y viva: `docs/preguntas_investigacion.md` (fuente, variables, análisis y estado por pregunta).
 > Criterio P5: **clásico** = `anio < 2000`; **moderno** = `anio >= 2000`. Q1 se documenta como **proxy** de anuncios.
 
-## Cómo empezar (Windows)
+## Cómo empezar (Linux)
 
-Este proyecto usa el lanzador `py` porque en esta máquina el comando `python` está
-ocupado por el stub de Microsoft Store.
+El entorno de desarrollo actual es **Linux** (Python 3.14). El proyecto usa un
+entorno virtual `.venv` en la raíz (no versionado).
 
-```powershell
+```bash
 # 1. Crear el entorno virtual (una sola vez)
-py -m venv .venv
+python3 -m venv .venv
 
-# 2. Activarlo
-.venv\Scripts\Activate.ps1
+# 2. Instalar dependencias (versiones fijadas)
+.venv/bin/python -m pip install -r requirements-lock.txt ipykernel
 
-# 3. Instalar dependencias
-pip install -r requirements.txt
+# 3. Registrar el kernel de Jupyter (una sola vez)
+.venv/bin/python -m ipykernel install --user --name proyectocd \
+  --display-name "ProyectoCD (.venv)"
 
 # 4. Abrir los notebooks
-jupyter notebook
+.venv/bin/python -m jupyter notebook
 ```
 
-> Si PowerShell te bloquea la activación, ejecuta primero:
-> `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+> En los notebooks, seleccionar el kernel **ProyectoCD (.venv)** si no lo elige
+> Jupyter automáticamente.
+>
+> Nota (2026-10-26): `pandas==3.0.6` del lock original no tiene build para
+> Python 3.14; se fijó **pandas 3.0.5** (misma línea 3.0.x). El resto de
+> versiones del lock se instalan tal cual.
 
+### Archivo histórico: Windows
+
+> El proyecto se desarrolló originalmente en Windows (Python 3.13, lanzador
+> `py` porque `python` estaba ocupado por el stub de Microsoft Store;
+> activación con `.venv\Scripts\Activate.ps1` y, si PowerShell bloquea,
+> `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`). Esas
+> instrucciones ya no son el entorno activo; se dejan constancia aquí.
+>
 > Las versiones exactas ya validadas quedaron fijadas en `requirements-lock.txt`.
 
 ## Estructura del proyecto
@@ -106,7 +119,7 @@ subcarpetas, y la etapa 07 vive en `comunicacion/`.
 
 ## Estado de las capturas
 
-- **Anuncios (Revolico, informal):** 600 anuncios únicos en `data/raw/clasificados/revolico/anuncios.csv`. La verificación en vivo de URLs quedó en `verificacion_anuncios.csv` (83 despublicados, 45 eliminados, 1 expirado); el preprocesamiento (etapa 02) conserva solo los **activos**.
+- **Anuncios (Revolico, informal):** **3.958 anuncios** en `data/raw/clasificados/revolico/anuncios.csv` tras la **ampliación nacional de 2026-10-26** (universo completo de 79/79 páginas recorrido con `src/scraper_revolico_ampliado.py`; 16/16 provincias; respaldo de la muestra previa de 600 en `respaldo_600_2026-10-26/`). La muestra anterior (600 de La Habana) tuvo verificación en vivo en `verificacion_anuncios.csv` (83 despublicados, 45 eliminados, 1 expirado); el preprocesamiento (etapa 02) conserva solo los **activos**. Informe completo: `docs/informe_ampliacion_2026-10-26.md`.
 - **Comercializadoras (formal):** verificación HTTP+DNS registrada en `estado_comercializadoras.csv` y `informe_catalogos.md`; catálogos con precios públicos de **BDC ONE**, **Dongfeng Cuba** y **MCV Comercial** en `data/raw/comercializadoras/catalogos/`. El resto de entidades no fueron verificables desde esta red (ver `docs/fuentes.md`).
 - **Entrevistas/encuestas (cualitativo):** audio en `data/raw/entrevistas/Audios/`, **pendiente de transcribir/estructurar**. Instrumentos en `docs/instrumentos/`.
 

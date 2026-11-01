@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "53138088",
+    "title": "Vendo piezas nuevas de ladas",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/vendo-piezas-nuevas-de-ladas-53138088",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-18T16:21:35.817Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 190
+   }
+  },
+  {
+   "node": {
+    "id": "53128877",
+    "title": "Vendo Hyundai sonata, 2018 importado",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-sonata-2018-importado-53128877",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T18:36:19.479Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 994
+   }
+  },
+  {
+   "node": {
+    "id": "53128988",
+    "title": "Vendo o negocio Toyota Corolla, 2018. LE importado",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-toyota-corolla-2018-le-importado-53128988",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-11T16:44:05.511Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 890
+   }
+  },
+  {
+   "node": {
+    "id": "53116841",
+    "title": "Tranque de timon para carro 🚘",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/tranque-de-timon-para-carro-53116841",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-19T21:05:07.548Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 96
+   }
+  },
+  {
+   "node": {
+    "id": "53073674",
+    "title": "Vendo o negocio Hyundai Palisade 20 21 el básico, pero este tiene los asientos en piel",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-palisade-20-21-el-basico-pero-este-tiene-los-asientos-en-piel-53073674",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-20T18:47:54.837Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 841
+   }
+  },
+  {
+   "node": {
+    "id": "53073623",
+    "title": "Vendo o negocios, Hyundai Santa Fe, 2018 . Asiento en piel.",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocios-hyundai-santa-fe-2018-limite-asiento-en-piel-53073623",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-19T23:47:01.814Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 658
+   }
+  },
+  {
+   "node": {
+    "id": "53064140",
+    "title": "Toyota Corolla 2023",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2023-53064140",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T16:25:36.540Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 398
+   }
+  },
+  {
+   "node": {
+    "id": "53026803",
+    "title": "Transportaciones y ventas",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/transportaciones-y-ventas-53026803",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T12:10:25.684Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "71",
+    "viewCount": 323
+   }
+  },
+  {
+   "node": {
+    "id": "53026793",
+    "title": "Transportaciones y venta",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/transportaciones-y-venta-53026793",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T12:10:48.717Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "25",
+    "viewCount": 284
+   }
+  },
+  {
+   "node": {
+    "id": "53017727",
+    "title": "Transportaciones Logísticas",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/transportaciones-logisticas-53017727",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T12:10:39.845Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "29",
+    "viewCount": 168
+   }
+  },
+  {
+   "node": {
+    "id": "53013363",
+    "title": "Pintura de calidad 54703213",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/pintura-de-calidad-54703213-53013363",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-13T13:27:58.289Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 100
+   }
+  },
+  {
+   "node": {
+    "id": "52951449",
+    "title": "Vendo o negocio Honda Civic sport 2017, motor 2.0 turbo",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-honda-civic-sport-2017-motor-20-turbo-52951449",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-17T13:12:40.471Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 1074
+   }
+  },
+  {
+   "node": {
+    "id": "52897083",
+    "title": "Vendo negocio, Hyundai Santa Fe, 2018, pintura de fábrica importado",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-hyundai-santa-fe-2018-pintura-de-fabrica-importado-52897083",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-17T13:07:21.153Z",
+    "isPromoted": false,
+    "provinceId": "7",
+    "municipalityId": "64",
+    "viewCount": 1001
+   }
+  },
+  {
+   "node": {
+    "id": "52897014",
+    "title": "Vendo o negocio lada 07 del 2000",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-lada-07-del-2020-52897014",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-20T13:49:37.390Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 2234
+   }
+  },
+  {
+   "node": {
+    "id": "52896801",
+    "title": "Vendo negocio Kia Río, 2019 pintura de fábrica",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-kia-rio-2019-pintura-de-fabrica-52896801",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-17T13:09:23.162Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 870
+   }
+  },
+  {
+   "node": {
+    "id": "52889250",
+    "title": "Hyunday génesis 2019 automático",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/cherry-arrizo-5-pro-2024-52889250",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-28T16:27:52.099Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 494
+   }
+  },
+  {
+   "node": {
+    "id": "52789238",
+    "title": "Las mejores ofertas de pintura 54703213",
+    "price": 9,
+    "currency": "USD",
+    "permalink": "/item/las-mejores-ofertas-de-pintura-50568297-52789238",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-13T13:07:10.633Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 111
+   }
+  },
+  {
+   "node": {
+    "id": "52748514",
+    "title": "geeky ck Venta o negocio",
+    "price": 111,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocioprimero-por-hyundai-tucson-2020o-accent-2019-52748514",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-21T01:52:55.997Z",
+    "isPromoted": false,
+    "provinceId": "12",
+    "municipalityId": "121",
+    "viewCount": 725
+   }
+  },
+  {
+   "node": {
+    "id": "52683728",
+    "title": "GOMAS DE TRICICLOS 400 X 12 NUEVAS DE BALON CON SU CAMARA DE REPUESTO👇👌👇💸",
+    "price": 45,
+    "currency": "USD",
+    "permalink": "/item/gomas-de-triciclos-400-x-12-nuevas-de-balon-con-su-camara-de-repuesto-52683728",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-14T05:15:51.889Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 109
+   }
+  },
+  {
+   "node": {
+    "id": "52651826",
+    "title": "Mercedes Benz C300e 2022 híbrido gasolina y electrico.",
+    "price": 80000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-benz-c300e-2022-hibrido-gasolina-y-electrico-52651826",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T16:33:48.816Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 917
+   }
+  },
+  {
+   "node": {
+    "id": "52463609",
+    "title": "RenaulTalismán",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/renaultalisman-52463609",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-19T13:17:06.471Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 643
+   }
+  },
+  {
+   "node": {
+    "id": "52210949",
+    "title": "Vendo Chevrolet 53",
+    "price": 14500,
+    "currency": "USD",
+    "permalink": "/item/vendo-chevrolet-53-52210949",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-23T12:19:52.569Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 4106
+   }
+  },
+  {
+   "node": {
+    "id": "52159295",
+    "title": "Hiunday PALISADE  LIMITED 2022",
+    "price": 51000,
+    "currency": "USD",
+    "permalink": "/item/hiunday-palisade-limited-2022-52159295",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-26T14:17:06.101Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 959
+   }
+  },
+  {
+   "node": {
+    "id": "52136739",
+    "title": "2 Tapas de Valvulas  que brillan en la oscuridad 2x$1",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/2-tapas-de-valvulas-que-brillan-en-la-oscuridad-2x1-52136739",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-17T13:54:13.248Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 177
+   }
+  },
+  {
+   "node": {
+    "id": "52125318",
+    "title": "Si buscas un deportivo clásico, restaurado original, de lujo, potente y con piezas, lee esto",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/si-buscas-un-deportivo-clasico-restaurado-original-de-lujo-potente-y-con-piezas-lee-esto-52125318",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-27T20:40:03.432Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 1666
+   }
+  },
+  {
+   "node": {
+    "id": "51960440",
+    "title": "Piezas de Renault Scala SM3 y Kia Picanto Nuevas Cubanacán Playa",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/piezas-de-renault-scala-sm3-y-kia-picanto-nuevas-cubanacan-playa-51960440",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-10T18:35:56.896Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 159
+   }
+  },
+  {
+   "node": {
+    "id": "51954522",
+    "title": "Vendo o negocio yhunday palisade del 2022 callygrafhy",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-yhunday-palisade-del-2022-callygrafhy-51954522",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-20T18:46:21.895Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 445
+   }
+  },
+  {
+   "node": {
+    "id": "51953297",
+    "title": "GPS tracker vehícular. 45  usd",
+    "price": 45,
+    "currency": "USD",
+    "permalink": "/item/gps-tracker-vehicular-50-usd-51953297",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T04:32:17.557Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 105
+   }
+  },
+  {
+   "node": {
+    "id": "51939403",
+    "title": "Vendo o negocio Cadillac Escalade del 2023 en vin circulación 2021",
+    "price": 130000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-cadillac-escalade-del-2023-en-vin-circulacion-2021-51939403",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-20T18:42:51.751Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 1013
+   }
+  },
+  {
+   "node": {
+    "id": "51939053",
+    "title": "Vendo o negocio yhunday sonata N line del 2023 13 mil millas",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-yhunday-sonata-n-line-del-2023-13-mil-millas-51939053",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T13:48:56.854Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 353
+   }
+  },
+  {
+   "node": {
+    "id": "51754496",
+    "title": "GPS PARA AUTOS Y MOTOS",
+    "price": 50,
+    "currency": "USD",
+    "permalink": "/item/gps-51754496",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T11:09:00.934Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 286
+   }
+  },
+  {
+   "node": {
+    "id": "51673206",
+    "title": "Vendo o negocio yhunday atos del 2005",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-yhunday-atos-del-2005-51673206",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-11T16:44:30.394Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 3262
+   }
+  },
+  {
+   "node": {
+    "id": "51673110",
+    "title": "Vendo o negocio kia picanto del 2017 hecho 2020",
+    "price": 14500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-kia-picanto-del-2017-hecho-2020-51673110",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-19T23:45:56.701Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 1429
+   }
+  },
+  {
+   "node": {
+    "id": "51673075",
+    "title": "Vendo o negocio en Hyundai Santa Fe XRT 2025 12.000 millas",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-en-hyundai-santa-fe-xrt-2025-12000-millas-51673075",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-17T13:08:59.585Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 514
+   }
+  },
+  {
+   "node": {
+    "id": "51603651",
+    "title": "AUTO LADA",
+    "price": 8200,
+    "currency": "USD",
+    "permalink": "/item/auto-lada-2500-51603651",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T21:59:43.084Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 1608
+   }
+  },
+  {
+   "node": {
+    "id": "51603002",
+    "title": "Vendo o negocio yhunday Santa Fe del 2025 callygrafhy",
+    "price": 41000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-yhunday-santa-fe-del-2025-callygrafhy-51603002",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-20T18:38:16.342Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "76",
+    "viewCount": 1110
+   }
+  },
+  {
+   "node": {
+    "id": "51590566",
+    "title": "Peugeot 301 2017 caja 6ta cimex hago traspaso vendo o cambio me ajusto de frente",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-2017-caja-6ta-cimex-51590566",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T15:00:10.040Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 1901
+   }
+  },
+  {
+   "node": {
+    "id": "51557396",
+    "title": "Kia rio 2020 caja 8va",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2020-caja-8va-51557396",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-26T15:27:20.809Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 428
+   }
+  },
+  {
+   "node": {
+    "id": "51515435",
+    "title": "Vendo o negocio kia picanto del 2023",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-kia-picanto-del-2023-51515435",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-17T12:53:41.499Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 915
+   }
+  },
+  {
+   "node": {
+    "id": "51496551",
+    "title": "Fundas protectoras negras  antideslizante para volante de auto",
+    "price": 15,
+    "currency": "USD",
+    "permalink": "/item/fundas-protectoras-negras-antideslizante-para-volante-de-auto-51496551",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T20:15:02.216Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 219
+   }
+  },
+  {
+   "node": {
+    "id": "51495187",
+    "title": "Vendo o negocio kia pincato del 2012 pintura de Fabricanuevo de paquete",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-kia-pincato-del-2014-nuevo-de-paquete-51495187",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T18:37:35.475Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 965
+   }
+  },
+  {
+   "node": {
+    "id": "51489660",
+    "title": "Vendo o negócio Mercedes A200 del 2019",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-mercedes-a200-del-2019-51489660",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T18:48:59.659Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 1616
+   }
+  },
+  {
+   "node": {
+    "id": "51404545",
+    "title": "Vendo o negocio  yhunday Sonata 2023 Limited con techo de crsital motor 2.5",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-yhunday-sonata-2023-limited-con-techo-de-crsital-motor-25-51404545",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-17T12:50:44.234Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 616
+   }
+  },
+  {
+   "node": {
+    "id": "51404484",
+    "title": "Vendo o negocio Hiundai Venue 2023 Automático  muñeco de LLipe  sin defectos",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hiundai-venue-2023-automatico-muneco-de-llipe-sin-defectos-51404484",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-20T18:44:44.241Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 457
+   }
+  },
+  {
+   "node": {
+    "id": "51362896",
+    "title": "Vendo o negoceo hyundai palisade calligraphy",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negoceo-hyundai-palisade-calligraphy-51362896",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T18:36:34.987Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 539
+   }
+  },
+  {
+   "node": {
+    "id": "51363063",
+    "title": "Vendo o Negocio Hyundai Santa Fe, 2017, Full límite con 66,000 millas",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-2017-full-limite-con-66000-millas-51363063",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-20T18:46:02.355Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 1098
+   }
+  },
+  {
+   "node": {
+    "id": "51317323",
+    "title": "Vendo o negocio kia picanto del 2017 pintura de fábrica muy bueno el carro",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-kia-picanto-del-2017-pintura-de-fabrica-muy-bueno-el-carro-51317323",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-17T13:08:20.478Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 1951
+   }
+  },
+  {
+   "node": {
+    "id": "51303932",
+    "title": "Vendo o negocio yhunday Santa Fe del 2017 7 plazas limited",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-yhunday-santa-fe-del-2017-7-plazas-limited-51303932",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T18:33:43.373Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 663
+   }
+  },
+  {
+   "node": {
+    "id": "51231129",
+    "title": "Hyundai Tucson 2020",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2020-51231129",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:32:45.999Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 358
+   }
+  },
+  {
+   "node": {
+    "id": "51229680",
+    "title": "Hyundai 2017",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-2017-51229680",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:26:17.468Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 595
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

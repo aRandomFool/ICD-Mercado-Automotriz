@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57365293",
+    "title": "Lada 1600/2106",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/lada-16002106-57365293",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-11T15:11:59.346Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 356
+   }
+  },
+  {
+   "node": {
+    "id": "57364980",
+    "title": "Pontiac 52",
+    "price": 2200,
+    "currency": "USD",
+    "permalink": "/item/pontiac-52-57364980",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-11T15:01:49.163Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 152
+   }
+  },
+  {
+   "node": {
+    "id": "57364888",
+    "title": "⚡🚗 NISSAN LEAF 2020 — 100% ELÉCTRICO 🚗⚡",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/nissan-leaf-2020-100-electrico-57364888",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-11T14:59:11.282Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57364733",
+    "title": "Nissan Titan Platinum 2017",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/nissan-titan-platinum-2017-57364733",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-24T21:07:37.633Z",
+    "isPromoted": false,
+    "provinceId": "10",
+    "municipalityId": "95",
+    "viewCount": 172
+   }
+  },
+  {
+   "node": {
+    "id": "57364691",
+    "title": "🚗 VENDO TOYOTA YARIS 1.0 VVT-i ⛽ Gasolina | Manual 5 velocidades ✅ Económico, confiable y en muy buen estado ❄️ Aire ac",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/vendo-toyota-yaris-10-vvt-i-gasolina-manual-5-velocidades-economico-confiable-y-en-muy-buen-estado-aire-ac-57364691",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T14:52:46.460Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 131
+   }
+  },
+  {
+   "node": {
+    "id": "57362983",
+    "title": "Venta de carro",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carro-57362983",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-11T13:59:52.962Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 81
+   }
+  },
+  {
+   "node": {
+    "id": "57362893",
+    "title": "Carro Infiniti Q50",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/carro-infiniti-q50-57362893",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-26T17:52:49.030Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "57361624",
+    "title": "Carro eléctrico",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57361624",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-11T13:15:42.233Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57361592",
+    "title": "Marca Nissan 2024 Nuevo 0 kilometros vent tric hab",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/marca-nissan-2024-nuevo-0-kilometros-vent-tric-hab-57361592",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-17T10:11:19.761Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57361570",
+    "title": "Hyundai Sonota 2020",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonota-2020-57361570",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-25T17:57:48.115Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57359550",
+    "title": "Carro eléctrico en venta ✅️",
+    "price": 40,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-en-venta-57359550",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-11T11:50:08.896Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57359542",
+    "title": "Hyundai Santa Fe(7 plazas)",
+    "price": 24500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe7-plazas-57359542",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-25T17:57:46.767Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 70
+   }
+  },
+  {
+   "node": {
+    "id": "57359125",
+    "title": "Kia Rio del año 2019. Este atractivo sedán en impecable color blanco destaca por su equipamiento superior",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-del-ano-2019-este-atractivo-sedan-en-impecable-color-blanco-destaca-por-su-equipamiento-superior-57359125",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:57:18.490Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 221
+   }
+  },
+  {
+   "node": {
+    "id": "57359115",
+    "title": "Hyundai Accent 2019 en impecable color gris metálico. El sedán compacto ideal si buscas confort, agilidad,",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-accent-2019-en-impecable-color-gris-metalico-el-sedan-compacto-ideal-si-buscas-confort-agilidad-57359115",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:57:32.770Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 122
+   }
+  },
+  {
+   "node": {
+    "id": "57359091",
+    "title": "Hyundai Sonata 2019 en impecable color blanco. El sedán ideal si buscas confort superior, presencia ejecutiva y mecanica",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2019-en-impecable-color-blanco-el-sedan-ideal-si-buscas-confort-superior-presencia-ejecutiva-y-mecanica-57359091",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:57:22.435Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 87
+   }
+  },
+  {
+   "node": {
+    "id": "57359080",
+    "title": "Hyundai Elantra del año 2025 . Pocos kilómetros recorridos, este moderno sedán de diseño aerodinámico y deportivo",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-del-ano-2025-pocos-kilometros-recorridos-este-moderno-sedan-de-diseno-aerodinamico-y-deportivo-57359080",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:58:31.928Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 94
+   }
+  },
+  {
+   "node": {
+    "id": "57357693",
+    "title": "Marca Nissan 2024 Nuevo 0 kilometros  💵30 120usd",
+    "price": 30120,
+    "currency": "USD",
+    "permalink": "/item/marca-nissan-2024-nuevo-0-kilometros-30-120usd-57357693",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T17:33:30.589Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57357219",
+    "title": "Se vende Skoda 1962",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-skoda-1962-57357219",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-11T05:28:17.854Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57357196",
+    "title": "Vendo mi raly 2.0",
+    "price": 160,
+    "currency": "USD",
+    "permalink": "/item/vendo-mi-raly-20-57357196",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T05:24:41.320Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57356440",
+    "title": "Nissan Rogué 2016",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/nissan-rogue-2016-57356440",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-11T03:35:36.155Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "57356424",
+    "title": "CARRO HYUNDAI IONIQ 2024",
+    "price": 39,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-ioniq-2024-57356424",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T03:34:14.025Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57356339",
+    "title": "Nissan Paifander 2017",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/nissan-paifander-2017-57356339",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-11T03:27:58.262Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "57356008",
+    "title": "Cadillac escalade",
+    "price": 75,
+    "currency": "USD",
+    "permalink": "/item/cadillac-escalade-57356008",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T03:03:52.001Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "57356007",
+    "title": "Cadillac escalade",
+    "price": 75,
+    "currency": "USD",
+    "permalink": "/item/cadillac-escalade-57356007",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-11T03:03:51.494Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57355860",
+    "title": "Santa Fe del 17",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-del-17-57355860",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T02:55:23.041Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "57355831",
+    "title": "Palisade del 25",
+    "price": 45,
+    "currency": "USD",
+    "permalink": "/item/palisade-del-25-57355831",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-11T02:53:35.233Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57355768",
+    "title": "Palisade 2025 o 25",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/palisade-2025-o-25-57355768",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T02:50:08.051Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "57355766",
+    "title": "Palisade 2025 o 25",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/palisade-2025-o-25-57355766",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-11T02:50:07.063Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57354371",
+    "title": "⭕ 🇩🇪 PORSCHE MACAN S TÍTULO LIMPIO",
+    "price": 60000,
+    "currency": "USD",
+    "permalink": "/item/porsche-macan-s-titulo-limpio-57354371",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-11T01:09:27.857Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "57354269",
+    "title": "Moscovich original completo. Estado impecable",
+    "price": 5200,
+    "currency": "USD",
+    "permalink": "/item/moscovich-original-completo-estado-impecable-57354269",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-09T02:57:22.203Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 150
+   }
+  },
+  {
+   "node": {
+    "id": "57354050",
+    "title": "Ford transit del 2019",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/ford-transit-del-2019-57354050",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-11T00:42:33.263Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 114
+   }
+  },
+  {
+   "node": {
+    "id": "57353987",
+    "title": "NISSAN LEAF 2020 NEGRO mm2",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/nissan-leaf-2020-negro-mm2-57353987",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-11T00:36:32.048Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57353265",
+    "title": "Vendo Sandero Renault",
+    "price": 111111111111,
+    "currency": "USD",
+    "permalink": "/item/vendo-sandero-renault-57353265",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-10T23:45:04.340Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57352349",
+    "title": "Nissan Leaf 2020",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/nissan-leaf-2020-57352349",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-10T22:44:47.319Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57352009",
+    "title": "Nissan 2024  nuevo",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/nissan-2024-nuevo-57352009",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T02:56:42.174Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57351891",
+    "title": "Nissan 2024",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/nissan-2024-57351891",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T02:56:38.046Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57351217",
+    "title": "Vendo toyota yaris",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/vendo-toyota-yaris-57351217",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T20:10:07.119Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 299
+   }
+  },
+  {
+   "node": {
+    "id": "57350195",
+    "title": "Carro Electrico",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57350195",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-10T20:35:43.040Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57348594",
+    "title": "Carro Auto Infiniti Q50 3.0t 2019 Motor v6 twin turbo Asientos nuevos en piel  77k millas  Precio 29k usd pagar eb cuba",
+    "price": 29,
+    "currency": "USD",
+    "permalink": "/item/carro-auto-infiniti-q50-30t-2019-motor-v6-twin-turbo-asientos-nuevos-en-piel-77k-millas-precio-29k-usd-pagar-eb-cuba-57348594",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-15T22:48:48.347Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "57348153",
+    "title": "Toyota corola del 2018",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corola-del-2018-57348153",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-28T16:30:47.440Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 103
+   }
+  },
+  {
+   "node": {
+    "id": "57348048",
+    "title": "Infiniti Q50 3.0t 2019 Motor v6 twin turbo Asientos nuevos en piel  77k millas  Precio pagar eb cuba o EEUU",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/infiniti-q50-30t-2019-motor-v6-twin-turbo-asientos-nuevos-en-piel-77k-millas-precio-pagar-eb-cuba-o-eeuu-57348048",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-20T14:40:21.485Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57347574",
+    "title": "Honda civic del 2016",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/honda-civic-del-2016-57347574",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-28T16:30:49.452Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 88
+   }
+  },
+  {
+   "node": {
+    "id": "57347510",
+    "title": "LADA 2101 del 88 en venta",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/lada-2101-del-88-en-venta-57347510",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-29T13:21:07.550Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 173
+   }
+  },
+  {
+   "node": {
+    "id": "57347368",
+    "title": "Camioneta plataforma Chevrolet 48 en venta",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-plataforma-chevrolet-48-en-venta-57347368",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-17T16:59:14.668Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 257
+   }
+  },
+  {
+   "node": {
+    "id": "57347254",
+    "title": "Hyundai ioniq 5 full limited en venta",
+    "price": 44000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-full-limited-en-venta-57347254",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-17T16:59:14.631Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57345673",
+    "title": "HYUNDAI SANTA FE LIMITED 2021",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-limited-2021-57345673",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-10T17:27:34.230Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "57344835",
+    "title": "Se vende Hyundai IONIQ 5 DEL 2024",
+    "price": 39,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-ioniq-5-del-2024-57344835",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-10T16:50:03.703Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57344870",
+    "title": "🏎️ ¡A ESTRENAR EN LA HABANA! KIA PICANTO 2026 (EDICIÓN DEPORTIVA GT-LINE) 🏎️",
+    "price": 25500,
+    "currency": "USD",
+    "permalink": "/item/a-estrenar-en-la-habana-kia-picanto-2026-edicion-deportiva-gt-line-57344870",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-10T16:52:15.466Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57344869",
+    "title": "🏎️ ¡A ESTRENAR EN LA HABANA! KIA PICANTO 2026 (EDICIÓN DEPORTIVA GT-LINE) 🏎️",
+    "price": 25500,
+    "currency": "USD",
+    "permalink": "/item/a-estrenar-en-la-habana-kia-picanto-2026-edicion-deportiva-gt-line-57344869",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-10T16:52:14.630Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57344664",
+    "title": "Hyundai Elantra del 2019",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-del-2019-57344664",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-10T16:41:55.891Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 13
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

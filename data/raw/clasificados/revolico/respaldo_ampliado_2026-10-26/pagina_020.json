@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58039215",
+    "title": "Se vende Interesados al Privado",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-interesados-al-privado-58039215",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-10T18:34:41.635Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "58039117",
+    "title": "Se vende plymouth de 1951",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-plymouth-de-1951-58039117",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T23:52:26.382Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "17",
+    "viewCount": 105
+   }
+  },
+  {
+   "node": {
+    "id": "58038983",
+    "title": "Se venden estos camiones",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-venden-estos-camiones-58038983",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-10T18:21:03.747Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58038969",
+    "title": "En venta",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/en-venta-58038969",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-10T18:20:16.058Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58038882",
+    "title": "Se vende carro marca Hyundai del 2024 llamar al ☎️ 53577840",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-marca-hyundai-del-2024-llamar-al-53577840-58038882",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T16:32:21.404Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58038801",
+    "title": "Precio: •Sin Panel: 5900 usd •Panel: 6500usd",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/precio-sin-panel-5900-usd-panel-6500usd-58038801",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T14:25:04.794Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 44
+   }
+  },
+  {
+   "node": {
+    "id": "58036760",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-58036760",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T16:47:48.022Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 3
+   }
+  },
+  {
+   "node": {
+    "id": "58036108",
+    "title": "Freightliner Cascadia 2017",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/freightliner-cascadia-2017-58036108",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T12:40:02.341Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "58035916",
+    "title": "Kia rio 2021",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2021-58035916",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-10T16:09:48.726Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58035895",
+    "title": "Honda civic sport 2023",
+    "price": 27500,
+    "currency": "USD",
+    "permalink": "/item/honda-civic-sport-2023-58035895",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-10T16:09:02.710Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "58035400",
+    "title": "Carro eléctrico",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-58035400",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-10T15:54:09.170Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "58035252",
+    "title": "Ventas de purles en la habana",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/ventas-de-purles-en-la-habana-58035252",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T14:19:18.237Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "58035025",
+    "title": "Santa fe",
+    "price": 28,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-58035025",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T15:42:04.232Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "58034946",
+    "title": "VENDO O HAGO NEGOCIO POR CARRO MAS PEQUEÑO CON VUELTO.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-o-hago-negocio-por-carro-mas-pequeno-con-vuelto-58034946",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-25T15:09:22.298Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 71
+   }
+  },
+  {
+   "node": {
+    "id": "58034680",
+    "title": "Cadillac Escalade 2021",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/cadillac-escalade-2021-58034680",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T15:31:09.788Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "58034618",
+    "title": "Ventas de tanque de plástico en la habana",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/ventas-de-tanque-de-plastico-en-la-habana-58034618",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T14:17:08.866Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "58034590",
+    "title": "Moldura plateada",
+    "price": 20,
+    "currency": "USD",
+    "permalink": "/item/moldura-plateada-58034590",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-10T15:27:23.626Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 0
+   }
+  },
+  {
+   "node": {
+    "id": "58034554",
+    "title": "Mercedes G 63 V8 Biturbo 2021",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/mercedes-g-63-v8-biturbo-2021-58034554",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T17:06:28.829Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 62
+   }
+  },
+  {
+   "node": {
+    "id": "58034169",
+    "title": "GAC AION UT: MODERNO, ELÉCTRICO",
+    "price": 23300,
+    "currency": "USD",
+    "permalink": "/item/gac-aion-ut-moderno-electrico-58034169",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-10T15:09:45.796Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "58034074",
+    "title": "Vodga 24",
+    "price": 1111,
+    "currency": "USD",
+    "permalink": "/item/vodga-24-58034074",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-10T15:06:58.500Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 155
+   }
+  },
+  {
+   "node": {
+    "id": "58034056",
+    "title": "Solo venta 💲",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/solo-venta-58034056",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T15:06:21.937Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58034001",
+    "title": "Vendo",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/vendo-58034001",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-10T15:04:10.974Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 97
+   }
+  },
+  {
+   "node": {
+    "id": "58033961",
+    "title": "Lada 1600",
+    "price": 7200,
+    "currency": "USD",
+    "permalink": "/item/lada-1600-58033961",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T22:31:38.840Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 75
+   }
+  },
+  {
+   "node": {
+    "id": "58033933",
+    "title": "Sólo venta 💲",
+    "price": 31500,
+    "currency": "USD",
+    "permalink": "/item/solo-venta-58033933",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T15:02:02.896Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58031881",
+    "title": "Tucson 2023 sel",
+    "price": 27500,
+    "currency": "USD",
+    "permalink": "/item/tucson-2023-sel-58031881",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T12:42:49.506Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 71
+   }
+  },
+  {
+   "node": {
+    "id": "58031601",
+    "title": "Guagua del 2026 de combustión de 8 plazas",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/guagua-del-2026-de-combustion-de-8-plazas-58031601",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-10T13:52:55.577Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "58030122",
+    "title": "Camión for",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/camion-for-58030122",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-22T16:44:32.234Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58029654",
+    "title": "Camión",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/camion-58029654",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-22T16:44:31.246Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "58029389",
+    "title": "Sin foto Hyundai Palisade 2020 Tan solo 136mil millas , nave lista para rodar sin detalles Carro pa dueño 29,000 USD  ·",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/sin-foto-hyundai-palisade-2020-tan-solo-136mil-millas-nave-lista-para-rodar-sin-detalles-carro-pa-dueno-29000-usd-58029389",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-10T12:25:47.725Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58029362",
+    "title": "Hyundai Palisade 2020  Tan solo 136mil millas ,  nave lista para rodar sin detalles Carro pa dueño",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2020-tan-solo-136mil-millas-nave-lista-para-rodar-sin-detalles-carro-pa-dueno-58029362",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-10T12:24:21.577Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "58026046",
+    "title": "2022 Bmw 430 I convertible",
+    "price": 68000,
+    "currency": "USD",
+    "permalink": "/item/2022-bmw-430-i-convertible-58026046",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-17T04:36:01.588Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 240
+   }
+  },
+  {
+   "node": {
+    "id": "58024781",
+    "title": "SKODA OCTAVUA",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/skoda-octavua-58024781",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T05:37:48.447Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "58024626",
+    "title": "Grani10",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/grani10-58024626",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T03:04:45.689Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "58023470",
+    "title": "Busco buick para comprar",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/busco-buick-58023470",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-10T01:51:00.500Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "58023367",
+    "title": "Hyundai Santa Fe Calligraphy 🔥🔥",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-58023367",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T01:43:59.394Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58022573",
+    "title": "Carros",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-58022573",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-10T00:36:47.308Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 57
+   }
+  },
+  {
+   "node": {
+    "id": "58022199",
+    "title": "Se vende Hyundai Sonata 2021 motor 2.5 avión de carro",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-sonata-2021-motor-25-avion-de-carro-58022199",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T00:11:10.523Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "58020027",
+    "title": "Lada 1600 Motor 06 Sasa 52538860",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/lada-1600-motor-06-sasa-52538860-58020027",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-09T21:36:30.949Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 289
+   }
+  },
+  {
+   "node": {
+    "id": "58019368",
+    "title": "Tucson hibrido 2022 como nuevo hasta 20 km por litros esto viene con todos los periquitos techo de cristal con escotilla",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/tucson-hibrido-2022-como-nuevo-hasta-20-km-por-litros-esto-viene-con-todos-los-periquitos-techo-de-cristal-con-escotilla-58019368",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-09T20:58:38.093Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "58018711",
+    "title": "Carros modernos",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carros-modernos-58018711",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-09T20:27:01.755Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "58017664",
+    "title": "EN venta LADA 1600 Aire acondicionado",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-lada-1600-aire-acondicionado-58017664",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T16:46:30.266Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 210
+   }
+  },
+  {
+   "node": {
+    "id": "58017445",
+    "title": "Venta de Auto, venta de carros",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-de-auto-venta-de-carros-58017445",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-20T04:33:51.779Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "58016684",
+    "title": "VW ID4 Pro",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/vw-id4-pro-58016684",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T17:02:31.927Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58016655",
+    "title": "Volkswagen ID.4 Pro 2021",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-id4-pro-2021-58016655",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T17:02:40.232Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58016155",
+    "title": "Se vende Hyundai accent del 2012",
+    "price": 14000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-hyundai-accent-del-2012-58016155",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T13:31:58.086Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 94
+   }
+  },
+  {
+   "node": {
+    "id": "58016080",
+    "title": "Hyundai Elantra 2018  Sel Sedan 4D",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2018-sel-sedan-4d-58016080",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-09T18:15:01.793Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "58016046",
+    "title": "EXCLUSIVIDAD EN LA HABANA",
+    "price": 33400,
+    "currency": "USD",
+    "permalink": "/item/exclusividad-en-la-habana-58016046",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-09T18:13:35.818Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58014711",
+    "title": "Vendo Lada 1600",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-lada-1600-58014711",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-24T23:00:25.886Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "58014021",
+    "title": "Vendo auto Ford taunus",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/vendo-auto-ford-taunus-58014021",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-09T16:41:02.716Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 96
+   }
+  },
+  {
+   "node": {
+    "id": "58012240",
+    "title": "VW ID6 X Pro 2023 100% Electrico New..5mil km",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/vw-id6-2023-new-5mil-km-58012240",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T21:02:03.465Z",
+    "isPromoted": true,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 359
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

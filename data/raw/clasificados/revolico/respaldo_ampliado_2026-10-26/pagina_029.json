@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57843416",
+    "title": "🚘 HYUNDAI EN VENTA",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-en-venta-57843416",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T12:33:49.689Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57842900",
+    "title": "Kia Picanto 2019",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2019-57842900",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-24T09:54:42.618Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 185
+   }
+  },
+  {
+   "node": {
+    "id": "57841890",
+    "title": "Carros modernos",
+    "price": 37400,
+    "currency": "USD",
+    "permalink": "/item/carros-modernos-57841890",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-02T13:09:09.265Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57841664",
+    "title": "Honda Accord 2025 🔥",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-2025-57841664",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-02T13:00:35.552Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "57841021",
+    "title": "Moskvich 2140 funcionando al 100",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/moskvich-2140-funcionando-al-100-57841021",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-06T14:21:10.764Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57839997",
+    "title": "🚗 RENTA DE CARRO AUTOMÁTICO EN LA HABANA Hyundai i10 automático, con aire acondicionado 52418828",
+    "price": 50,
+    "currency": "USD",
+    "permalink": "/item/renta-de-carro-automatico-en-la-habana-hyundai-i10-automatico-con-aire-acondicionado-52418828-57839997",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-14T15:16:30.039Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "57839188",
+    "title": "Carro",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/carro-57839188",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T10:52:25.023Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "57838919",
+    "title": "Chevrolet Blazer K5 Cheyenne 79",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-blazer-k5-cheyenne-79-57838919",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-14T11:37:27.439Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 386
+   }
+  },
+  {
+   "node": {
+    "id": "57838579",
+    "title": "*Hyundai IONIQ 5 2024 ❤️*",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57838579",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-02T08:49:23.625Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57838453",
+    "title": "Kia Picanto 2017",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2017-57838453",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T08:08:34.943Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "57838102",
+    "title": "Nesecitas escatolina???  Servicio puntual seguro y a tu disposicion!!! 56084953",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/nesecitas-escatolina-servicio-puntual-seguro-y-a-tu-disposicion-56084953-57838102",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T22:09:36.033Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57838094",
+    "title": "HYUNDAI VENUE 2020 🚗",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-venue-2020-57838094",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-10T19:23:29.133Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "57837768",
+    "title": "Hyundai IONIQ 5 2024 ❤️",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57837768",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-02T05:52:52.243Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "57837430",
+    "title": "Hyundai híbrido",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-hibrido-57837430",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T15:17:52.000Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57837400",
+    "title": "♦️ _*BMW M5 2015",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-m5-2015-57837400",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-02T04:40:21.243Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57837253",
+    "title": "HYUNDAI SONATA 2015",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2015-57837253",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-02T04:09:45.223Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 54
+   }
+  },
+  {
+   "node": {
+    "id": "57837245",
+    "title": "BMW",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/bmw-57837245",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-02T04:09:06.606Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "57836951",
+    "title": "Vendo BMW serie 4 grand coupé soy el dueño WhatsApp 54212770",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/vendo-bmw-serie-4-grand-coupe-soy-el-dueno-whatsapp-54212770-57836951",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-02T03:38:41.415Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "30",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57836947",
+    "title": "Moskvich 2140",
+    "price": 6509,
+    "currency": "USD",
+    "permalink": "/item/moskvich-2140-57836947",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-02T03:38:30.338Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57836897",
+    "title": "Honda Accord SE DA CON EL TANQUE LLENO",
+    "price": 37900,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-57836897",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-22T00:00:46.564Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57836809",
+    "title": "Vendo BMW serie 4 grand coupé 2017 soy el dueño WhatsApp 54212770",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-bmw-serie-4-grand-coupe-2017-soy-el-dueno-whatsapp-54212770-57836809",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T03:27:45.313Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "30",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57836766",
+    "title": "Hyundai Palisadr 2025",
+    "price": 54000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisadr-2025-57836766",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-02T03:22:23.588Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57836459",
+    "title": "HYUNDAI i10 EN VENTA",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-i10-en-venta-57836459",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T03:00:52.268Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 88
+   }
+  },
+  {
+   "node": {
+    "id": "57836331",
+    "title": "NUEVO CARRO DISPONIBLE PARA TI🖤🚗",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/nuevo-carro-disponible-para-ti-57836331",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-02T02:53:05.511Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57836248",
+    "title": "Nissan Sentra",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/nissan-sentra-57836248",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T02:48:00.059Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57835991",
+    "title": "HYUNDAI 10 EN VENTA",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-10-en-venta-57835991",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T02:35:01.875Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "57835759",
+    "title": "*HYUNDAY SANTA FE* 2017",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/hyunday-santa-fe-2017-57835759",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T02:24:40.104Z",
+    "isPromoted": false,
+    "provinceId": "15",
+    "municipalityId": "154",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57835739",
+    "title": "CARRO DISPONIBLE 🚗🤩",
+    "price": 54000,
+    "currency": "USD",
+    "permalink": "/item/carro-disponible-57835739",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-02T02:23:41.847Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57835701",
+    "title": "Rastras 🚚",
+    "price": 66,
+    "currency": "USD",
+    "permalink": "/item/rastras-57835701",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T02:22:08.664Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57835408",
+    "title": "Hyundai SANTA FE",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-57835408",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:48:50.376Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57835214",
+    "title": "Hyundai Ionic 6",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ionic-6-57835214",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:48:54.599Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57835191",
+    "title": "Hyundai Santa Fe",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-57835191",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-12T01:10:03.788Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57834976",
+    "title": "Hyundai Santa Cruz",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-cruz-57834976",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:48:58.682Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "57834898",
+    "title": "Hyundai Tucson",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-57834898",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:49:02.603Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57834808",
+    "title": "Disponibles varios modelos de Hyundai",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/disponibles-varios-modelos-de-hyundai-57834808",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-21T01:18:23.692Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 123
+   }
+  },
+  {
+   "node": {
+    "id": "57834676",
+    "title": "Land Rover Range Sport 2017",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/land-rover-range-sport-2017-57834676",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:59:43.538Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "57834613",
+    "title": "🚨 HONDA ACCORD 2025 — 9.755 MILLAS 🚨",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-2025-9755-millas-57834613",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-02T01:24:13.555Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57834588",
+    "title": "🔥 CASI NUEVA: HYUNDAI PALISADE 2025 🔥",
+    "price": 54000,
+    "currency": "USD",
+    "permalink": "/item/casi-nueva-hyundai-palisade-2025-57834588",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-02T01:23:02.340Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57834562",
+    "title": "🚨 HYUNDAI SANTA FE CALLIGRAPHY — 2022 HÍBRIDA 🚨",
+    "price": 33500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2022-hibrida-57834562",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-02T01:21:46.228Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57834537",
+    "title": "🚨 2024 + 100% ELÉCTRICO + $38.000 USD 🚨",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/2024-100-electrico-38000-usd-57834537",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-02T01:20:43.354Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 6
+   }
+  },
+  {
+   "node": {
+    "id": "57834400",
+    "title": "BMW M5 2015",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/bmw-m5-2015-57834400",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-20T16:29:18.533Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "57834255",
+    "title": "*Honda Accord 2025 🔥* TODO DE CALIDAD",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-2025-todo-de-calidad-57834255",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-20T19:16:02.608Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 32
+   }
+  },
+  {
+   "node": {
+    "id": "57834094",
+    "title": "Hyundai Santa Fe 2017",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2017-57834094",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T16:49:06.909Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "57834067",
+    "title": "BESTUNE JOY 03 NITIDO🔥📢54006023",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/bestune-joy-03-nitido54006023-57834067",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-09T04:04:01.643Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57833940",
+    "title": "Auto en venta",
+    "price": 54000,
+    "currency": "USD",
+    "permalink": "/item/auto-en-venta-57833940",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-04T18:04:56.018Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57833777",
+    "title": "💥VENDO VW GOLF MK2 modelo GL (motor 1.8L) 💥",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/vendo-vw-golf-mk2-modelo-gl-motor-18l-57833777",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T00:36:08.904Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 77
+   }
+  },
+  {
+   "node": {
+    "id": "57833731",
+    "title": "BMW M5 2015",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/bmw-m5-2015-57833731",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-21T01:18:21.682Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 98
+   }
+  },
+  {
+   "node": {
+    "id": "57833555",
+    "title": "carro",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/carro-57833555",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-18T21:51:15.768Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57833291",
+    "title": "Honda Acord 2025",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/honda-acord-2025-57833291",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-02T00:11:20.590Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57833168",
+    "title": "BMW",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/bmw-57833168",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-02T00:02:58.636Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 60
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

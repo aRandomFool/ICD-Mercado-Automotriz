@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57006986",
+    "title": "Toyotas Cross, Corolla y Rav4 News del 2025",
+    "price": 24997,
+    "currency": "USD",
+    "permalink": "/item/toyotas-cross-corolla-y-rav4-news-del-2025-57006986",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T08:15:37.281Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 139
+   }
+  },
+  {
+   "node": {
+    "id": "57005697",
+    "title": "🚘🔥 CHEVROLET COLORADO Z71 2022 🔥🚘",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-z71-2022-57005697",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-22T01:26:20.776Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "57002702",
+    "title": "Hidrogrua de LADA",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hidrogrua-de-lada-57002702",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T02:16:56.948Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "57000284",
+    "title": "Honda Pilot 2023",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/honda-pilot-2033-57000284",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T19:46:36.895Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 238
+   }
+  },
+  {
+   "node": {
+    "id": "56988187",
+    "title": "Carro Eléctrico Hyundai IONIQ",
+    "price": 41700,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-ioniq-56988187",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-27T11:59:55.699Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "56988169",
+    "title": "Auto Hyundai Elantra 2019",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/auto-hyundai-elantra-2019-56988169",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-08-27T11:45:39.081Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "56987236",
+    "title": "Camión lanza cohete 4200",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/camion-lanza-cohete-4200-56987236",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-14T06:10:12.994Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "56986480",
+    "title": "Cherry Tigo 4 del 2023 leer",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/cherry-tigo-4-del-2023-leer-56986480",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-18T02:39:25.324Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 104
+   }
+  },
+  {
+   "node": {
+    "id": "56986170",
+    "title": "Mercedes C200 del 2019",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/mercedes-c200-del-2019-56986170",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-21T06:06:44.142Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 106
+   }
+  },
+  {
+   "node": {
+    "id": "56983964",
+    "title": "Toyota corola 2022 LE  34mil millas reales",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corola-2022-le-34mil-millas-reales-56983964",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-15T19:31:53.454Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 120
+   }
+  },
+  {
+   "node": {
+    "id": "56981831",
+    "title": "Hyundai sonata 2018 todo los papeles en regla listo para traspaso",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2018-todo-los-papeles-en-regla-listo-para-traspaso-56981831",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-16T20:59:59.114Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "20",
+    "viewCount": 138
+   }
+  },
+  {
+   "node": {
+    "id": "56980926",
+    "title": "AUDI RSQ8 ABT- MERCEDES/BMW KILLER",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/audi-rsq8-abt-56980926",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T22:02:04.512Z",
+    "isPromoted": true,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 1473
+   }
+  },
+  {
+   "node": {
+    "id": "56978495",
+    "title": "Se vende Toyota Sienna",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-toyota-sienna-56978495",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-08-30T17:37:09.190Z",
+    "isPromoted": false,
+    "provinceId": "10",
+    "municipalityId": "98",
+    "viewCount": 55
+   }
+  },
+  {
+   "node": {
+    "id": "56976294",
+    "title": "DAEWOO TICO AZUL EN LA HABANA – $8.500 USD",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/daewoo-tico-azul-en-la-habana-8500-usd-56976294",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-11T14:52:27.684Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 377
+   }
+  },
+  {
+   "node": {
+    "id": "56973695",
+    "title": "Carro eléctrico ⚡️",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-56973695",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-02T12:51:00.590Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 443
+   }
+  },
+  {
+   "node": {
+    "id": "56970240",
+    "title": "Carro Eléctrico Hyundai IONIQ 5 2024",
+    "price": 35500,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-ioniq-5-2024-56970240",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-15T19:00:11.142Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "56970145",
+    "title": "AUTOS MODERNOS",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/autos-modernos-56970145",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T18:09:05.211Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 242
+   }
+  },
+  {
+   "node": {
+    "id": "56966615",
+    "title": "Lamborghini calida",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/lamborghini-calida-56966615",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-20T12:30:59.948Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "56965863",
+    "title": "Kia picanto bin 2014 ala venta",
+    "price": 12500,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-bin-2014-ala-venta-56965863",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-21T04:35:37.986Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 262
+   }
+  },
+  {
+   "node": {
+    "id": "56965724",
+    "title": "BMW 525i e60 año 2010 carro",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/bmw-525i-e60-ano-2010-carro-56965724",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-13T15:21:21.290Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 135
+   }
+  },
+  {
+   "node": {
+    "id": "56958901",
+    "title": "Toyota Cressida GL",
+    "price": 9500,
+    "currency": "USD",
+    "permalink": "/item/toyota-cressida-gl-56958901",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-10T21:13:38.444Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 358
+   }
+  },
+  {
+   "node": {
+    "id": "56958525",
+    "title": "Hyundai Elantra 2019",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-56958525",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-06T15:02:31.679Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 25
+   }
+  },
+  {
+   "node": {
+    "id": "56952387",
+    "title": "Toyotas en venta Corolla Rav4 y Cross",
+    "price": 24997,
+    "currency": "USD",
+    "permalink": "/item/toyotas-en-venta-corolla-rav4-y-cross-56952387",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T08:15:38.244Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 150
+   }
+  },
+  {
+   "node": {
+    "id": "56951815",
+    "title": "Forthing V5 Eléctrico de pasajeros y de carga",
+    "price": 29791,
+    "currency": "USD",
+    "permalink": "/item/forthing-v5-electrico-de-pasajeros-y-de-carga-56951815",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-22T11:35:14.188Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "56951781",
+    "title": "Toyota Corolla New modelo 2025 y Otros Rav4",
+    "price": 24997,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-new-modelo-2025-y-otros-rav4-56951781",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T08:15:33.262Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 231
+   }
+  },
+  {
+   "node": {
+    "id": "56951769",
+    "title": "Toyota Corolla New modelo 2025 Rav4 Cross",
+    "price": 24997,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-new-modelo-2025-rav4-cross-56951769",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-22T11:35:12.209Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "47",
+    "viewCount": 162
+   }
+  },
+  {
+   "node": {
+    "id": "56950959",
+    "title": "🚘 HYUNDAI  ELANTRA 2019.",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-56950959",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-02T02:34:57.541Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "56949540",
+    "title": "vendo en 1000usd",
+    "price": 1000,
+    "currency": "USD",
+    "permalink": "/item/vendo-en-1000usd-56949540",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T16:18:58.577Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 312
+   }
+  },
+  {
+   "node": {
+    "id": "56945172",
+    "title": "Fiat 125 con mecánica y motor de Fiat, papeles en regla, soy la dueña",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/fiat-125-con-mecanica-de-lada-y-motor-de-fiat-papeles-en-regla-me-ajusto-con-dinero-en-mano-56945172",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-05T18:49:50.197Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 292
+   }
+  },
+  {
+   "node": {
+    "id": "56944839",
+    "title": "loniq 6. Full Limited. 2024 disponible",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/loniq-6-full-limited-2024-disponible-56944839",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-14T22:55:23.938Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 71
+   }
+  },
+  {
+   "node": {
+    "id": "56943175",
+    "title": "CARRO ELÉCTRICO",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-56943175",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-12T14:56:40.565Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "56943063",
+    "title": "CARROS EN OFERTA",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/carros-en-oferta-56943063",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-12T14:56:39.353Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 177
+   }
+  },
+  {
+   "node": {
+    "id": "56938665",
+    "title": "Ventas de autos",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/ventas-de-autos-56938665",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-10T15:31:19.800Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "47",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "56931238",
+    "title": "DONGFENG AEOLUS SHINE EN VENTA",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-aeolus-shine-en-venta-56931238",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-20T11:22:04.040Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 173
+   }
+  },
+  {
+   "node": {
+    "id": "56929296",
+    "title": "🔥 LAND ROVER 2017 TURBO DIESEL — ¡UNA BESTIA PREMIUM! 🔥",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/land-rover-2017-turbo-diesel-una-bestia-premium-56929296",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T17:30:49.527Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 181
+   }
+  },
+  {
+   "node": {
+    "id": "56926284",
+    "title": "Ford del 56 Petroleo",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/ford-del-56-petroleo-56926284",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-22T20:51:55.495Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 163
+   }
+  },
+  {
+   "node": {
+    "id": "56925837",
+    "title": "Hyundai sonata se 2018",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-se-2018-56925837",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T17:18:09.690Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 62
+   }
+  },
+  {
+   "node": {
+    "id": "56923122",
+    "title": "Auto DONGFENG AEOLUS SHINE EN VENTA",
+    "price": 28600,
+    "currency": "USD",
+    "permalink": "/item/auto-dongfeng-aeolus-shine-en-venta-56923122",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-09T15:04:12.422Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "56919417",
+    "title": "TOYOTA C-HR 2018",
+    "price": 30500,
+    "currency": "USD",
+    "permalink": "/item/toyota-c-hr-2018-56919417",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-28T14:25:45.230Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "19",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "56919207",
+    "title": "Kia Rio 2019 🔥 Millas: 86.000",
+    "price": 18800,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-millas-86000-56919207",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-25T13:29:40.821Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "56919176",
+    "title": "Carro Eléctrico ⚡️  Hyundai IONIQ 5 2024 🔥",
+    "price": 41800,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-ioniq-5-2024-56919176",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-25T13:29:41.021Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "56915567",
+    "title": "Tenemos muchos en almacén hay que empezar a vaciar  💪🏽🫵🏽",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/tenemos-muchos-en-almacen-hay-que-empezar-a-vaciar-56915567",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-17T23:37:31.007Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "56915430",
+    "title": "🚗 AUDI E-TRON GT 2023 – ELÉCTRICO DE LUJO",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/audi-e-tron-gt-2023-electrico-de-lujo-56915430",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T22:17:08.298Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 179
+   }
+  },
+  {
+   "node": {
+    "id": "56913494",
+    "title": "🔥 HYUNDAI GENESIS G70 2023 — LUJO, POTENCIA Y DEPORTIVIDAD 🔥",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-genesis-g70-2023-lujo-potencia-y-deportividad-56913494",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T02:59:58.096Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 174
+   }
+  },
+  {
+   "node": {
+    "id": "56909440",
+    "title": "Carro eléctrico.",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-56909440",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-26T16:22:43.057Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 106
+   }
+  },
+  {
+   "node": {
+    "id": "56907641",
+    "title": "AUDI E-TRON GT 2023 – ELÉCTRICO DE LUJO",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/audi-e-tron-gt-2023-electrico-de-lujo-56907641",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T13:09:54.384Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 204
+   }
+  },
+  {
+   "node": {
+    "id": "56904521",
+    "title": "Hyundai Elandra 2019",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elandra-2019-56904521",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-06T11:34:02.011Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "56903271",
+    "title": "KIA SELTOS 2025",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/kia-seltos-2025-56903271",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-27T05:07:41.606Z",
+    "isPromoted": false,
+    "provinceId": "11",
+    "municipalityId": "101",
+    "viewCount": 153
+   }
+  },
+  {
+   "node": {
+    "id": "56899406",
+    "title": "Toyota Corolla 2018",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2018-56899406",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T17:30:46.322Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 87
+   }
+  },
+  {
+   "node": {
+    "id": "56897548",
+    "title": "HYUNDAI KONA 2024",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-kona-2024-56897548",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-28T14:22:34.721Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 53
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

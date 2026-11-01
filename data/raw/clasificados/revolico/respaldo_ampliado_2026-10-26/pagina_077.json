@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "53777873",
+    "title": "Lo que busca",
+    "price": 2,
+    "currency": "USD",
+    "permalink": "/item/lo-que-busca-53777873",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T13:44:59.389Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "53777865",
+    "title": "Lo mejor",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/lo-mejor-53777865",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T13:45:10.304Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "53777819",
+    "title": "El viaje q necesita",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/el-viaje-q-necesita-53777819",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T13:42:16.182Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "53777554",
+    "title": "🚘🚖 Transporte para tus Mercancías, Mudanza y Materiales de la construcción 🚘🚖",
+    "price": 1,
+    "currency": "CUP",
+    "permalink": "/item/transporte-para-tus-mercancias-mudanza-y-materiales-de-la-construccion-53777554",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T11:33:08.808Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 239
+   }
+  },
+  {
+   "node": {
+    "id": "53774467",
+    "title": "Vendo SEAT Toledo año 91.",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/vendo-seat-toledo-ano-91-53774467",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T00:05:06.922Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 1250
+   }
+  },
+  {
+   "node": {
+    "id": "53763784",
+    "title": "El mejor servicio",
+    "price": 2,
+    "currency": "USD",
+    "permalink": "/item/el-mejor-servicio-53763784",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T14:20:33.167Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "53693529",
+    "title": "Venta SM3 muy bueno",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/venta-sm3-muy-bueno-53693529",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-03T15:24:50.754Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 955
+   }
+  },
+  {
+   "node": {
+    "id": "53629426",
+    "title": "Luces de ojos del diablo para coches",
+    "price": 15,
+    "currency": "USD",
+    "permalink": "/item/luces-de-ojos-del-diablo-para-coches-53629426",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T14:40:30.552Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 218
+   }
+  },
+  {
+   "node": {
+    "id": "53612430",
+    "title": "Vendo o hago negocio Pontiac 1958",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-hago-negocio-pontiac-1958-53612430",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T14:48:24.988Z",
+    "isPromoted": false,
+    "provinceId": "16",
+    "municipalityId": "161",
+    "viewCount": 3796
+   }
+  },
+  {
+   "node": {
+    "id": "53602370",
+    "title": "Luces autos",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/luces-autos-53602370",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-17T17:30:09.161Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 74
+   }
+  },
+  {
+   "node": {
+    "id": "53602360",
+    "title": "Luces moto carro bici",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/luces-moto-carro-bici-53602360",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-17T17:28:54.540Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 114
+   }
+  },
+  {
+   "node": {
+    "id": "53600572",
+    "title": "La mejor agencia",
+    "price": 2,
+    "currency": "USD",
+    "permalink": "/item/la-mejor-agencia-53600572",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T13:46:49.836Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "53590734",
+    "title": "Venta de Kia Sportage XLine",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/venta-de-kia-sportage-53590734",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-18T15:18:32.959Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 314
+   }
+  },
+  {
+   "node": {
+    "id": "53587812",
+    "title": "Vendo o negocio Hyundai accen 2009 automatico",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-accen-2009-automatico-53587812",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-20T18:36:05.809Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 683
+   }
+  },
+  {
+   "node": {
+    "id": "53586807",
+    "title": "Vendo negocio, Hyundai Tucson, 2021 muy bueno",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-hyundai-tucson-2021-muy-bueno-53586807",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-17T13:12:12.760Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 327
+   }
+  },
+  {
+   "node": {
+    "id": "53555145",
+    "title": "VENDO O HAGO NEGOCIO",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/especial-para-transporte-y-carga-53555145",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T15:10:06.104Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 1073
+   }
+  },
+  {
+   "node": {
+    "id": "53548090",
+    "title": "Vendo o negocio, Hyundai Santa Fe, Full límite 2024",
+    "price": 41000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-full-limite-2024-53548090",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T18:38:10.706Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 320
+   }
+  },
+  {
+   "node": {
+    "id": "53543543",
+    "title": "Las 24 horas a toda cuba",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/las-24-horas-a-toda-cuba-53543543",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T14:22:00.195Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 82
+   }
+  },
+  {
+   "node": {
+    "id": "53525076",
+    "title": "Tu mejor viaje",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/tu-mejor-viaje-53525076",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T13:41:04.353Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "53524104",
+    "title": "TransLago",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/translago-53524104",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T12:11:19.022Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "28",
+    "viewCount": 171
+   }
+  },
+  {
+   "node": {
+    "id": "53518233",
+    "title": "Hyunday Palisade full límite 2022 al detalle.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyunday-palisade-full-limite-2022-al-detalle-53518233",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T22:13:01.881Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 497
+   }
+  },
+  {
+   "node": {
+    "id": "53479849",
+    "title": "🔈 Precio Ajustable ‼️EN VENTA MAZDA CX-5 CARBON EDITION 2024",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-mazda-cx-5-carbon-edition-2024-53479849",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T15:22:18.325Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 484
+   }
+  },
+  {
+   "node": {
+    "id": "53458013",
+    "title": "Sensor de posición para parqueo en garaje o carporch. Nuevo",
+    "price": 30,
+    "currency": "USD",
+    "permalink": "/item/sensor-de-posicion-para-parqueo-nuevo-53458013",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T15:37:17.968Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 139
+   }
+  },
+  {
+   "node": {
+    "id": "53457080",
+    "title": "toyota frontones 2024 nuevo",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/toyota-frontlander-53457080",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-01T14:12:06.167Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 473
+   }
+  },
+  {
+   "node": {
+    "id": "53450317",
+    "title": "Vendo o negocio, Hyundai Tucson, 2023 con 70,000 km",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-tucson-2023-con-70000-km-53450317",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-17T12:56:02.080Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 305
+   }
+  },
+  {
+   "node": {
+    "id": "53370529",
+    "title": "VENDO DFSK GLORY 500 M3 AÑO 2025",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/vendo-dfsk-glory-500-m3-ano-2025-53370529",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T15:48:42.245Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 339
+   }
+  },
+  {
+   "node": {
+    "id": "53346593",
+    "title": "Camioneta Automática 4x4 del 2025 - NUEVA (Menos de 500 millas)",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/vendo-pickup-changan-0km-nuevo-de-fabrica-53346593",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-24T23:17:17.845Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 2542
+   }
+  },
+  {
+   "node": {
+    "id": "53331757",
+    "title": "A tu disposición",
+    "price": 2,
+    "currency": "USD",
+    "permalink": "/item/a-tu-disposicion-53331757",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-30T14:20:49.595Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "53327388",
+    "title": "Nissan rogue 2018",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/nissan-rogue-2018-53327388",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-19T13:07:11.034Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 349
+   }
+  },
+  {
+   "node": {
+    "id": "53321844",
+    "title": "Consola de 2107 LADA",
+    "price": 120,
+    "currency": "USD",
+    "permalink": "/item/consola-de-2107-lada-53321844",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T13:05:31.949Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 100
+   }
+  },
+  {
+   "node": {
+    "id": "53302116",
+    "title": "Vendo negocios, Hyundai Palisade, 2020 básico",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocios-hyundai-palisade-2020-basico-53302116",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-11T16:44:52.635Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 477
+   }
+  },
+  {
+   "node": {
+    "id": "53292294",
+    "title": "Santa fe 2019",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-2019-53292294",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-19T13:19:11.847Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 175
+   }
+  },
+  {
+   "node": {
+    "id": "53292251",
+    "title": "Hyundai santa fe 2017",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2017-53292251",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T15:33:07.953Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 133
+   }
+  },
+  {
+   "node": {
+    "id": "53292158",
+    "title": "Hyundai Santa Fe  2025",
+    "price": 43000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2025-53292158",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T15:29:40.290Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 376
+   }
+  },
+  {
+   "node": {
+    "id": "53292099",
+    "title": "Bestune T55",
+    "price": 25500,
+    "currency": "USD",
+    "permalink": "/item/bestune-t55-53292099",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:29:32.594Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 552
+   }
+  },
+  {
+   "node": {
+    "id": "53272962",
+    "title": "Foton diésel 19 plazas",
+    "price": 56000,
+    "currency": "USD",
+    "permalink": "/item/foton-diesel-19-plazas-53272962",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T12:35:04.958Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 876
+   }
+  },
+  {
+   "node": {
+    "id": "53252261",
+    "title": "Vendo o negocios Hyundai Santa Fe, 2024 límite con 5000 millas solamente",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocios-hyundai-santa-fe-2024-limite-con-5000-millas-solamente-53252261",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-19T23:43:29.591Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 452
+   }
+  },
+  {
+   "node": {
+    "id": "53246233",
+    "title": "Vendo o negocio Kia, Río, 2019",
+    "price": 16500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-kia-rio-2019-53246233",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-11T14:28:29.143Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 683
+   }
+  },
+  {
+   "node": {
+    "id": "53234459",
+    "title": "Fiat gran punto 2008 diésel",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/fiat-gran-punto-2008-diesel-53234459",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T12:35:05.756Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 1027
+   }
+  },
+  {
+   "node": {
+    "id": "53227210",
+    "title": "Vendo o Negocio Hyundai Santa Fe, 2019 límite motor 2.0 con turb0",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-2019-limite-motor-20-con-turbo-53227210",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-19T23:47:23.242Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 441
+   }
+  },
+  {
+   "node": {
+    "id": "53222973",
+    "title": "Seguridad y rapidez",
+    "price": 3,
+    "currency": "USD",
+    "permalink": "/item/seguridad-y-rapidez-53222973",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T13:47:07.409Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 164
+   }
+  },
+  {
+   "node": {
+    "id": "53214163",
+    "title": "24 horas a tu disposición",
+    "price": 3,
+    "currency": "USD",
+    "permalink": "/item/24-horas-a-tu-disposicion-53214163",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T13:40:41.853Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 136
+   }
+  },
+  {
+   "node": {
+    "id": "53206414",
+    "title": "Hyundai gezt 2009 automático",
+    "price": 12500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-gezt-2009-automatico-53206414",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T13:07:11.151Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 604
+   }
+  },
+  {
+   "node": {
+    "id": "53205499",
+    "title": "Servicio con garantía",
+    "price": 2,
+    "currency": "USD",
+    "permalink": "/item/servicio-con-garantia-53205499",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-11T13:43:28.265Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 111
+   }
+  },
+  {
+   "node": {
+    "id": "53175636",
+    "title": "GPS Tracker con alarma para autos y motos – Antirrobo",
+    "price": 50,
+    "currency": "USD",
+    "permalink": "/item/gps-tracker-con-alarma-para-autos-y-motos-antirrobo-53175636",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:12:27.807Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 260
+   }
+  },
+  {
+   "node": {
+    "id": "53170773",
+    "title": "GMC Sierra Elevation 4X4 2021. Gasolina, cama larga",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/gmc-sierra-elevation-4x4-2021-gasolina-cama-larga-53170773",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T22:14:39.573Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 833
+   }
+  },
+  {
+   "node": {
+    "id": "53157662",
+    "title": "GOMAS DE TRICICLOS A BALON 12POR400 NUEVAS A ESTRENAR CON SUS CAMARAS ,,,CONTORNOS REDONDOS O CUADRADOS🛒📱🛒📱🛒📱🛒",
+    "price": 45,
+    "currency": "USD",
+    "permalink": "/item/gomas-de-triciclos-a-balon-12por400-nuevas-a-estrenar-con-sus-camaras-contornos-redondos-o-cuadrados-53157662",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-16T04:24:07.098Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 118
+   }
+  },
+  {
+   "node": {
+    "id": "53156748",
+    "title": "Vendo o negocio Hyundai Palisades 2020 caligrafhy",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-palisades-2020-caligrafia-53156748",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T18:36:32.570Z",
+    "isPromoted": false,
+    "provinceId": "7",
+    "municipalityId": "64",
+    "viewCount": 651
+   }
+  },
+  {
+   "node": {
+    "id": "53155977",
+    "title": "Vendo o negocio Kia Río, 2019 pintura de fábrica muy bueno el carro",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-kia-rio-2019-pintura-de-fabrica-muy-bueno-el-carro-53155977",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T18:35:57.403Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 1191
+   }
+  },
+  {
+   "node": {
+    "id": "53149702",
+    "title": "Vendo o negocio, Hyundai Santa Fe, 2024 caligrafyh",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-2024-caligrafia-53149702",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-20T18:37:40.257Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 365
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

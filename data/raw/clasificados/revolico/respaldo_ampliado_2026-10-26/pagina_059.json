@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57150095",
+    "title": "Cadillac Escalade versión Platinum del año 2020 por un precio insuperable .Este majestuoso vehículo de alta gama",
+    "price": 70000,
+    "currency": "USD",
+    "permalink": "/item/cadillac-escalade-version-platinum-del-ano-2020-por-un-precio-insuperable-este-majestuoso-vehiculo-de-alta-gama-57150095",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:56:13.605Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 144
+   }
+  },
+  {
+   "node": {
+    "id": "57149669",
+    "title": "TOYOTA TUNDRA 2021 SR5 — DEALERDIGITAL 🚨",
+    "price": 55000,
+    "currency": "USD",
+    "permalink": "/item/toyota-tundra-2021-sr5-dealerdigital-57149669",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-01T22:03:52.134Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 130
+   }
+  },
+  {
+   "node": {
+    "id": "57149651",
+    "title": "🚘 TOYOTA TUNDRA SR05 Versión deportiva TRD 4x4.",
+    "price": 65000,
+    "currency": "USD",
+    "permalink": "/item/toyota-tundra-sr05-version-deportiva-trd-4x4-57149651",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-01T22:02:13.499Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57149604",
+    "title": "🚘 TOYOTA TUNDRA SR5 2019 | EN VENTA Color: ROJO",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/toyota-tundra-sr5-2019-en-venta-color-rojo-57149604",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-01T21:58:22.534Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 51
+   }
+  },
+  {
+   "node": {
+    "id": "57148544",
+    "title": "motor 1.9 de petroleo es vw",
+    "price": 10500,
+    "currency": "USD",
+    "permalink": "/item/motor-19-de-petroleo-es-vw-57148544",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-01T20:51:48.258Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "52",
+    "viewCount": 163
+   }
+  },
+  {
+   "node": {
+    "id": "57148080",
+    "title": "Hyundai IONIQ 5 2024: El futuro ya está aquí",
+    "price": 4100,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-el-futuro-ya-esta-aqui-57148080",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-15T00:11:35.691Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 206
+   }
+  },
+  {
+   "node": {
+    "id": "57146885",
+    "title": "Se vende Mosckovich 2140, motor de Lada. Único dueño. Interesados comunicarse con Idalia.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-mosckovich-2140-motor-de-lada-unico-dueno-interesados-comunicarse-con-idalia-57146885",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-01T19:20:14.926Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 194
+   }
+  },
+  {
+   "node": {
+    "id": "57146883",
+    "title": "Se vende Mosckovich 2140, motor de Lada. Único dueño. Interesados comunicarse con Idalia.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-mosckovich-2140-motor-de-lada-unico-dueno-interesados-comunicarse-con-idalia-57146883",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-01T19:20:13.173Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "57146750",
+    "title": "Chevrolet 56",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-56-57146750",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-14T17:07:33.569Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 1186
+   }
+  },
+  {
+   "node": {
+    "id": "57146395",
+    "title": "Moskvich 2140",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/moskvich-2140-57146395",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T19:11:02.499Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57145932",
+    "title": "🚨 AUTOMÓVIL ELÉCTRICO VOLKSWAGEN O HYUNDAI 🇨🇺👌",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/automovil-electrico-volkswagen-o-hyundai-57145932",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-01T18:39:59.649Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57144974",
+    "title": "*🔥 Hyundai Elantra 2019* ⛽️ Gasolina 🔆 60,704 millas 💰 $22,000 USD 📍 Arroyo Naranjo, Reparto Capri  ✨ Cómodo, modern",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-gasolina-60704-millas-21000-usd-arroyo-naranjo-reparto-capri-comodo-modern-57144974",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-26T15:28:33.679Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "57144930",
+    "title": "*⚡️ Hyundai IONIQ 5 2024 🔥* 🔋 100% Eléctrico 🛣️ Hasta 488 km por carga 🔆 50,000 millas 💰 $42.000USD 📍 Arroyo Naran",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-hasta-488-km-por-carga-50000-millas-40500usd-arroyo-naran-57144930",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-24T21:11:15.215Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "57141501",
+    "title": "Hyundai Ioniq 6 2024 Limited (Eléctrico)...add",
+    "price": 44000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-6-2024-limited-electrico-57141501",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T01:04:08.460Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57141424",
+    "title": "Nissan titan 2017....add",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/nissan-titan-2017add-57141424",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-21T19:34:42.307Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 151
+   }
+  },
+  {
+   "node": {
+    "id": "57141317",
+    "title": "⚜️Hyundai Elantra 2023⚜️",
+    "price": 29500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2023-57141317",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-01T14:47:27.389Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "57141312",
+    "title": "Vendo buick",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/vendo-buick-57141312",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-01T14:47:22.994Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "57141000",
+    "title": "Hyundai IONIQ 5 2024.",
+    "price": 40500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57141000",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-01T14:35:49.976Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57140964",
+    "title": "⚜️Vendo Hyundai Elantra 2019⚜️",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-hyundai-elantra-2019-57140964",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-04T16:22:03.549Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57140952",
+    "title": "⚜️Hyundai Elantra 2019⚜️",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-57140952",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-01T14:33:05.718Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57140342",
+    "title": "Vendo Hyundai Elantra 2023",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-hyundai-elantra-2023-57140342",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-04T16:23:00.249Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57140255",
+    "title": "Vendo carro eléctrico Hyundai IONIQ5 2024",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-carro-electrico-hyundai-ioniq5-2024-57140255",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-04T16:23:48.659Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "57138815",
+    "title": "100 % electrico 450 km por carga",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/100-electrico-450-km-por-carga-57138815",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-01T12:44:17.548Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "33",
+    "viewCount": 57
+   }
+  },
+  {
+   "node": {
+    "id": "57137974",
+    "title": "HYUNDAI SANTA FE 2023",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2023-57137974",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-01T11:28:46.032Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 96
+   }
+  },
+  {
+   "node": {
+    "id": "57137603",
+    "title": "Venta",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/venta-57137603",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-01T10:42:48.197Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 581
+   }
+  },
+  {
+   "node": {
+    "id": "57137243",
+    "title": "Todo geelyck",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/todo-geelyck-57137243",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-13T18:43:06.024Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57137001",
+    "title": "4200usd Vendo Camioneta  auto Packard 1949. Motor gaz 53 V8 gasolina ,caja giron Pinzas de frenos en las 4 ruedas.",
+    "price": 4200,
+    "currency": "USD",
+    "permalink": "/item/4500usd-camioneta-auto-packard-1949-motor-gaz-53-v8-gasolina-caja-giron-pinzas-de-frenos-en-las-4-ruedascirculacion-57137001",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T15:13:20.066Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 572
+   }
+  },
+  {
+   "node": {
+    "id": "57136415",
+    "title": "Se vende Skoda octavia",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-skoda-octavia-57136415",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-01T06:00:09.599Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "57135511",
+    "title": "Kia picanto 2026 0km más accesorio",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2026-0km-mas-accesorio-57135511",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-01T03:39:22.982Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 131
+   }
+  },
+  {
+   "node": {
+    "id": "57135452",
+    "title": "Aleko en venta",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/aleko-en-venta-57135452",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-01T03:36:25.687Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 105
+   }
+  },
+  {
+   "node": {
+    "id": "57134755",
+    "title": "CAMBIO X AUTOMÁTICA Y VUELTO",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/cambio-x-automatica-y-vuelto-57134755",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-01T02:39:15.835Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 191
+   }
+  },
+  {
+   "node": {
+    "id": "57134346",
+    "title": "Toyota Corolla Cross y Rav4 News modelo del 2025",
+    "price": 24997,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-cross-y-rav4-news-modelo-del-2025-57134346",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T08:15:36.253Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "57133815",
+    "title": "Maxus g10 2023",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/maxus-g10-2023-57133815",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-01T01:26:39.739Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57133800",
+    "title": "Microbús Dongfeng Forthing M3 de 11 plazas",
+    "price": 24788,
+    "currency": "USD",
+    "permalink": "/item/microbus-dongfeng-forthing-m3-de-11-plazas-57133800",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-09T01:38:31.668Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 92
+   }
+  },
+  {
+   "node": {
+    "id": "57133659",
+    "title": "〽️REBAJAS: PRECIO SIN EXTENSOR 4050 USD   PRECIO CON ESTENSOR 4350 USD",
+    "price": 4050,
+    "currency": "USD",
+    "permalink": "/item/rebajas-precio-sin-extensor-4050-usd-precio-con-estensor-4350-usd-57133659",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-01T01:15:41.081Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57133517",
+    "title": "Hyundai Tucson 2018 Límite",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2018-limite-57133517",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-01T01:04:50.294Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "57132865",
+    "title": "Se vende lada 1600 soy el dueño.",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-1600-soy-el-dueno-57132865",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-01T00:02:55.574Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 178
+   }
+  },
+  {
+   "node": {
+    "id": "57132813",
+    "title": "Benta de peujot ,turno ,carrocería y motor con documentos para armar por partes y piezas.",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/benta-de-peujot-turno-carroceria-y-motor-con-documentos-para-armar-por-partes-y-piezas-57132813",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-31T23:59:02.085Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 111
+   }
+  },
+  {
+   "node": {
+    "id": "57132214",
+    "title": "Chevrolet 52",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-52-57132214",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-13T20:10:38.422Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 534
+   }
+  },
+  {
+   "node": {
+    "id": "57132127",
+    "title": "Se vende polaco",
+    "price": 2800,
+    "currency": "USD",
+    "permalink": "/item/se-vende-polaco-57132127",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-31T23:14:01.578Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57132027",
+    "title": "Benta de turno,carrocería y motor con documentos para armar por partes y piezas",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/benta-de-turnocarroceria-y-motor-con-documentos-para-armar-por-partes-y-piezas-57132027",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-08-31T23:05:19.555Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 92
+   }
+  },
+  {
+   "node": {
+    "id": "57131129",
+    "title": "Kia Rio 2019",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-57131129",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-08-31T21:53:41.068Z",
+    "isPromoted": false,
+    "provinceId": "7",
+    "municipalityId": "64",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "57130094",
+    "title": "Hyundai Ioniq 5 del 2025...add",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-del-2025-57130094",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-23T21:17:49.565Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 90
+   }
+  },
+  {
+   "node": {
+    "id": "57130143",
+    "title": "VOLKSWAGEN ID4 2021 FIRST EDITION ..add",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-id4-2021-first-edition-add-57130143",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-23T20:14:22.156Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 57
+   }
+  },
+  {
+   "node": {
+    "id": "57129943",
+    "title": "Dongfeng AEOLUS Shine",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-aeolus-shine-57129943",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-23T23:24:51.671Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 161
+   }
+  },
+  {
+   "node": {
+    "id": "57129945",
+    "title": "Vendo moscovich 2140",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/vendo-moscovich-2140-57129945",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-08-31T20:47:35.508Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57128235",
+    "title": "🚙 SUZUKI SAMURAI – EXCELENTE OPORTUNIDAD",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/suzuki-samurai-excelente-oportunidad-57128235",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-03T15:01:17.352Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 612
+   }
+  },
+  {
+   "node": {
+    "id": "57127745",
+    "title": "Hyundai Sonata del 18",
+    "price": 10500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-del-18-57127745",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-31T18:42:42.945Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 179
+   }
+  },
+  {
+   "node": {
+    "id": "57127063",
+    "title": "Carro en venta",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-57127063",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-31T18:09:27.955Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 213
+   }
+  },
+  {
+   "node": {
+    "id": "57126862",
+    "title": "Auto Tico",
+    "price": 10,
+    "currency": "USD",
+    "permalink": "/item/auto-tico-57126862",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-31T18:02:01.421Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 194
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

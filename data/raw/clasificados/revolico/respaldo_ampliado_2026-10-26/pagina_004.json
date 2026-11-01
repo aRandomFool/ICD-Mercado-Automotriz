@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58343224",
+    "title": "BMW X6 M COMPETITION 2016 🔥 **V8 4.4 Turbo",
+    "price": 60000,
+    "currency": "USD",
+    "permalink": "/item/bmw-x6-m-competition-2016-v8-44-turbo-58343224",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T15:50:27.474Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58343038",
+    "title": "Vendo moskovich 2140",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/vendo-moskovich-2140-58343038",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-24T15:42:31.751Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "58343019",
+    "title": "Vendo Audi A4 S 2008",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/vendo-audi-a4-s-2008-58343019",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T15:42:04.226Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58342334",
+    "title": "HYUNDAI IONIQ 5 2024-OFERTA",
+    "price": 36500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-oferta-58342334",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-26T13:22:26.490Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58342211",
+    "title": "Hyundai Tucson 2019 🔥OFERTA",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2019-oferta-58342211",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-26T13:22:26.303Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58341897",
+    "title": "VENDO O CAMBIO MOSCOBIS POR TRICICLO",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-cambio-moscobis-por-triciclo-58341897",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T15:04:26.677Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58341585",
+    "title": "VENDO LADA 2103",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2103-58341585",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-24T14:53:05.652Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58341351",
+    "title": "Chevrolet colorado 2021",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-2021-58341351",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T14:45:26.355Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58338992",
+    "title": "CARRO DE 8PASAJEROS YA TIENE CHAPA",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/carro-de-8pasajeros-ya-tiene-chapa-58338992",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-24T13:23:56.826Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 3
+   }
+  },
+  {
+   "node": {
+    "id": "58338865",
+    "title": "*HYUNDAI IONIQ 5 2024 | 100% ELÉCTRICO",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-58338865",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T00:21:05.749Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58338171",
+    "title": "Vendo Carro Americano ,del 1952.Marca Prefert.Muy buen estado. Motor de Lada 2101,caja 5ta.$3300.usd.52502624.Michel",
+    "price": 3300,
+    "currency": "USD",
+    "permalink": "/item/vendo-carro-americano-del-1952marca-prefertmuy-buen-estado-motor-de-lada-2101caja-5ta3300usd52502624michel-58338171",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T12:45:58.579Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58338065",
+    "title": "Se venden dos camiones particulares",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-venden-dos-camiones-particulares-58338065",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-24T12:37:44.009Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58336954",
+    "title": "Vendo plimouth del 1950",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/vendo-plimouth-del-1950-58336954",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-24T11:25:57.683Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "47",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "58336568",
+    "title": "Carro Nissan Primera en La Habana",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/carro-nissan-primera-en-la-habana-58336568",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-24T10:50:59.540Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 3
+   }
+  },
+  {
+   "node": {
+    "id": "58336569",
+    "title": "Carro Nissan Primera en La Habana",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/carro-nissan-primera-en-la-habana-58336569",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T10:50:59.973Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 27
+   }
+  },
+  {
+   "node": {
+    "id": "58335172",
+    "title": "TOYOTA TUNDRA 4X4 V6 - $42,000 USD - PAPELES EN REGLA - LISTA PARA TRABAJAR",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/toyota-tundra-4x4-v6-42000-usd-papeles-en-regla-lista-para-trabajar-58335172",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T19:09:06.121Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58334738",
+    "title": "Carretilla de almacen carga hasta 200 kg",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/carretilla-de-almacen-carga-hasta-200-kg-58334738",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T04:51:15.010Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58334307",
+    "title": "HYUNDAI🤑 TUCSON 2022 SLE",
+    "price": 29500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2022-sle-58334307",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T03:50:49.560Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58334250",
+    "title": "Vendo Camioneta BAW F7 año 2025 automática, gasolina",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/vendo-camioneta-baw-f7-ano-2025-automatica-gasolina-58334250",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T03:40:01.610Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "58334197",
+    "title": "Vendo🏎️🏁 HYUNDAI TUCSON 2019 | ESTILO, CONFORT Y TECNOLOGÍA",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-tucson-2019-estilo-confort-y-tecnologia-58334197",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T03:35:06.870Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58333260",
+    "title": "Hyunday Sonata 2017",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/hyunday-sonata-2017-58333260",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T13:06:40.753Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58332347",
+    "title": "*Hyundai Tucson 2019 🔥* Millas 88.000",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2019-millas-88000-58332347",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T01:17:06.203Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 2
+   }
+  },
+  {
+   "node": {
+    "id": "58332084",
+    "title": "Se vendé honda prologue versión top el Élite",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-honda-prologue-version-top-el-elite-58332084",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T13:01:33.870Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58331926",
+    "title": "Hyundai atos 2007",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-atos-2007-58331926",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T00:48:27.348Z",
+    "isPromoted": false,
+    "provinceId": "14",
+    "municipalityId": "143",
+    "viewCount": 64
+   }
+  },
+  {
+   "node": {
+    "id": "58331883",
+    "title": "🔥 2017 Range Rover HSE V6 Diésel 🔥",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/2017-range-rover-hse-v6-diesel-58331883",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-24T00:44:56.484Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "58331284",
+    "title": "Hyundais",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hyundais-58331284",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-23T23:54:28.207Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58330373",
+    "title": "Daewoo Tico",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/daewoo-tico-58330373",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T22:37:50.585Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 85
+   }
+  },
+  {
+   "node": {
+    "id": "58330273",
+    "title": "GANGA MITSUBISHI LANCER 1999",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/ganga-mitsubishi-lancer-1999-58330273",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T22:31:25.479Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "58328417",
+    "title": "Se vende mitsubishi lancer año 1999",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-mitsubishi-lancer-ano-1999-58328417",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T20:43:04.235Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "58328371",
+    "title": "Toyota Yaris 2005",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2005-58328371",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T20:41:19.464Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "58328312",
+    "title": "Nissan Sentra 2022",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/nissan-sentra-2022-58328312",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T20:39:08.650Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58328182",
+    "title": "Se vende Lada 03 Motor 03 Caja 4 ta tiene detalles de chapistería",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-03-motor-03-caja-4-ta-tiene-detalles-de-chapisteria-58328182",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T20:32:57.323Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "58328073",
+    "title": "⚡ HYUNDAI IONIQ 5 · 2024 · 100% ELÉCTRICO ⚡",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-58328073",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T20:28:48.894Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58327678",
+    "title": "Chevrolet 1954 recién chapisteado y pintado",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-1954-recien-chapisteado-y-pintado-58327678",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:09:51.943Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "58327677",
+    "title": "Está en perfecto estado💯 y papeles en regla",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/esta-en-perfecto-estado-y-papeles-en-regla-58327677",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T12:21:25.872Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "58327079",
+    "title": "Se vende LADA 1500",
+    "price": 4700,
+    "currency": "USD",
+    "permalink": "/item/se-vende-lada-1500-58327079",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T19:44:21.557Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "58327034",
+    "title": "SE VENDE SKODA FABIA COMBI 2006",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-skoda-fabia-combi-2006-58327034",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-23T19:42:38.970Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 40
+   }
+  },
+  {
+   "node": {
+    "id": "58325371",
+    "title": "Gomas de carro 0km",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/gomas-de-carro-0km-58325371",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-23T18:29:06.027Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58325150",
+    "title": "Microbus d gasolina d 8plasa nuevo x30 shaneray",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/microbus-d-gasolina-d-8plasa-nuevo-x30-shaneray-58325150",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-23T18:18:49.309Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58325113",
+    "title": "Vendo Lada 2105 del 2000 mil carro original de fábrica",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2105-del-2000-mil-carro-original-de-fabrica-58325113",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-23T18:17:09.474Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 92
+   }
+  },
+  {
+   "node": {
+    "id": "58324691",
+    "title": "Se vende o se permuta Toyota Corolla 2024",
+    "price": 27500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-o-se-permuta-toyota-corolla-2024-58324691",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-23T17:58:11.625Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "58323855",
+    "title": "Vendo carro clayler 50",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/vendo-carro-clayler-50-58323855",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T17:23:40.181Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "58323631",
+    "title": "HYUNDAI IONIQ 5 · 2024 · 100% ELÉCTRICO",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-58323631",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T15:08:22.661Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 4
+   }
+  },
+  {
+   "node": {
+    "id": "58323432",
+    "title": "Vendo Renault 18 de Petróleo todo original 17 kilómetros por litro",
+    "price": 10500,
+    "currency": "USD",
+    "permalink": "/item/vendo-renault-18-de-petroleo-todo-original-58323432",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-26T12:48:14.874Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "58323416",
+    "title": "Honda HR-V 2027",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/honda-hr-v-2027-58323416",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T17:04:15.408Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "1",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "58323362",
+    "title": "*Hyundai Tucson 2019 🔥*",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2019-58323362",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-26T14:10:09.107Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58323225",
+    "title": "Carro eléctrico",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-58323225",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T17:16:27.411Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58323209",
+    "title": "Wa.me/56525031 HYUNDAI SONATA 2016 LIMITED — ¡MÁXIMO LUJO, POCO RECORRIDO Y CONFORT! 🔥    ¡La versión más completa y eq",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/wame56525031-hyundai-sonata-2016-limited-maximo-lujo-poco-recorrido-y-confort-la-version-mas-completa-y-eq-58323209",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T16:53:21.515Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "58322839",
+    "title": "🇰🇷 HYUNDAI PALISADE SEL 2020 🔥",
+    "price": 31000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-sel-2020-58322839",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-23T16:36:45.954Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58322504",
+    "title": "Se vende Fiat polski",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-fiat-polski-58322504",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-23T16:24:26.769Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 32
+   }
+  }
+ ],
+ "meta": {
+  "total": 3947
+ }
+}

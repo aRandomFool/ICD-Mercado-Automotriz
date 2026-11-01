@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "56440538",
+    "title": "DAEWO PARA TI",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/daewo-para-ti-56440538",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-21T19:19:12.702Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 133
+   }
+  },
+  {
+   "node": {
+    "id": "56440427",
+    "title": "LISTO PARA TI",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/listo-para-ti-56440427",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-21T19:19:34.207Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "56438257",
+    "title": "Se vende o cambia moscovich",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-o-cambia-moscovich-56438257",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T18:14:56.888Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 86
+   }
+  },
+  {
+   "node": {
+    "id": "56436863",
+    "title": "Moskvich 2240",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/moskvich-2240-56436863",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T22:27:52.569Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "56436508",
+    "title": "Daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/daewoo-56436508",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T03:31:19.460Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 121
+   }
+  },
+  {
+   "node": {
+    "id": "56436503",
+    "title": "Carro",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-56436503",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T03:43:35.520Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 145
+   }
+  },
+  {
+   "node": {
+    "id": "56436421",
+    "title": "Daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/daewoo-56436421",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-23T03:42:00.827Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 119
+   }
+  },
+  {
+   "node": {
+    "id": "56436407",
+    "title": "Carro",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-56436407",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-23T03:59:00.251Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 136
+   }
+  },
+  {
+   "node": {
+    "id": "56434864",
+    "title": "Venta de Glory S330 New",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-glory-s330-new-56434864",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T03:03:52.151Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 125
+   }
+  },
+  {
+   "node": {
+    "id": "56433445",
+    "title": "Kia Picanto 2026",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2026-56433445",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T10:59:46.065Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 151
+   }
+  },
+  {
+   "node": {
+    "id": "56426352",
+    "title": "SUV 100% Eléctrico",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/suv-100-electrico-56426352",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-16T12:11:05.579Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "56415275",
+    "title": "En venta Daewoo cielo hecho Nexia 2014",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/daewoo-cielo-hecho-nexia-2014-56415275",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-10T00:49:47.231Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "12",
+    "viewCount": 115
+   }
+  },
+  {
+   "node": {
+    "id": "56415273",
+    "title": "Daewoo cielo hecho Nexia 2014",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/daewoo-cielo-hecho-nexia-2014-56415273",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-10T00:49:47.207Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "12",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "56415148",
+    "title": "Sonata nline 2022..add",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/sonata-nline-2022-56415148",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-21T19:28:49.314Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 238
+   }
+  },
+  {
+   "node": {
+    "id": "56413208",
+    "title": "Kia Sportage 2025 con 600 km como nuevo",
+    "price": 46,
+    "currency": "USD",
+    "permalink": "/item/kia-sportage-2025-con-600-km-como-nuevo-56413208",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-19T14:53:58.254Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 81
+   }
+  },
+  {
+   "node": {
+    "id": "56412195",
+    "title": "🔥 INFINITI QX60 2025 – 7 PLAZAS 🔥",
+    "price": 75000,
+    "currency": "USD",
+    "permalink": "/item/infiniti-qx60-2025-7-plazas-56412195",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T03:00:03.115Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 130
+   }
+  },
+  {
+   "node": {
+    "id": "56407488",
+    "title": "Se vende geely ck 1.5 mecanico bueno",
+    "price": 12500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-geely-ck-15-mecanico-bueno-56407488",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T13:48:25.985Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 165
+   }
+  },
+  {
+   "node": {
+    "id": "56404797",
+    "title": "Moskvich",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/moskvich-56404797",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T22:19:30.935Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "56394232",
+    "title": "Sigueñal de Geely ck de uso en buen estado 100usd",
+    "price": 100,
+    "currency": "USD",
+    "permalink": "/item/siguenal-de-geely-ck-de-uso-en-buen-estado-100usd-56394232",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-28T15:24:16.459Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "56388273",
+    "title": "FIAT 125 ARGENTINO con motor de petróleo de fiat fiorino 7000 usd",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/fiat-125-argentino-con-motor-de-petroleo-de-fiat-fiorino-7000-usd-56388273",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-22T16:31:48.137Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 350
+   }
+  },
+  {
+   "node": {
+    "id": "56371824",
+    "title": "Fiat con motor de lada",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/fiat-con-motor-de-lada-56371824",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-10T18:32:03.977Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 468
+   }
+  },
+  {
+   "node": {
+    "id": "56365903",
+    "title": "SUV 100 % eléctrico.",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/suv-100-electrico-56365903",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-08T19:00:05.718Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 65
+   }
+  },
+  {
+   "node": {
+    "id": "56361816",
+    "title": "Moskvish 2140",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/moskvish-2140-56361816",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-13T10:45:37.945Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 230
+   }
+  },
+  {
+   "node": {
+    "id": "56358131",
+    "title": "Volkswagen 100% Eléctrico 🔌",
+    "price": 55000,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-100-electrico-56358131",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-09T00:01:34.948Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 64
+   }
+  },
+  {
+   "node": {
+    "id": "56356946",
+    "title": "CARRO ELÉCTRICO ARCFOX LV2",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-arcfox-lv2-56356946",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-20T13:11:30.445Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "56348589",
+    "title": "CARRO 🚀 TOYOTA 🚀 BZ4X LIMITED 2023  - ELCETRICO - CHAPA Y CERTIFICO. 📲 54833699",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/carro-toyota-bz4x-limited-2023-elcetrico-chapa-y-certifico-54833699-56348589",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T16:39:33.638Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 79
+   }
+  },
+  {
+   "node": {
+    "id": "56341491",
+    "title": "Carro eléctrico iD4 full equipado",
+    "price": 43500,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-id4-full-equipado-56341491",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-27T11:41:51.822Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "56336825",
+    "title": "®️CHERY ARIZO 2022•LEE ADENTRO•®️ 54006023",
+    "price": 17500,
+    "currency": "USD",
+    "permalink": "/item/chery-arizo-2022lee-adentro-54006023-56336825",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-09T18:20:59.946Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 198
+   }
+  },
+  {
+   "node": {
+    "id": "56336447",
+    "title": "🔋 ELÉCTRICO 🔋 TOYOTA BZ4X LIMITED 2023 - CHAPA Y CERTIFICADO. TL 54833699",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/electrico-toyota-bx4x-limited-chapa-y-certificado-tl-54833699-56336447",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T13:42:14.252Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 254
+   }
+  },
+  {
+   "node": {
+    "id": "56334443",
+    "title": "💢HYUNDAI IONIQ 2023•ELECTRICO🔌•💢 54006023",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-2023electrico-54006023-56334443",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-09T18:20:58.986Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "56320839",
+    "title": "•100% electrico • Autonomia 491km Millas 5000 Precio 50k 2024 Hyundai IONIQ 6 Limited",
+    "price": 44000,
+    "currency": "USD",
+    "permalink": "/item/100-electrico-autonomia-491km-millas-5000-precio-50k-2024-hyundai-ioniq-6-limited-56320839",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-08-28T23:51:01.890Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 105
+   }
+  },
+  {
+   "node": {
+    "id": "56320290",
+    "title": "Súper oferta de Kia Sportage XLine 2025.",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/super-oferta-de-kia-sportage-xline-2025-56320290",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-18T15:18:14.969Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "56315785",
+    "title": "Toyota Corolla SE 2019",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-se-2019-56315785",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-17T01:55:50.108Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 187
+   }
+  },
+  {
+   "node": {
+    "id": "56310694",
+    "title": "Se vende carro Buikc año 49.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-carro-buikc-ano-49-56310694",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-18T01:46:54.316Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 406
+   }
+  },
+  {
+   "node": {
+    "id": "56309330",
+    "title": "Vendo o negocio BMW I D3 2023 pro S electronic",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-bmw-i-d3-2023-pro-s-56309330",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-20T13:50:40.039Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 77
+   }
+  },
+  {
+   "node": {
+    "id": "56309192",
+    "title": "Vendo o negocio BMW, 100% eléctrico Hace 150 km autonomía con 70,000 millas",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-bmw-100-electrico-hace-150-km-autonomia-con-70000-millas-56309192",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-17T12:55:21.524Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 137
+   }
+  },
+  {
+   "node": {
+    "id": "56309172",
+    "title": "Vendo o negocio Nissan Leaf full eléctrico 2018 200 km autonomía",
+    "price": 26000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-nissan-leaf-full-electrico-2018-200-km-autonomia-56309172",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-17T13:02:10.604Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 71
+   }
+  },
+  {
+   "node": {
+    "id": "56306865",
+    "title": "Kia Picanto 2014",
+    "price": 12500,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2014-56306865",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-08-27T11:56:23.818Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 465
+   }
+  },
+  {
+   "node": {
+    "id": "56297564",
+    "title": "SE VENDE LADA 2101",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-lada-2101-56297564",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T13:40:05.390Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 1049
+   }
+  },
+  {
+   "node": {
+    "id": "56276825",
+    "title": "Bestune T55",
+    "price": 28500,
+    "currency": "USD",
+    "permalink": "/item/bestune-t55-56276825",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T10:28:29.448Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 242
+   }
+  },
+  {
+   "node": {
+    "id": "56275133",
+    "title": "🚗🔥 ¡KIA RIO 2019 EN VENTA! 🔥🚗",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-en-venta-56275133",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T03:00:00.121Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 324
+   }
+  },
+  {
+   "node": {
+    "id": "56269928",
+    "title": "Kia Picanto 2026 Nuevo",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2026-nuevo-56269928",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T01:30:12.271Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 158
+   }
+  },
+  {
+   "node": {
+    "id": "56269063",
+    "title": "Vendo o negocio Vestune, 77 2025",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-vestune-77-2025-56269063",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-20T18:37:16.180Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "70",
+    "viewCount": 245
+   }
+  },
+  {
+   "node": {
+    "id": "56269024",
+    "title": "Vendo negocio Kia Picanto, 2017. Pintura de Fabrica",
+    "price": 14500,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-kia-picanto-2017-pintura-de-fabrica-56269024",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T18:41:08.188Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 608
+   }
+  },
+  {
+   "node": {
+    "id": "56267442",
+    "title": "🚗 SEL 2021 🚗 HYUNDAI PALISADE SET 2021 - CON CERTIFICO Y CHAPA. PRECIO AJUSTABLE. 📲 54833699",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/sel-2021-hyundai-palisade-set-2021-con-certifico-y-chapa-precio-ajustable-54833699-56267442",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T16:39:40.186Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "56267429",
+    "title": "2021 🚗 HYUNDAI SONATA NEGRO 2021 - CON CERTIFICO Y CHAPA. PRECIO AJUSTABLE. 📲 54833699",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/2021-hyundai-sonata-negro-2021-con-certifico-y-chapa-precio-ajustable-54833699-56267429",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T16:39:42.510Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 119
+   }
+  },
+  {
+   "node": {
+    "id": "56267419",
+    "title": "🚗 HYUNDAI TUCSON 2021 - LISTO PARA LLEVAR CON CERTIFICO Y CHAPA. 📲 54833699",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2021-listo-para-llevar-con-certifico-y-chapa-54833699-56267419",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T16:39:45.556Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 107
+   }
+  },
+  {
+   "node": {
+    "id": "56267415",
+    "title": "🚗 2022 🚗 HYUNDAI KONA 2022 - LISTO PARA LLEVAR CON CHAPA Y CRETIFICO. 📲 54833699",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/2022-hyundai-kona-2022-listo-para-llevar-con-chapa-y-cretifico-54833699-56267415",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T16:39:50.306Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "56267403",
+    "title": "🔋NISSAN 🔋 LEAF ELECTRICO 2022. LISTO PARA LLEVAR CON CHAPA Y CERTIFICO. 📲 54833699",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/nissan-leaf-electrico-2022-listo-para-llevar-con-chapa-y-certifico-54833699-56267403",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T16:39:52.727Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "56265250",
+    "title": "Carro Nissan X-Trail 2024 🏘️",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/carro-nissan-x-trail-2024-56265250",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-21T10:07:07.877Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 48
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

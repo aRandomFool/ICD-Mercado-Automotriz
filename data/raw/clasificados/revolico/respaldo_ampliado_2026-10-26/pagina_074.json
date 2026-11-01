@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "55378724",
+    "title": "Vendo lada 2107 en buenas condiciones o negocio por moto moderna 250cc",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2107-en-buenas-condiciones-55378724",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T16:43:35.735Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 1837
+   }
+  },
+  {
+   "node": {
+    "id": "55365677",
+    "title": "❤️ KIA PICANTO 2009 AUTOMATICO TODO TRABAJO AL 100% AIRE QUE PELA ❤️",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2009-automatico-todo-trabajo-al-100-aire-que-pela-55365677",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T15:57:17.250Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 651
+   }
+  },
+  {
+   "node": {
+    "id": "55365636",
+    "title": "❤️SUBO PARA UN 2025 HIUNDAY ELANTRA 2021 ( 150 MIL KM SOLAMENTE )  ❤️",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/hiunday-elantra-2022-0detalle-de-chapisteria-y-pintura-todo-le-trabaja-al-100-55365636",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-24T19:55:47.564Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 420
+   }
+  },
+  {
+   "node": {
+    "id": "55364034",
+    "title": "37 mil Precio Ajustable 🚨 Mazda cx5",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/40-mil-precio-ajustable-mazda-cx5-55364034",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-25T15:22:24.866Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 247
+   }
+  },
+  {
+   "node": {
+    "id": "55361389",
+    "title": "❤️ PEGEOT 403 EN BUENAS CONDICIONES ( BUENO DE CHAPISTERIA Y PINTURA ) MECANICA DE LADA MOTOR 06 CAJA 4TA ❤️",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/pegeot-403-en-buenas-condiciones-bueno-de-chapisteria-y-pintura-mecanica-de-lada-motor-06-caja-4ta-55361389",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T17:43:47.793Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 1423
+   }
+  },
+  {
+   "node": {
+    "id": "55358618",
+    "title": "Jac JS2 2025",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/jac-js2-2025-55358618",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T10:39:04.354Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 292
+   }
+  },
+  {
+   "node": {
+    "id": "55353997",
+    "title": "PLYMOUTH 57 CONVERTIBLE ORIGINAL",
+    "price": 15,
+    "currency": "USD",
+    "permalink": "/item/plymouth-57-convertible-55353997",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T10:39:17.909Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 598
+   }
+  },
+  {
+   "node": {
+    "id": "55315747",
+    "title": "Vendo o negocio Hyundai palisades 2020 básico",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-palisades-2020-basico-55315747",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T18:47:29.148Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 295
+   }
+  },
+  {
+   "node": {
+    "id": "55308338",
+    "title": "Se vende vw escarabajo",
+    "price": 123,
+    "currency": "USD",
+    "permalink": "/item/se-vende-vw-escarabajo-55308338",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-06T12:36:45.951Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 1819
+   }
+  },
+  {
+   "node": {
+    "id": "55283384",
+    "title": "BMW X6 M50i 2022. V8 biturbo",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/bmw-x6-m50i-2022-v8-biturbo-55283384",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T13:10:14.475Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 483
+   }
+  },
+  {
+   "node": {
+    "id": "55283313",
+    "title": "Mercedes-Benz GLE63s AMG 2022 título limpio.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/mercedes-benz-gle63s-amg-2022-titulo-limpio-55283313",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T13:09:46.095Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 720
+   }
+  },
+  {
+   "node": {
+    "id": "55274008",
+    "title": "Atos a la venta con aire",
+    "price": 11500,
+    "currency": "USD",
+    "permalink": "/item/atos-a-la-venta-con-aire-55274008",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-12T03:21:56.327Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 620
+   }
+  },
+  {
+   "node": {
+    "id": "55268321",
+    "title": "Vendo negocio, Kia Picanto, 2012",
+    "price": 13000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-kia-picanto-2012-55268321",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-17T12:56:40.568Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "76",
+    "viewCount": 987
+   }
+  },
+  {
+   "node": {
+    "id": "55258669",
+    "title": "‼️APROVECHE  LA OFERTA HOY ‼️Toyota Corolla Cross 2025",
+    "price": 40000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-cross-2025-distincion-que-no-necesita-presentacion-55258669",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-22T06:44:54.208Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 113
+   }
+  },
+  {
+   "node": {
+    "id": "55251942",
+    "title": "Vendo negocio, Hyundai Santa Fe, 2020",
+    "price": 23500,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-hyundai-santa-fe-2020-55251942",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T18:41:36.550Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 379
+   }
+  },
+  {
+   "node": {
+    "id": "55251657",
+    "title": "Vendo o negocio, Hyundai Santa Fe, 2021 básico",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-2021-basico-55251657",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-19T23:46:35.514Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 175
+   }
+  },
+  {
+   "node": {
+    "id": "55251632",
+    "title": "Vendo negocios Vestune  T 55  2024",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocios-vestune-t-55-2024-55251632",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-20T18:37:58.173Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 518
+   }
+  },
+  {
+   "node": {
+    "id": "55248860",
+    "title": "Hundai santa fe 2022,  con chapa",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hundai-santa-fe-2022-55248860",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-26T01:18:31.002Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 280
+   }
+  },
+  {
+   "node": {
+    "id": "55230869",
+    "title": "Vendo negocio Kia Picanto, 2020, tres cilindros",
+    "price": 15500,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-kia-picanto-2020-tres-cilindros-55230869",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-17T12:49:46.729Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 458
+   }
+  },
+  {
+   "node": {
+    "id": "55226101",
+    "title": "Plymouth del 51",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/plymouth-del-51-55226101",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T18:15:09.970Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 1258
+   }
+  },
+  {
+   "node": {
+    "id": "55219952",
+    "title": "🚗 DEALER DIGITAL – COMPRA Y VENTA DE VEHÍCULOS EN CUBA 🚗",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/dealer-digital-compra-y-venta-de-vehiculos-en-cuba-55219952",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T03:00:04.115Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 394
+   }
+  },
+  {
+   "node": {
+    "id": "55214188",
+    "title": "Vendo o negocio, Hyundai, Santa Fe,calligrafhy 2021, 4 × 4",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fecalligrafhy-2021-4-4-55214188",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-17T12:52:50.369Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 484
+   }
+  },
+  {
+   "node": {
+    "id": "55213880",
+    "title": "Nissan versa 2019 s plus standard",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/nissan-versa-2019-s-plus-standard-55213880",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T11:22:53.834Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 418
+   }
+  },
+  {
+   "node": {
+    "id": "55196858",
+    "title": "Vendo o negocio, Hyundai sonata, 2021",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-sonata-2021-55196858",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-20T18:43:28.289Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 199
+   }
+  },
+  {
+   "node": {
+    "id": "55193235",
+    "title": "Hyundai ioniq 6  580km de autonomía full eléctrico",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ionizacion-6-580km-de-autonomia-55193235",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:28:41.539Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 172
+   }
+  },
+  {
+   "node": {
+    "id": "55179879",
+    "title": "Kia rio 2019",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-55179879",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T12:35:06.156Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 271
+   }
+  },
+  {
+   "node": {
+    "id": "55174727",
+    "title": "JAC S2 2023 – Excelente estado – 29000 km",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/jac-s2-2019-excelente-estado-29000-km-55174727",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T08:40:01.776Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 215
+   }
+  },
+  {
+   "node": {
+    "id": "55164065",
+    "title": "Carro antiguo audi",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/carro-antiguo-55164065",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T03:08:03.463Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 957
+   }
+  },
+  {
+   "node": {
+    "id": "55161358",
+    "title": "Vendo un negocio Kia Picanto, 2025 Gelines con 10,000 km",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/vendo-un-negocio-kia-picanto-2025-gelines-con-10000-km-55161358",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-20T13:46:40.678Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 244
+   }
+  },
+  {
+   "node": {
+    "id": "55161220",
+    "title": "Vendo o negocio, Hyundai Santa Fe, 2025 callygrafhy",
+    "price": 42000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-2025-callygrafhy-55161220",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-20T13:48:34.143Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 165
+   }
+  },
+  {
+   "node": {
+    "id": "55159222",
+    "title": "Vendo Hyundai Accent 2005, chapistería y pintura nuevas, A/C al 100%, soy el dueño.",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/vendo-hyundai-accent-2005-chapisteria-y-pintura-nuevas-ac-al-100-soy-el-dueno-55159222",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-24T04:09:22.189Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 451
+   }
+  },
+  {
+   "node": {
+    "id": "55151977",
+    "title": "Vendo o negocio, Hyundai Palisade, 2021, Callygrafhy 4 × 4",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-palisade-2021-callygrafhy-4-4-55151977",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-20T18:46:31.552Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 388
+   }
+  },
+  {
+   "node": {
+    "id": "55137191",
+    "title": "Vendo o negocio, Hyundai Santa Fe, 2023, calligraphy",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-2023-calligraphy-55137191",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-17T12:52:33.821Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 183
+   }
+  },
+  {
+   "node": {
+    "id": "55118209",
+    "title": "Vendo negocio Hyundai Santa Fe, 2019",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/vendo-negocio-hyundai-santa-fe-2019-55118209",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-17T12:53:28.421Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 544
+   }
+  },
+  {
+   "node": {
+    "id": "55118050",
+    "title": "Vendo un neceo Kia Picanto, 2021",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/vendo-un-neceo-kia-picanto-2021-55118050",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-20T13:47:31.036Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 170
+   }
+  },
+  {
+   "node": {
+    "id": "55111445",
+    "title": "Hyundai palisade 2020 Limited",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-palisade-2020-limited-55111445",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T13:17:13.753Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 313
+   }
+  },
+  {
+   "node": {
+    "id": "55087749",
+    "title": "¡¡¡GANGA!!! 🤗 PROMO!!!! Chevrolet 50 en Venta",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-50-en-venta-55087749",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T14:18:15.271Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 1747
+   }
+  },
+  {
+   "node": {
+    "id": "55080673",
+    "title": "Carro eléctrico Dongfeng box 01",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-dongfeng-box-01-55080673",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-20T12:17:55.298Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 500
+   }
+  },
+  {
+   "node": {
+    "id": "55078380",
+    "title": "Hyundai sonata",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-55078380",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-21T12:41:47.224Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 261
+   }
+  },
+  {
+   "node": {
+    "id": "55077253",
+    "title": "Microbús MaxusG10",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/microbus-maxusg10-55077253",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T12:43:01.352Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 446
+   }
+  },
+  {
+   "node": {
+    "id": "55044185",
+    "title": "Vendo o Negocio Hyundai Elantra, básico máximo 2025 cero millas con 1500 km",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-elantra-basico-maximo-2025-cero-millas-con-1500-km-55044185",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-17T12:56:57.159Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 223
+   }
+  },
+  {
+   "node": {
+    "id": "55032602",
+    "title": "Camioneta mitsubishi L200",
+    "price": 55000,
+    "currency": "USD",
+    "permalink": "/item/camioneta-mitsubishi-l200-55032602",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:28:09.996Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 436
+   }
+  },
+  {
+   "node": {
+    "id": "55023864",
+    "title": "Vendo o negocio, Hyundai Santa Fe, 2024 Calligraphy con 5400 millas",
+    "price": 60000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-2024-calligraphy-con-5400-millas-55023864",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-19T23:47:46.576Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "76",
+    "viewCount": 221
+   }
+  },
+  {
+   "node": {
+    "id": "55023801",
+    "title": "Vendo o negocio, Hyundai Santa Fe, 2025, calle Galligrahy con 4000 millas",
+    "price": 60000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-santa-fe-2025-calle-galligrahy-con-4000-millas-55023801",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-19T23:49:00.203Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "73",
+    "viewCount": 197
+   }
+  },
+  {
+   "node": {
+    "id": "55019150",
+    "title": "Vendo o negocio, Hyundai Palisade, 2021 4x4 Callygrafhy ojo este es el que viene contracción en las cuatro rueda",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-palisade-2021-4x4-callygrafhy-ojo-este-es-el-que-viene-contraccion-en-las-cuatro-rueda-55019150",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-20T18:43:57.062Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 348
+   }
+  },
+  {
+   "node": {
+    "id": "54991866",
+    "title": "Chevrolet colorado",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/chevrolet-colorado-54991866",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-19T13:21:22.481Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 318
+   }
+  },
+  {
+   "node": {
+    "id": "54981613",
+    "title": "Vendo o negocio fotón Tunland G7 doble cabina eléctrica, 100% 550 km autonomía",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-foton-tunland-g7-doble-cabina-electrica-100-550-km-autonomia-54981613",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-20T18:45:06.433Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 293
+   }
+  },
+  {
+   "node": {
+    "id": "54976555",
+    "title": "Venta Seat Toledo con motor de gasolina de 1.8 litros",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/venta-seat-toledo-de-1994-de-gasolina-con-motor-18-litros-con-aire-acondicionado-54976555",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-09T21:02:09.038Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 924
+   }
+  },
+  {
+   "node": {
+    "id": "54974477",
+    "title": "Superbeetle vw 1303 aleman escarabajo vocho cristal curvo exclusivo",
+    "price": 12500,
+    "currency": "USD",
+    "permalink": "/item/superbeetle-vw-1303-aleman-escarabajo-vocho-cristal-curvo-54974477",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-24T13:06:07.679Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "58",
+    "viewCount": 1040
+   }
+  },
+  {
+   "node": {
+    "id": "54969178",
+    "title": "Toyota a la venta",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/toyotas-a-la-venta-54969178",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-01T14:12:07.180Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 306
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

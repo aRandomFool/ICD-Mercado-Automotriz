@@ -1,0 +1,38 @@
+﻿entidad,fuente,clase,marca,marca_norm,modelo,propulsion,precio_original,moneda,precio_usd,tipo_item,mercado,fuente_origen,url,fecha_consulta,notas
+MCV Comercial S.A.,mcvcommercial.com,Auto,Mercedes-Benz,mercedes-benz,Clase A 200 Hatchback,Gasolina,41900.0,EUR,46950.17,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Mercedes-Benz,mercedes-benz,Clase C 200,Gasolina,65838.0,EUR,73773.39,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Mercedes-Benz,mercedes-benz,GLA 200 4MATIC,Gasolina,54900.0,EUR,61517.04,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Mercedes-Benz,mercedes-benz,GLC 200 4MATIC,Gasolina,64900.0,EUR,72722.33,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Mercedes-Benz,mercedes-benz,GLC Coupé 200 4MATIC,Gasolina,70614.0,EUR,79125.03,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Changan,changan,CS35 Plus,Gasolina,24000.0,EUR,26892.7,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Changan,changan,CS55 Plus,Gasolina,26000.0,EUR,29133.75,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Changan,changan,X7 Plus,Gasolina,27900.0,EUR,31262.76,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Changan Deepal,changan,S05 PHEV,REEV,34400.0,EUR,38546.2,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Bestune,,T90 Premium,Gasolina,30180.0,EUR,33817.57,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Bestune,,T77,Gasolina,29182.0,EUR,32699.28,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,DFSK,,Glory 500 M3,Gasolina,22465.0,EUR,25172.68,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,DFSK,,Glory 500 M6,Gasolina,25000.0,EUR,28013.23,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,DFSK,,Glory 580 Intelligent,Gasolina,28743.0,EUR,32207.37,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,DFSK,,Glory 330 S,Gasolina,18419.0,EUR,20639.02,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,DFSK,,E5 M1,Híbrido,32775.0,EUR,36725.34,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,BAIC,baic,X35 Fashion Plus,Gasolina,24100.0,EUR,27004.75,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,BAIC,baic,BJ 60 Exclusive,Gasolina,65925.0,EUR,73870.87,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,BAIC,baic,BJ 40 Exclusive,Gasolina,43175.0,EUR,48378.84,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,BAIC,baic,BJ 30 LV2,Gasolina,38025.0,EUR,42608.12,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Bestune,,PONY,Eléctrico,9500.0,EUR,10645.03,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Auto,Bestune,,Joyee 03,Eléctrico,23415.0,EUR,26237.19,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Camioneta,Foton,foton,Tunland G7 Doble Cabina MT con CarryBoy,Diésel,38085.0,EUR,42675.35,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Camioneta,Foton,foton,Tunland G7 Doble Cabina MT,Diésel,34500.0,EUR,38658.25,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Camioneta,Foton,foton,Tunland G9 Doble Cabina MT,Diésel,39900.0,EUR,44709.11,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Camioneta,Foton,foton,Tunland G9 Doble Cabina AT Con CarryBoy,Diésel,49068.0,EUR,54982.12,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Camioneta,Foton,foton,Tunland G9 Doble Cabina AT,Diésel,44500.0,EUR,49863.54,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Microbús,Foton,foton,View G5,Gasolina,24300.0,EUR,27228.85,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Microbús,Foton,foton,Toano (Microbús Eléctrico),Eléctrico,48990.0,EUR,54894.72,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Panel,Foton,foton,Toano (Panel de Carga),Diésel,44990.0,EUR,50412.6,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Panel,Foton,foton,Toano (Panel de Carga ),Eléctrico,48069.0,EUR,53862.71,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Microbús,Foton,foton,Toano (Microbús – 14+1),Diésel,45200.0,EUR,50647.91,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Microbús,Foton,foton,Toano (Microbús – 17+1),Diésel,48200.0,EUR,54009.5,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Microbús,Foton,foton,View CS2 (Microbús),Diésel,37857.0,EUR,42419.87,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Panel,Foton,foton,View CS2 (Panel Mixto),Diésel,35654.0,EUR,39951.34,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Panel,Foton,foton,View CS2 (Panel de Carga),Diésel,36595.0,EUR,41005.76,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf
+MCV Comercial S.A.,mcvcommercial.com,Panel,Foton,foton,View i7 (Panel de Carga),Eléctrico,36990.0,EUR,41448.37,vehiculo,formal,comercializadora,,2026-03-31,catalogo_correcto_mcv.pdf

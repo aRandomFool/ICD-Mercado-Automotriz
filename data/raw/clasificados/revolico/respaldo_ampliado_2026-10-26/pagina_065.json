@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "56897463",
+    "title": "Honda prologue 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/honda-prologue-2024-56897463",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-28T14:24:42.470Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "56897195",
+    "title": "HYUNDAI ELANTRA 2025",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2025-56897195",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-28T14:22:57.220Z",
+    "isPromoted": false,
+    "provinceId": "11",
+    "municipalityId": "101",
+    "viewCount": 119
+   }
+  },
+  {
+   "node": {
+    "id": "56897126",
+    "title": "Van de carga Jmc",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/van-de-carga-jmc-56897126",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-08T20:29:06.882Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 190
+   }
+  },
+  {
+   "node": {
+    "id": "56890904",
+    "title": "TOYOTA COROLLA  2022 SE",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/toyota-corolla-2022-se-56890904",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-28T14:25:02.361Z",
+    "isPromoted": false,
+    "provinceId": "9",
+    "municipalityId": "87",
+    "viewCount": 147
+   }
+  },
+  {
+   "node": {
+    "id": "56890832",
+    "title": "VOLKSWAGEN ID4 2021 FIRST EDITION",
+    "price": 37500,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-id4-2021-first-edition-56890832",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-08T20:21:51.283Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "56888169",
+    "title": "🚗 2024 🚗 HYUNDAI PALISADE ULTIMATE LIMITED GRIS . SE ENTRAGA CON CERTIFICO Y CHAPA. PRECIO NEGOCIABLE. TL 54833699",
+    "price": 48000,
+    "currency": "USD",
+    "permalink": "/item/2024-hyundai-palisade-calligraphy-gris-claro-se-entraga-con-certifico-y-chapa-precio-negociable-tl-54833699-56888169",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T13:41:53.354Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 130
+   }
+  },
+  {
+   "node": {
+    "id": "56871892",
+    "title": "Venta de casa independiente en Cojímar se hace negocio por carro moderno",
+    "price": 80000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-casa-independiente-en-cojimar-se-hace-negocio-por-carro-moderno-56871892",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T06:11:32.281Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 246
+   }
+  },
+  {
+   "node": {
+    "id": "56868783",
+    "title": "Se vende Jeep Willys 1950 con trailer incluido.",
+    "price": 4900,
+    "currency": "USD",
+    "permalink": "/item/se-vende-jeep-willys-1950-con-trailer-incluido-56868783",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-17T22:06:04.372Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 2116
+   }
+  },
+  {
+   "node": {
+    "id": "56868024",
+    "title": "En venta Mitsubishi lancer",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/en-venta-mitsubishi-lancer-56868024",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-21T15:41:55.013Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 271
+   }
+  },
+  {
+   "node": {
+    "id": "56862950",
+    "title": "HYUNDAI SANTA FE 2017 SPORT  --- LAND ROVER SPORT 2017",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2017-sport-land-rover-sport-2017-56862950",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-09T00:00:02.155Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 187
+   }
+  },
+  {
+   "node": {
+    "id": "56862135",
+    "title": "Kia Rio 2019 🔥 Millas: 86.000 Precio: 19000 USD ✅",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-millas-86000-precio-19000-usd-56862135",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-22T17:16:53.222Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "56862071",
+    "title": "Carro Eléctrico Hyundai IONIQ 5 2024 🔥 Millas: 50.000 🔆",
+    "price": 42500,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-ioniq-5-2024-millas-50000-56862071",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-22T17:16:51.680Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "56860088",
+    "title": "2025 Ram 3500 Diesel",
+    "price": 75000,
+    "currency": "USD",
+    "permalink": "/item/2025-ram-3500-diesel-56860088",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T19:48:13.553Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "56859292",
+    "title": "Hyundai Elantra 2019 🔥",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-elantra-2019-56859292",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-07T16:22:27.116Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 39
+   }
+  },
+  {
+   "node": {
+    "id": "56859170",
+    "title": "Kia Rio 2019 🔥",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-56859170",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-04T18:02:06.539Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "56859123",
+    "title": "Carro eléctrico Hyundai IONIQ 5 2024",
+    "price": 42500,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-ioniq-5-2024-56859123",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-30T15:16:43.952Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "56854043",
+    "title": "Carros eléctricos. Nuevos 0km ... Arcfox T1 LV2",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/carros-electricos-nuevos-0km-arcfox-t1-lv2-56854043",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-19T00:54:35.080Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 124
+   }
+  },
+  {
+   "node": {
+    "id": "56851189",
+    "title": "Moscovich original de fábrica!!! De gasolina",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/moscovich-original-de-fabrica-de-gasolina-56851189",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-09T02:57:51.782Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 110
+   }
+  },
+  {
+   "node": {
+    "id": "56849485",
+    "title": "CARRO FIAT PUNTO DIESEL 1997 MOTOR 1,7",
+    "price": 10500,
+    "currency": "USD",
+    "permalink": "/item/carro-fiat-punto-diesel-1997-motor-17-56849485",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-14T19:11:58.358Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 133
+   }
+  },
+  {
+   "node": {
+    "id": "56848246",
+    "title": "Kia Picanto 2008 Automático - Aire Acondicionado Perfecto",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2008-automatico-aire-acondicionado-perfecto-56848246",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-14T16:05:43.359Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 253
+   }
+  },
+  {
+   "node": {
+    "id": "56845729",
+    "title": "Venta mosckovich Habana",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/venta-mosckovich-habana-56845729",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-03T10:58:20.191Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 437
+   }
+  },
+  {
+   "node": {
+    "id": "56843933",
+    "title": "Lada 2107",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-56843933",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-08-28T14:31:07.837Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 1477
+   }
+  },
+  {
+   "node": {
+    "id": "56836621",
+    "title": "Wolswagen tiguan 2021 carro nuevo con solo 34 500 millas",
+    "price": 31,
+    "currency": "USD",
+    "permalink": "/item/wolswagen-tiguan-2021-carro-nuevo-con-solo-34-500-millas-56836621",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-18T04:21:09.904Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "56834777",
+    "title": "Bestune Nat 05⚡️ !! Soy el dueño",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/bestune-nat-soy-el-dueno-56834777",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-22T20:00:26.989Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 137
+   }
+  },
+  {
+   "node": {
+    "id": "56833101",
+    "title": "Moscovish 2140 de fabrica",
+    "price": 5300,
+    "currency": "USD",
+    "permalink": "/item/moscovish-2140-de-fabrica-56833101",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-04T14:33:54.212Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 250
+   }
+  },
+  {
+   "node": {
+    "id": "56831024",
+    "title": "Vw escarabajo",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/vw-escarabajo-56831024",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-14T14:26:58.626Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 450
+   }
+  },
+  {
+   "node": {
+    "id": "56822938",
+    "title": "Auto 〽️Arcfox T1 LV2 Full Eléctrico〽️  33mil usd",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/auto-arcfox-t1-lv2-full-electrico-33mil-usd-56822938",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-10T14:24:57.346Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "56822499",
+    "title": "Se vende Toyota Corolla Cross del 2019 bien cuidado impecable",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-toyota-corolla-cross-del-2019-bien-cuidado-impecable-56822499",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-06T11:33:59.600Z",
+    "isPromoted": false,
+    "provinceId": "13",
+    "municipalityId": "130",
+    "viewCount": 143
+   }
+  },
+  {
+   "node": {
+    "id": "56818826",
+    "title": "LADA 2101",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/lada-2101-56818826",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-01T11:23:24.352Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 225
+   }
+  },
+  {
+   "node": {
+    "id": "56818767",
+    "title": "Hyunday Santa Fe  2018",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyunday-tucson-2021-ultimate-37-mil-millastucson-2021-ultimate-37-mil-millas-56818767",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:56:56.113Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 229
+   }
+  },
+  {
+   "node": {
+    "id": "56818664",
+    "title": "Kia picanto 2020 automático",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-sel-2025-2600-millas-56818664",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T15:57:16.700Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 83
+   }
+  },
+  {
+   "node": {
+    "id": "56818052",
+    "title": "Carro Eléctrico Hyundai IONIQ 5 2024",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-hyundai-ioniq-5-2024-56818052",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-04T02:34:15.733Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 45
+   }
+  },
+  {
+   "node": {
+    "id": "56817832",
+    "title": "Carro eléctrico totalmente nuevo, usted lo estrena ...Arcfox T1 LV2 Full",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carro-electrico-totalmente-nuevo-usted-lo-estrena-arcfox-t1-lv2-full-56817832",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-18T09:54:31.718Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "56816268",
+    "title": "Hiunday IONIQ 5 2024",
+    "price": 34500,
+    "currency": "USD",
+    "permalink": "/item/hiunday-ioniq-5-2024-56816268",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-16T15:10:07.075Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 53
+   }
+  },
+  {
+   "node": {
+    "id": "56816182",
+    "title": "Hyundai",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-56816182",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-10T14:55:28.549Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "56811630",
+    "title": "260usd Coche, mecedora, silla para carro",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/260usd-coche-mecedora-silla-para-carro-56811630",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-16T00:47:08.214Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "56809756",
+    "title": "Genesis G70 año 2019",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/genesis-g70-ano-2019-56809756",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-01T02:18:37.686Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 84
+   }
+  },
+  {
+   "node": {
+    "id": "56809598",
+    "title": "🔴TUCSON DEL 2019 🔴en venta",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/tucson-del-2019-en-venta-56809598",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-17T16:59:05.667Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 37
+   }
+  },
+  {
+   "node": {
+    "id": "56807995",
+    "title": "Dongfeng Box 430",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-box-430-56807995",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-15T15:23:04.671Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 85
+   }
+  },
+  {
+   "node": {
+    "id": "56807656",
+    "title": "Audi A6 2.4 2006",
+    "price": 16000,
+    "currency": "USD",
+    "permalink": "/item/audi-a6-24-2006-56807656",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-22T21:03:43.212Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 409
+   }
+  },
+  {
+   "node": {
+    "id": "56801998",
+    "title": "〽️Arcfox T1 LV2 Full Eléctrico〽️  ✔️ Hasta 375 km de autonomía ✔️ Motor eléctrico de 70 kW ✔️ Tracción delantera ✔️",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/arcfox-t1-lv2-full-electrico-hasta-375-km-de-autonomia-motor-electrico-de-70-kw-traccion-delantera-56801998",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-08-28T16:19:02.339Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "25",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "56799637",
+    "title": "Honda Pilot 2023 al detalle",
+    "price": 43000,
+    "currency": "USD",
+    "permalink": "/item/honda-pilot-2023-al-detalle-56799637",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-25T22:13:13.505Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 223
+   }
+  },
+  {
+   "node": {
+    "id": "56795117",
+    "title": "Lada 2107 nuevo",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-nuevo-56795117",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T23:45:26.103Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 1871
+   }
+  },
+  {
+   "node": {
+    "id": "56792604",
+    "title": "Toyota Raize 2024",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/toyota-raize-2024-56792604",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T17:59:47.206Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 56
+   }
+  },
+  {
+   "node": {
+    "id": "56792586",
+    "title": "Nissan Versa 2024",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/nissan-versa-2024-56792586",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-24T17:59:47.377Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "56792459",
+    "title": "Kia Picanto GT Line 2026",
+    "price": 24500,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-gt-line-2026-56792459",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-10T18:10:34.176Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 151
+   }
+  },
+  {
+   "node": {
+    "id": "56791899",
+    "title": "Venta carros eléctricos",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-carro-electrico-56791899",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T15:25:46.157Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 136
+   }
+  },
+  {
+   "node": {
+    "id": "56779392",
+    "title": "Asiento",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/asiento-56779392",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T08:07:33.111Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 26
+   }
+  },
+  {
+   "node": {
+    "id": "56778607",
+    "title": "sonata 2016 fill limited motor cambiado",
+    "price": 17500,
+    "currency": "USD",
+    "permalink": "/item/picanto-2020-morning-viene-equipado-4-cilindro-56778607",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-26T13:03:13.283Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 137
+   }
+  },
+  {
+   "node": {
+    "id": "56777078",
+    "title": "TOYOTA RAIZE 2024 (0km)",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/toyota-2024-0km-56777078",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-15T19:00:52.008Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 94
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

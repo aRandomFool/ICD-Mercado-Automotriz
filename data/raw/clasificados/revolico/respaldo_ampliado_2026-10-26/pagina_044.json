@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57484438",
+    "title": "Carro en Artemisa",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/carro-en-artemisa-57484438",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T16:35:24.735Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "13",
+    "viewCount": 111
+   }
+  },
+  {
+   "node": {
+    "id": "57484403",
+    "title": "Se vende Buick 51 Descapotable",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-buick-51-descapotable-57484403",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-08T16:25:03.619Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 246
+   }
+  },
+  {
+   "node": {
+    "id": "57484126",
+    "title": "⚡🚨 ¡OFERTA REBAJA CARRO ELECTRÓNICO HYUNDAI IONIQ 5 2023 🚨",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/oferta-rebaja-carro-electronico-hyundai-ioniq-5-2023-57484126",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-05T12:33:50.710Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "57483939",
+    "title": "Vendo Moskvich Aleko 2141",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/vendo-moskvich-aleko-2141-57483939",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-16T16:51:21.822Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 185
+   }
+  },
+  {
+   "node": {
+    "id": "57483573",
+    "title": "Delta 3 clasica",
+    "price": 635,
+    "currency": "USD",
+    "permalink": "/item/delta-3-clasica-57483573",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-16T16:33:37.143Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57482116",
+    "title": "Kit todo en uno infinity 6 con 15",
+    "price": 4120,
+    "currency": "USD",
+    "permalink": "/item/kit-todo-en-uno-infinity-6-con-15-57482116",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-16T15:37:28.723Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57482094",
+    "title": "Cherolet 53 contrailer legalizado (chapa los 2)",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/cherolet-53-contrailer-legalizado-chapa-los-2-57482094",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-16T15:36:35.646Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 70
+   }
+  },
+  {
+   "node": {
+    "id": "57482075",
+    "title": "Se vende Skoda Fabia Ranchera",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-skoda-fabia-ranchera-57482075",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-22T03:16:36.591Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 91
+   }
+  },
+  {
+   "node": {
+    "id": "57481936",
+    "title": "COMPRO LADA 5000 USD NO QUIERO TARECOS NI INTERMEDIARIOS",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/compro-lada-5000-usd-no-quiero-tarecos-ni-intermediarios-57481936",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-16T15:30:25.528Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 38
+   }
+  },
+  {
+   "node": {
+    "id": "57481820",
+    "title": "Combo único en las redes SEAT Ibiza con trailer 52496969",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/vendo-auto-seat-ibiza-52496969-57481820",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-21T17:20:36.764Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 535
+   }
+  },
+  {
+   "node": {
+    "id": "57481831",
+    "title": "PANEL CHRYSLER DEl 55",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/chrysler-del-55-57481831",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-16T15:26:42.679Z",
+    "isPromoted": false,
+    "provinceId": "16",
+    "municipalityId": "163",
+    "viewCount": 100
+   }
+  },
+  {
+   "node": {
+    "id": "57481709",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 37.5,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57481709",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-16T15:22:36.919Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57480578",
+    "title": "Nissan Rogue 2017 Híbrido",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/nissan-rogue-2017-hibrido-57480578",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-16T14:45:55.838Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 42
+   }
+  },
+  {
+   "node": {
+    "id": "57480412",
+    "title": "🇨🇺 MINI COOPERS CLUBMAN | DISPONIBLE EN CUBA 🚘 | LA HABANA",
+    "price": 19.5,
+    "currency": "USD",
+    "permalink": "/item/mini-coopers-clubman-disponible-en-cuba-la-habana-57480412",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-16T14:39:52.697Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "57480228",
+    "title": "BMW i3 | A LA VENTA EN CUBA 🇨🇺 | ENTREGA DIRECTA EN LA HABANA",
+    "price": 14.7,
+    "currency": "USD",
+    "permalink": "/item/bmw-i3-a-la-venta-en-cuba-entrega-directa-en-la-habana-57480228",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-16T14:33:12.776Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 67
+   }
+  },
+  {
+   "node": {
+    "id": "57480001",
+    "title": "🇨🇺 ¡MINI COOPER DISPONIBLE EN CUBA! 🇨🇺",
+    "price": 18.5,
+    "currency": "USD",
+    "permalink": "/item/mini-cooper-disponible-en-cuba-57480001",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-16T14:24:14.781Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 57
+   }
+  },
+  {
+   "node": {
+    "id": "57479878",
+    "title": "KIA SORENTO 2025",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/kia-sorento-2025-57479878",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-16T14:19:46.557Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 48
+   }
+  },
+  {
+   "node": {
+    "id": "57479461",
+    "title": "🚗 HYUNDAI ELANTRA 2019 – $19,500 USD 🛣️",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-19500-usd-57479461",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-16T14:02:00.071Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 18
+   }
+  },
+  {
+   "node": {
+    "id": "57478618",
+    "title": "Hyundai IONIQ 2024",
+    "price": 39000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-2024-57478618",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-17T17:08:17.607Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57478446",
+    "title": "Hermoso Hyundai Tucson 2020",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/hermoso-hyundai-tucson-2020-57478446",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-17T17:08:47.022Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57478336",
+    "title": "Venta de auto",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/venta-de-auto-57478336",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-04T02:10:59.142Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "57478325",
+    "title": "Hermoso Hyundai Elantra 2019",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hermoso-hyundai-elantra-2019-57478325",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-17T17:09:53.912Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 16
+   }
+  },
+  {
+   "node": {
+    "id": "57477589",
+    "title": "Carro Hyundai Elantra 2019",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-elantra-2019-57477589",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-16T12:20:05.461Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "57474057",
+    "title": "🚨 **¡CAMIÓN REFRIGERADO EN VENTA!** 🚨",
+    "price": 72000,
+    "currency": "USD",
+    "permalink": "/item/camion-refrigerado-en-venta-57474057",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-16T02:06:37.422Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 72
+   }
+  },
+  {
+   "node": {
+    "id": "57473443",
+    "title": "*Hyundai IONIQ 5 2024 ❤️*  100% Eléctrico ⚡️  50,000 millas 🛣️  Precio: $37.500 USD 💵",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-ioniq-5-2024-100-electrico-50000-millas-precio-37500-usd-57473443",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-16T01:30:10.644Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 10
+   }
+  },
+  {
+   "node": {
+    "id": "57473302",
+    "title": "Hyundai IONIQ 5 2024",
+    "price": 37.5,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-57473302",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-01T13:21:15.666Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57471942",
+    "title": "Hyundai tucson 2020",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2020-57471942",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-21T02:56:35.040Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57471328",
+    "title": "VW iD.4 2023",
+    "price": 34000,
+    "currency": "USD",
+    "permalink": "/item/vw-id4-2023-57471328",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-15T22:34:54.424Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57470810",
+    "title": "13,500usd Vendo kia rio 2008 motor 1.6 automático alarma cierre centralizados aire acondicionado enllantado en 15” carro",
+    "price": 13500,
+    "currency": "USD",
+    "permalink": "/item/13500usd-vendo-kia-rio-2008-motor-16-automatico-alarma-cierre-centralizados-aire-acondicionado-enllantado-en-15-carro-57470810",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-15T22:02:04.216Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 90
+   }
+  },
+  {
+   "node": {
+    "id": "57470646",
+    "title": "Delta 3 Ultra  2100USD  Transporte incluido",
+    "price": 2100,
+    "currency": "USD",
+    "permalink": "/item/delta-3-ultra-2100usd-transporte-incluido-57470646",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-29T03:03:04.744Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57470369",
+    "title": "Vendo moskovish aleko",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-moskovish-aleko-57470369",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-15T21:37:37.239Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 123
+   }
+  },
+  {
+   "node": {
+    "id": "57469614",
+    "title": "Toyota Yaris 2 puertas del 2007",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2-puertas-del-2007-57469614",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-15T20:59:53.428Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 180
+   }
+  },
+  {
+   "node": {
+    "id": "57467450",
+    "title": "Moskovish",
+    "price": 1500,
+    "currency": "USD",
+    "permalink": "/item/moskovish-57467450",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-15T19:05:27.026Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 201
+   }
+  },
+  {
+   "node": {
+    "id": "57463783",
+    "title": "Marca Nissan 2024",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/marca-nissan-2024-57463783",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-15T16:16:52.075Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57463756",
+    "title": "Marca Toyota 2024",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/marca-toyota-2024-57463756",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-15T16:15:50.314Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "57463346",
+    "title": "Se vende Micro Maxus G10",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-micro-maxus-g10-57463346",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-15T16:00:12.023Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "14",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57463345",
+    "title": "Se vende Micro Maxus G10",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-micro-maxus-g10-57463345",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-15T16:00:11.747Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "14",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "57462849",
+    "title": "Cheloret 54 de gasolina",
+    "price": 3000,
+    "currency": "USD",
+    "permalink": "/item/cheloret-54-de-gasolina-57462849",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-15T15:41:06.550Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 78
+   }
+  },
+  {
+   "node": {
+    "id": "57462135",
+    "title": "¡Oportunidad en La Habana! Se vende Nissan X-Trail 2024 impecable. Contacto: 55284713",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/oportunidad-en-la-habana-se-vende-nissan-x-trail-2024-impecable-contacto-55284713-57462135",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-15T15:18:06.819Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 7
+   }
+  },
+  {
+   "node": {
+    "id": "57461980",
+    "title": "Tucson 2021",
+    "price": 24000,
+    "currency": "USD",
+    "permalink": "/item/tucson-2021-57461980",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-15T15:13:11.520Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "57460091",
+    "title": "Si eres amante de los autos clásicos está es tu oportunidad!!!!!",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/si-eres-amante-de-los-autos-clasicos-esta-es-tu-oportunidad-57460091",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-15T14:12:04.977Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 116
+   }
+  },
+  {
+   "node": {
+    "id": "57459338",
+    "title": "*Hyundai Elantra 2019 ✨*  *Carro Ahorrador de Gasolina ⛽️*  Millas: 60.700 🛣️  *Precio: 20.500 USD*",
+    "price": 20500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-carro-ahorrador-de-gasolina-millas-60700-precio-20500-usd-57459338",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-15T13:47:16.129Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57458885",
+    "title": "Hyundai Santa Fe 2025",
+    "price": 46000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2025-57458885",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-28T16:30:54.339Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 63
+   }
+  },
+  {
+   "node": {
+    "id": "57458817",
+    "title": "💨🏎(( 58873843 )) En venta Honda  accord 2022 híbrido... con papeles en regla... 19mil millas...todo original, sistema",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/58873843-en-venta-honda-accord-2022-hibrido-con-papeles-en-regla-19mil-millastodo-original-sistema-57458817",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-15T13:28:06.388Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 28
+   }
+  },
+  {
+   "node": {
+    "id": "57458347",
+    "title": "Ioniq 6 2024 al detalle",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/ioniq-6-2024-al-detalle-57458347",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T13:10:28.952Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 58
+   }
+  },
+  {
+   "node": {
+    "id": "57458344",
+    "title": "❤️ VENDO CAMIÓN DEL 51 CON MECÁNICO DE MISUBICHI CANTER MOTOR Y CAJA DIFERENCIAL DE GASITO CARGA 5T ❤️",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/vendo-camion-del-51-con-mecanico-de-misubichi-canter-motor-y-caja-diferencial-de-gasito-carga-5t-57458344",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T19:55:43.552Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 345
+   }
+  },
+  {
+   "node": {
+    "id": "57457955",
+    "title": "Se vende maxus edeliver 3-LWB nuevo",
+    "price": 32000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-maxus-edeliver-3-lwb-nuevo-57457955",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-20T20:37:44.900Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57456591",
+    "title": "Carro eléctrico",
+    "price": 38500,
+    "currency": "USD",
+    "permalink": "/item/carro-electrico-57456591",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-15T12:14:22.734Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57456521",
+    "title": "Carro Hyundai Elantra 2019",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-elantra-2019-57456521",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-09-15T12:11:17.160Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "57454945",
+    "title": "Venta de carros",
+    "price": 27.3,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carros-57454945",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-15T10:00:57.826Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 37
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

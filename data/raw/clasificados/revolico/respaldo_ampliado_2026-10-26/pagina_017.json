@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "58097995",
+    "title": "En buen estado",
+    "price": 4800,
+    "currency": "USD",
+    "permalink": "/item/en-buen-estado-58097995",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-13T12:15:11.298Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "58097287",
+    "title": "52647273 oferta",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/52647273-oferta-58097287",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-13T11:10:02.424Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 5
+   }
+  },
+  {
+   "node": {
+    "id": "58097132",
+    "title": "⚡🚗 SE VENDE BYD YUAN UP 2025, 100% ELÉCTRICO 🚗⚡",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-byd-yuan-up-2025-100-electrico-58097132",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-13T10:55:49.739Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "58096901",
+    "title": "En 25 000 vendo o hago negocio un VANS MAXUS G10 del año 2023 al WhatsApp para enviarte fotos 63275756",
+    "price": 25,
+    "currency": "USD",
+    "permalink": "/item/en-25-000-vendo-o-hago-negocio-un-vans-maxus-g10-del-ano-2023-al-whatsapp-para-enviarte-fotos-63275756-58096901",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-13T10:14:25.981Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 13
+   }
+  },
+  {
+   "node": {
+    "id": "58096592",
+    "title": "*Hyundai Santa Fe Calligraphy🔥*  Año: 2022",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-ano-2022-58096592",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-13T08:37:25.682Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58096580",
+    "title": "🚗 SE VENDE carro Almendron  de petróleo 🚗",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-almendron-de-petroleo-58096580",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-13T08:34:52.989Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 64
+   }
+  },
+  {
+   "node": {
+    "id": "58095751",
+    "title": "✨ HONDA ACCORD SPORT 2022 ✨",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-sport-2022-58095751",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-24T17:30:48.569Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "58095735",
+    "title": "🔥🏁 DEALERDIGITAL | HYUNDAI ELANTRA N 2023 🏁🔥",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/dealerdigital-hyundai-elantra-n-2023-58095735",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T17:30:48.426Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "58094577",
+    "title": "Lada 1500 caja 4ta motor 03",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/lada-1500-caja-4ta-motor-03-58094577",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-13T03:04:43.896Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 152
+   }
+  },
+  {
+   "node": {
+    "id": "58093247",
+    "title": "Autos Importadora",
+    "price": 24711,
+    "currency": "USD",
+    "permalink": "/item/autos-importadora-58093247",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-13T01:45:36.946Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58092464",
+    "title": "Delta 3 clásic",
+    "price": 680,
+    "currency": "USD",
+    "permalink": "/item/delta-3-clasic-58092464",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-13T00:56:53.770Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58091605",
+    "title": "Vendo Toyota Yaris 2005 de 4 puertas.",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/vendo-toyota-yaris-2005-de-4-puertas-58091605",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-13T00:13:55.350Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "11",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58091440",
+    "title": "Kia Seltos 2025",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/kia-seltos-2025-58091440",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-13T00:03:32.989Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "58090091",
+    "title": "🚗 ¡SE VENDE DONGFENG ELÉCTRICO! | COMO NUEVO (3,000 KM) ⚡🔋(2026)",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-dongfeng-electrico-como-nuevo-3000-km-2026-58090091",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-12T22:44:16.915Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58089788",
+    "title": "🚨 JOYA DE COLECCIÓN EN VENTA EN LA HABANA 🚨 DODGE KINGSWAY CUSTOM V8 AUTOMÁTICO — 1959 - UNICO EN CUBA -480 UNIDADES🌍",
+    "price": 39500,
+    "currency": "USD",
+    "permalink": "/item/joya-de-coleccion-en-venta-en-la-habana-dodge-kingsway-custom-v8-automatico-1959-unico-en-cuba-480-unidades-58089788",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-14T14:30:38.444Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 66
+   }
+  },
+  {
+   "node": {
+    "id": "58089144",
+    "title": "Hyundai ioniq 6 2024",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-6-2024-58089144",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-20T18:06:39.122Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58089069",
+    "title": "🚗 ¡SE VENDE DONGFENG ELÉCTRICO! | COMO NUEVO (3,000 KM) ⚡🔋(2026)",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/se-vende-dongfeng-electrico-como-nuevo-3000-km-2026-58089069",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-18T20:37:39.241Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 34
+   }
+  },
+  {
+   "node": {
+    "id": "58088985",
+    "title": "HONDA ACCORD SPORT 2022 ¡Elegancia, deportividad y confort en un solo vehículo!",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-sport-2022-elegancia-deportividad-y-confort-en-un-solo-vehiculo-58088985",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T21:34:31.808Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 32
+   }
+  },
+  {
+   "node": {
+    "id": "58088958",
+    "title": "Dongfeng eléctrico",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/dongfeng-electrico-58088958",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-23T21:52:24.363Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "58087581",
+    "title": "Palisade 2020",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/palisade-2020-58087581",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-23T12:42:50.861Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 126
+   }
+  },
+  {
+   "node": {
+    "id": "58087425",
+    "title": "✨ HONDA ACCORD SPORT 2022 ✨",
+    "price": 27000,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-sport-2022-58087425",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T11:15:28.347Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 50
+   }
+  },
+  {
+   "node": {
+    "id": "58087229",
+    "title": "Se vende Moskvich",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-moskvich-58087229",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-12T19:56:45.306Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 120
+   }
+  },
+  {
+   "node": {
+    "id": "58087080",
+    "title": "Tico daewo a la venta",
+    "price": 6400,
+    "currency": "USD",
+    "permalink": "/item/tico-daewo-a-la-venta-58087080",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-12T19:50:38.249Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 41
+   }
+  },
+  {
+   "node": {
+    "id": "58087081",
+    "title": "Tico daewo a la venta",
+    "price": 6400,
+    "currency": "USD",
+    "permalink": "/item/tico-daewo-a-la-venta-58087081",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-12T19:50:38.678Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 173
+   }
+  },
+  {
+   "node": {
+    "id": "58086155",
+    "title": "Hyundai atos 2008",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-atos-2008-58086155",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-23T12:42:49.256Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 174
+   }
+  },
+  {
+   "node": {
+    "id": "58085988",
+    "title": "Vendo o NEGOCIO",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-58085988",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T18:54:57.398Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 35
+   }
+  },
+  {
+   "node": {
+    "id": "58085794",
+    "title": "Hyundai Santa Fe Calligraphy",
+    "price": 33400,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-58085794",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-26T13:50:40.308Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58085482",
+    "title": "Carro en venta somos de la habana",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/carro-en-venta-somos-de-la-habana-58085482",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-12T18:33:16.783Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 95
+   }
+  },
+  {
+   "node": {
+    "id": "58085140",
+    "title": "Piezas para LADA 2107",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/piezas-para-lada-2107-58085140",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-12T18:21:11.191Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58084931",
+    "title": "Lada 2107 del 2000 en circulación",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-del-2000-en-circulacion-58084931",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-25T02:40:54.272Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 280
+   }
+  },
+  {
+   "node": {
+    "id": "58084523",
+    "title": "⤴️SE VENDE DONGFENG ELÉCTRICO (3000KM) ✨",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-dongfeng-electrico-3000km-58084523",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-19T20:28:44.515Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "58084129",
+    "title": "🚗🔥 ¡OPORTUNIDAD! HYUNDAI ATOS 2009 EN VENTA 🔥🚗",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/oportunidad-hyundai-atos-2009-en-venta-58084129",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-21T20:05:09.464Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 129
+   }
+  },
+  {
+   "node": {
+    "id": "58083689",
+    "title": "Vendo Triunfo con mecánica de Lada",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/vendo-triunfo-con-mecanica-de-lada-58083689",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-12T17:27:10.618Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 68
+   }
+  },
+  {
+   "node": {
+    "id": "58082361",
+    "title": "KIA PICANTO 2026",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-2026-58082361",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-12T16:37:39.905Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "58082274",
+    "title": "Sonata d 16,vendo o recojo menor y vuelto vuelto",
+    "price": 17500,
+    "currency": "USD",
+    "permalink": "/item/sonata-d-16vendo-o-recojo-menor-y-vuelto-vuelto-58082274",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-12T16:34:52.198Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 24
+   }
+  },
+  {
+   "node": {
+    "id": "58082267",
+    "title": "Coqueta",
+    "price": 210,
+    "currency": "USD",
+    "permalink": "/item/coqueta-58082267",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T16:19:51.024Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58082145",
+    "title": "Vendo o cambio Mercedes Benz 616diesel",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-o-cambio-mercedes-benz-616diesel-58082145",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-12T16:31:28.320Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "58082093",
+    "title": "Tico c aire acondicionado",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/tico-c-aire-acondicionado-58082093",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-12T16:29:57.936Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 110
+   }
+  },
+  {
+   "node": {
+    "id": "58082050",
+    "title": "Peugeot  301 del 18",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/peugeot-301-del-18-58082050",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-12T16:28:47.129Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 51
+   }
+  },
+  {
+   "node": {
+    "id": "58081913",
+    "title": "Vendó Mercedes Benz 616 diesel",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/vendo-mercedes-benz-616-diesel-58081913",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-12T16:24:54.668Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "58081777",
+    "title": "🚘 ¡HYUNDAI SONATA 2021!",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-sonata-2021-58081777",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-13T13:21:38.004Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 8
+   }
+  },
+  {
+   "node": {
+    "id": "58081223",
+    "title": "Lada 2107 del 2005",
+    "price": 7500,
+    "currency": "USD",
+    "permalink": "/item/lada-2107-del-2005-58081223",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-12T15:59:07.405Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 279
+   }
+  },
+  {
+   "node": {
+    "id": "58081185",
+    "title": "Santa Fe del 23",
+    "price": 31000,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-del-23-58081185",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-12T15:58:03.552Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58081125",
+    "title": "Santa Fe del 18",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/santa-fe-del-18-58081125",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-12T15:56:20.127Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "58081110",
+    "title": "Vendo o cambio carro Ford 51",
+    "price": 3500,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-cambio-carro-ford-51-58081110",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-10-12T15:55:47.792Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 19
+   }
+  },
+  {
+   "node": {
+    "id": "58080988",
+    "title": "Kia Rio 19",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-19-58080988",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-12T15:51:56.381Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "58080860",
+    "title": "🚗 ¡SE VENDE DONGFENG ELÉCTRICO! | COMO NUEVO (3,000 KM) ⚡🔋(2026)  Aprovecha esta oportunidad de movilidad eléctrica",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-dongfeng-electrico-como-nuevo-3000-km-2026-aprovecha-esta-oportunidad-de-movilidad-electrica-58080860",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T02:36:19.589Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "58080834",
+    "title": "Elantra del 18",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/elantra-del-18-58080834",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-12T15:46:06.319Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 17
+   }
+  },
+  {
+   "node": {
+    "id": "58080766",
+    "title": "Lada 1600",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/lada-1600-58080766",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-12T15:43:55.133Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "40",
+    "viewCount": 337
+   }
+  },
+  {
+   "node": {
+    "id": "58078867",
+    "title": "18500 Hyundai Sonata año 2018 en impecable color negro. El sedán ideal si buscas confort de gama alta, bajo consumo de",
+    "price": 18500,
+    "currency": "USD",
+    "permalink": "/item/18500-hyundai-sonata-ano-2018-en-impecable-color-negro-el-sedan-ideal-si-buscas-confort-de-gama-alta-bajo-consumo-de-58078867",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T13:58:12.849Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 79
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

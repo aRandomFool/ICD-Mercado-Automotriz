@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "57385240",
+    "title": "Tucson 2024 con solo 47 mil Km caminados. Carro de familia",
+    "price": 32.5,
+    "currency": "USD",
+    "permalink": "/item/tucson-2024-con-solo-47-mil-km-caminados-carro-de-familia-57385240",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-12T12:53:51.834Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 57
+   }
+  },
+  {
+   "node": {
+    "id": "57385163",
+    "title": "Hyundai Tucson 2024",
+    "price": 32.5,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2024-57385163",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-12T12:50:47.600Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57384431",
+    "title": "Venta de carros",
+    "price": 27260,
+    "currency": "USD",
+    "permalink": "/item/venta-de-carros-57384431",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-12T12:14:45.051Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 22
+   }
+  },
+  {
+   "node": {
+    "id": "57384417",
+    "title": "Se vende interesados al privado #52369834 Buen precio Listo para traspaso",
+    "price": 62000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-interesados-al-privado-52369834-buen-precio-listo-para-traspaso-57384417",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T12:14:05.438Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57384204",
+    "title": "Se vende Renault 19 5ta puerta, año 1992",
+    "price": 12500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-renault-19-5ta-puerta-ano-1992-57384204",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-12T12:00:54.768Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 12
+   }
+  },
+  {
+   "node": {
+    "id": "57383913",
+    "title": "Hyundai IONIQ 5 2023",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2023-57383913",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-02T17:01:07.411Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57383711",
+    "title": "🚨🚨 Atención Carros en super Ofertas🚨🚨",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/atencion-carros-en-super-ofertas-57383711",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-12T11:26:51.278Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57383657",
+    "title": "Se vende Peugeot 301",
+    "price": 15000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-peugeot-301-57383657",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-09-12T11:22:34.257Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 180
+   }
+  },
+  {
+   "node": {
+    "id": "57383380",
+    "title": "Se vende Auto Fiat 125P ( Polacon)",
+    "price": 4000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-auto-fiat-125p-polacon-57383380",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-12T10:58:54.257Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 189
+   }
+  },
+  {
+   "node": {
+    "id": "57382475",
+    "title": "Amplificador de Audio.",
+    "price": 50,
+    "currency": "USD",
+    "permalink": "/item/amplificador-de-audio-57382475",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-12T08:13:47.985Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 43
+   }
+  },
+  {
+   "node": {
+    "id": "57380631",
+    "title": "Renault 9 1987 lo vendo sin papeles",
+    "price": 1500,
+    "currency": "USD",
+    "permalink": "/item/renault-9-1987-lo-vendo-sin-papeles-57380631",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T03:46:02.534Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 143
+   }
+  },
+  {
+   "node": {
+    "id": "57380378",
+    "title": "Vendo tico",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/vendo-tico-57380378",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-12T03:26:12.352Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 364
+   }
+  },
+  {
+   "node": {
+    "id": "57380017",
+    "title": "Honda Prologue 2024. 100 % electrico",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/honda-prologue-2024-100-electrico-57380017",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-12T03:00:03.035Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 69
+   }
+  },
+  {
+   "node": {
+    "id": "57379977",
+    "title": "Moskvich 2140 de los buenos",
+    "price": 5000,
+    "currency": "USD",
+    "permalink": "/item/moskvich-2140-de-los-buenos-57379977",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-12T02:57:03.618Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "47",
+    "viewCount": 86
+   }
+  },
+  {
+   "node": {
+    "id": "57379478",
+    "title": "Camión Kenworth 2019",
+    "price": 50000,
+    "currency": "USD",
+    "permalink": "/item/camion-kenworth-2019-57379478",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-12T02:23:56.623Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "48",
+    "viewCount": 71
+   }
+  },
+  {
+   "node": {
+    "id": "57379452",
+    "title": "Toyota Yaris 2p del 2007.",
+    "price": 9000,
+    "currency": "USD",
+    "permalink": "/item/toyota-yaris-2p-del-2007-57379452",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-12T02:22:30.014Z",
+    "isPromoted": false,
+    "provinceId": "6",
+    "municipalityId": "50",
+    "viewCount": 180
+   }
+  },
+  {
+   "node": {
+    "id": "57379073",
+    "title": "Vendo Sandero Renault",
+    "price": 111111111111,
+    "currency": "USD",
+    "permalink": "/item/vendo-sandero-renault-57379073",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-12T01:57:10.432Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 47
+   }
+  },
+  {
+   "node": {
+    "id": "57378351",
+    "title": "Volkswagen Tiguan SE 2021 | 34 mil millas • 3 filas • Techo panorámico • Impecable",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-tiguan-se-2021-34-mil-millas-3-filas-techo-panoramico-impecable-57378351",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T16:18:13.230Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 82
+   }
+  },
+  {
+   "node": {
+    "id": "57378302",
+    "title": "Marca Nissan 2024 P0666-AV013",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/marca-nissan-2024-p0666-av013-57378302",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T04:50:20.989Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 59
+   }
+  },
+  {
+   "node": {
+    "id": "57378086",
+    "title": "Hyundai Elantra 2019 P0661-AV013",
+    "price": 20000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-p0661-av013-57378086",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-26T04:50:10.762Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 93
+   }
+  },
+  {
+   "node": {
+    "id": "57378046",
+    "title": "Hyundai IONIQ 5 2024 P0660-AV013",
+    "price": 38200,
+    "currency": "USD",
+    "permalink": "/item/hyundai-ioniq-5-2024-p0660-av013-57378046",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-10-26T04:52:48.511Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 54
+   }
+  },
+  {
+   "node": {
+    "id": "57378040",
+    "title": "Moskvitch Clásico",
+    "price": 5200,
+    "currency": "USD",
+    "permalink": "/item/moskvitch-clasico-57378040",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-16T17:50:08.261Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "38",
+    "viewCount": 153
+   }
+  },
+  {
+   "node": {
+    "id": "57377109",
+    "title": "Lexus RC 2021 · RC 350 F SPORT",
+    "price": 36000,
+    "currency": "USD",
+    "permalink": "/item/lexus-rc-2021-rc-350-f-sport-57377109",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-09-11T23:41:31.509Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57376624",
+    "title": "Excelente opciones de Hyundai",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/excelente-opciones-de-hyundai-57376624",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-13T05:06:45.629Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57376067",
+    "title": "Kit todo en uno infinity 6 con 15  4500 usd con transporte incluido en toda la Habana 🚗 garantía 30 días",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/kit-todo-en-uno-infinity-6-con-15-4500-usd-con-transporte-incluido-en-toda-la-habana-garantia-30-dias-57376067",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-21T21:31:31.746Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "42",
+    "viewCount": 60
+   }
+  },
+  {
+   "node": {
+    "id": "57375807",
+    "title": "Vendo fiat 125",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/vendo-fiat-125-57375807",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T22:23:52.920Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 179
+   }
+  },
+  {
+   "node": {
+    "id": "57373720",
+    "title": "Se vende carro eléctrico prácticamente nuevo !!",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-electrico-practicamente-nuevo-57373720",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-11T20:29:26.425Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 36
+   }
+  },
+  {
+   "node": {
+    "id": "57372406",
+    "title": "Kit todo en uno infinity 6 con 15 4250 usd con 🚗",
+    "price": 4250,
+    "currency": "USD",
+    "permalink": "/item/kit-todo-en-uno-infinity-6-con-15-4250-usd-con-57372406",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-17T16:44:39.741Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57372270",
+    "title": "Marca Nissan 2024 Nuevo 0 kilometros  30 000 USD",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/marca-nissan-2024-nuevo-0-kilometros-30-000-usd-57372270",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-17T13:53:15.440Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57372245",
+    "title": "Marca Toyota 2024 38000 USD, ya con chapa.",
+    "price": 38000,
+    "currency": "USD",
+    "permalink": "/item/marca-toyota-2024-38000-usd-ya-con-chapa-57372245",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-17T13:53:15.657Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 11
+   }
+  },
+  {
+   "node": {
+    "id": "57372122",
+    "title": "HYUNDAI SANTA FE CALLIGRAPHY 2023",
+    "price": 36500,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-calligraphy-2023-57372122",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T15:15:30.726Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 29
+   }
+  },
+  {
+   "node": {
+    "id": "57371904",
+    "title": "HYUNDAI SANTA FE SE 2024",
+    "price": 37000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-se-2024-57371904",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-25T15:15:30.939Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 71
+   }
+  },
+  {
+   "node": {
+    "id": "57370873",
+    "title": "SE VENDE SKODA FABIA RANCHERA 2004",
+    "price": 10000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-skoda-fabia-ranchera-2004-57370873",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-11T18:28:26.016Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57370367",
+    "title": "Lada 2105 hecho 07",
+    "price": 8500,
+    "currency": "USD",
+    "permalink": "/item/lada-2105-hecho-07-57370367",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-11T18:10:18.456Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 186
+   }
+  },
+  {
+   "node": {
+    "id": "57370316",
+    "title": "Kia rio 2019",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/kia-rio-2019-57370316",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T18:08:27.295Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 110
+   }
+  },
+  {
+   "node": {
+    "id": "57370262",
+    "title": "Carro Infiniti Q50 3.0t 2019",
+    "price": 28500,
+    "currency": "USD",
+    "permalink": "/item/carro-infiniti-q50-30t-2019-57370262",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-11T18:06:35.560Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 33
+   }
+  },
+  {
+   "node": {
+    "id": "57369546",
+    "title": "Carro Hyundai Elantra 2019",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/carro-hyundai-elantra-2019-57369546",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-09-11T17:38:17.676Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": null,
+    "viewCount": 14
+   }
+  },
+  {
+   "node": {
+    "id": "57369240",
+    "title": "CARRO EN VENTA DFSK Glory 330S año 2025 con Garantía",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/carro-en-venta-dfsk-glory-330s-ano-2025-con-garantia-57369240",
+    "imagesCount": 9,
+    "updatedOnToOrder": "2026-09-11T17:26:44.969Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 30
+   }
+  },
+  {
+   "node": {
+    "id": "57369083",
+    "title": "Kia soluto 2025 con garantía asta 2027 y solo 7mil km",
+    "price": 17,
+    "currency": "USD",
+    "permalink": "/item/kia-soluto-2025-con-garantia-asta-2027-y-solo-7mil-km-57369083",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-11T17:20:47.810Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 134
+   }
+  },
+  {
+   "node": {
+    "id": "57369030",
+    "title": "Vendo o negocio, Hyundai palizada, 2021 callygrafhy",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/vendo-o-negocio-hyundai-palizada-2021-callygrafhy-57369030",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-20T18:37:48.491Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "31",
+    "viewCount": 75
+   }
+  },
+  {
+   "node": {
+    "id": "57368716",
+    "title": "Se vende Carro Nissan 2024",
+    "price": 30100,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-nissan-2024-57368716",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T17:06:31.683Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 9
+   }
+  },
+  {
+   "node": {
+    "id": "57368697",
+    "title": "Carro Nissan 2024",
+    "price": 30100,
+    "currency": "USD",
+    "permalink": "/item/carro-nissan-2024-57368697",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T17:05:53.279Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 15
+   }
+  },
+  {
+   "node": {
+    "id": "57368405",
+    "title": "Ganga camioneta Checrolet",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/ganga-camioneta-checrolet-57368405",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-11T16:56:19.496Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 192
+   }
+  },
+  {
+   "node": {
+    "id": "57366752",
+    "title": "Envíos a toda Cuba ✨",
+    "price": 7000,
+    "currency": "USD",
+    "permalink": "/item/envios-a-toda-cuba-57366752",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T15:58:27.812Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 112
+   }
+  },
+  {
+   "node": {
+    "id": "57366688",
+    "title": "Envíos a toda Cuba ✨",
+    "price": 19000,
+    "currency": "USD",
+    "permalink": "/item/envios-a-toda-cuba-57366688",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T15:55:49.335Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 73
+   }
+  },
+  {
+   "node": {
+    "id": "57366464",
+    "title": "Envíos a toda Cuba ✨",
+    "price": 25500,
+    "currency": "USD",
+    "permalink": "/item/envios-a-toda-cuba-57366464",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-11T15:49:07.950Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 59
+   }
+  },
+  {
+   "node": {
+    "id": "57366307",
+    "title": "COMBUSTIBLE DISPONIBLE.",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/combustible-disponible-57366307",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-11T15:44:37.968Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "57366276",
+    "title": "Envíos a toda Cuba ✨",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/envios-a-toda-cuba-57366276",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-11T15:43:40.358Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 189
+   }
+  },
+  {
+   "node": {
+    "id": "57366109",
+    "title": "Camioneta de trabajo BAW 2025",
+    "price": 32500,
+    "currency": "USD",
+    "permalink": "/item/camioneta-de-trabajo-baw-2025-57366109",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-11T15:38:14.576Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "57365846",
+    "title": "No te quedes sin el tuyo 😉 buenas ofertas y con envío a toda Cuba..",
+    "price": 19500,
+    "currency": "USD",
+    "permalink": "/item/no-te-quedes-sin-el-tuyo-buenas-ofertas-y-con-envio-a-toda-cuba-57365846",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-11T15:31:11.605Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 88
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}

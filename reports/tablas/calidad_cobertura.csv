@@ -1,0 +1,83 @@
+﻿tipo,valor,n
+provincia,La Habana,3566
+provincia,Matanzas,84
+provincia,Artemisa,75
+provincia,Pinar del Río,54
+provincia,Mayabeque,40
+provincia,Villa Clara,32
+provincia,Holguín,30
+provincia,Cienfuegos,14
+provincia,Santiago de Cuba,12
+provincia,Sancti Spíritus,11
+provincia,Ciego de Ávila,10
+provincia,Camagüey,9
+provincia,Las Tunas,9
+provincia,Guantánamo,6
+provincia,Isla de la Juventud,3
+provincia,Granma,3
+marca,(sin marca),1231
+marca,hyundai,953
+marca,kia,246
+marca,lada,203
+marca,toyota,177
+marca,nissan,127
+marca,honda,110
+marca,chevrolet,95
+marca,volkswagen,94
+marca,bmw,70
+marca,fiat,61
+marca,mercedes-benz,45
+marca,peugeot,43
+marca,audi,38
+marca,geely,38
+marca,dongfeng,36
+marca,ford,35
+marca,renault,25
+marca,mitsubishi,25
+marca,moskvich,21
+marca,mg,21
+marca,daewoo,20
+marca,land rover,19
+marca,skoda,17
+marca,dodge,14
+marca,foton,13
+marca,plymouth,13
+marca,maxus,13
+marca,cadillac,12
+marca,seat,11
+marca,jeep,11
+marca,gmc,11
+marca,opel,10
+marca,chery,8
+marca,infiniti,8
+marca,porsche,7
+marca,baic,7
+marca,byd,7
+marca,jac,6
+marca,mini,5
+marca,subaru,5
+marca,gac,5
+marca,buick,4
+marca,volvo,4
+marca,isuzu,4
+marca,pontiac,3
+marca,haval,3
+marca,oldsmobile,2
+marca,aion,2
+marca,hino,2
+marca,changan,2
+marca,citroen,2
+marca,suzuki,2
+marca,jmc,2
+marca,mazda,2
+marca,chrysler,1
+marca,lexus,1
+marca,ssangyong,1
+marca,zotye,1
+marca,gaz,1
+marca,lamborghini,1
+marca,acura,1
+marca,maserati,1
+moneda,USD,3620
+moneda,(vacía),320
+moneda,CUP,18

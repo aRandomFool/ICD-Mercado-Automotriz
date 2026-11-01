@@ -1,0 +1,764 @@
+{
+ "pageInfo": {
+  "startCursor": null,
+  "endCursor": null,
+  "hasNextPage": true,
+  "hasPreviousPage": true,
+  "pageCount": 79
+ },
+ "edges": [
+  {
+   "node": {
+    "id": "56568841",
+    "title": "Nissan nv en 30mil usd holguin",
+    "price": 30000,
+    "currency": "USD",
+    "permalink": "/item/nissan-nv-en-30mil-usd-holguin-56568841",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-17T13:18:03.574Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 325
+   }
+  },
+  {
+   "node": {
+    "id": "56568387",
+    "title": "!HYUNDAI SANTA FE 2017 SPORT!",
+    "price": 21000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-santa-fe-2017-sport-56568387",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T13:47:20.766Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 221
+   }
+  },
+  {
+   "node": {
+    "id": "56564354",
+    "title": "🏁HONDA ACCORD 2️⃣0️⃣2️⃣1️⃣🏁 54006023",
+    "price": 28000,
+    "currency": "USD",
+    "permalink": "/item/honda-accord-2021-54006023-56564354",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-09T18:20:59.707Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 158
+   }
+  },
+  {
+   "node": {
+    "id": "56560372",
+    "title": "Precio lindooo  BMW X6 diésel 2016 mecanico ya en cuba con chapa y certifico , 54706699",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/precio-lindooo-30-mil-usd-bmw-x6-diesel-2016-mecanico-ya-en-cuba-con-chapa-y-certifico-54706699-56560372",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-14T16:03:50.377Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 237
+   }
+  },
+  {
+   "node": {
+    "id": "56557677",
+    "title": "Se vende Fiat 125 con mecánica de Lada, motor de fiat, caja 5ta, trato directo, soy la dueña al pv 58387810",
+    "price": 5500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-fiat-125-56557677",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-08-27T17:01:39.948Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 174
+   }
+  },
+  {
+   "node": {
+    "id": "56556072",
+    "title": "Maserati Ghibli 2017",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/maserati-ghibli-2017-56556072",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-21T19:48:11.587Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "56555958",
+    "title": "Shelby Cobra GT350",
+    "price": 65000,
+    "currency": "USD",
+    "permalink": "/item/shelby-cobra-gt350-56555958",
+    "imagesCount": 8,
+    "updatedOnToOrder": "2026-10-21T19:48:10.577Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 61
+   }
+  },
+  {
+   "node": {
+    "id": "56543268",
+    "title": "Se vende varios modelos de autos eléctricos y de combustible",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/se-vende-varios-modelos-de-autos-electricos-y-de-combustible-56543268",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-09-25T19:24:49.938Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 82
+   }
+  },
+  {
+   "node": {
+    "id": "56542423",
+    "title": "2026 AMG coupe Mercedes",
+    "price": 120000,
+    "currency": "USD",
+    "permalink": "/item/2026-amg-coupe-mercedes-56542423",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-21T19:48:09.555Z",
+    "isPromoted": false,
+    "provinceId": "4",
+    "municipalityId": "7",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "56538147",
+    "title": "Volkswsgen Golf de gasolina serie 2.",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/volkswsgen-golf-de-gasolina-serie-2-56538147",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-26T01:17:26.460Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 451
+   }
+  },
+  {
+   "node": {
+    "id": "56536280",
+    "title": "Carro marca daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-marca-daewoo-56536280",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T12:46:43.094Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 110
+   }
+  },
+  {
+   "node": {
+    "id": "56534740",
+    "title": "Vendo o cambio moscovich",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/vendo-o-cambio-moscovich-56534740",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-25T18:14:57.889Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 198
+   }
+  },
+  {
+   "node": {
+    "id": "56534138",
+    "title": "Hyundai palisade 2026",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-palisade-2026-56534138",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-08-28T23:50:51.599Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 184
+   }
+  },
+  {
+   "node": {
+    "id": "56532710",
+    "title": "Se vende auto Chery Arizo 5 del 2022",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/se-vende-auto-chery-arizo-5-del-2022-56532710",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-21T11:48:43.087Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 82
+   }
+  },
+  {
+   "node": {
+    "id": "56532339",
+    "title": "Kia Picanto GT LINE 2026",
+    "price": 25000,
+    "currency": "USD",
+    "permalink": "/item/kia-picanto-gt-line-2026-56532339",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-10T18:09:04.338Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 189
+   }
+  },
+  {
+   "node": {
+    "id": "56532258",
+    "title": "Moto y vuelto",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/moto-y-vuelto-56532258",
+    "imagesCount": 0,
+    "updatedOnToOrder": "2026-09-05T22:33:34.165Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "41",
+    "viewCount": 82
+   }
+  },
+  {
+   "node": {
+    "id": "56528296",
+    "title": "Carro ya en Cuba‼️‼️",
+    "price": 21500,
+    "currency": "USD",
+    "permalink": "/item/carro-ya-en-cuba-56528296",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-09-11T13:31:37.701Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 175
+   }
+  },
+  {
+   "node": {
+    "id": "56519286",
+    "title": "Daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/daewoo-56519286",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:49:35.256Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 106
+   }
+  },
+  {
+   "node": {
+    "id": "56519261",
+    "title": "Carro",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-56519261",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T14:17:38.153Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 192
+   }
+  },
+  {
+   "node": {
+    "id": "56519149",
+    "title": "Daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/daewoo-56519149",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:02:29.555Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 116
+   }
+  },
+  {
+   "node": {
+    "id": "56519137",
+    "title": "Carros",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carros-56519137",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:44:23.069Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 166
+   }
+  },
+  {
+   "node": {
+    "id": "56513975",
+    "title": "VENDO LADA 2101, motor 06 y caja 5ta.",
+    "price": 4500,
+    "currency": "USD",
+    "permalink": "/item/vendo-lada-2101-motor-06-y-caja-5ta-56513975",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-21T00:49:04.209Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 438
+   }
+  },
+  {
+   "node": {
+    "id": "56496106",
+    "title": "HYUNDAI TUCSON 2019",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/hyundai-tucson-2019-56496106",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-02T15:06:25.809Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 49
+   }
+  },
+  {
+   "node": {
+    "id": "56494156",
+    "title": "Vendo auto . Hyundai AToz 2008",
+    "price": 12000,
+    "currency": "USD",
+    "permalink": "/item/vendo-auto-hyundai-atoz-2008-56494156",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-20T15:49:48.050Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 133
+   }
+  },
+  {
+   "node": {
+    "id": "56480902",
+    "title": "🚗 HYUNDAI ELANTRA 2019 - 🚗 Hyundai Sonata 2019 - ENVÍO INCLUIDO",
+    "price": 18000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-hyundai-sonata-2019-envio-incluido-56480902",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-07T14:03:25.622Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 159
+   }
+  },
+  {
+   "node": {
+    "id": "56476452",
+    "title": "Auto",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/auto-56476452",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-07T10:13:28.001Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "44",
+    "viewCount": 46
+   }
+  },
+  {
+   "node": {
+    "id": "56473457",
+    "title": "‼️TUCSON DEL 2019‼️",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/tucson-del-2019-56473457",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-17T16:59:00.758Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 20
+   }
+  },
+  {
+   "node": {
+    "id": "56472951",
+    "title": "Camioneta Ford - F350 Diésel",
+    "price": null,
+    "currency": null,
+    "permalink": "/item/camioneta-ford-f350-diesel-56472951",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T19:28:10.174Z",
+    "isPromoted": false,
+    "provinceId": "2",
+    "municipalityId": "21",
+    "viewCount": 1028
+   }
+  },
+  {
+   "node": {
+    "id": "56469176",
+    "title": "⚡ Tipo: SUV 100 % eléctrico",
+    "price": 36200,
+    "currency": "USD",
+    "permalink": "/item/tipo-suv-100-electrico-56469176",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-05T13:32:23.486Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "37",
+    "viewCount": 21
+   }
+  },
+  {
+   "node": {
+    "id": "56468763",
+    "title": "Daewoo",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/daewoo-56468763",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T12:38:03.818Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 111
+   }
+  },
+  {
+   "node": {
+    "id": "56468507",
+    "title": "Carro",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-56468507",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:00:45.864Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 138
+   }
+  },
+  {
+   "node": {
+    "id": "56468433",
+    "title": "Carro",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-56468433",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T13:48:43.169Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 165
+   }
+  },
+  {
+   "node": {
+    "id": "56467741",
+    "title": "Moskvich 2140",
+    "price": 6500,
+    "currency": "USD",
+    "permalink": "/item/moskvich-2140-56467741",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-09T19:10:41.002Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 23
+   }
+  },
+  {
+   "node": {
+    "id": "56467274",
+    "title": "Jeep Willy techo duro",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/jeep-willy-techo-duro-56467274",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-24T23:41:51.564Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 906
+   }
+  },
+  {
+   "node": {
+    "id": "56467167",
+    "title": "VENTA AUTO BESTUNE NAT E05 100% ELÉCTRICO NUEVO",
+    "price": 1,
+    "currency": "USD",
+    "permalink": "/item/venta-auto-bestune-nat-e05-100-electrico-sin-estrenar-56467167",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-10-14T12:57:26.840Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 112
+   }
+  },
+  {
+   "node": {
+    "id": "56465028",
+    "title": "TUCSON 2019",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/tucson-2019-56465028",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-10-26T01:46:29.363Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 99
+   }
+  },
+  {
+   "node": {
+    "id": "56463670",
+    "title": "Volkswagen ID.4 2023",
+    "price": 35000,
+    "currency": "USD",
+    "permalink": "/item/volkswagen-id4-2023-56463670",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-24T15:07:52.879Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 64
+   }
+  },
+  {
+   "node": {
+    "id": "56463461",
+    "title": "Honda Pilot 2018-8 plazas",
+    "price": 45000,
+    "currency": "USD",
+    "permalink": "/item/honda-pilot-2018-56463461",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-10-07T09:08:37.590Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 160
+   }
+  },
+  {
+   "node": {
+    "id": "56462648",
+    "title": "Vendo Chevrolet 53 Bel Air exclusivo",
+    "price": 6000,
+    "currency": "USD",
+    "permalink": "/item/vendo-chevrolet-53-bel-air-exclusivo-56462648",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-25T14:55:46.365Z",
+    "isPromoted": false,
+    "provinceId": "3",
+    "municipalityId": "23",
+    "viewCount": 1257
+   }
+  },
+  {
+   "node": {
+    "id": "56461394",
+    "title": "Hyundai Tucson 2018",
+    "price": 23000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-tucson-2018-56461394",
+    "imagesCount": 10,
+    "updatedOnToOrder": "2026-10-19T16:58:36.276Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "43",
+    "viewCount": 145
+   }
+  },
+  {
+   "node": {
+    "id": "56457213",
+    "title": "Hyundai Elantra 2019",
+    "price": 22000,
+    "currency": "USD",
+    "permalink": "/item/hyundai-elantra-2019-56457213",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-09-27T12:16:05.204Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 52
+   }
+  },
+  {
+   "node": {
+    "id": "56452437",
+    "title": "2500 Almendron con papeles",
+    "price": 2500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-almendron-con-papeles-56452437",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-25T17:19:01.819Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 517
+   }
+  },
+  {
+   "node": {
+    "id": "56450751",
+    "title": "Fiat Tipo del 92",
+    "price": 8000,
+    "currency": "USD",
+    "permalink": "/item/fiat-tipo-del-92-56450751",
+    "imagesCount": 7,
+    "updatedOnToOrder": "2026-10-24T23:42:59.453Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "46",
+    "viewCount": 252
+   }
+  },
+  {
+   "node": {
+    "id": "56450394",
+    "title": "Venta de auto",
+    "price": 2300,
+    "currency": "USD",
+    "permalink": "/item/venta-de-auto-56450394",
+    "imagesCount": 3,
+    "updatedOnToOrder": "2026-09-28T17:22:53.174Z",
+    "isPromoted": false,
+    "provinceId": "8",
+    "municipalityId": "70",
+    "viewCount": 593
+   }
+  },
+  {
+   "node": {
+    "id": "56449936",
+    "title": "Carro VV DEL 2020",
+    "price": 17000,
+    "currency": "USD",
+    "permalink": "/item/carro-vv-del-2020-56449936",
+    "imagesCount": 4,
+    "updatedOnToOrder": "2026-10-21T10:07:06.856Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "36",
+    "viewCount": 95
+   }
+  },
+  {
+   "node": {
+    "id": "56449758",
+    "title": "Se  vende carro con mecánica de lada",
+    "price": 2500,
+    "currency": "USD",
+    "permalink": "/item/se-vende-carro-con-mecanica-de-lada-56449758",
+    "imagesCount": 6,
+    "updatedOnToOrder": "2026-08-31T22:47:35.457Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "34",
+    "viewCount": 574
+   }
+  },
+  {
+   "node": {
+    "id": "56449411",
+    "title": "SUV HONDA 2021 CR-V",
+    "price": 29000,
+    "currency": "USD",
+    "permalink": "/item/suv-honda-2021-56449411",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-25T01:39:26.296Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "45",
+    "viewCount": 255
+   }
+  },
+  {
+   "node": {
+    "id": "56447687",
+    "title": "Carro",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carro-56447687",
+    "imagesCount": 2,
+    "updatedOnToOrder": "2026-10-26T12:58:47.780Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 159
+   }
+  },
+  {
+   "node": {
+    "id": "56447665",
+    "title": "Carros",
+    "price": 11000,
+    "currency": "USD",
+    "permalink": "/item/carros-56447665",
+    "imagesCount": 5,
+    "updatedOnToOrder": "2026-10-23T03:48:22.548Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "39",
+    "viewCount": 130
+   }
+  },
+  {
+   "node": {
+    "id": "56444359",
+    "title": "〽️Arcfox T1 LV2 Full Eléctrico〽️",
+    "price": 33000,
+    "currency": "USD",
+    "permalink": "/item/arcfox-t1-lv2-full-electrico-56444359",
+    "imagesCount": 1,
+    "updatedOnToOrder": "2026-09-16T20:31:26.642Z",
+    "isPromoted": false,
+    "provinceId": "1",
+    "municipalityId": "35",
+    "viewCount": 58
+   }
+  }
+ ],
+ "meta": {
+  "total": 3946
+ }
+}
