@@ -1,0 +1,12 @@
+{
+  "fuente": "entrevistas",
+  "requerido": [
+    "combustible_mensual_cup_usd",
+    "repuestos_mensual",
+    "mantenimiento_preventivo_anual",
+    "seguro_tramites",
+    "otros",
+    "moneda"
+  ],
+  "notas": "No se inventan valores. Completar tras transcripción/validación."
+}
