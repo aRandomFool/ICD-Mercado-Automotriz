@@ -1,0 +1,406 @@
+*Estas entrevistas ya estan procesadas para un mejor analisis, no son las respuestas exactas que se obtuvieron de las personas
+*Hubo personas que se negaron a permitir que grabara la conversacion o a dar datos personales
+Preguntas:
+1- Cual es la marca y el modelo de su auto?
+2- Cual es el uso principal que le da?
+3- En un mes normal, aproximadamente cuantos litros de gasolina necesita para su uso?
+4- Como adquiere el combustible habitualmente?
+5- Cual es el precio por litro que paga en estos momentos?
+6- Con que frecuencia realiza mantenimiento preventivo?
+7- Donde realiza el mantenimiento?
+8- Como calificaria la dificultad para conseguir piezas de repuesto para su auto?
+9- Donde suele conseguir las piezas?
+10- Puede darme un estimado de cuanto es su gasto anual en reparaciones y mantenimiento?
+11- Aparte del combustible y el mantenimiento, que otros gastos mensuales o anuales implica el tener un auto? Cual es el costo correspondiente?
+
+Entrevista 1
+1- Camion Chevrolet 1954
+2- Carga de mercancia
+3- 2.2 kilometros por litro, desde 40 litros diarios hasta 100 o 200 litros diarios
+4- Mipymes
+5- 2, 2.10, 2.30 USD
+6- *No declarado*
+7- En la casa o mecanico personal
+8- Alta
+9- Mipymes, importadas, locales de ventas
+10- No puedo dar un estimado pero diria que es bastante elevado.
+11- Ninguno
+
+Entrevista 2
+1- Chevrolet 55
+2- Uso propio
+3- 20-25 litros mensuales
+4- Mipymes
+5- 2.30 USD
+6- Cada 10000 km
+7- En la casa
+8- Alta en dependencia de la pieza rota
+9- En las Mipymes
+10- 15k,20k,30k CUP (19,25,38 USD tasa de cambio 788 CUP = 1 USD)
+11- Ninguno
+
+Entrevista 3
+1- Kia Picanto
+2- Uso personal
+3- 20-25 litros
+4- *no declarado*
+5- 2.5 USD aproximadamente
+6- cada 6 meses
+7- En las Mipymes
+8- Baja, pero precios elevados
+9- Mipymes o importadas
+10- 200 USD anual
+11- Ninguno
+
+Entrevista 4
+1- Lada 2101
+2- Uso personal
+3- 80 litros mensuales
+4- *no declarado*
+5- 2.60 USD
+6- Anual
+7- En una agencia
+8- precios elevados
+9- Entidades privadas, paginas de facebook 
+10- 200-300 USD
+11- Ninguno
+
+Entrevista 5
+1- BYD F3 
+2- Trabajo
+3- 60-80 litros mensuales
+4- *no declarado*
+5-*no declarado*
+6- 8000-10000 kilometros
+7- *no declarado*
+8- Complejo
+9- Importadoras
+10- 2000-3000 USD
+11- Ninguno
+
+Entrevista 6
+1- Peugeot 301
+2- Traslado personal
+3- 20 litros
+4- Por la calle
+5- 2.0-3.0 USD
+6- Cada 1 semana
+7- En la casa
+8- Dificultad alta y precios elevados
+9- En internet
+10- 300-400 USD aproximadamente pero ha llegado hasta 1000 USD
+11- Ninguno
+
+Entrevista 7
+1- Lada 2107
+2- Uso personal
+3- 80-90 litros
+4- CUPET
+5- 2.20-2.70 USD
+6- Cada 5000 kilometros
+7- Mecanico privado
+8- Alta
+9- Importadores y reddes sociales
+10- 2000-3000 USD
+11- Ninguno
+
+Entrevista 8
+1- Kia Picanto
+2- Uso personal
+3- 100 litros
+4- Se compra en las Mipymes
+5- 2.0-2.40 USD
+6- Cada 10000 km aproximadamente pero tambien hay un mantenimiento diario
+7- Lo hago yo mismo
+8- Alta
+9- Mipymes a un alto costo o traidas del extranjero
+10- No menos de 200 USD
+11- Costo de los neumaticos que puede llegar desde 60-80 USD y baterias a 300 USD
+
+Entrevista 9
+1- Lada 2107
+2- Uso personal y mandados
+3- 60–70 litros mensuales
+4- CUPET y a veces por la calle
+5- 2.20–2.60 USD
+6- Cada 8000 km aproximadamente
+7- Mecánico privado
+8- Alta, sobre todo piezas de motor y eléctricas
+9- Mipymes y contactos que las importan
+10- 300–500 USD anuales
+11- Ninguno
+
+Entrevista 10
+1- Hyundai Accent
+2- Traslado al trabajo
+3- 50–60 litros mensuales
+4- Mipymes
+5- 2.30–2.50 USD
+6- Cada 6 meses
+7- Taller
+8- Alta, depende de la pieza
+9- Mipymes e importadoras
+10- 300–400 USD anuales
+11- Ninguno
+
+Entrevista 11
+1- Kia Rio
+2- Uso personal
+3- 30–40 litros mensuales
+4- Por la calle y en Mipymes
+5- 2.40–2.70 USD
+6- Cada 10000 km
+7- Taller
+8- Precios elevados mas que dificultad
+9- Internet o Mipymes
+10- 400–600 USD 
+11- Ninguno
+
+Entrevista 12
+1- Geely CK
+2- traslado personal
+3- 25–30 litros mensuales
+4- Mipymes
+5- 2.30–2.50 USD
+6- Cada 6 meses
+7- En la casa con mecánico
+8- Hay piezas pero caras
+9- Mipymes
+10- 200–350 USD anuales
+11- Ninguno
+
+Entrevista 13
+1- Lada 2105
+2- Trabajo y uso diario
+3- 90–100 litros mensuales
+4- CUPET
+5- 2.20–2.60 USD
+6- Cada 10000 km
+7- Mecánico personal
+8- Alta
+9- Redes sociales e importadores
+10- 1000–2000 USD anuales
+11- Ninguno
+
+Entrevista 14
+1- Peugeot 301
+2- Uso personal y trabajo
+3- 50–60 litros mensuales
+4- Mipymes
+5- 2.50 USD aproximadamente
+6- Cada 10000 km
+7- Taller
+8- Alta, piezas caras
+9- Importadoras e internet
+10- 500–800 USD anuales
+11- Ninguno
+
+Entrevista 15
+1- Renault Logan
+2- Traslado personal
+3- 40–50 litros mensuales
+4- Mipymes y por la calle
+5- 2.40–2.70 USD
+6- Cada 8000 km
+7- Taller
+8- Alta
+9- Mipymes y redes
+10- 400–700 USD anuales
+11- Ninguno
+
+Entrevista 16
+1- Chery QQ
+2- Uso personal
+3- 25–30 litros mensuales
+4- Mipymes
+5- 2.30–2.60 USD
+6- Cada 6 meses
+7- Taller
+8- Alta, poca disponibilidad de piezas
+9- Importadores e internet
+10- 300–500 USD anuales
+11- Ninguno
+
+Entrevista 17
+1- BYD
+2- Uso personal 
+3- 40–50 litros mensuales
+4- Mipymes
+5- 2.30–2.50 USD
+6- Cada 5000–10000 km
+7- En la casa con mecánico
+8- Alta
+9- Consigo los repuestos por encargo a amigos que tengo en el exterior
+10- 400 USD anuales
+11- Ninguno
+
+Entrevista 18
+1- Kia Picanto
+2- Uso personal
+3- 20–30 litros mensuales
+4- Mipymes
+5- 2.40–2.60 USD
+6- Cada 6 meses
+7- Mecanico personal
+8- Alta y precios elevados
+9- Internet e importadoras
+10- 350–600 USD anuales
+11- Ninguno
+
+Entrevista 19
+1- Lada Niva
+2- Trabajo
+3- 100–120 litros mensuales
+4- CUPET y Mipymes
+5- 2.20–2.60 USD
+6- Cada 5000 km
+7- En la casa con mecánico
+8- Alta, aunque se consiguen siempre por precios elevados
+9- Mipymes y redes
+10- 800–1500 USD anuales
+11- Ninguno
+
+Entrevista 20
+1- Hyundai Atos
+2- Uso personal, pero le doy poco uso, principalmente para cosas importantes
+3- 25–35 litros mensuales
+4- Mipymes
+5- 2.30–2.50 USD
+6- Cada 6 meses
+7- En la casa con mecánico
+8- Alta
+9- Mipymes y redes
+10- 200–400 USD anuales
+11- Ninguno
+
+Entrevista 21
+1- Geely Emgrand
+2- Trabajo y traslado
+3- 60–70 litros mensuales
+4- Mipymes
+5- 2.40–2.70 USD
+6- Cada 10000 km
+7- Taller
+8- Alta, precios elevados
+9- Importadoras y Mipymes
+10- 500–800 USD anuales
+11- Ninguno
+
+Entrevista 22
+1- Fiat Uno
+2- Uso personal
+3- 30–40 litros mensuales
+4- Por la calle y Mipymes
+5- 2.20–2.60 USD
+6- Cada 6 meses
+7- En la casa
+8- Alta, piezas escasas
+9- Internet y contactos
+10- 300–500 USD anuales
+11- Ninguno
+
+Entrevista 23
+1- Great Wall Deer
+2- Carga ligera y trabajo
+3- 100–130 litros mensuales
+4- Mipymes
+5- 2.40–2.70 USD
+6- Cada 5000 km
+7- Mecánico privado
+8- Muy alta
+9- Importadoras y redes
+10- 1000–1800 USD anuales
+11- Ninguno
+
+Entrevista 24
+1- Dongfeng Rich
+2- Carga
+3- 130–160 litros mensuales
+4- Mipymes
+5- 2.50–2.80 USD
+6- Cada 5000 km
+7- Taller 
+8- Alta
+9- Importadores y redes
+10- 1200–2000 USD anuales
+11- Ninguno
+
+Entrevista 25
+1- Lada 2106
+2- Uso personal
+3- 70–80 litros mensuales
+4- CUPET y Mipymes
+5- 2.20–2.50 USD
+6- Cada 5000–8000 km
+7- En la casa con mecánico
+8- Alta
+9- Mipymes, redes sociales e importadores
+10- 400–700 USD anuales
+11- Ninguno
+
+Entrevista 26
+1- Peugeot 206
+2- Uso personal y familiar
+3- 40–50 litros mensuales
+4- Mipymes
+5- 2.40–2.70 USD
+6- Cada 10000 km
+7- En la casa
+8- Alta
+9- Mipymes e importadoras
+10- 300–600 USD anuales
+11- Ninguno
+
+Entrevista 27
+1- Hyundai Elantra
+2- Uso personal
+3- 50–60 litros mensuales
+4- Mipymes
+5- 2.50–2.80 USD
+6- Mensual
+7- Taller
+8- Alta y piezas caras
+9- Mipymes
+10- 1000 USD anuales
+11- Ninguno
+
+Entrevista 28
+1- Renault 9
+2- Uso personal
+3- 45–55 litros mensuales
+4- CUPET y por la calle
+5- 2.20–2.50 USD
+6- Cada 10000 km
+7- En la casa
+8- Compleja
+9- Mipymes y contactos
+10- 300–500 USD anuales
+11- Ninguno
+
+Entrevista 29
+1- Kia Picanto
+2- Uso personal
+3- 40 litros mensuales
+4- Mipymes
+5- 2.20–2.40 USD
+6- Cada 6 meses
+7- En la casa con mecánico
+8- Bastante alta
+9- Mipymes y redes
+10- 200–400 USD anuales
+11- Ninguno
+
+Entrevista 30
+1- Geely eK
+2- Uso personal
+3- 80 litros mensuales
+4- Mipymes
+5- 2.40–2.70 USD
+6- Cada 8 000–10 000 km
+7- Taller privado
+8- Alta
+9- Importadoras y Mipymes
+10- 500–900 USD anuales
+11- Ninguno
+
+
