@@ -32,6 +32,9 @@ regla permanente: ver `README.md`.
 | 009 | 2026-10-11 | `009_2026-10-11_reverificacion_comercializadoras.md` | Re-verificación `.cu` + catálogo MCV (pymesbulevar) extraído con precios USD |
 | 010 | 2026-10-14 | `010_2026-10-14_cambio_preguntas_readme.md` | Cambio de Q2 (promedio) y Q9 (costo de mantener un auto) + README a 7 etapas |
 | 011 | 2026-11-01 | `011_2026-11-01_handoff_por_compactacion_de_contexto.md` | Handoff por compactación de contexto OpenCode (continuar plan Q1-Q9) |
+| 012 | 2026-11-05 | `012_2026-11-05_preparacion_web.md` | Preparación de la web: paquete de datos, figuras mal etiquetadas y deuda detectada |
+| 013 | 2026-11-05 | `013_2026-11-05_pagina_web_implementada.md` | Página web implementada, 9 interactivos y figuras 03/04/07 corregidas |
+| 014 | 2026-11-05 | `014_2026-11-05_reporte_tecnico_ampliado.md` | Reporte técnico 2.0: Q1–Q9, control de calidad, referencias y anexos |
 
 ---
 *Regla: al añadir una entrada, insertar la fila correspondiente al final de su

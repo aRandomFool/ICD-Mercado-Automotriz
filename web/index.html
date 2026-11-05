@@ -1,0 +1,694 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dos caminos para comprar un carro en La Habana</title>
+  <meta name="description" content="Historia de datos sobre el mercado automotriz de La Habana: precios del canal formal e informal, municipios, marcas, antigüedad y costo de mantenimiento.">
+  <meta name="theme-color" content="#FAF7F2">
+  <link rel="stylesheet" href="assets/css/estilos.css">
+</head>
+<body>
+  <a class="saltar" href="#contenido">Saltar al contenido</a>
+  <div class="progreso" aria-hidden="true"><span id="progreso"></span></div>
+
+  <header class="portada" id="inicio">
+    <div class="contenedor">
+      <p class="eyebrow">Ciencia de Datos · Universidad de La Habana · 2026</p>
+      <h1>Dos caminos para comprar un carro en La Habana</h1>
+      <p class="dek">El catálogo formal y los precios pedidos en Revolico cuentan dos historias distintas. Esta página las pone lado a lado, con datos reales y sus límites a la vista.</p>
+
+      <dl class="cifras" aria-label="Cifras de la investigación">
+        <div><dt>Anuncios analizados</dt><dd>3.566</dd></div>
+        <div><dt>Con precio válido</dt><dd>2.703</dd></div>
+        <div><dt>Modelos formales</dt><dd>83</dd></div>
+        <div><dt>Entrevistas</dt><dd>30</dd></div>
+      </dl>
+
+      <div class="caminos">
+        <article class="camino camino--informal">
+          <p class="camino__etiqueta">Camino informal</p>
+          <h2>Revolico</h2>
+          <p>Precios pedidos, no de cierre. Usados, nuevos y ofertas mezcladas, con información incompleta.</p>
+          <p class="camino__dato">3.566 anuncios · 2.703 con precio válido</p>
+        </article>
+        <article class="camino camino--formal">
+          <p class="camino__etiqueta">Camino formal</p>
+          <h2>Comercializadoras</h2>
+          <p>Precios de lista. Catálogo pequeño, modelos nuevos y una canasta distinta en cada entidad.</p>
+          <p class="camino__dato">83 modelos · 4 entidades · 11 marcas</p>
+        </article>
+      </div>
+
+      <p class="portada__nota">No se inventan datos: lo que falta queda como ausente y se excluye del cálculo correspondiente. Cada bloque declara su fuente, su muestra y sus sesgos.</p>
+    </div>
+  </header>
+
+  <nav class="indice" aria-label="Índice de la historia">
+    <div class="contenedor indice__interior">
+      <span class="indice__titulo">La historia</span>
+      <ol>
+        <li><a href="#bloque-1">Precio</a></li>
+        <li><a href="#bloque-2">Brecha</a></li>
+        <li><a href="#bloque-3">Dónde</a></li>
+        <li><a href="#bloque-4">Municipios</a></li>
+        <li><a href="#bloque-5">Marcas</a></li>
+        <li><a href="#bloque-6">Catálogo</a></li>
+        <li><a href="#bloque-7">Canales</a></li>
+        <li><a href="#bloque-8">Años</a></li>
+        <li><a href="#bloque-9">Mantenimiento</a></li>
+        <li><a href="#bloque-10">Checklist</a></li>
+        <li><a href="#bloque-11">Cierre</a></li>
+      </ol>
+    </div>
+  </nav>
+
+  <main id="contenido">
+    <!-- BLOQUE 1 -->
+    <section class="bloque" id="bloque-1" aria-labelledby="t1">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">01</p>
+          <h2 id="t1">¿Cuánto cuesta un carro en La Habana?</h2>
+          <p class="entradilla">Depende de por dónde entres. El catálogo formal y Revolico no venden lo mismo, ni al mismo precio, ni con la misma información.</p>
+        </header>
+
+        <div class="prosa">
+          <p>Si estás pensando en comprar un carro en La Habana, te enfrentas a dos mapas. En el catálogo formal ves precios de lista, modelos nuevos y una oferta pequeña. En Revolico ves lo que la gente pide por autos usados —y no tan usados—, con datos incompletos y márgenes de negociación que no aparecen en el anuncio.</p>
+          <p>La mediana del mercado informal es <strong>22.000 USD</strong>; la del formal, <strong>32.699 USD</strong>. La diferencia es real en los datos, pero no significa que el mismo carro cueste distinto: son canales, productos y momentos diferentes.</p>
+        </div>
+
+        <figure class="figura">
+          <img src="img/01_brecha_formal_vs_informal.png" alt="Gráfico de barras: precio mediano informal de 22.000 USD con 2.703 anuncios, frente a 32.699 USD formal con 83 modelos; la brecha es de 10.699 USD." width="1375" height="955" decoding="async">
+          <figcaption>Precio mediano por canal, con precios válidos entre 1.000 y 999.999 USD. Los precios de Revolico son pedidos; los del catálogo, de lista o referencia.</figcaption>
+        </figure>
+
+        <section class="interactivo" aria-labelledby="t-presupuesto">
+          <header class="interactivo__cabecera">
+            <p class="interactivo__etiqueta">Prueba tú</p>
+            <h3 id="t-presupuesto">Mi presupuesto</h3>
+            <p>Mueve el control y mira qué parte del mercado informal queda a tu alcance, qué marcas aparecen y cuántos modelos formales entran.</p>
+          </header>
+
+          <div class="control">
+            <label for="presupuesto">Presupuesto en USD</label>
+            <div class="control__fila">
+              <input type="range" id="presupuesto" min="2000" max="80000" step="500" value="20000">
+              <output for="presupuesto" id="presupuesto-valor" class="control__valor">20.000 USD</output>
+            </div>
+          </div>
+
+          <div class="resultado" aria-live="polite">
+            <p class="resultado__grande"><span id="presupuesto-pct">45,2 %</span> <span class="resultado__sufijo">de los anuncios con precio válido</span></p>
+            <p id="presupuesto-resumen" class="resultado__texto">1.223 anuncios informales dentro del presupuesto.</p>
+            <div class="columnas">
+              <div>
+                <h4>Marcas con más anuncios en tu rango</h4>
+                <ul id="presupuesto-marcas" class="lista-barras"></ul>
+              </div>
+              <div class="tarjeta-cifra">
+                <p class="tarjeta-cifra__numero" id="presupuesto-formales">7</p>
+                <p class="tarjeta-cifra__texto">modelos formales dentro del presupuesto, de 83</p>
+              </div>
+            </div>
+          </div>
+          <p class="interactivo__nota">Base: 2.703 anuncios con precio válido (1.000–999.999 USD). Los anuncios sin precio y los precios marcador no entran en el porcentaje.</p>
+        </section>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a> y catálogos de <a href="https://bdcone.online" target="_blank" rel="noopener noreferrer">BDC ONE</a>, <a href="https://dongfengqba.com" target="_blank" rel="noopener noreferrer">Dongfeng Cuba</a>, <a href="https://mcvcommercial.com" target="_blank" rel="noopener noreferrer">MCV Comercial</a> y <a href="https://cimex.cu" target="_blank" rel="noopener noreferrer">CIMEX</a>.</p>
+          <p><strong>Ojo.</strong> Precios pedidos frente a precios de lista; se excluyeron 584 precios marcador. No hay datos de cierre ni de negociación.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 2 -->
+    <section class="bloque" id="bloque-2" aria-labelledby="t2">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">02</p>
+          <h2 id="t2">Dos mercados, una brecha</h2>
+          <p class="entradilla">La brecha de 10.699 USD sobrevive a la limpieza de precios marcador. También sobrevive la advertencia: no son el mismo producto.</p>
+        </header>
+
+        <div class="prosa">
+          <p>Antes de comparar, limpiamos. Se excluyeron <strong>584 anuncios</strong> con precio no válido (581 por debajo de 1.000 USD y 3 por encima de 999.999) y <strong>279 sin precio</strong>. Quedan 2.703 anuncios informales y 83 modelos formales.</p>
+          <p>La mediana informal es <strong>22.000 USD</strong> y la formal <strong>32.699 USD</strong>: una brecha de <strong>10.699 USD</strong>. La media recortada al 10% informal es <strong>22.196 USD</strong>, casi igual a la mediana, así que la cola de precios extremos no mueve el centro.</p>
+        </div>
+
+        <section class="interactivo" aria-labelledby="t-variante">
+          <header class="interactivo__cabecera">
+            <p class="interactivo__etiqueta">Cambia la medida</p>
+            <h3 id="t-variante">Mediana o media recortada</h3>
+            <p>La mediana divide la muestra en dos. La media recortada al 10% elimina las colas y promedia el resto. Compara cuánto cambia la brecha.</p>
+          </header>
+
+          <div class="segmentado" role="group" aria-label="Medida de precio">
+            <button type="button" class="segmentado__boton activo" data-variante="mediana" aria-pressed="true">Mediana</button>
+            <button type="button" class="segmentado__boton" data-variante="recortada" aria-pressed="false">Media recortada 10%</button>
+          </div>
+
+          <div class="comparador" aria-live="polite">
+            <div class="comparador__lado">
+              <p class="comparador__canal">Informal · Revolico</p>
+              <p class="comparador__numero" id="brecha-informal">22.000 USD</p>
+              <div class="barra"><span id="barra-informal" style="width:67%"></span></div>
+              <p class="comparador__n">n = 2.703</p>
+            </div>
+            <div class="comparador__lado">
+              <p class="comparador__canal">Formal · comercializadoras</p>
+              <p class="comparador__numero" id="brecha-formal">32.699 USD</p>
+              <div class="barra"><span id="barra-formal" style="width:100%"></span></div>
+              <p class="comparador__n">n = 83</p>
+            </div>
+          </div>
+          <p class="comparador__diferencia">Brecha: <strong id="brecha-diferencia">10.699 USD</strong> <span id="brecha-etiqueta">· medianas</span></p>
+          <p class="interactivo__nota">La media recortada formal (34.083 USD) se calcula con 83 modelos heterogéneos: es una referencia frágil, no un precio “típico” del canal.</p>
+        </section>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a> y catálogos de <a href="https://bdcone.online" target="_blank" rel="noopener noreferrer">BDC ONE</a>, <a href="https://dongfengqba.com" target="_blank" rel="noopener noreferrer">Dongfeng Cuba</a>, <a href="https://mcvcommercial.com" target="_blank" rel="noopener noreferrer">MCV Comercial</a> y <a href="https://cimex.cu" target="_blank" rel="noopener noreferrer">CIMEX</a>.</p>
+          <p><strong>Ojo.</strong> El informal mezcla usados, nuevos y ofertas; el formal es catálogo nuevo. Comparar canales no es comparar el mismo vehículo.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 3 -->
+    <section class="bloque" id="bloque-3" aria-labelledby="t3">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">03</p>
+          <h2 id="t3">Dónde se concentra la oferta</h2>
+          <p class="entradilla">La oferta no se reparte igual por La Habana. Tres municipios concentran más de la mitad de los anuncios.</p>
+        </header>
+
+        <div class="prosa">
+          <p>Playa concentra <strong>1.002 de 3.566 anuncios</strong> (28,1%). Playa y Centro Habana suman <strong>41,4%</strong>; con Plaza, <strong>51,4%</strong>. En el otro extremo, Regla registra 20 anuncios y Cotorro 47.</p>
+          <p>Esa concentración es una pista sobre dónde se publica, no necesariamente sobre dónde hay más autos disponibles para comprar.</p>
+        </div>
+
+        <figure class="figura">
+          <img src="img/a_estructura_concentracion_municipio.png" alt="Barras horizontales con los anuncios por municipio: Playa 1.002, Centro Habana 472, Plaza 360, Diez de Octubre 330 y el resto por debajo." width="1553" height="1169" loading="lazy" decoding="async">
+          <figcaption>Anuncios publicados por municipio en Revolico. El porcentaje se calcula sobre 3.566 anuncios.</figcaption>
+        </figure>
+
+        <section class="interactivo" aria-labelledby="t-municipio-conteo">
+          <header class="interactivo__cabecera">
+            <p class="interactivo__etiqueta">Tu municipio</p>
+            <h3 id="t-municipio-conteo">¿Cuántos anuncios hay donde vives?</h3>
+          </header>
+          <div class="control control--inline">
+            <label for="municipio-conteo">Municipio</label>
+            <select id="municipio-conteo"></select>
+          </div>
+          <div class="resultado resultado--compacto" aria-live="polite">
+            <p class="resultado__grande"><span id="mc-anuncios">1.002</span> <span class="resultado__sufijo">anuncios</span></p>
+            <p class="resultado__texto"><span id="mc-pct">28,1 %</span> del total de La Habana · <span id="mc-precio-n">763</span> con precio válido</p>
+            <p id="mc-calidad" class="calidad"></p>
+          </div>
+          <p class="interactivo__nota">Un municipio con pocos anuncios no implica que no haya mercado: implica que esta plataforma lo muestra menos.</p>
+        </section>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a>.</p>
+          <p><strong>Ojo.</strong> Sesgo de publicación por plataforma. Concentración de anuncios no equivale a mayor disponibilidad real de compra.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 4 -->
+    <section class="bloque" id="bloque-4" aria-labelledby="t4">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">04</p>
+          <h2 id="t4">Precios por municipio</h2>
+          <p class="entradilla">Entre los municipios con muestra suficiente, la mediana de los precios pedidos va de 13.000 a 28.000 USD.</p>
+        </header>
+
+        <div class="prosa">
+          <p>Entre los municipios con al menos 30 precios válidos, la mediana va de <strong>13.000 USD</strong> (La Lisa, n=96) a <strong>28.000 USD</strong> (Arroyo Naranjo, n=223): poco más del doble. Marianao queda en <strong>16.000 USD</strong> (n=81). Regla queda fuera del ranking por muestra insuficiente.</p>
+          <p>La diferencia puede reflejar el mix de marcas, modelos, años y estado de los autos de cada municipio, no solo la ubicación.</p>
+        </div>
+
+        <figure class="figura">
+          <img src="img/02_mediana_precio_por_municipio.png" alt="Barras horizontales del precio mediano por municipio: Arroyo Naranjo 28.000, Habana Vieja 26.800, Centro Habana 26.000, Playa 24.000 y La Lisa 13.000." width="1553" height="1170" loading="lazy" decoding="async">
+          <figcaption>Precio mediano por municipio, solo con n≥30 precios válidos. Cada barra indica su n.</figcaption>
+        </figure>
+
+        <section class="interactivo" aria-labelledby="t-municipio-precio">
+          <header class="interactivo__cabecera">
+            <p class="interactivo__etiqueta">Tu municipio</p>
+            <h3 id="t-municipio-precio">El detalle del precio</h3>
+          </header>
+          <div class="control control--inline">
+            <label for="municipio-precio">Municipio</label>
+            <select id="municipio-precio"></select>
+          </div>
+          <div class="resultado resultado--compacto" aria-live="polite">
+            <p class="resultado__grande"><span id="mp-mediana">24.000</span> <span class="resultado__sufijo">USD de mediana</span></p>
+            <p class="resultado__texto">Media recortada 10%: <strong id="mp-recortada">24.793 USD</strong> · rango intercuartílico: <strong id="mp-rango">15.000–35.000 USD</strong></p>
+            <p class="resultado__texto"><span id="mp-n">763</span> anuncios con precio válido</p>
+            <p id="mp-calidad" class="calidad"></p>
+          </div>
+          <p class="interactivo__nota">No se afirma causalidad territorial: un municipio más caro puede estar concentrando marcas o modelos más caros.</p>
+        </section>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a>.</p>
+          <p><strong>Ojo.</strong> Comparar municipios mezcla años, modelos, equipamiento y estado. “Más caro” no significa “el mismo carro cuesta más”.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 5 -->
+    <section class="bloque" id="bloque-5" aria-labelledby="t5">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">05</p>
+          <h2 id="t5">Qué marcas dominan la oferta y sus precios</h2>
+          <p class="entradilla">Hyundai lidera las publicaciones. Entre las marcas con muestra suficiente, BMW tiene la mediana más alta.</p>
+        </header>
+
+        <div class="prosa">
+          <p>Hyundai reúne <strong>872 anuncios</strong>, el 24,5% de 3.566. Le siguen Kia (220), Lada (192), Toyota (148) y Nissan (115). Pero <strong>1.110 anuncios (31,1%) no declaran marca</strong> y quedan fuera de cualquier análisis por marca.</p>
+          <p>Entre las marcas con n≥30, las medianas más altas son <strong>BMW (46.000 USD, n=33)</strong>, Dongfeng (35.000, n=32) y Honda (32.250, n=74); las más bajas, Fiat (5.500, n=51), Lada (6.500, n=161) y Volkswagen (8.950, n=76). Foton aparece con 50.000 USD, pero solo n=10: no se usa para ordenar.</p>
+        </div>
+
+        <figure class="figura">
+          <img src="img/03_precio_por_marca_informal.png" alt="Barras horizontales del precio mediano por marca en el mercado informal, solo marcas con n≥30. BMW 46.000, Dongfeng 35.000, Honda 32.250, Nissan 30.000, Hyundai 29.000 y el resto por debajo." width="1499" height="1140" loading="lazy" decoding="async">
+          <figcaption>Precio mediano por marca en Revolico, solo con n≥30 precios válidos. Cada barra indica su n.</figcaption>
+        </figure>
+
+        <figure class="figura">
+          <img src="img/a_estructura_concentracion_marca.png" alt="Barras horizontales con el top 12 de marcas por número de anuncios: Hyundai 872, Kia 220, Lada 192, Toyota 148." width="1475" height="1048" loading="lazy" decoding="async">
+          <figcaption>Top 12 de marcas identificadas por volumen de anuncios. Los 1.110 anuncios sin marca quedan fuera.</figcaption>
+        </figure>
+
+        <section class="interactivo" aria-labelledby="t-marca">
+          <header class="interactivo__cabecera">
+            <p class="interactivo__etiqueta">Explora una marca</p>
+            <h3 id="t-marca">Precio, muestra y calidad</h3>
+          </header>
+          <div class="control control--inline">
+            <label for="marca-select">Marca</label>
+            <select id="marca-select"></select>
+          </div>
+          <div class="resultado resultado--compacto" aria-live="polite">
+            <p class="resultado__grande"><span id="marca-mediana">29.000</span> <span class="resultado__sufijo">USD de mediana</span></p>
+            <p class="resultado__texto">Media recortada 10%: <strong id="marca-recortada">29.261 USD</strong> · rango: <strong id="marca-rango">2.800–100.000 USD</strong></p>
+            <p class="resultado__texto"><span id="marca-n">713</span> con precio válido de <span id="marca-anuncios">872</span> anuncios</p>
+            <p id="marca-calidad" class="calidad"></p>
+          </div>
+          <p class="interactivo__nota">Un precio alto no significa mejor auto: la marca, el año, el modelo y el estado se mezclan en cada anuncio.</p>
+        </section>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a>.</p>
+          <p><strong>Ojo.</strong> 31% de anuncios sin marca identificada, excluidos. Concentración de publicaciones no equivale a calidad ni a oferta real.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 6 -->
+    <section class="bloque" id="bloque-6" aria-labelledby="t6">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">06</p>
+          <h2 id="t6">Catálogo formal: qué hay y a qué precios</h2>
+          <p class="entradilla">83 modelos, 4 entidades y 11 marcas. Los precios de lista van de 10.645 a 79.125 USD.</p>
+        </header>
+
+        <div class="prosa">
+          <p>El catálogo formal reúne <strong>83 modelos</strong> de 4 entidades y 11 marcas. Los precios van de <strong>10.645 USD</strong> (Bestune Pony) a <strong>79.125 USD</strong> (Mercedes-Benz GLC Coupé). Mercedes-Benz tiene una mediana de 72.722 USD, pero con n=5: insuficiente para conclusiones.</p>
+          <p>Las entidades no se ordenan por precio porque venden canastas distintas: BDC ONE ofrece MG y Maxus; Dongfeng vende Dongfeng; MCV comercializa Mercedes-Benz, Changan, BAIC, Foton, DFSK y Bestune; CIMEX, Nissan y Toyota. Comparar sus medianas sería comparar productos diferentes.</p>
+        </div>
+
+        <figure class="figura">
+          <img src="img/07_catalogo_formal_por_entidad.png" alt="Diagrama de puntos con cada modelo del catálogo formal según su precio, agrupado por entidad. MCV Comercial tiene 37 modelos, Dongfeng 27, BDC ONE 13 y CIMEX 6; la línea naranja marca la mediana de cada entidad." width="1584" height="1017" loading="lazy" decoding="async">
+          <figcaption>Cada punto es un modelo del catálogo; la línea naranja es la mediana de la entidad. Las entidades no están ordenadas por precio.</figcaption>
+        </figure>
+
+        <figure class="figura">
+          <img src="img/03_precio_por_marca_formal.png" alt="Barras horizontales del precio mediano por marca en el catálogo formal: Mercedes-Benz 72.722, Foton 44.709, Dongfeng 32.383, MG 22.896; las marcas con n<5 se muestran en gris." width="1475" height="1048" loading="lazy" decoding="async">
+          <figcaption>Precio mediano por marca en el catálogo formal. Las barras grises tienen n&lt;5 y no deberían leerse como tendencia.</figcaption>
+        </figure>
+
+        <section class="interactivo" aria-labelledby="t-tabla">
+          <header class="interactivo__cabecera">
+            <p class="interactivo__etiqueta">Catálogo completo</p>
+            <h3 id="t-tabla">Filtra los 83 modelos</h3>
+            <p>Busca por marca, modelo o entidad. Ordena por precio si quieres ver los extremos.</p>
+          </header>
+          <div class="controles-tabla">
+            <div class="control">
+              <label for="tabla-buscar">Buscar</label>
+              <input type="search" id="tabla-buscar" placeholder="Ej. MG, Pony, MCV…" autocomplete="off">
+            </div>
+            <div class="control">
+              <label for="tabla-entidad">Entidad</label>
+              <select id="tabla-entidad"><option value="">Todas</option></select>
+            </div>
+            <div class="control">
+              <label for="tabla-marca">Marca</label>
+              <select id="tabla-marca"><option value="">Todas</option></select>
+            </div>
+            <div class="control">
+              <label for="tabla-orden">Orden</label>
+              <select id="tabla-orden">
+                <option value="precio-asc">Precio: menor a mayor</option>
+                <option value="precio-desc">Precio: mayor a menor</option>
+                <option value="marca">Marca y modelo</option>
+              </select>
+            </div>
+          </div>
+          <p class="tabla-conteo" id="tabla-conteo" aria-live="polite">83 modelos</p>
+          <div class="tabla-envoltura">
+            <table class="tabla">
+              <caption class="visualmente-oculto">Modelos del catálogo formal con entidad, marca, modelo, clase, propulsión y precio</caption>
+              <thead>
+                <tr>
+                  <th scope="col">Entidad</th>
+                  <th scope="col">Marca</th>
+                  <th scope="col">Modelo</th>
+                  <th scope="col">Clase</th>
+                  <th scope="col">Propulsión</th>
+                  <th scope="col" class="tabla__num">Precio USD</th>
+                </tr>
+              </thead>
+              <tbody id="tabla-cuerpo"></tbody>
+            </table>
+          </div>
+          <p class="interactivo__nota">“Microbús” y “Pickup” no se tratan como marcas en los gráficos por marca. Los precios son de lista o referencia, no de cierre.</p>
+        </section>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> <a href="https://bdcone.online" target="_blank" rel="noopener noreferrer">BDC ONE</a>, <a href="https://dongfengqba.com" target="_blank" rel="noopener noreferrer">Dongfeng Cuba</a>, <a href="https://mcvcommercial.com" target="_blank" rel="noopener noreferrer">MCV Comercial</a> y <a href="https://cimex.cu" target="_blank" rel="noopener noreferrer">CIMEX</a>.</p>
+          <p><strong>Ojo.</strong> Catálogo pequeño y no comparable entre entidades. Precios de lista; el catálogo es nuevo y el informal mezcla usados.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 7 -->
+    <section class="bloque" id="bloque-7" aria-labelledby="t7">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">07</p>
+          <h2 id="t7">El mismo nombre, dos precios</h2>
+          <p class="entradilla">Solo dos marcas tienen muestra suficiente en ambos canales. Y ni siquiera ellas venden el mismo vehículo.</p>
+        </header>
+
+        <div class="prosa">
+          <p>Solo <strong>Dongfeng</strong> y <strong>Foton</strong> tienen al menos 10 anuncios en cada canal. En Dongfeng, la mediana informal es <strong>35.000 USD</strong> (n=32) y la formal <strong>32.383 USD</strong> (n=27). En Foton, <strong>50.000 USD</strong> (n=10) frente a <strong>44.709 USD</strong> (n=15).</p>
+          <p>Que el informal esté por encima no significa que el mismo auto sea más caro: el catálogo formal es nuevo y el informal mezcla usados, versiones y estados. La comparación es de canales, no de vehículos.</p>
+        </div>
+
+        <figure class="figura">
+          <img src="img/04_comparacion_formal_vs_informal_por_marca.png" alt="Barras agrupadas por marca: Dongfeng informal 35.000 con n=32 frente a formal 32.383 con n=27; Foton informal 50.000 con n=10 frente a formal 44.709 con n=15." width="1466" height="1016" loading="lazy" decoding="async">
+          <figcaption>Comparación de medianas por marca, solo con n≥10 en ambos canales. Cada barra indica su n.</figcaption>
+        </figure>
+
+        <section class="interactivo" aria-labelledby="t-comparacion">
+          <header class="interactivo__cabecera">
+            <p class="interactivo__etiqueta">Compara con cautela</p>
+            <h3 id="t-comparacion">Las dos marcas comparables</h3>
+          </header>
+          <div class="control control--inline">
+            <label for="comparacion-select">Marca</label>
+            <select id="comparacion-select"></select>
+          </div>
+          <div class="comparador comparador--compacto" aria-live="polite">
+            <div class="comparador__lado">
+              <p class="comparador__canal">Informal</p>
+              <p class="comparador__numero" id="comp-inf-mediana">35.000 USD</p>
+              <p class="comparador__n"><span id="comp-inf-n">32</span> anuncios</p>
+            </div>
+            <div class="comparador__lado">
+              <p class="comparador__canal">Formal</p>
+              <p class="comparador__numero" id="comp-form-mediana">32.383 USD</p>
+              <p class="comparador__n"><span id="comp-form-n">27</span> modelos</p>
+            </div>
+          </div>
+          <p class="comparador__diferencia" id="comp-diferencia">Diferencia: 2.617 USD</p>
+          <p id="comp-calidad" class="calidad"></p>
+          <p class="interactivo__nota">No es el mismo vehículo, versión ni año. La muestra formal es pequeña y el catálogo es nuevo.</p>
+        </section>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a> y catálogos de <a href="https://bdcone.online" target="_blank" rel="noopener noreferrer">BDC ONE</a>, <a href="https://dongfengqba.com" target="_blank" rel="noopener noreferrer">Dongfeng Cuba</a>, <a href="https://mcvcommercial.com" target="_blank" rel="noopener noreferrer">MCV Comercial</a> y <a href="https://cimex.cu" target="_blank" rel="noopener noreferrer">CIMEX</a>.</p>
+          <p><strong>Ojo.</strong> Cruce parcial: solo 2 de 11 marcas. Muestras pequeñas y productos no equivalentes.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 8 -->
+    <section class="bloque" id="bloque-8" aria-labelledby="t8">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">08</p>
+          <h2 id="t8">Antigüedad del parque: clásicos, modernos y datos faltantes</h2>
+          <p class="entradilla">Casi la mitad de los anuncios no declara el año. Entre los que sí, el 96% son modernos.</p>
+        </header>
+
+        <div class="prosa">
+          <p>De 3.566 anuncios, <strong>1.821 declaran año</strong>. De ellos, <strong>69 son clásicos</strong> (&lt;2000) y <strong>1.752 modernos</strong> (≥2000): el 3,8% frente al 96,2%. Pero <strong>1.745 anuncios (48,9%) no declaran año</strong>, así que la composición real del parque ofertado es una incógnita.</p>
+          <p>Este dato es clave para leer cualquier precio: si no sabes el año, no sabes del todo qué estás comparando.</p>
+        </div>
+
+        <figure class="figura">
+          <img src="img/q5_clasicos_vs_modernos_conteo.png" alt="Barras horizontales: 1.745 anuncios sin año declarado (48,9%), 1.752 modernos (49,1%) y 69 clásicos (1,9%)." width="1466" height="863" loading="lazy" decoding="async">
+          <figcaption>Composición por año declarado. “Sin año” no es un dato faltante menor: es casi la mitad de la muestra.</figcaption>
+        </figure>
+
+        <figure class="figura">
+          <img src="img/q5_clasicos_vs_modernos_proporcion.png" alt="Barra apilada al 100%: clásicos 69 (3,8%) y modernos 1.752 (96,2%), sobre los 1.821 anuncios con año." width="1483" height="719" loading="lazy" decoding="async">
+          <figcaption>Proporción entre los 1.821 anuncios que sí declaran año. Clásico &lt; 2000; moderno ≥ 2000.</figcaption>
+        </figure>
+
+        <section class="interactivo" aria-labelledby="t-anio">
+          <header class="interactivo__cabecera">
+            <p class="interactivo__etiqueta">Filtra la muestra</p>
+            <h3 id="t-anio">Con año o sin año</h3>
+          </header>
+          <div class="segmentado" role="group" aria-label="Filtrar por año declarado">
+            <button type="button" class="segmentado__boton activo" data-anio="con" aria-pressed="true">Con año declarado</button>
+            <button type="button" class="segmentado__boton" data-anio="sin" aria-pressed="false">Sin año</button>
+          </div>
+          <div class="resultado resultado--compacto" aria-live="polite">
+            <p class="resultado__grande"><span id="anio-titulo">1.821</span> <span class="resultado__sufijo" id="anio-sufijo">anuncios con año</span></p>
+            <p class="resultado__texto" id="anio-detalle">69 clásicos (3,8%) y 1.752 modernos (96,2%) sobre el total con año.</p>
+            <div class="barras-anio" id="anio-barras">
+              <div class="barras-anio__fila"><span>Clásicos</span><div class="barra"><span style="width:3.8%"></span></div><b>3,8%</b></div>
+              <div class="barras-anio__fila"><span>Modernos</span><div class="barra"><span style="width:96.2%"></span></div><b>96,2%</b></div>
+            </div>
+          </div>
+          <p class="interactivo__nota">“Sin año” no se imputa ni se elimina del dataset: solo se excluye de los análisis que necesitan año.</p>
+        </section>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a>.</p>
+          <p><strong>Ojo.</strong> 48,9% sin año. La clasificación depende de lo que declare el anuncio, no de una verificación técnica.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 9 -->
+    <section class="bloque bloque--narrativa" id="bloque-9" aria-labelledby="t9">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">09</p>
+          <h2 id="t9">Lo que cuesta mantener un auto</h2>
+          <p class="entradilla">Comprar el carro es solo el primer gasto. Treinta entrevistas muestran una realidad repetida: mantenerlo cuesta, y cuesta de formas muy distintas.</p>
+        </header>
+
+        <div class="prosa prosa--narrativa">
+          <p>Para entender qué viene después de la compra, reunimos <strong>30 entrevistas procesadas</strong> (resúmenes, no transcripciones textuales) con propietarios que usan sus vehículos para fines personales, trabajo o carga en La Habana. Sus respuestas no describen a “todos” los dueños de autos, pero sí muestran una realidad repetida.</p>
+
+          <h3>El combustible es un gasto constante, pero no uniforme</h3>
+          <p>Entre quienes declararon precio, el litro se movió generalmente entre <strong>2,00 y 2,80 USD</strong>, con menciones a CUPET, Mipymes y compras “por la calle”. El consumo mensual también varió mucho: hubo quienes reportaron <strong>20–25 litros</strong> al mes, otros <strong>50–100 litros</strong>, y casos de uso intensivo como <strong>100–120</strong>, <strong>100–130</strong> o <strong>130–160 litros</strong> mensuales. En un caso (camión Chevrolet 1954, carga), el consumo se describió en <strong>2,2 km por litro</strong> y rangos diarios de <strong>40 a 100–200 litros</strong>. Algunos entrevistados no declararon fuente o precio.</p>
+
+          <h3>Las reparaciones y el mantenimiento no tienen una sola factura</h3>
+          <p>Al pedir un estimado anual, aparecieron respuestas muy dispares: desde <strong>200 USD</strong>, <strong>200–300 USD</strong>, <strong>200–400 USD</strong>, <strong>300–500 USD</strong> o <strong>400–800 USD</strong>, hasta <strong>1.000–2.000 USD</strong> y <strong>2.000–3.000 USD</strong> en varios casos. También hubo quien no pudo dar una cifra y la describió como “bastante elevada”, y otro caso mencionó <strong>15k, 20k, 30k CUP</strong> (equivalentes declarados: <strong>19, 25, 38 USD</strong> con tasa 788 CUP = 1 USD). La lección es clara: el costo anual depende del vehículo, el uso, la disponibilidad de piezas y la magnitud de las averías.</p>
+
+          <h3>Conseguir piezas suele ser la parte difícil</h3>
+          <p>La dificultad se calificó con frecuencia como <strong>alta</strong>, <strong>compleja</strong> o asociada a <strong>precios elevados</strong> (en pocos casos se matizó: “baja, pero precios elevados” o “hay piezas pero caras”). Las fuentes mencionadas incluyen <strong>Mipymes</strong>, <strong>importadoras</strong>, <strong>internet</strong>, <strong>redes sociales y páginas de Facebook</strong>, <strong>contactos que importan</strong>, encargos al exterior y, en algunos casos, agencias o talleres. Esto sugiere que el mantenimiento no depende solo del taller: depende de encontrar la pieza.</p>
+
+          <h3>Más allá de gasolina y reparaciones, pocos declararon otros gastos fijos</h3>
+          <p>La mayoría respondió “ninguno”; de forma puntual se mencionaron <strong>neumáticos (60–80 USD)</strong> y <strong>baterías (300 USD)</strong>. Aun así, la ausencia de declaración no significa ausencia de gasto: solo refleja lo reportado en estas entrevistas.</p>
+        </div>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> Entrevistas procesadas del proyecto, <span class="mono">data/raw/entrevistas/Entrevistas.txt</span> (30 entrevistas; resúmenes, no verbatim). No se usan Revolico ni comercializadoras en este bloque.</p>
+          <p><strong>Ojo.</strong> Muestra pequeña y no representativa (sesgo de conveniencia). Son estimaciones declaradas, con rangos, valores faltantes y contextos distintos. No se puede generalizar a todos los propietarios, municipios ni modelos de La Habana o Cuba.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 10 -->
+    <section class="bloque" id="bloque-10" aria-labelledby="t10">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">10</p>
+          <h2 id="t10">Antes de comprar: checklist con datos</h2>
+          <p class="entradilla">Seis preguntas que estos datos convierten en acciones concretas. Marca las que ya resolviste.</p>
+        </header>
+
+        <div class="checklist" id="checklist">
+          <label class="checklist__item">
+            <input type="checkbox" data-check="anio">
+            <span><strong>Pregunta el año.</strong> El 48,9% de los anuncios no lo declara. Sin año no puedes comparar precios.</span>
+          </label>
+          <label class="checklist__item">
+            <input type="checkbox" data-check="marcador">
+            <span><strong>Desconfía de precios marcador.</strong> 584 anuncios tenían precios fuera de rango (&lt;1.000 o ≥999.999 USD) y se excluyeron.</span>
+          </label>
+          <label class="checklist__item">
+            <input type="checkbox" data-check="canales">
+            <span><strong>Compara canales con cautela.</strong> La brecha es 10.699 USD, pero solo 2 marcas tienen muestra suficiente en ambos.</span>
+          </label>
+          <label class="checklist__item">
+            <input type="checkbox" data-check="municipio">
+            <span><strong>Revisa el municipio.</strong> La mediana pedida va de 13.000 a 28.000 USD entre municipios con n≥30.</span>
+          </label>
+          <label class="checklist__item">
+            <input type="checkbox" data-check="mantenimiento">
+            <span><strong>Presupuesta el mantenimiento.</strong> En las entrevistas, el gasto anual declarado va de 200 a 3.000 USD.</span>
+          </label>
+          <label class="checklist__item">
+            <input type="checkbox" data-check="faltantes">
+            <span><strong>Pide lo que falta.</strong> Kilometraje, estado, papeles, mecánica y fotos reales: casi nunca están completos en el anuncio.</span>
+          </label>
+        </div>
+
+        <div class="checklist__acciones">
+          <p id="checklist-progreso" aria-live="polite">0 de 6 marcados</p>
+          <div class="botones">
+            <button type="button" class="boton" id="checklist-descargar">Descargar checklist</button>
+            <button type="button" class="boton boton--secundario" id="checklist-reiniciar">Reiniciar</button>
+          </div>
+        </div>
+
+        <aside class="metodo">
+          <p><strong>Fuente.</strong> Síntesis de <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a>, catálogos de comercializadoras y entrevistas. Las cifras ya fueron citadas en los bloques 1–9.</p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- BLOQUE 11 -->
+    <section class="bloque bloque--cierre" id="bloque-11" aria-labelledby="t11">
+      <div class="contenedor">
+        <header class="bloque__cabecera">
+          <p class="bloque__numero">11</p>
+          <h2 id="t11">Lo que estos datos dicen y lo que no dicen</h2>
+        </header>
+
+        <div class="cierre-grid">
+          <div class="prosa">
+            <h3>Lo que dicen</h3>
+            <ul class="lista-hallazgos">
+              <li>La mediana informal (22.000 USD) es 10.699 USD menor que la formal (32.699), pero son canales y productos distintos.</li>
+              <li>La oferta se concentra en Playa y Centro Habana; los precios pedidos varían por municipio, aunque el mix explica parte.</li>
+              <li>Hyundai domina las publicaciones; BMW tiene la mediana más alta entre marcas con n≥30.</li>
+              <li>Casi la mitad de los anuncios no declara año y el kilometraje es casi siempre ausente.</li>
+              <li>El mantenimiento va de cientos a miles de USD al año, con una variación enorme entre casos.</li>
+            </ul>
+          </div>
+          <div class="prosa">
+            <h3>Lo que no dicen</h3>
+            <ul class="lista-hallazgos lista-hallazgos--limites">
+              <li>No son precios de cierre: son precios pedidos o de lista.</li>
+              <li>No representan todas las ventas ni todo el parque de La Habana.</li>
+              <li>No permiten comparar entidades formales entre sí.</li>
+              <li>No se pueden generalizar al resto de Cuba.</li>
+              <li>Las entrevistas no son una muestra representativa de propietarios.</li>
+            </ul>
+          </div>
+        </div>
+
+        <blockquote class="cita">
+          <p>“Si ves una cifra sin contexto, desconfía.”</p>
+        </blockquote>
+
+        <figure class="figura figura--recap">
+          <img src="img/01_brecha_formal_vs_informal.png" alt="Recapitulación: precio mediano informal de 22.000 USD con 2.703 anuncios frente a 32.699 USD formal con 83 modelos; brecha de 10.699 USD." width="1375" height="955" loading="lazy" decoding="async">
+          <figcaption>La cifra que abre y cierra la historia: 10.699 USD de brecha entre canales, con productos y muestras que no son equivalentes.</figcaption>
+        </figure>
+
+        <div class="acciones-cierre">
+          <a class="boton" href="#inicio">Volver al inicio</a>
+          <a class="boton boton--secundario" href="#bloque-10">Repasar el checklist</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="pie" id="fuentes">
+    <div class="contenedor">
+      <h2>Fuentes y cómo se hizo</h2>
+
+      <div class="pie__grid">
+        <section>
+          <h3>Mercado informal</h3>
+          <ul class="fuentes">
+            <li><a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a><span>anuncios de carros, La Habana</span></li>
+            <li><span class="mono">data/interim/anuncios_analisis.csv</span><span>3.566 anuncios · 2.703 con precio válido</span></li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>Mercado formal</h3>
+          <ul class="fuentes">
+            <li><a href="https://bdcone.online" target="_blank" rel="noopener noreferrer">BDC ONE</a><span>MG, Maxus</span></li>
+            <li><a href="https://dongfengqba.com" target="_blank" rel="noopener noreferrer">Dongfeng Cuba</a><span>Dongfeng</span></li>
+            <li><a href="https://mcvcommercial.com" target="_blank" rel="noopener noreferrer">MCV Comercial</a><span>Mercedes-Benz, Changan, BAIC, Foton, DFSK, Bestune</span></li>
+            <li><a href="https://cimex.cu" target="_blank" rel="noopener noreferrer">CIMEX</a><span>Nissan, Toyota</span></li>
+            <li><span class="mono">data/processed/comercializadoras.csv</span><span>83 modelos</span></li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>Entrevistas</h3>
+          <ul class="fuentes">
+            <li><span class="mono">data/raw/entrevistas/Entrevistas.txt</span><span>30 entrevistas procesadas (resúmenes, no verbatim)</span></li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>Documentación</h3>
+          <ul class="fuentes">
+            <li><span class="mono">docs/preguntas_investigacion.md</span><span>las 9 preguntas y su estado</span></li>
+            <li><span class="mono">docs/plan_analisis_mercado_automotriz.xlsx</span><span>plan de análisis</span></li>
+            <li><span class="mono">notebooks/reporte_completo_mercado_automotriz.ipynb</span><span>reporte integrado</span></li>
+          </ul>
+        </section>
+      </div>
+
+      <details class="pie__detalle">
+        <summary>Limitaciones generales del estudio</summary>
+        <ol class="lista-limites">
+          <li><strong>Sesgo de selección (informal):</strong> Revolico no representa todas las ventas ni el universo de vehículos de La Habana.</li>
+          <li><strong>Precios pedidos, no transacciones:</strong> el precio de cierre puede diferir; no hay datos de negociación.</li>
+          <li><strong>Información incompleta:</strong> 1.745 anuncios (48,9%) no declaran año y el kilometraje es mayoritariamente ausente.</li>
+          <li><strong>Precios marcador excluidos:</strong> 584 anuncios con precios no válidos quedaron fuera de los cálculos de precio.</li>
+          <li><strong>Composición heterogénea:</strong> comparar por municipio, marca o canal mezcla años, modelos, equipamiento y estado.</li>
+          <li><strong>Muestra formal pequeña:</strong> 83 modelos de 4 entidades; cada entidad vende una canasta distinta.</li>
+          <li><strong>Cruce formal-informal limitado:</strong> solo 2 marcas con n≥10 en ambos canales.</li>
+          <li><strong>Entrevistas:</strong> 30 casos, sesgo de conveniencia, estimaciones declaradas y valores faltantes.</li>
+          <li><strong>Contexto temporal y cambiario:</strong> catálogos de 2026 y anuncios de septiembre–octubre de 2026; las conversiones ya vienen en los CSV procesados.</li>
+          <li><strong>Cobertura geográfica:</strong> solo La Habana (15 municipios); no extrapolable al resto de Cuba.</li>
+        </ol>
+      </details>
+
+      <div class="pie__creditos">
+        <p>Proyecto de Ciencia de Datos · Universidad de La Habana · 2026</p>
+        <p>Página estática generada a partir de los CSV del proyecto. Sin cookies, sin rastreadores y sin datos de contacto de anunciantes.</p>
+        <p class="mono" id="pie-generado">Datos procesados en noviembre de 2026.</p>
+      </div>
+    </div>
+  </footer>
+
+  <a class="volver-arriba" href="#inicio" aria-label="Volver al inicio">↑</a>
+
+  <script src="assets/js/datos.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

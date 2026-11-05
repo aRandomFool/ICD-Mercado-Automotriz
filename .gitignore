@@ -19,6 +19,12 @@ __pycache__/
 *.html
 *.pdf
 
+# La página web es un entregable del proyecto
+!web/index.html
+
+# Capturas y temporales de QA
+.tmp/
+
 # Opencode (se registra en bitácora, pero no es necesario versionar archivos volátiles; la bitácora handoffs/journals se versiona si se desea)
 # opencode/ es carpeta de bitácora interna del flujo
 

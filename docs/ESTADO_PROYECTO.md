@@ -2,6 +2,16 @@
 
 > **Documento de traspaso entre sesiones.** Si estás en una sesión nueva, LEE ESTE
 > ARCHIVO completo antes de continuar. Última actualización: 2026-10-11.
+> **Actualización 2026-11-05 (posterior a este documento):** el proyecto quedó
+> organizado en 7 etapas y se construyeron la **página web** en `web/` (11
+> bloques, 9 interactivos, 10 figuras corregidas) y el **reporte técnico 2.0** en
+> `notebooks/reporte_completo_mercado_automotriz.ipynb` (Q1–Q9, tablas,
+> referencias y anexos). Los datos vigentes son 3.566 anuncios
+> de La Habana (2.703 con precio válido), 83 modelos formales y 30 entrevistas.
+> El resto de este archivo describe el estado histórico de octubre (600 anuncios,
+> Windows) y se conserva como referencia. Ver `README.md`,
+> `docs/plan_implementacion_web.md` y los journals 012–014.
+>
 > **Handoff corregido (2026-10-11):** el fallo *"the transfer data did not serialize"*
 > se resolvió actualizando OpenCode 2.0.6 → 2.0.26 y recargando el plugin de handoff
 > (detalle: `opencode/journals/003_2026-10-11_fix_handoff_opencode_2.0.26.md`;

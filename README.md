@@ -1,5 +1,11 @@
 # Mercado Automotriz de La Habana
 
+> **📄 REPORTE TÉCNICO COMPLETO** → [`notebooks/reporte_completo_mercado_automotriz.ipynb`](notebooks/reporte_completo_mercado_automotriz.ipynb)
+>
+> Es el **documento principal del proyecto**: resumen, datos y métodos, resultados **Q1–Q9**, discusión, limitaciones, referencias y anexos. Notebook ejecutado y reproducible desde los CSV.
+
+---
+
 Proyecto de Ciencia de Datos (1er año) — Universidad de La Habana.
 
 **Objetivo:** analizar el mercado automotriz en La Habana combinando **tres fuentes de recolección**:
@@ -76,6 +82,7 @@ ProyectoCD/
 │   ├── 00_inicio.ipynb              # punto de entrada + verificación de entorno
 │   ├── 01_preprocesamiento.ipynb    # Etapa 02
 │   ├── 02_preguntas.ipynb           # Etapa 05: las 9 preguntas
+│   ├── reporte_completo_mercado_automotriz.ipynb  # Reporte técnico Q1–Q9 (ejecutado)
 │   └── historico/                   # 01_eda, 02_modelo_precios, 03_informe_final (proyecto previo)
 ├── src/
 │   ├── scraper_revolico.py          # captura Revolico (API GraphQL)
@@ -95,7 +102,7 @@ ProyectoCD/
 ├── reports/
 │   ├── figuras/                     # fig_*.png
 │   └── tablas/                      # *.csv
-├── comunicacion/                    # Etapa 07: informe_final.md + presentacion.md
+├── web/                             # Etapa 07: página estática (index.html + assets/ + datos)
 ├── opencode/                        # bitácora obligatoria (handoffs/, journals/, INDICE.md)
 ├── requirements.txt · requirements-lock.txt · .gitignore
 └── README.md
@@ -105,7 +112,7 @@ ProyectoCD/
 
 Las 7 etapas de la asignatura son el **concepto organizador**: las carpetas de
 primer nivel se mantienen (`data/`, `notebooks/`, `src/`, `docs/`, `reports/`) con
-subcarpetas, y la etapa 07 vive en `comunicacion/`.
+subcarpetas, y la etapa 07 vive en `web/`.
 
 | Etapa | Nombre | Dónde | Estado |
 |-------|--------|-------|--------|
@@ -113,17 +120,38 @@ subcarpetas, y la etapa 07 vive en `comunicacion/`.
 | 02 | Preprocesar | `src/preprocesamiento.py`, `notebooks/01_preprocesamiento.ipynb`, `data/interim/` | ✅ |
 | 03 | Estructurar y almacenar | `data/processed/`, `data/tasas_cambio/`, `docs/diccionario_datos.md` | ✅ |
 | 04 | Procesar | `src/generar_variables.py` | ✅ |
-| 05 | Analizar | `notebooks/02_preguntas.ipynb` | ✅ Q1–5,7,8 · pendientes Q6 y Q9 |
+| 05 | Analizar | `notebooks/02_preguntas.ipynb` + reporte | ✅ Q1–Q9 (Q6 con 2 marcas comparables; Q9 con 30 entrevistas) |
 | 06 | Presentar | `reports/figuras/`, `reports/tablas/` | ✅ |
-| 07 | Comunicar | `comunicacion/` | ✅ |
+| 07 | Comunicar | `web/` (página estática) | ✅ |
+
+## Reporte técnico
+
+`notebooks/reporte_completo_mercado_automotriz.ipynb` es el **reporte técnico completo**:
+resumen, introducción, marco conceptual, datos y métodos, resultados Q1–Q9 con
+tablas y figuras, discusión, limitaciones, conclusiones, referencias y anexos.
+Está ejecutado de principio a fin y todas las cifras se calculan desde los CSV.
+
+## Página web
+
+La historia de datos está publicada como **una sola página estática** en `web/`:
+11 bloques narrativos, 9 interactivos calculados en el navegador y las 10 figuras
+corregidas. Funciona con doble clic (sin servidor ni conexión).
+
+```bash
+xdg-open web/index.html
+```
+
+La data se genera desde los CSV con `src/exportar_datos_web.py` y las figuras con
+`src/generar_figuras_web.py`. Detalle de arquitectura, contrato de datos y
+verificación: `docs/plan_implementacion_web.md` y `web/README.md`.
 
 ## Estado de las capturas
 
 - **Anuncios (Revolico, informal):** **3.958 anuncios** en `data/raw/clasificados/revolico/anuncios.csv` tras la **ampliación nacional de 2026-10-26** (universo completo de 79/79 páginas recorrido con `src/scraper_revolico_ampliado.py`; 16/16 provincias; respaldo de la muestra previa de 600 en `respaldo_600_2026-10-26/`). La muestra anterior (600 de La Habana) tuvo verificación en vivo en `verificacion_anuncios.csv` (83 despublicados, 45 eliminados, 1 expirado); el preprocesamiento (etapa 02) conserva solo los **activos**. Informe completo: `docs/informe_ampliacion_2026-10-26.md`.
 - **Comercializadoras (formal):** verificación HTTP+DNS registrada en `estado_comercializadoras.csv` y `informe_catalogos.md`; catálogos con precios públicos de **BDC ONE**, **Dongfeng Cuba** y **MCV Comercial** en `data/raw/comercializadoras/catalogos/`. El resto de entidades no fueron verificables desde esta red (ver `docs/fuentes.md`).
-- **Entrevistas/encuestas (cualitativo):** audio en `data/raw/entrevistas/Audios/`, **pendiente de transcribir/estructurar**. Instrumentos en `docs/instrumentos/`.
+- **Entrevistas/encuestas (cualitativo):** **30 entrevistas procesadas** en `data/raw/entrevistas/Entrevistas.txt` (resúmenes, no verbatim). Instrumentos en `docs/instrumentos/`.
 
-> No se inventan datos: las preguntas 6 (formal vs informal) y 9 (costo de mantener un auto) quedan pendientes hasta completar las capturas correspondientes.
+> **Q6 y Q9 están respondidas:** Q6 con los catálogos formales (83 modelos; brecha de 10.699 USD) y Q9 con las 30 entrevistas. El desarrollo completo está en `notebooks/reporte_completo_mercado_automotriz.ipynb`.
 
 ## Handoffs y journals del proyecto
 

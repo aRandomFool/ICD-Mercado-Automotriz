@@ -1,5 +1,11 @@
 # Reporte de Correcciones - Gráficas de Precios
 
+> **Actualización 2026-11-05 (web):** la figura `04_comparacion...` se corrigió
+> (la marca es **Foton**, no Ford) y la `07_catalogo_formal_por_entidad` se
+> rediseñó como dispersión por entidad para no rankearlas por mediana. La carpeta
+> `datos_graficos/` no se generó; los agregados auditables están en
+> `web/data/datos.json` (script `src/exportar_datos_web.py`).
+
 ## Reglas aplicadas
 - Precio válido: 1000 <= precio_usd < 1,000,000
 - Excluir marca nula o "no identificada" en análisis por marca

@@ -1,5 +1,7 @@
 # Dos caminos para comprar un carro en La Habana: historia de datos y plan web (actualizado)
 
+> **Implementado:** la página vive en `web/` (2026-11-05). Arquitectura, contrato de datos y verificación en `docs/plan_implementacion_web.md`.
+
 **Actualización:** Se adapta el plan a los gráficos corregidos en `reports/figuras/Analizar/graficos_nuevos/` (precios válidos: 1000–999,999 USD, sin precios marcador) y a los datos procesados de entrevistas en `data/raw/entrevistas/Entrevistas.txt` (Q9: costos de mantenimiento).
 
 ## Resumen
