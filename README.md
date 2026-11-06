@@ -120,7 +120,7 @@ subcarpetas, y la etapa 07 vive en `web/`.
 | 02 | Preprocesar | `src/preprocesamiento.py`, `notebooks/01_preprocesamiento.ipynb`, `data/interim/` | ✅ |
 | 03 | Estructurar y almacenar | `data/processed/`, `data/tasas_cambio/`, `docs/diccionario_datos.md` | ✅ |
 | 04 | Procesar | `src/generar_variables.py` | ✅ |
-| 05 | Analizar | `notebooks/02_preguntas.ipynb` + reporte | ✅ Q1–Q9 (Q6 con 2 marcas comparables; Q9 con 30 entrevistas) |
+| 05 | Analizar | `notebooks/02_preguntas.ipynb` + reporte | ✅ Q1–Q9 (Q6 con 6 marcas comparables; Q9 con 30 entrevistas) |
 | 06 | Presentar | `reports/figuras/`, `reports/tablas/` | ✅ |
 | 07 | Comunicar | `web/` (página estática) | ✅ |
 

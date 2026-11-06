@@ -7,7 +7,7 @@
 ## Resumen
 La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para quien quiere comprar un carro: dos canales (formal e informal), precios típicos, dónde se concentra la oferta, qué marcas dominan, cómo varían los precios por municipio y qué dicen 30 entrevistas procesadas sobre el costo de mantener un auto. **No se generaliza**: cada hallazgo declara su alcance, sesgos y limitaciones.
 
-**Hallazgo central (precios recalculados):** Al excluir precios marcador (584 anuncios con precio no válido según regla 1000 ≤ precio < 1,000,000 USD), la mediana informal es **22,000 USD (n=2,703)** y la formal **32,699 USD (n=83)**, con una brecha de **10,699 USD**. La media recortada al 10% informal es **22,196 USD (n=2,703)**.
+**Hallazgo central (precios recalculados):** Al excluir precios marcador (584 anuncios con precio no válido según regla 1000 ≤ precio < 1,000,000 USD), la mediana informal es **22,000 USD (n=2,703)** y la formal **32,699 USD (83 modelos)**, con una brecha de **10,699 USD**. La media recortada al 10% informal es **22,196 USD (n=2,703)**.
 
 ## Reglas del proyecto (obligatorias)
 - Prohibido inventar datos. Lo que falta es nulo y se excluye del cálculo correspondiente.
@@ -29,8 +29,8 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 3. **Información incompleta en anuncios:** Muchos anuncios no declaran año, kilometraje, estado o detalles mecánicos. 1,745 anuncios (49%) no declaran año; el kilometraje es mayoritariamente ausente. Esto limita comparaciones.
 4. **Precios marcador excluidos:** 584 anuncios tenían precio no válido (<1000 o >=1,000,000 USD, incluyendo marcadores como 1 USD). Se excluyen de cálculos de precio para evitar distorsión.
 5. **Composición heterogénea:** Comparar precios por municipio/marca/canal mezcla años, modelos, equipamiento y estado. “Más caro/barato” no implica que el mismo carro cueste distinto.
-6. **Muestra formal pequeña y no comparable por entidad:** 83 modelos de 4 entidades, 11 marcas reales. Cada entidad vende marcas/modelos distintos; no se ordenan entidades como si vendieran lo mismo.
-7. **Cruce formal-informal limitado:** Solo marcas con suficiente presencia en ambos canales se comparan (n>=10 en ambos). En muchos casos, el catálogo formal es nuevo y el informal incluye usados.
+6. **Catálogo formal acotado y no comparable por entidad:** 83 modelos de 4 entidades, 11 marcas reales. El número de modelos mide cobertura del catálogo, no ventas ni una muestra. Cada entidad vende marcas/modelos distintos; no se ordenan entidades como si vendieran lo mismo.
+7. **Cruce formal-informal limitado:** Se comparan marcas con ≥10 anuncios informales y presencia en el catálogo formal (6 marcas). El catálogo no es una muestra ni mide ventas; en muchos casos es nuevo y el informal incluye usados.
 8. **Entrevistas (Q9) - sesgo de conveniencia y tamaño:** 30 entrevistas procesadas (resúmenes), no muestra representativa de todos los propietarios en La Habana/Cuba. Respuestas son estimaciones declaradas, con rangos y valores faltantes. No permiten generalizar costos a toda la población.
 9. **Contexto temporal y cambiario:** Precios y costos cambian rápido. Catálogos formales (31 mar–2 nov 2026) y anuncios (sep–oct 2026) reflejan momentos específicos. Conversiones EUR→USD ya vienen en el CSV procesado.
 10. **Cobertura geográfica:** Solo La Habana (15 municipios). No extrapolable al resto de Cuba.
@@ -43,15 +43,15 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 - **Objetivo (enganche):** Plantear la pregunta central y mostrar los dos caminos de compra.
 - **Texto guía (data storytelling):** “Si estás pensando en comprar un carro en La Habana, te enfrentas a dos mapas: el catálogo formal y los precios pedidos en Revolico. Esta historia usa datos reales para ayudarte a comparar con cautela.”
 - **Gráfico exacto:** `reports/figuras/Analizar/graficos_nuevos/01_brecha_formal_vs_informal.png`
-- **Interactivo:** “Mi presupuesto” (control 2,000–80,000 USD): % de anuncios informales con precio válido <= presupuesto (n base 2,703), marcas con más anuncios en ese rango, y nº de modelos formales dentro del presupuesto (de 83). Cifras calculadas desde CSVs.
+- **Interactivo:** “Mi presupuesto” (control 2,000–80,000 USD): % de anuncios informales con precio válido <= presupuesto (n base 2,703), marcas con más anuncios en ese rango, y nº de modelos de catálogo dentro del presupuesto (de 83). Cifras calculadas desde CSVs.
 - **Fuente en bloque:** Revolico (https://www.revolico.com) y comercializadoras (ver pie de página).
 - **Sesgos a declarar:** Precios pedidos vs lista; exclusión de precios marcador; no representa cierres reales.
 
 ### Bloque 2 · Dos mercados, una brecha (con datos limpios)
 - **Objetivo:** Explicar la brecha real tras limpiar precios marcador.
-- **Texto con datos:** Mediana informal **22,000 USD (n=2,703)**; mediana formal **32,699 USD (n=83)**; brecha **10,699 USD**. Media recortada 10% informal **22,196 USD**. Comparar canales distintos (nuevos vs mezcla usado/nuevo/oferta).
+- **Texto con datos:** Mediana informal **22,000 USD (n=2,703)**; mediana formal **32,699 USD (83 modelos)**; brecha **10,699 USD**. Media recortada 10% informal **22,196 USD**. Comparar canales distintos (nuevos vs mezcla usado/nuevo/oferta).
 - **Gráfico exacto:** `reports/figuras/Analizar/graficos_nuevos/01_brecha_formal_vs_informal.png` (reutilizar como referencia visual principal de brecha) + opcional tabla de verificación desde `reports/figuras/Analizar/datos_graficos/01_brecha_formal_vs_informal.csv`
-- **Interactivo:** Alternar “Mediana / Media recortada 10%” (mostrar ambos valores informales; formal según disponibilidad).
+- **Interactivo:** Explorador de percentiles P10–P90 por canal: valor de precio pedido y de lista en cada corte y brecha correspondiente.
 - **Fuente:** Revolico + comercializadoras.
 - **Sesgos:** Heterogeneidad de productos; informal = precios pedidos.
 
@@ -59,7 +59,7 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 - **Objetivo:** Mostrar que la oferta no se distribuye igual en La Habana.
 - **Texto con datos:** Playa concentra 1,002 de 3,566 anuncios (28%). Playa + Centro Habana = 41%; con Plaza = 51%. Regla 20, Cotorro 47. *(Conteos de concentración no dependen del precio).*
 - **Gráfico exacto:** `reports/figuras/Analizar/a_estructura_concentracion_municipio.png` (o `q7_municipio_mayor_indice_publicaciones_horizontal.png` como alternativa más limpia; elegir uno solo en implementación)
-- **Interactivo:** “Tu municipio” (selector 15 municipios): nº anuncios, % del total, aviso si muestra de precios es baja.
+- **Interactivo:** Curva de concentración: cuántos municipios (1–15) cubren X% de los anuncios y cuáles son.
 - **Fuente:** Revolico (https://www.revolico.com).
 - **Sesgos:** Sesgo de publicación por plataforma; concentración no implica mayor disponibilidad real de compra.
 
@@ -67,7 +67,7 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 - **Objetivo:** Mostrar variación territorial en precios pedidos válidos.
 - **Texto con datos:** Entre municipios con n>=30, la mediana va de **13,000 USD (La Lisa, n=96)** a **28,000 USD (Arroyo Naranjo, n=223)** (~2.2×). Marianao **16,000 USD (n=81)**. Ranking solo con n>=30; otros listados aparte como muestra baja/insuficiente.
 - **Gráfico exacto:** `reports/figuras/Analizar/graficos_nuevos/02_mediana_precio_por_municipio.png`
-- **Interactivo:** “Tu municipio” (detalle de mediana, n, calidad de muestra) + enlace a `datos_graficos/02_mediana_precio_por_municipio.csv`.
+- **Interactivo:** Misma marca, distinto municipio: mediana local frente a la mediana de la marca en toda La Habana, con n y calidad de muestra informal.
 - **Fuente:** Revolico (https://www.revolico.com).
 - **Sesgos:** Diferencias pueden reflejar mix de marcas/modelos/años/estado, no solo ubicación. No afirmar causalidad territorial.
 
@@ -76,13 +76,13 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 - **Texto con datos:** Hyundai lidera publicaciones (872 anuncios, ~24% de 3,566). Precios informales (mediana, válidos): Hyundai **29,000 USD (n=713)**, BMW **46,000 USD (n=33)**, Mercedes-Benz **25,000 USD (n=31)**. *Solo comparar/ordenar donde n sea suficiente.*
 - **Gráfico exacto (principal):** `reports/figuras/Analizar/graficos_nuevos/03_precio_por_marca_informal.png`
 - **Gráfico exacto (apoyo estructura):** `reports/figuras/Analizar/a_estructura_concentracion_marca.png` o `q1_marca_mayor_indice_publicaciones_barras.png`
-- **Interactivo:** Selector de marca (ver mediana, n, calidad) usando datos de `03_precio_por_marca_informal.csv`.
+- **Interactivo:** Comparador de rangos P25–P75 entre dos marcas (dispersión, no solo mediana).
 - **Fuente:** Revolico (https://www.revolico.com).
 - **Sesgos:** 31% de anuncios sin marca identificada (excluidos en análisis por marca); concentración de publicaciones ≠ calidad/oferta real.
 
 ### Bloque 6 · Catálogo formal: qué hay y a qué precios
 - **Objetivo:** Contextualizar el canal formal sin comparaciones engañosas entre entidades.
-- **Texto con datos:** 83 modelos, 4 entidades, 11 marcas reales. Rango 10,645–79,125 USD (según datos procesados). Mercedes-Benz formal mediana **72,722 USD (n=5, insuficiente)**. **No** ordenar entidades por precio medio (venden marcas/modelos distintos).
+- **Texto con datos:** 83 modelos, 4 entidades, 11 marcas reales. Rango 10,645–79,125 USD (según datos procesados). Mercedes-Benz formal mediana **72,722 USD sobre 5 modelos de catálogo** (referencia de lista, no estimación de ventas). **No** ordenar entidades por precio medio (venden marcas/modelos distintos).
 - **Gráfico exacto:** `reports/figuras/Analizar/graficos_nuevos/07_catalogo_formal_por_entidad.png`
 - **Gráfico exacto (apoyo):** `reports/figuras/Analizar/graficos_nuevos/03_precio_por_marca_formal.png`
 - **Interactivo:** Tabla filtrable del catálogo (entidad, marca, modelo, clase, propulsión, precio USD) desde `data/processed/comercializadoras.csv`.
@@ -91,9 +91,9 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 
 ### Bloque 7 · El mismo nombre, dos precios (comparación con cautela)
 - **Objetivo:** Comparar canales solo donde hay cruce suficiente.
-- **Texto con datos:** Se comparan **solo marcas con n>=10 en ambos canales**; si n<30 se marca “muestra baja”. El catálogo suele ser nuevo; el informal incluye usados/ofertas. Ejemplo con cautela: Mercedes-Benz informal 25,000 USD (n=31) vs formal 72,722 USD (n=5, insuficiente) — no comparable como “mismo carro”.
+- **Texto con datos:** Se comparan marcas con **≥10 anuncios informales y presencia en el catálogo formal** (6 marcas). El catálogo no es una muestra: es la lista de precios publicada y no permite estimar ventas; su cobertura varía. La dirección de la brecha no es uniforme (el informal pide más en Dongfeng, Foton, MG y Toyota; el formal es más caro en Nissan y Mercedes-Benz).
 - **Gráfico exacto:** `reports/figuras/Analizar/graficos_nuevos/04_comparacion_formal_vs_informal_por_marca.png`
-- **Interactivo:** Selector de marca común (mostrar ambos valores y calidad de muestra).
+- **Interactivo:** Explorador de cobertura: comparable / solo informal / informal con n<10 / solo catálogo (31 marcas). El catálogo no es una muestra.
 - **Fuente:** Revolico + comercializadoras.
 - **Sesgos:** No es el mismo vehículo/version/año; cruce parcial; muestras pequeñas en formal.
 
@@ -101,7 +101,7 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 - **Objetivo:** Mostrar composición por año sin perder de vista los faltantes.
 - **Texto con datos:** Entre 1,821 anuncios con año declarado (anio != 0): **69 clásicos (<2000)** y **1,752 modernos (>=2000)**. 1,745 anuncios (49%) **no declaran año** — una limitación clave para evaluar precio.
 - **Gráfico exacto:** `reports/figuras/Analizar/q5_clasicos_vs_modernos_conteo.png` y `reports/figuras/Analizar/q5_clasicos_vs_modernos_proporcion.png` (mostrar conteo + proporción). *Si se implementa versión con “sin año declarado”, debe calcularse desde datos y no inventarse.*
-- **Interactivo:** Filtro “con año / sin año” (conteos desde datos).
+- **Interactivo:** Explorador por década (mediana, n, P25–P75 y share), incluido “sin año”.
 - **Fuente:** Revolico (https://www.revolico.com).
 - **Sesgos:** Casi la mitad sin año; clasificación depende de lo declarado en el anuncio.
 
@@ -159,13 +159,13 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 | Bloque | Gráfico(s) exacto(s) | Interactivo |
 |---|---|---|
 | 1 | `graficos_nuevos/01_brecha_formal_vs_informal.png` | Mi presupuesto |
-| 2 | `graficos_nuevos/01_brecha_formal_vs_informal.png` | Mediana / Media recortada 10% |
-| 3 | `a_estructura_concentracion_municipio.png` (o `q7_municipio_mayor_indice_publicaciones_horizontal.png`) | Tu municipio (conteos) |
-| 4 | `graficos_nuevos/02_mediana_precio_por_municipio.png` | Tu municipio (precios, n/calidad) |
-| 5 | `graficos_nuevos/03_precio_por_marca_informal.png` + `a_estructura_concentracion_marca.png` | Selector de marca |
+| 2 | `graficos_nuevos/01_brecha_formal_vs_informal.png` | Percentiles P10–P90 |
+| 3 | `a_estructura_concentracion_municipio.png` | Curva de concentración |
+| 4 | `graficos_nuevos/02_mediana_precio_por_municipio.png` | Misma marca, distinto municipio |
+| 5 | `graficos_nuevos/03_precio_por_marca_informal.png` + `a_estructura_concentracion_marca.png` | Rangos P25–P75 de dos marcas |
 | 6 | `graficos_nuevos/07_catalogo_formal_por_entidad.png` + `graficos_nuevos/03_precio_por_marca_formal.png` | Tabla filtrable catálogo |
-| 7 | `graficos_nuevos/04_comparacion_formal_vs_informal_por_marca.png` | Selector de marca común |
-| 8 | `q5_clasicos_vs_modernos_conteo.png` + `q5_clasicos_vs_modernos_proporcion.png` | Filtro con/sin año |
+| 7 | `graficos_nuevos/04_comparacion_formal_vs_informal_por_marca.png` | Explorador de cobertura (31 marcas) |
+| 8 | `q5_clasicos_vs_modernos_conteo.png` + `q5_clasicos_vs_modernos_proporcion.png` | Explorador por década |
 | 9 | Ninguno (narrativa basada en datos) | Ninguno |
 | 10 | Visual de checklist (con cifras ya citadas) | Checklist |
 | 11 | `graficos_nuevos/01_brecha_formal_vs_informal.png` (opcional recap) | — |
@@ -173,6 +173,6 @@ La web cuenta, con datos, cómo se ve el mercado automotriz en La Habana para qu
 ## Notas finales para implementación
 - Verificar que todas las cifras mostradas provengan de los CSV/datos procesados; no hardcodear valores no verificados.
 - Mantener consistencia: mediana por defecto; media recortada 10% como alternativa donde se indique.
-- Mostrar calidad de muestra (n>=30 suficiente, 10<=n<30 baja, n<10 insuficiente) en interactivos y textos analíticos.
+- Mostrar calidad de muestra **solo en datos informales** (n>=30 suficiente, 10<=n<30 baja, n<10 insuficiente). En comercializadoras, mostrar el número de modelos como **cobertura de catálogo**, nunca como muestra o ventas.
 - No usar ranking por entidad formal.
 - Lenguaje claro, enfocado en compradores; transparencia sobre incertidumbre.

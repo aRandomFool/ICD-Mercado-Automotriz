@@ -40,7 +40,7 @@
         </article>
       </div>
 
-      <p class="portada__nota">No se inventan datos: lo que falta queda como ausente y se excluye del cálculo correspondiente. Cada bloque declara su fuente, su muestra y sus sesgos.</p>
+      <p class="portada__nota">No se inventan datos: lo que falta queda como ausente y se excluye del cálculo correspondiente. Cada bloque declara su fuente, sus datos y sus sesgos.</p>
     </div>
   </header>
 
@@ -108,7 +108,7 @@
               </div>
               <div class="tarjeta-cifra">
                 <p class="tarjeta-cifra__numero" id="presupuesto-formales">7</p>
-                <p class="tarjeta-cifra__texto">modelos formales dentro del presupuesto, de 83</p>
+                <p class="tarjeta-cifra__texto">modelos de catálogo dentro del presupuesto, de 83</p>
               </div>
             </div>
           </div>
@@ -136,34 +136,37 @@
           <p>La mediana informal es <strong>22.000 USD</strong> y la formal <strong>32.699 USD</strong>: una brecha de <strong>10.699 USD</strong>. La media recortada al 10% informal es <strong>22.196 USD</strong>, casi igual a la mediana, así que la cola de precios extremos no mueve el centro.</p>
         </div>
 
-        <section class="interactivo" aria-labelledby="t-variante">
+        <section class="interactivo" aria-labelledby="t-percentiles">
           <header class="interactivo__cabecera">
-            <p class="interactivo__etiqueta">Cambia la medida</p>
-            <h3 id="t-variante">Mediana o media recortada</h3>
-            <p>La mediana divide la muestra en dos. La media recortada al 10% elimina las colas y promedia el resto. Compara cuánto cambia la brecha.</p>
+            <p class="interactivo__etiqueta">Explora la distribución</p>
+            <h3 id="t-percentiles">¿Qué tan arriba estás?</h3>
+            <p>La mediana es solo un punto. Elige un percentil para ver cuánto queda por debajo en cada canal y cómo cambia la brecha en las colas.</p>
           </header>
 
-          <div class="segmentado" role="group" aria-label="Medida de precio">
-            <button type="button" class="segmentado__boton activo" data-variante="mediana" aria-pressed="true">Mediana</button>
-            <button type="button" class="segmentado__boton" data-variante="recortada" aria-pressed="false">Media recortada 10%</button>
+          <div class="segmentado" role="group" aria-label="Percentil de precio">
+            <button type="button" class="segmentado__boton" data-percentil="10" aria-pressed="false">P10</button>
+            <button type="button" class="segmentado__boton" data-percentil="25" aria-pressed="false">P25</button>
+            <button type="button" class="segmentado__boton activo" data-percentil="50" aria-pressed="true">P50</button>
+            <button type="button" class="segmentado__boton" data-percentil="75" aria-pressed="false">P75</button>
+            <button type="button" class="segmentado__boton" data-percentil="90" aria-pressed="false">P90</button>
           </div>
 
           <div class="comparador" aria-live="polite">
             <div class="comparador__lado">
               <p class="comparador__canal">Informal · Revolico</p>
-              <p class="comparador__numero" id="brecha-informal">22.000 USD</p>
-              <div class="barra"><span id="barra-informal" style="width:67%"></span></div>
-              <p class="comparador__n">n = 2.703</p>
+              <p class="comparador__numero" id="pct-informal">22.000 USD</p>
+              <div class="barra"><span id="barra-pct-informal" style="width:67%"></span></div>
+              <p class="comparador__n" id="pct-informal-detalle">50 % de los 2.703 anuncios con precio válido está por debajo.</p>
             </div>
             <div class="comparador__lado">
-              <p class="comparador__canal">Formal · comercializadoras</p>
-              <p class="comparador__numero" id="brecha-formal">32.699 USD</p>
-              <div class="barra"><span id="barra-formal" style="width:100%"></span></div>
-              <p class="comparador__n">n = 83</p>
+              <p class="comparador__canal">Formal · catálogo</p>
+              <p class="comparador__numero" id="pct-formal">32.699 USD</p>
+              <div class="barra"><span id="barra-pct-formal" style="width:100%"></span></div>
+              <p class="comparador__n" id="pct-formal-detalle">50 % de los 83 modelos está por debajo.</p>
             </div>
           </div>
-          <p class="comparador__diferencia">Brecha: <strong id="brecha-diferencia">10.699 USD</strong> <span id="brecha-etiqueta">· medianas</span></p>
-          <p class="interactivo__nota">La media recortada formal (34.083 USD) se calcula con 83 modelos heterogéneos: es una referencia frágil, no un precio “típico” del canal.</p>
+          <p class="comparador__diferencia">Brecha en <span id="pct-etiqueta">P50</span>: <strong id="pct-diferencia">10.699 USD</strong></p>
+          <p class="interactivo__nota">Los percentiles describen precios pedidos (informal) y precios de lista (formal). No son precios de cierre ni volumen de ventas: el catálogo no permite estimar cuántos autos se venden.</p>
         </section>
 
         <aside class="metodo">
@@ -192,21 +195,28 @@
           <figcaption>Anuncios publicados por municipio en Revolico. El porcentaje se calcula sobre 3.566 anuncios.</figcaption>
         </figure>
 
-        <section class="interactivo" aria-labelledby="t-municipio-conteo">
+        <section class="interactivo" aria-labelledby="t-concentracion">
           <header class="interactivo__cabecera">
-            <p class="interactivo__etiqueta">Tu municipio</p>
-            <h3 id="t-municipio-conteo">¿Cuántos anuncios hay donde vives?</h3>
+            <p class="interactivo__etiqueta">Curva de concentración</p>
+            <h3 id="t-concentracion">¿Cuántos municipios cubren la oferta?</h3>
+            <p>Ordena los municipios por volumen y suma los primeros. Con pocos se llega a la mitad de los anuncios; el resto queda en la cola.</p>
           </header>
-          <div class="control control--inline">
-            <label for="municipio-conteo">Municipio</label>
-            <select id="municipio-conteo"></select>
+
+          <div class="control">
+            <label for="concentracion">Número de municipios (de mayor a menor)</label>
+            <div class="control__fila">
+              <input type="range" id="concentracion" min="1" max="15" step="1" value="3">
+              <output for="concentracion" id="concentracion-valor" class="control__valor">3 municipios</output>
+            </div>
           </div>
+
           <div class="resultado resultado--compacto" aria-live="polite">
-            <p class="resultado__grande"><span id="mc-anuncios">1.002</span> <span class="resultado__sufijo">anuncios</span></p>
-            <p class="resultado__texto"><span id="mc-pct">28,1 %</span> del total de La Habana · <span id="mc-precio-n">763</span> con precio válido</p>
-            <p id="mc-calidad" class="calidad"></p>
+            <p class="resultado__grande"><span id="conc-pct">51,4 %</span> <span class="resultado__sufijo">de los anuncios</span></p>
+            <p class="resultado__texto"><span id="conc-n">1.834</span> anuncios en <span id="conc-k">3</span> municipios.</p>
+            <div class="barra"><span id="conc-barra" style="width:51.4%"></span></div>
+            <p id="conc-lista" class="lista-municipios">Playa · Centro Habana · Plaza</p>
           </div>
-          <p class="interactivo__nota">Un municipio con pocos anuncios no implica que no haya mercado: implica que esta plataforma lo muestra menos.</p>
+          <p class="interactivo__nota">La curva no dice dónde hay más autos: dice dónde se publica más. Dos anuncios no declaran municipio y quedan fuera de la curva.</p>
         </section>
 
         <aside class="metodo">
@@ -222,11 +232,11 @@
         <header class="bloque__cabecera">
           <p class="bloque__numero">04</p>
           <h2 id="t4">Precios por municipio</h2>
-          <p class="entradilla">Entre los municipios con muestra suficiente, la mediana de los precios pedidos va de 13.000 a 28.000 USD.</p>
+          <p class="entradilla">Entre los municipios con al menos 30 precios válidos, la mediana de los precios pedidos va de 13.000 a 28.000 USD.</p>
         </header>
 
         <div class="prosa">
-          <p>Entre los municipios con al menos 30 precios válidos, la mediana va de <strong>13.000 USD</strong> (La Lisa, n=96) a <strong>28.000 USD</strong> (Arroyo Naranjo, n=223): poco más del doble. Marianao queda en <strong>16.000 USD</strong> (n=81). Regla queda fuera del ranking por muestra insuficiente.</p>
+          <p>Entre los municipios con al menos 30 precios válidos, la mediana va de <strong>13.000 USD</strong> (La Lisa, n=96) a <strong>28.000 USD</strong> (Arroyo Naranjo, n=223): poco más del doble. Marianao queda en <strong>16.000 USD</strong> (n=81). Regla queda fuera del ranking por n<30.</p>
           <p>La diferencia puede reflejar el mix de marcas, modelos, años y estado de los autos de cada municipio, no solo la ubicación.</p>
         </div>
 
@@ -235,22 +245,31 @@
           <figcaption>Precio mediano por municipio, solo con n≥30 precios válidos. Cada barra indica su n.</figcaption>
         </figure>
 
-        <section class="interactivo" aria-labelledby="t-municipio-precio">
+        <section class="interactivo" aria-labelledby="t-marca-municipio">
           <header class="interactivo__cabecera">
-            <p class="interactivo__etiqueta">Tu municipio</p>
-            <h3 id="t-municipio-precio">El detalle del precio</h3>
+            <p class="interactivo__etiqueta">Misma marca, distinto municipio</p>
+            <h3 id="t-marca-municipio">¿El precio cambia por el municipio o por la marca?</h3>
+            <p>Elige una marca y un municipio. Compara la mediana local con la mediana de esa misma marca en toda La Habana.</p>
           </header>
-          <div class="control control--inline">
-            <label for="municipio-precio">Municipio</label>
-            <select id="municipio-precio"></select>
+
+          <div class="controles-dobles">
+            <div class="control">
+              <label for="mm-marca">Marca</label>
+              <select id="mm-marca"></select>
+            </div>
+            <div class="control">
+              <label for="mm-municipio">Municipio</label>
+              <select id="mm-municipio"></select>
+            </div>
           </div>
+
           <div class="resultado resultado--compacto" aria-live="polite">
-            <p class="resultado__grande"><span id="mp-mediana">24.000</span> <span class="resultado__sufijo">USD de mediana</span></p>
-            <p class="resultado__texto">Media recortada 10%: <strong id="mp-recortada">24.793 USD</strong> · rango intercuartílico: <strong id="mp-rango">15.000–35.000 USD</strong></p>
-            <p class="resultado__texto"><span id="mp-n">763</span> anuncios con precio válido</p>
-            <p id="mp-calidad" class="calidad"></p>
+            <p class="resultado__grande"><span id="mm-mediana">28.250</span> <span class="resultado__sufijo">USD en el municipio</span></p>
+            <p class="resultado__texto">Mediana de <strong id="mm-marca-label">Hyundai</strong> en <strong id="mm-municipio-label">Playa</strong>: <span id="mm-n">210</span> anuncios.</p>
+            <p class="resultado__texto">En toda La Habana: <strong id="mm-ciudad">29.000 USD</strong> (<span id="mm-n-ciudad">713</span> anuncios). Diferencia: <strong id="mm-dif">−750 USD</strong>.</p>
+            <p id="mm-calidad" class="calidad"></p>
           </div>
-          <p class="interactivo__nota">No se afirma causalidad territorial: un municipio más caro puede estar concentrando marcas o modelos más caros.</p>
+          <p class="interactivo__nota">La diferencia es descriptiva: no controla año, modelo, versión ni estado. Si la celda tiene pocos anuncios, se marca como muestra baja.</p>
         </section>
 
         <aside class="metodo">
@@ -266,7 +285,7 @@
         <header class="bloque__cabecera">
           <p class="bloque__numero">05</p>
           <h2 id="t5">Qué marcas dominan la oferta y sus precios</h2>
-          <p class="entradilla">Hyundai lidera las publicaciones. Entre las marcas con muestra suficiente, BMW tiene la mediana más alta.</p>
+          <p class="entradilla">Hyundai lidera las publicaciones. Entre las marcas con al menos 30 anuncios, BMW tiene la mediana más alta.</p>
         </header>
 
         <div class="prosa">
@@ -284,22 +303,44 @@
           <figcaption>Top 12 de marcas identificadas por volumen de anuncios. Los 1.110 anuncios sin marca quedan fuera.</figcaption>
         </figure>
 
-        <section class="interactivo" aria-labelledby="t-marca">
+        <section class="interactivo" aria-labelledby="t-rango-marcas">
           <header class="interactivo__cabecera">
-            <p class="interactivo__etiqueta">Explora una marca</p>
-            <h3 id="t-marca">Precio, muestra y calidad</h3>
+            <p class="interactivo__etiqueta">Compara dos marcas</p>
+            <h3 id="t-rango-marcas">No solo la mediana: mira el rango</h3>
+            <p>Elige dos marcas con al menos 30 anuncios. La banda va del P25 al P75; el punto marca la mediana. Dos marcas pueden tener la misma mediana y dispersiones muy distintas.</p>
           </header>
-          <div class="control control--inline">
-            <label for="marca-select">Marca</label>
-            <select id="marca-select"></select>
+
+          <div class="controles-dobles">
+            <div class="control">
+              <label for="rango-a">Marca A</label>
+              <select id="rango-a"></select>
+            </div>
+            <div class="control">
+              <label for="rango-b">Marca B</label>
+              <select id="rango-b"></select>
+            </div>
           </div>
-          <div class="resultado resultado--compacto" aria-live="polite">
-            <p class="resultado__grande"><span id="marca-mediana">29.000</span> <span class="resultado__sufijo">USD de mediana</span></p>
-            <p class="resultado__texto">Media recortada 10%: <strong id="marca-recortada">29.261 USD</strong> · rango: <strong id="marca-rango">2.800–100.000 USD</strong></p>
-            <p class="resultado__texto"><span id="marca-n">713</span> con precio válido de <span id="marca-anuncios">872</span> anuncios</p>
-            <p id="marca-calidad" class="calidad"></p>
+
+          <div class="rangos" aria-live="polite">
+            <div class="rango">
+              <div class="rango__cabecera"><strong id="rango-a-nombre">BMW</strong><span id="rango-a-n">n = 33</span></div>
+              <div class="rango__pista">
+                <span id="rango-a-banda" class="rango__banda"></span>
+                <span id="rango-a-mediana" class="rango__mediana"></span>
+              </div>
+              <p id="rango-a-valores" class="rango__valores">P25 31.000 · Mediana 46.000 · P75 85.000</p>
+            </div>
+            <div class="rango">
+              <div class="rango__cabecera"><strong id="rango-b-nombre">Lada</strong><span id="rango-b-n">n = 161</span></div>
+              <div class="rango__pista">
+                <span id="rango-b-banda" class="rango__banda"></span>
+                <span id="rango-b-mediana" class="rango__mediana"></span>
+              </div>
+              <p id="rango-b-valores" class="rango__valores">P25 5.000 · Mediana 6.500 · P75 7.500</p>
+            </div>
           </div>
-          <p class="interactivo__nota">Un precio alto no significa mejor auto: la marca, el año, el modelo y el estado se mezclan en cada anuncio.</p>
+          <p class="comparador__diferencia" id="rango-diferencia">Diferencia de medianas: 39.500 USD</p>
+          <p class="interactivo__nota">El rango describe el 50% central de los precios pedidos. Un rango ancho indica más heterogeneidad dentro de la marca.</p>
         </section>
 
         <aside class="metodo">
@@ -319,7 +360,7 @@
         </header>
 
         <div class="prosa">
-          <p>El catálogo formal reúne <strong>83 modelos</strong> de 4 entidades y 11 marcas. Los precios van de <strong>10.645 USD</strong> (Bestune Pony) a <strong>79.125 USD</strong> (Mercedes-Benz GLC Coupé). Mercedes-Benz tiene una mediana de 72.722 USD, pero con n=5: insuficiente para conclusiones.</p>
+          <p>El catálogo formal reúne <strong>83 modelos</strong> de 4 entidades y 11 marcas. Los precios van de <strong>10.645 USD</strong> (Bestune Pony) a <strong>79.125 USD</strong> (Mercedes-Benz GLC Coupé). Mercedes-Benz tiene una mediana de 72.722 USD sobre 5 modelos de catálogo: es una referencia de lista, no una estimación de ventas.</p>
           <p>Las entidades no se ordenan por precio porque venden canastas distintas: BDC ONE ofrece MG y Maxus; Dongfeng vende Dongfeng; MCV comercializa Mercedes-Benz, Changan, BAIC, Foton, DFSK y Bestune; CIMEX, Nissan y Toyota. Comparar sus medianas sería comparar productos diferentes.</p>
         </div>
 
@@ -329,8 +370,8 @@
         </figure>
 
         <figure class="figura">
-          <img src="img/03_precio_por_marca_formal.png" alt="Barras horizontales del precio mediano por marca en el catálogo formal: Mercedes-Benz 72.722, Foton 44.709, Dongfeng 32.383, MG 22.896; las marcas con n<5 se muestran en gris." width="1475" height="1048" loading="lazy" decoding="async">
-          <figcaption>Precio mediano por marca en el catálogo formal. Las barras grises tienen n&lt;5 y no deberían leerse como tendencia.</figcaption>
+          <img src="img/03_precio_por_marca_formal.png" alt="Barras horizontales del precio mediano por marca en el catálogo formal: Mercedes-Benz 72.722, Foton 44.709, Dongfeng 32.383, MG 22.896; las marcas con menos de 5 modelos se muestran en gris." width="1475" height="1048" loading="lazy" decoding="async">
+          <figcaption>Precio mediano por marca en el catálogo formal. Las barras grises corresponden a menos de 5 modelos en catálogo; su mediana es una referencia, no una tendencia.</figcaption>
         </figure>
 
         <section class="interactivo" aria-labelledby="t-tabla">
@@ -383,7 +424,7 @@
 
         <aside class="metodo">
           <p><strong>Fuente.</strong> <a href="https://bdcone.online" target="_blank" rel="noopener noreferrer">BDC ONE</a>, <a href="https://dongfengqba.com" target="_blank" rel="noopener noreferrer">Dongfeng Cuba</a>, <a href="https://mcvcommercial.com" target="_blank" rel="noopener noreferrer">MCV Comercial</a> y <a href="https://cimex.cu" target="_blank" rel="noopener noreferrer">CIMEX</a>.</p>
-          <p><strong>Ojo.</strong> Catálogo pequeño y no comparable entre entidades. Precios de lista; el catálogo es nuevo y el informal mezcla usados.</p>
+          <p><strong>Ojo.</strong> Catálogo acotado y no comparable entre entidades. Precios de lista; el catálogo mide cobertura, no ventas, y el informal mezcla usados.</p>
         </aside>
       </div>
     </section>
@@ -394,48 +435,53 @@
         <header class="bloque__cabecera">
           <p class="bloque__numero">07</p>
           <h2 id="t7">El mismo nombre, dos precios</h2>
-          <p class="entradilla">Solo dos marcas tienen muestra suficiente en ambos canales. Y ni siquiera ellas venden el mismo vehículo.</p>
+          <p class="entradilla">Seis marcas cumplen el mínimo para comparar. El catálogo formal no es una muestra: es la lista de modelos publicados, y su cobertura varía.</p>
         </header>
 
         <div class="prosa">
-          <p>Solo <strong>Dongfeng</strong> y <strong>Foton</strong> tienen al menos 10 anuncios en cada canal. En Dongfeng, la mediana informal es <strong>35.000 USD</strong> (n=32) y la formal <strong>32.383 USD</strong> (n=27). En Foton, <strong>50.000 USD</strong> (n=10) frente a <strong>44.709 USD</strong> (n=15).</p>
-          <p>Que el informal esté por encima no significa que el mismo auto sea más caro: el catálogo formal es nuevo y el informal mezcla usados, versiones y estados. La comparación es de canales, no de vehículos.</p>
+          <p>Seis marcas tienen al menos <strong>10 anuncios informales</strong> y presencia en el catálogo formal: Dongfeng, Foton, Mercedes-Benz, MG, Nissan y Toyota. El catálogo no se trata como muestra: es la lista de precios de cada entidad y no permite estimar ventas. Lo que sí varía es la cobertura: Toyota tiene 1 modelo en catálogo, Nissan 3, Mercedes-Benz 5, MG 8, Foton 15 y Dongfeng 27.</p>
+          <p>La dirección de la brecha <strong>no es uniforme</strong>. El informal pide más en Dongfeng (35.000 vs 32.383 USD), Foton (50.000 vs 44.709), MG (24.000 vs 22.896) y Toyota (24.997 vs 22.380). El formal es más caro en Nissan (35.000 vs 30.000) y Mercedes-Benz (72.722 vs 25.000). Esta última brecha refleja, sobre todo, que el catálogo de Mercedes-Benz es de autos nuevos de gama alta, no una estimación de ventas.</p>
         </div>
 
         <figure class="figura">
-          <img src="img/04_comparacion_formal_vs_informal_por_marca.png" alt="Barras agrupadas por marca: Dongfeng informal 35.000 con n=32 frente a formal 32.383 con n=27; Foton informal 50.000 con n=10 frente a formal 44.709 con n=15." width="1466" height="1016" loading="lazy" decoding="async">
-          <figcaption>Comparación de medianas por marca, solo con n≥10 en ambos canales. Cada barra indica su n.</figcaption>
+          <img src="img/04_comparacion_formal_vs_informal_por_marca.png" alt="Barras agrupadas por seis marcas: Foton, Dongfeng, Nissan, Mercedes-Benz, Toyota y MG. Cada barra informal indica su n; cada barra formal, su cantidad de modelos de catálogo." width="1598" height="1108" loading="lazy" decoding="async">
+          <figcaption>Comparación de medianas por marca. La barra informal indica n; la formal, modelos de catálogo. No es el mismo vehículo, versión ni año.</figcaption>
         </figure>
 
-        <section class="interactivo" aria-labelledby="t-comparacion">
+        <section class="interactivo" aria-labelledby="t-cobertura">
           <header class="interactivo__cabecera">
-            <p class="interactivo__etiqueta">Compara con cautela</p>
-            <h3 id="t-comparacion">Las dos marcas comparables</h3>
+            <p class="interactivo__etiqueta">¿Se pueden comparar?</p>
+            <h3 id="t-cobertura">Explorador de cobertura</h3>
+            <p>Elige una marca. La herramienta dice si hay anuncios informales suficientes y si la marca está en el catálogo formal. No usa el catálogo como muestra.</p>
           </header>
+
           <div class="control control--inline">
-            <label for="comparacion-select">Marca</label>
-            <select id="comparacion-select"></select>
+            <label for="cobertura-select">Marca</label>
+            <select id="cobertura-select"></select>
           </div>
-          <div class="comparador comparador--compacto" aria-live="polite">
-            <div class="comparador__lado">
-              <p class="comparador__canal">Informal</p>
-              <p class="comparador__numero" id="comp-inf-mediana">35.000 USD</p>
-              <p class="comparador__n"><span id="comp-inf-n">32</span> anuncios</p>
+
+          <div class="resultado resultado--compacto" aria-live="polite">
+            <p id="cobertura-estado" class="estado">Comparable: hay anuncios informales suficientes y catálogo formal.</p>
+            <div class="comparador comparador--compacto">
+              <div class="comparador__lado">
+                <p class="comparador__canal">Informal</p>
+                <p class="comparador__numero" id="cobertura-inf-mediana">35.000 USD</p>
+                <p class="comparador__n"><span id="cobertura-inf-n">32</span> anuncios</p>
+              </div>
+              <div class="comparador__lado">
+                <p class="comparador__canal">Catálogo formal</p>
+                <p class="comparador__numero" id="cobertura-form-mediana">32.383 USD</p>
+                <p class="comparador__n"><span id="cobertura-form-n">27</span> modelos</p>
+              </div>
             </div>
-            <div class="comparador__lado">
-              <p class="comparador__canal">Formal</p>
-              <p class="comparador__numero" id="comp-form-mediana">32.383 USD</p>
-              <p class="comparador__n"><span id="comp-form-n">27</span> modelos</p>
-            </div>
+            <p class="comparador__diferencia" id="cobertura-diferencia">Diferencia: 2.617 USD · el informal pide más.</p>
           </div>
-          <p class="comparador__diferencia" id="comp-diferencia">Diferencia: 2.617 USD</p>
-          <p id="comp-calidad" class="calidad"></p>
-          <p class="interactivo__nota">No es el mismo vehículo, versión ni año. La muestra formal es pequeña y el catálogo es nuevo.</p>
+          <p class="interactivo__nota">“Comparable” exige al menos 10 anuncios informales y presencia en el catálogo. El número de modelos mide cobertura del catálogo, no cantidad de autos vendidos.</p>
         </section>
 
         <aside class="metodo">
           <p><strong>Fuente.</strong> <a href="https://www.revolico.com" target="_blank" rel="noopener noreferrer">Revolico</a> y catálogos de <a href="https://bdcone.online" target="_blank" rel="noopener noreferrer">BDC ONE</a>, <a href="https://dongfengqba.com" target="_blank" rel="noopener noreferrer">Dongfeng Cuba</a>, <a href="https://mcvcommercial.com" target="_blank" rel="noopener noreferrer">MCV Comercial</a> y <a href="https://cimex.cu" target="_blank" rel="noopener noreferrer">CIMEX</a>.</p>
-          <p><strong>Ojo.</strong> Cruce parcial: solo 2 de 11 marcas. Muestras pequeñas y productos no equivalentes.</p>
+          <p><strong>Ojo.</strong> Cruce parcial: 6 de 11 marcas del catálogo. Cobertura desigual y productos no equivalentes; el catálogo no mide ventas.</p>
         </aside>
       </div>
     </section>
@@ -456,32 +502,34 @@
 
         <figure class="figura">
           <img src="img/q5_clasicos_vs_modernos_conteo.png" alt="Barras horizontales: 1.745 anuncios sin año declarado (48,9%), 1.752 modernos (49,1%) y 69 clásicos (1,9%)." width="1466" height="863" loading="lazy" decoding="async">
-          <figcaption>Composición por año declarado. “Sin año” no es un dato faltante menor: es casi la mitad de la muestra.</figcaption>
+          <figcaption>Composición por año declarado. “Sin año” no es un dato faltante menor: es casi la mitad de los anuncios.</figcaption>
         </figure>
 
         <figure class="figura">
-          <img src="img/q5_clasicos_vs_modernos_proporcion.png" alt="Barra apilada al 100%: clásicos 69 (3,8%) y modernos 1.752 (96,2%), sobre los 1.821 anuncios con año." width="1483" height="719" loading="lazy" decoding="async">
+          <img src="img/q5_clasicos_vs_modernos_proporcion.png" alt="Barra apilada al 100%: clásicos 69 (3,8%) y modernos 1.752 (96,2%), sobre los 1.821 anuncios con año." width="1515" height="719" loading="lazy" decoding="async">
           <figcaption>Proporción entre los 1.821 anuncios que sí declaran año. Clásico &lt; 2000; moderno ≥ 2000.</figcaption>
         </figure>
 
-        <section class="interactivo" aria-labelledby="t-anio">
+        <section class="interactivo" aria-labelledby="t-decadas">
           <header class="interactivo__cabecera">
-            <p class="interactivo__etiqueta">Filtra la muestra</p>
-            <h3 id="t-anio">Con año o sin año</h3>
+            <p class="interactivo__etiqueta">Explora por década</p>
+            <h3 id="t-decadas">¿Cómo cambia el precio con la antigüedad?</h3>
+            <p>Elige una década. La mediana de los precios pedidos sube con los años, pero también cambia la cantidad de anuncios y la dispersión.</p>
           </header>
-          <div class="segmentado" role="group" aria-label="Filtrar por año declarado">
-            <button type="button" class="segmentado__boton activo" data-anio="con" aria-pressed="true">Con año declarado</button>
-            <button type="button" class="segmentado__boton" data-anio="sin" aria-pressed="false">Sin año</button>
+
+          <div class="control control--inline">
+            <label for="decada-select">Década</label>
+            <select id="decada-select"></select>
           </div>
+
           <div class="resultado resultado--compacto" aria-live="polite">
-            <p class="resultado__grande"><span id="anio-titulo">1.821</span> <span class="resultado__sufijo" id="anio-sufijo">anuncios con año</span></p>
-            <p class="resultado__texto" id="anio-detalle">69 clásicos (3,8%) y 1.752 modernos (96,2%) sobre el total con año.</p>
-            <div class="barras-anio" id="anio-barras">
-              <div class="barras-anio__fila"><span>Clásicos</span><div class="barra"><span style="width:3.8%"></span></div><b>3,8%</b></div>
-              <div class="barras-anio__fila"><span>Modernos</span><div class="barra"><span style="width:96.2%"></span></div><b>96,2%</b></div>
-            </div>
+            <p class="resultado__grande"><span id="decada-mediana">33.000</span> <span class="resultado__sufijo">USD de mediana</span></p>
+            <p class="resultado__texto"><strong id="decada-n">932</strong> anuncios con precio válido · <strong id="decada-label">2020</strong> · <span id="decada-share">61,4 %</span> <span id="decada-share-label">de los que declaran año</span>.</p>
+            <p class="resultado__texto">P25–P75: <strong id="decada-rango">25.000–39.000 USD</strong></p>
+            <div class="barra"><span id="decada-barra" style="width:100%"></span></div>
+            <p id="decada-calidad" class="calidad"></p>
           </div>
-          <p class="interactivo__nota">“Sin año” no se imputa ni se elimina del dataset: solo se excluye de los análisis que necesitan año.</p>
+          <p class="interactivo__nota">Los anuncios sin año no se imputan. Su mediana es <strong>11.000 USD</strong>, frente a <strong>26.000 USD</strong> de los que sí declaran año: el dato faltante no es aleatorio.</p>
         </section>
 
         <aside class="metodo">
@@ -543,7 +591,7 @@
           </label>
           <label class="checklist__item">
             <input type="checkbox" data-check="canales">
-            <span><strong>Compara canales con cautela.</strong> La brecha es 10.699 USD, pero solo 2 marcas tienen muestra suficiente en ambos.</span>
+            <span><strong>Compara canales con cautela.</strong> La brecha es 10.699 USD, pero solo 6 marcas son comparables y el catálogo no mide ventas.</span>
           </label>
           <label class="checklist__item">
             <input type="checkbox" data-check="municipio">
@@ -610,7 +658,7 @@
 
         <figure class="figura figura--recap">
           <img src="img/01_brecha_formal_vs_informal.png" alt="Recapitulación: precio mediano informal de 22.000 USD con 2.703 anuncios frente a 32.699 USD formal con 83 modelos; brecha de 10.699 USD." width="1375" height="955" loading="lazy" decoding="async">
-          <figcaption>La cifra que abre y cierra la historia: 10.699 USD de brecha entre canales, con productos y muestras que no son equivalentes.</figcaption>
+          <figcaption>La cifra que abre y cierra la historia: 10.699 USD de brecha entre canales, con productos y canales que no son equivalentes.</figcaption>
         </figure>
 
         <div class="acciones-cierre">
@@ -670,8 +718,8 @@
           <li><strong>Información incompleta:</strong> 1.745 anuncios (48,9%) no declaran año y el kilometraje es mayoritariamente ausente.</li>
           <li><strong>Precios marcador excluidos:</strong> 584 anuncios con precios no válidos quedaron fuera de los cálculos de precio.</li>
           <li><strong>Composición heterogénea:</strong> comparar por municipio, marca o canal mezcla años, modelos, equipamiento y estado.</li>
-          <li><strong>Muestra formal pequeña:</strong> 83 modelos de 4 entidades; cada entidad vende una canasta distinta.</li>
-          <li><strong>Cruce formal-informal limitado:</strong> solo 2 marcas con n≥10 en ambos canales.</li>
+          <li><strong>Catálogo formal acotado:</strong> 83 modelos de 4 entidades; el catálogo mide cobertura, no autos vendidos.</li>
+          <li><strong>Cruce formal-informal limitado:</strong> solo 6 marcas con ≥10 anuncios informales y presencia en catálogo.</li>
           <li><strong>Entrevistas:</strong> 30 casos, sesgo de conveniencia, estimaciones declaradas y valores faltantes.</li>
           <li><strong>Contexto temporal y cambiario:</strong> catálogos de 2026 y anuncios de septiembre–octubre de 2026; las conversiones ya vienen en los CSV procesados.</li>
           <li><strong>Cobertura geográfica:</strong> solo La Habana (15 municipios); no extrapolable al resto de Cuba.</li>

@@ -35,6 +35,7 @@ regla permanente: ver `README.md`.
 | 012 | 2026-11-05 | `012_2026-11-05_preparacion_web.md` | Preparación de la web: paquete de datos, figuras mal etiquetadas y deuda detectada |
 | 013 | 2026-11-05 | `013_2026-11-05_pagina_web_implementada.md` | Página web implementada, 9 interactivos y figuras 03/04/07 corregidas |
 | 014 | 2026-11-05 | `014_2026-11-05_reporte_tecnico_ampliado.md` | Reporte técnico 2.0: Q1–Q9, control de calidad, referencias y anexos |
+| 015 | 2026-11-06 | `015_2026-11-06_web_v2_interactivos.md` | Web v2: 6 interactivos nuevos y catálogo formal sin lenguaje de muestra |
 
 ---
 *Regla: al añadir una entrada, insertar la fila correspondiente al final de su

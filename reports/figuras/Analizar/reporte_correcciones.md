@@ -1,5 +1,10 @@
 # Reporte de Correcciones - Gráficas de Precios
 
+> **Actualización 2026-11-06 (web v2):** la comparación formal-informal se
+> amplió a 6 marcas (≥10 anuncios informales y presencia en catálogo formal).
+> Las etiquetas formales dicen “X modelos” y el catálogo se presenta como
+> cobertura de precios de lista, no como muestra ni como ventas.
+
 > **Actualización 2026-11-05 (web):** la figura `04_comparacion...` se corrigió
 > (la marca es **Foton**, no Ford) y la `07_catalogo_formal_por_entidad` se
 > rediseñó como dispersión por entidad para no rankearlas por mediana. La carpeta

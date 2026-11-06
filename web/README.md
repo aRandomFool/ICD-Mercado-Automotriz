@@ -23,7 +23,22 @@ se cargan desde `assets/js/datos.js` (`window.DATOS`), no con `fetch`.
 - `assets/js/app.js` — interactivos, navegación y checklist.
 - `assets/js/datos.js` — paquete de datos generado (no editar a mano).
 - `data/datos.json` — el mismo paquete, auditable.
-- `img/` — 10 figuras corregidas y optimizadas.
+- `img/` — 10 figuras únicas (11 usos con el recap del cierre).
+
+## Interactivos
+
+- **Bloque 1:** presupuesto (cuánto queda a tu alcance).
+- **Bloque 2:** percentiles P10–P90 por canal.
+- **Bloque 3:** curva de concentración por municipios.
+- **Bloque 4:** misma marca, distinto municipio.
+- **Bloque 5:** rangos P25–P75 de dos marcas.
+- **Bloque 6:** tabla filtrable del catálogo (83 modelos).
+- **Bloque 7:** explorador de cobertura formal-informal (31 marcas).
+- **Bloque 8:** explorador por década, incluido “sin año”.
+- **Bloque 10:** checklist con descarga.
+
+El catálogo formal se presenta como **precios de lista y cobertura de modelos**,
+nunca como muestra ni como ventas.
 
 ## Regenerar datos y figuras
 
@@ -36,9 +51,9 @@ MPLCONFIGDIR=/tmp/mpl .venv/bin/python src/generar_figuras_web.py
 `data/processed/comercializadoras.csv` todos los agregados de la página. Si
 cambian los CSV, hay que volver a ejecutarlo.
 
-## Verificación realizada (2026-11-05)
+## Verificación realizada (2026-11-06)
 
-- 10/10 imágenes cargan; 0 excepciones de consola.
+- 11/11 imágenes cargan; 0 excepciones de consola.
 - Sin desbordamiento horizontal en escritorio (1440 px) ni móvil (≤640 px).
-- Filtros de tabla, selectores de marca/municipio, presupuesto, comparación,
-  filtro de año y checklist probados con Chrome DevTools.
+- Los 9 interactivos (presupuesto, tabla, 6 exploradores y checklist) se probaron
+  con Chrome DevTools; Q6 compara 6 marcas y el catálogo no se trata como muestra.

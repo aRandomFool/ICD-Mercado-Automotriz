@@ -66,14 +66,15 @@ para auditoría y para reutilizar la data en otros formatos.
 ## 3. Contrato de datos (`web/assets/js/datos.js`)
 
 ```
-DATOS.meta        reglas, muestras, brecha, fuentes, datasets
-DATOS.informal    municipios[15], marcas[58], anios, precios_validos[2703], puntos_marca[2024]
-DATOS.formal      catalogo[83], marcas[11], entidades[4], precios_validos[83], rango
-DATOS.comparacion criterio "n>=10 en ambos", marcas[2]
+DATOS.meta        reglas, muestras, brecha, percentiles, fuentes, datasets
+DATOS.informal    municipios[15], municipio_marca[323], marcas[58], anios (por_decada, sin_anio), precios_validos[2703], puntos_marca[2024]
+DATOS.formal      catalogo[83], marcas[11] (modelos), entidades[4] (modelos), precios_validos[83], rango
+DATOS.comparacion criterio "≥10 anuncios informales y presencia en catálogo", marcas[6] + cobertura[31]
 ```
 
-Cada agregado trae: `n`, `mediana`, `media_recortada_10`, `p25`, `p75`, `min`,
-`max`, `calidad` (`suficiente` / `baja` / `insuficiente`) y, según el caso,
+Cada agregado informal trae: `n`, `mediana`, `media_recortada_10`, `p25`, `p75`,
+`min`, `max`, `calidad` (`suficiente` / `baja` / `insuficiente`). Los agregados
+formales usan `modelos` y no llevan calidad de muestra. Y, según el caso,
 `anuncios` (total de filas) separado de `n` (filas con precio válido).
 
 Regenerar tras cualquier cambio de datos:
@@ -100,13 +101,13 @@ Cifras de control (deben coincidir con `reports/figuras/Analizar/reporte_correcc
 | Bloque | Figura exacta | Interactivo | Claves de datos |
 |---|---|---|---|
 | 1 Portada | `graficos_nuevos/01_brecha_formal_vs_informal.png` | "Mi presupuesto" (2.000–80.000 USD) | `meta.brecha`, `informal.precios_validos`, `informal.puntos_marca`, `formal.precios_validos` |
-| 2 Dos mercados | `01_brecha...png` | Toggle mediana / media recortada 10% | `meta.brecha` |
-| 3 Concentración | `a_estructura_concentracion_municipio.png` | "Tu municipio" (conteos) | `informal.municipios` |
-| 4 Precios por municipio | `graficos_nuevos/02_mediana_precio_por_municipio.png` | "Tu municipio" (mediana, n, calidad) | `informal.municipios` |
-| 5 Marcas | `03_precio_por_marca_informal.png` + `a_estructura_concentracion_marca.png` | Selector de marca | `informal.marcas` |
+| 2 Dos mercados | `01_brecha...png` | Percentiles P10–P90 por canal | `meta.percentiles` |
+| 3 Concentración | `a_estructura_concentracion_municipio.png` | Curva de concentración (1–15 municipios) | `informal.municipios` |
+| 4 Precios por municipio | `graficos_nuevos/02_mediana_precio_por_municipio.png` | Misma marca, distinto municipio | `informal.municipio_marca`, `informal.marcas` |
+| 5 Marcas | `03_precio_por_marca_informal.png` + `a_estructura_concentracion_marca.png` | Rangos P25–P75 de dos marcas | `informal.marcas` |
 | 6 Catálogo formal | `07_catalogo_formal_por_entidad.png` + `03_precio_por_marca_formal.png` | Tabla filtrable | `formal.catalogo`, `formal.marcas` |
-| 7 Mismo nombre | `04_comparacion_formal_vs_informal_por_marca.png` | Selector de marca común (2) | `comparacion.marcas` |
-| 8 Antigüedad | `q5_clasicos_vs_modernos_conteo.png` + `..._proporcion.png` | Filtro con/sin año | `informal.anios` |
+| 7 Mismo nombre | `04_comparacion_formal_vs_informal_por_marca.png` | Explorador de cobertura (31 marcas) | `comparacion.cobertura`, `comparacion.marcas` |
+| 8 Antigüedad | `q5_clasicos_vs_modernos_conteo.png` + `..._proporcion.png` | Explorador por década (incluye “sin año”) | `informal.anios.por_decada` |
 | 9 Mantenimiento | — (narrativa) | — | Texto de `Entrevistas.txt` |
 | 10 Checklist | Tarjetas con cifras ya citadas | Checklist descargable | Cifras de bloques 1–9 |
 | 11 Cierre | `01_brecha...png` (recap, opcional) | — | `meta` |
@@ -115,15 +116,16 @@ Notas de implementación:
 - **Bloque 1**: el porcentaje se calcula sobre `precios_validos` (n=2.703). Las
   marcas dentro del presupuesto usan `puntos_marca` (excluye "no identificada").
   Los modelos formales se cuentan sobre `formal.precios_validos` (83).
-- **Bloque 4**: ranking solo con `calidad == "suficiente"`; el resto se lista
-  aparte como muestra baja/insuficiente.
-- **Bloque 7**: hoy solo hay 2 marcas que cumplen `n>=10` en ambos canales
-  (Dongfeng y Foton); el selector debe decir "2 marcas comparables" y no fingir
-  un cruce más amplio.
+- **Bloque 4**: comparación condicional marca–municipio; si la celda tiene
+  `n<10` se marca como muestra baja (dato informal). No se rankean municipios.
+- **Bloque 7**: hoy hay 6 marcas con `n>=10` anuncios informales y presencia en
+  catálogo formal (Dongfeng, Foton, MG, Nissan, Toyota y Mercedes-Benz). El
+  selector debe decir "6 marcas comparables"; el catálogo no es una muestra.
 - **Bloque 9**: no lleva gráficos ni interactivos por decisión editorial; las
   cifras del guion ya están verificadas contra `Entrevistas.txt`.
-- Cada bloque declara fuente, sesgos y calidad de muestra; el pie lista todas
-  las URLs.
+- Cada bloque declara fuente y sesgos; la calidad de muestra se aplica solo a
+  datos informales. En comercializadoras se muestra la cobertura del catálogo
+  (número de modelos), nunca una muestra ni ventas. El pie lista todas las URLs.
 
 ---
 

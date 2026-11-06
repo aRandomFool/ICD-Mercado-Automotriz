@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generado": "2026-11-05T19:40:07+00:00",
+    "generado": "2026-11-06T15:17:53+00:00",
     "alcance": "La Habana (15 municipios)",
     "reglas": {
       "precio_valido": "1000 <= precio_usd < 1000000",
       "mercado_informal": "Revolico (precios pedidos, no de cierre)",
       "mercado_formal": "Comercializadoras autorizadas (precios de lista/referencia)",
+      "catalogo_formal": "el número de modelos mide cobertura del catálogo, no ventas",
       "mediana_por_defecto": true,
       "media_recortada_10": "se elimina 10% inferior y 10% superior",
       "anio_0": "se trata como ausente y se excluye de análisis por año",
       "marca_no_identificada": "excluida en análisis por marca",
       "formal_microbus_pickup": "excluidas como marca en gráficos por marca",
-      "calidad_muestra": "n>=30 suficiente · 10<=n<30 baja · n<10 insuficiente"
+      "calidad_muestra_informal": "n>=30 suficiente · 10<=n<30 baja · n<10 insuficiente"
     },
     "muestras": {
       "informal_total": 3566,
       "informal_precio_valido": 2703,
       "informal_activos_precio_valido": 2015,
       "informal_activos_mediana": 22000,
-      "formal_total": 83,
-      "formal_precio_valido": 83,
+      "formal_modelos": 83,
       "entrevistas": 30
     },
     "brecha": {
@@ -28,6 +28,22 @@
       "brecha_usd": 10699,
       "informal_media_recortada_10": 22196,
       "formal_media_recortada_10": 34083
+    },
+    "percentiles": {
+      "informal": {
+        "p10": 5000,
+        "p25": 10250,
+        "p50": 22000,
+        "p75": 34000,
+        "p90": 40000
+      },
+      "formal": {
+        "p10": 20662,
+        "p25": 26837,
+        "p50": 32699,
+        "p75": 42514,
+        "p90": 53220
+      }
     },
     "fuentes": [
       {
@@ -258,6 +274,2592 @@
         "min": 1000,
         "max": 45000,
         "calidad": "baja"
+      }
+    ],
+    "municipio_marca": [
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "chery",
+        "n": 1,
+        "mediana": 17500,
+        "p25": 17500,
+        "p75": 17500
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "chevrolet",
+        "n": 3,
+        "mediana": 16000,
+        "p25": 11000,
+        "p75": 24750
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "fiat",
+        "n": 2,
+        "mediana": 4250,
+        "p25": 4125,
+        "p75": 4375
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "ford",
+        "n": 3,
+        "mediana": 6000,
+        "p25": 5750,
+        "p75": 15000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "gmc",
+        "n": 1,
+        "mediana": 55000,
+        "p25": 55000,
+        "p75": 55000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "honda",
+        "n": 3,
+        "mediana": 38000,
+        "p25": 32000,
+        "p75": 38000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "hyundai",
+        "n": 118,
+        "mediana": 29500,
+        "p25": 25000,
+        "p75": 38000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "kia",
+        "n": 3,
+        "mediana": 18000,
+        "p25": 15000,
+        "p75": 18000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "lada",
+        "n": 10,
+        "mediana": 7000,
+        "p25": 5625,
+        "p75": 8000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "mercedes-benz",
+        "n": 2,
+        "mediana": 16000,
+        "p25": 11000,
+        "p75": 21000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "mg",
+        "n": 1,
+        "mediana": 30000,
+        "p25": 30000,
+        "p75": 30000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "mitsubishi",
+        "n": 2,
+        "mediana": 14500,
+        "p25": 14250,
+        "p75": 14750
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "nissan",
+        "n": 8,
+        "mediana": 30000,
+        "p25": 29250,
+        "p75": 32750
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "peugeot",
+        "n": 1,
+        "mediana": 9000,
+        "p25": 9000,
+        "p75": 9000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "plymouth",
+        "n": 1,
+        "mediana": 6000,
+        "p25": 6000,
+        "p75": 6000
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "toyota",
+        "n": 7,
+        "mediana": 35000,
+        "p25": 18500,
+        "p75": 38500
+      },
+      {
+        "municipio": "arroyo naranjo",
+        "marca": "volkswagen",
+        "n": 4,
+        "mediana": 33000,
+        "p25": 26250,
+        "p75": 34500
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "aion",
+        "n": 1,
+        "mediana": 23300,
+        "p25": 23300,
+        "p75": 23300
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "audi",
+        "n": 1,
+        "mediana": 25000,
+        "p25": 25000,
+        "p75": 25000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "chevrolet",
+        "n": 3,
+        "mediana": 4000,
+        "p25": 4000,
+        "p75": 5250
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "daewoo",
+        "n": 1,
+        "mediana": 8500,
+        "p25": 8500,
+        "p75": 8500
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "dodge",
+        "n": 2,
+        "mediana": 5500,
+        "p25": 5250,
+        "p75": 5750
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "dongfeng",
+        "n": 2,
+        "mediana": 37500,
+        "p25": 36250,
+        "p75": 38750
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "fiat",
+        "n": 2,
+        "mediana": 3750,
+        "p25": 3125,
+        "p75": 4375
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "ford",
+        "n": 4,
+        "mediana": 7250,
+        "p25": 6000,
+        "p75": 8500
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "geely",
+        "n": 5,
+        "mediana": 11500,
+        "p25": 11500,
+        "p75": 12000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "haval",
+        "n": 2,
+        "mediana": 17750,
+        "p25": 17625,
+        "p75": 17875
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "honda",
+        "n": 5,
+        "mediana": 37500,
+        "p25": 35000,
+        "p75": 40000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "hyundai",
+        "n": 29,
+        "mediana": 29000,
+        "p25": 19500,
+        "p75": 36000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "infiniti",
+        "n": 1,
+        "mediana": 30000,
+        "p25": 30000,
+        "p75": 30000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "jeep",
+        "n": 1,
+        "mediana": 7200,
+        "p25": 7200,
+        "p75": 7200
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "jmc",
+        "n": 1,
+        "mediana": 29000,
+        "p25": 29000,
+        "p75": 29000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "kia",
+        "n": 2,
+        "mediana": 10750,
+        "p25": 9125,
+        "p75": 12375
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "lada",
+        "n": 8,
+        "mediana": 5000,
+        "p25": 3975,
+        "p75": 6250
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "mercedes-benz",
+        "n": 4,
+        "mediana": 37500,
+        "p25": 32500,
+        "p75": 57500
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "mg",
+        "n": 1,
+        "mediana": 14000,
+        "p25": 14000,
+        "p75": 14000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "nissan",
+        "n": 3,
+        "mediana": 20000,
+        "p25": 19000,
+        "p75": 27500
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "oldsmobile",
+        "n": 1,
+        "mediana": 7000,
+        "p25": 7000,
+        "p75": 7000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "plymouth",
+        "n": 1,
+        "mediana": 4000,
+        "p25": 4000,
+        "p75": 4000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "pontiac",
+        "n": 1,
+        "mediana": 2200,
+        "p25": 2200,
+        "p75": 2200
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "renault",
+        "n": 4,
+        "mediana": 10500,
+        "p25": 10500,
+        "p75": 11000
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "toyota",
+        "n": 5,
+        "mediana": 19000,
+        "p25": 19000,
+        "p75": 19500
+      },
+      {
+        "municipio": "boyeros",
+        "marca": "volkswagen",
+        "n": 3,
+        "mediana": 37000,
+        "p25": 36000,
+        "p75": 37250
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "audi",
+        "n": 3,
+        "mediana": 34000,
+        "p25": 25250,
+        "p75": 49500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "baic",
+        "n": 3,
+        "mediana": 33000,
+        "p25": 33000,
+        "p75": 33250
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "bmw",
+        "n": 5,
+        "mediana": 55000,
+        "p25": 40000,
+        "p75": 57000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "buick",
+        "n": 1,
+        "mediana": 3500,
+        "p25": 3500,
+        "p75": 3500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "byd",
+        "n": 1,
+        "mediana": 27000,
+        "p25": 27000,
+        "p75": 27000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "cadillac",
+        "n": 1,
+        "mediana": 70000,
+        "p25": 70000,
+        "p75": 70000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "changan",
+        "n": 1,
+        "mediana": 33000,
+        "p25": 33000,
+        "p75": 33000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "chery",
+        "n": 1,
+        "mediana": 17000,
+        "p25": 17000,
+        "p75": 17000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "chevrolet",
+        "n": 9,
+        "mediana": 7000,
+        "p25": 3500,
+        "p75": 29500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "daewoo",
+        "n": 1,
+        "mediana": 8500,
+        "p25": 8500,
+        "p75": 8500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "dodge",
+        "n": 1,
+        "mediana": 11000,
+        "p25": 11000,
+        "p75": 11000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "dongfeng",
+        "n": 2,
+        "mediana": 33000,
+        "p25": 32000,
+        "p75": 34000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "fiat",
+        "n": 1,
+        "mediana": 10000,
+        "p25": 10000,
+        "p75": 10000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "ford",
+        "n": 3,
+        "mediana": 28000,
+        "p25": 21500,
+        "p75": 32250
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "foton",
+        "n": 2,
+        "mediana": 50000,
+        "p25": 50000,
+        "p75": 50000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "geely",
+        "n": 1,
+        "mediana": 32000,
+        "p25": 32000,
+        "p75": 32000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "hino",
+        "n": 1,
+        "mediana": 65000,
+        "p25": 65000,
+        "p75": 65000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "honda",
+        "n": 8,
+        "mediana": 35000,
+        "p25": 27375,
+        "p75": 38425
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "hyundai",
+        "n": 100,
+        "mediana": 32650,
+        "p25": 22750,
+        "p75": 38625
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "infiniti",
+        "n": 1,
+        "mediana": 28500,
+        "p25": 28500,
+        "p75": 28500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "jeep",
+        "n": 1,
+        "mediana": 25500,
+        "p25": 25500,
+        "p75": 25500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "kia",
+        "n": 20,
+        "mediana": 18750,
+        "p25": 16625,
+        "p75": 25125
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "lada",
+        "n": 13,
+        "mediana": 6500,
+        "p25": 6000,
+        "p75": 7000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "lexus",
+        "n": 1,
+        "mediana": 36000,
+        "p25": 36000,
+        "p75": 36000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "maxus",
+        "n": 2,
+        "mediana": 27000,
+        "p25": 25500,
+        "p75": 28500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "mercedes-benz",
+        "n": 3,
+        "mediana": 22000,
+        "p25": 18500,
+        "p75": 22000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "mg",
+        "n": 2,
+        "mediana": 29000,
+        "p25": 26500,
+        "p75": 31500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "mini",
+        "n": 2,
+        "mediana": 13000,
+        "p25": 13000,
+        "p75": 13000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "mitsubishi",
+        "n": 4,
+        "mediana": 26000,
+        "p25": 26000,
+        "p75": 26000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "nissan",
+        "n": 11,
+        "mediana": 30000,
+        "p25": 16000,
+        "p75": 36500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "opel",
+        "n": 2,
+        "mediana": 4500,
+        "p25": 4500,
+        "p75": 4500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "peugeot",
+        "n": 3,
+        "mediana": 13500,
+        "p25": 13000,
+        "p75": 13750
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "plymouth",
+        "n": 1,
+        "mediana": 7000,
+        "p25": 7000,
+        "p75": 7000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "renault",
+        "n": 1,
+        "mediana": 11000,
+        "p25": 11000,
+        "p75": 11000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "seat",
+        "n": 1,
+        "mediana": 11000,
+        "p25": 11000,
+        "p75": 11000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "skoda",
+        "n": 1,
+        "mediana": 4500,
+        "p25": 4500,
+        "p75": 4500
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "toyota",
+        "n": 13,
+        "mediana": 35000,
+        "p25": 26000,
+        "p75": 39000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "volkswagen",
+        "n": 8,
+        "mediana": 34250,
+        "p25": 33250,
+        "p75": 36000
+      },
+      {
+        "municipio": "centro habana",
+        "marca": "volvo",
+        "n": 1,
+        "mediana": 58000,
+        "p25": 58000,
+        "p75": 58000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "audi",
+        "n": 1,
+        "mediana": 95000,
+        "p25": 95000,
+        "p75": 95000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "baic",
+        "n": 1,
+        "mediana": 33000,
+        "p25": 33000,
+        "p75": 33000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "chevrolet",
+        "n": 7,
+        "mediana": 7500,
+        "p25": 4500,
+        "p75": 8750
+      },
+      {
+        "municipio": "cerro",
+        "marca": "fiat",
+        "n": 1,
+        "mediana": 7200,
+        "p25": 7200,
+        "p75": 7200
+      },
+      {
+        "municipio": "cerro",
+        "marca": "geely",
+        "n": 2,
+        "mediana": 11500,
+        "p25": 11250,
+        "p75": 11750
+      },
+      {
+        "municipio": "cerro",
+        "marca": "honda",
+        "n": 8,
+        "mediana": 30000,
+        "p25": 26750,
+        "p75": 36750
+      },
+      {
+        "municipio": "cerro",
+        "marca": "hyundai",
+        "n": 32,
+        "mediana": 31250,
+        "p25": 21000,
+        "p75": 37250
+      },
+      {
+        "municipio": "cerro",
+        "marca": "jeep",
+        "n": 2,
+        "mediana": 11000,
+        "p25": 11000,
+        "p75": 11000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "kia",
+        "n": 6,
+        "mediana": 18000,
+        "p25": 18000,
+        "p75": 18000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "lada",
+        "n": 12,
+        "mediana": 6250,
+        "p25": 6000,
+        "p75": 7625
+      },
+      {
+        "municipio": "cerro",
+        "marca": "maxus",
+        "n": 1,
+        "mediana": 30000,
+        "p25": 30000,
+        "p75": 30000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "mercedes-benz",
+        "n": 5,
+        "mediana": 10000,
+        "p25": 9000,
+        "p75": 10000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "mg",
+        "n": 1,
+        "mediana": 24000,
+        "p25": 24000,
+        "p75": 24000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "mitsubishi",
+        "n": 1,
+        "mediana": 8000,
+        "p25": 8000,
+        "p75": 8000
+      },
+      {
+        "municipio": "cerro",
+        "marca": "opel",
+        "n": 3,
+        "mediana": 13000,
+        "p25": 8750,
+        "p75": 13500
+      },
+      {
+        "municipio": "cerro",
+        "marca": "peugeot",
+        "n": 3,
+        "mediana": 7500,
+        "p25": 7500,
+        "p75": 10500
+      },
+      {
+        "municipio": "cerro",
+        "marca": "skoda",
+        "n": 2,
+        "mediana": 6250,
+        "p25": 5375,
+        "p75": 7125
+      },
+      {
+        "municipio": "cerro",
+        "marca": "toyota",
+        "n": 12,
+        "mediana": 21750,
+        "p25": 12000,
+        "p75": 27250
+      },
+      {
+        "municipio": "cerro",
+        "marca": "volkswagen",
+        "n": 4,
+        "mediana": 9000,
+        "p25": 8000,
+        "p75": 10250
+      },
+      {
+        "municipio": "cotorro",
+        "marca": "chevrolet",
+        "n": 1,
+        "mediana": 36000,
+        "p25": 36000,
+        "p75": 36000
+      },
+      {
+        "municipio": "cotorro",
+        "marca": "honda",
+        "n": 1,
+        "mediana": 37500,
+        "p25": 37500,
+        "p75": 37500
+      },
+      {
+        "municipio": "cotorro",
+        "marca": "hyundai",
+        "n": 5,
+        "mediana": 30000,
+        "p25": 24000,
+        "p75": 35000
+      },
+      {
+        "municipio": "cotorro",
+        "marca": "lada",
+        "n": 4,
+        "mediana": 6950,
+        "p25": 5925,
+        "p75": 7675
+      },
+      {
+        "municipio": "cotorro",
+        "marca": "moskvich",
+        "n": 1,
+        "mediana": 4600,
+        "p25": 4600,
+        "p75": 4600
+      },
+      {
+        "municipio": "cotorro",
+        "marca": "peugeot",
+        "n": 1,
+        "mediana": 15000,
+        "p25": 15000,
+        "p75": 15000
+      },
+      {
+        "municipio": "cotorro",
+        "marca": "toyota",
+        "n": 1,
+        "mediana": 24997,
+        "p25": 24997,
+        "p75": 24997
+      },
+      {
+        "municipio": "cotorro",
+        "marca": "volkswagen",
+        "n": 1,
+        "mediana": 30500,
+        "p25": 30500,
+        "p75": 30500
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "acura",
+        "n": 1,
+        "mediana": 17000,
+        "p25": 17000,
+        "p75": 17000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "audi",
+        "n": 3,
+        "mediana": 17000,
+        "p25": 16750,
+        "p75": 17000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "bmw",
+        "n": 2,
+        "mediana": 155000,
+        "p25": 107500,
+        "p75": 202500
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "buick",
+        "n": 1,
+        "mediana": 13500,
+        "p25": 13500,
+        "p75": 13500
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "byd",
+        "n": 1,
+        "mediana": 46000,
+        "p25": 46000,
+        "p75": 46000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "cadillac",
+        "n": 3,
+        "mediana": 100000,
+        "p25": 52500,
+        "p75": 115000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "chevrolet",
+        "n": 4,
+        "mediana": 6000,
+        "p25": 5750,
+        "p75": 13125
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "citroen",
+        "n": 1,
+        "mediana": 10000,
+        "p25": 10000,
+        "p75": 10000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "daewoo",
+        "n": 4,
+        "mediana": 9750,
+        "p25": 8125,
+        "p75": 11000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "dongfeng",
+        "n": 4,
+        "mediana": 35000,
+        "p25": 35000,
+        "p75": 35000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "fiat",
+        "n": 5,
+        "mediana": 8000,
+        "p25": 5000,
+        "p75": 8000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "ford",
+        "n": 3,
+        "mediana": 7000,
+        "p25": 6750,
+        "p75": 21000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "foton",
+        "n": 1,
+        "mediana": 40000,
+        "p25": 40000,
+        "p75": 40000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "gac",
+        "n": 1,
+        "mediana": 18000,
+        "p25": 18000,
+        "p75": 18000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "gaz",
+        "n": 1,
+        "mediana": 4200,
+        "p25": 4200,
+        "p75": 4200
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "honda",
+        "n": 3,
+        "mediana": 30000,
+        "p25": 26500,
+        "p75": 31250
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "hyundai",
+        "n": 50,
+        "mediana": 25000,
+        "p25": 21250,
+        "p75": 35375
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "jeep",
+        "n": 1,
+        "mediana": 9000,
+        "p25": 9000,
+        "p75": 9000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "kia",
+        "n": 16,
+        "mediana": 16850,
+        "p25": 15750,
+        "p75": 18850
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "lada",
+        "n": 24,
+        "mediana": 6750,
+        "p25": 4950,
+        "p75": 7625
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "land rover",
+        "n": 2,
+        "mediana": 61000,
+        "p25": 56500,
+        "p75": 65500
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "mercedes-benz",
+        "n": 1,
+        "mediana": 300000,
+        "p25": 300000,
+        "p75": 300000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "mg",
+        "n": 2,
+        "mediana": 19000,
+        "p25": 18000,
+        "p75": 20000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "mitsubishi",
+        "n": 2,
+        "mediana": 24750,
+        "p25": 18125,
+        "p75": 31375
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "moskvich",
+        "n": 4,
+        "mediana": 5500,
+        "p25": 4375,
+        "p75": 6500
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "nissan",
+        "n": 10,
+        "mediana": 29000,
+        "p25": 27000,
+        "p75": 30000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "opel",
+        "n": 1,
+        "mediana": 5500,
+        "p25": 5500,
+        "p75": 5500
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "peugeot",
+        "n": 4,
+        "mediana": 11000,
+        "p25": 5200,
+        "p75": 17000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "porsche",
+        "n": 1,
+        "mediana": 60000,
+        "p25": 60000,
+        "p75": 60000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "renault",
+        "n": 2,
+        "mediana": 1600,
+        "p25": 1550,
+        "p75": 1650
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "skoda",
+        "n": 4,
+        "mediana": 4000,
+        "p25": 4000,
+        "p75": 4000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "subaru",
+        "n": 2,
+        "mediana": 8500,
+        "p25": 8500,
+        "p75": 8500
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "toyota",
+        "n": 8,
+        "mediana": 36000,
+        "p25": 24748,
+        "p75": 38000
+      },
+      {
+        "municipio": "diez de octubre",
+        "marca": "volkswagen",
+        "n": 11,
+        "mediana": 8000,
+        "p25": 5000,
+        "p75": 12250
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "chevrolet",
+        "n": 1,
+        "mediana": 8000,
+        "p25": 8000,
+        "p75": 8000
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "dodge",
+        "n": 1,
+        "mediana": 1000,
+        "p25": 1000,
+        "p75": 1000
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "foton",
+        "n": 2,
+        "mediana": 52000,
+        "p25": 51000,
+        "p75": 53000
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "hyundai",
+        "n": 17,
+        "mediana": 32000,
+        "p25": 19000,
+        "p75": 32000
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "infiniti",
+        "n": 1,
+        "mediana": 29000,
+        "p25": 29000,
+        "p75": 29000
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "kia",
+        "n": 5,
+        "mediana": 19000,
+        "p25": 18500,
+        "p75": 20000
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "lada",
+        "n": 8,
+        "mediana": 6000,
+        "p25": 4875,
+        "p75": 6500
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "mercedes-benz",
+        "n": 2,
+        "mediana": 41750,
+        "p25": 32625,
+        "p75": 50875
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "nissan",
+        "n": 2,
+        "mediana": 38500,
+        "p25": 37750,
+        "p75": 39250
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "opel",
+        "n": 1,
+        "mediana": 31000,
+        "p25": 31000,
+        "p75": 31000
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "peugeot",
+        "n": 3,
+        "mediana": 13000,
+        "p25": 9250,
+        "p75": 14000
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "plymouth",
+        "n": 2,
+        "mediana": 4750,
+        "p25": 4625,
+        "p75": 4875
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "toyota",
+        "n": 5,
+        "mediana": 19000,
+        "p25": 18000,
+        "p75": 21500
+      },
+      {
+        "municipio": "guanabacoa",
+        "marca": "volkswagen",
+        "n": 2,
+        "mediana": 6750,
+        "p25": 6625,
+        "p75": 6875
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "audi",
+        "n": 2,
+        "mediana": 30500,
+        "p25": 23250,
+        "p75": 37750
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "baic",
+        "n": 1,
+        "mediana": 33000,
+        "p25": 33000,
+        "p75": 33000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "bmw",
+        "n": 2,
+        "mediana": 25500,
+        "p25": 25250,
+        "p75": 25750
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "chevrolet",
+        "n": 6,
+        "mediana": 13500,
+        "p25": 7375,
+        "p75": 30875
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "fiat",
+        "n": 5,
+        "mediana": 5500,
+        "p25": 4000,
+        "p75": 6000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "ford",
+        "n": 3,
+        "mediana": 4000,
+        "p25": 3750,
+        "p75": 4500
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "geely",
+        "n": 1,
+        "mediana": 11600,
+        "p25": 11600,
+        "p75": 11600
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "honda",
+        "n": 3,
+        "mediana": 27000,
+        "p25": 26500,
+        "p75": 27500
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "hyundai",
+        "n": 38,
+        "mediana": 30750,
+        "p25": 22000,
+        "p75": 35000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "infiniti",
+        "n": 1,
+        "mediana": 75000,
+        "p25": 75000,
+        "p75": 75000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "kia",
+        "n": 19,
+        "mediana": 18000,
+        "p25": 17250,
+        "p75": 22000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "lada",
+        "n": 7,
+        "mediana": 6500,
+        "p25": 5000,
+        "p75": 8000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "land rover",
+        "n": 3,
+        "mediana": 20000,
+        "p25": 12500,
+        "p75": 32500
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "mercedes-benz",
+        "n": 1,
+        "mediana": 60000,
+        "p25": 60000,
+        "p75": 60000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "mg",
+        "n": 2,
+        "mediana": 18250,
+        "p25": 15375,
+        "p75": 21125
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "moskvich",
+        "n": 1,
+        "mediana": 4000,
+        "p25": 4000,
+        "p75": 4000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "nissan",
+        "n": 11,
+        "mediana": 21650,
+        "p25": 20500,
+        "p75": 33500
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "opel",
+        "n": 1,
+        "mediana": 10000,
+        "p25": 10000,
+        "p75": 10000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "peugeot",
+        "n": 4,
+        "mediana": 7500,
+        "p25": 5500,
+        "p75": 10950
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "seat",
+        "n": 2,
+        "mediana": 10500,
+        "p25": 9250,
+        "p75": 11750
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "toyota",
+        "n": 5,
+        "mediana": 15000,
+        "p25": 10000,
+        "p75": 25000
+      },
+      {
+        "municipio": "habana del este",
+        "marca": "volkswagen",
+        "n": 5,
+        "mediana": 7000,
+        "p25": 5500,
+        "p75": 10000
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "baic",
+        "n": 1,
+        "mediana": 33000,
+        "p25": 33000,
+        "p75": 33000
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "chevrolet",
+        "n": 3,
+        "mediana": 6500,
+        "p25": 6500,
+        "p75": 20175
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "dongfeng",
+        "n": 5,
+        "mediana": 28600,
+        "p25": 25000,
+        "p75": 29791
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "fiat",
+        "n": 1,
+        "mediana": 4500,
+        "p25": 4500,
+        "p75": 4500
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "honda",
+        "n": 1,
+        "mediana": 40000,
+        "p25": 40000,
+        "p75": 40000
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "hyundai",
+        "n": 15,
+        "mediana": 35000,
+        "p25": 24500,
+        "p75": 38500
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "jac",
+        "n": 1,
+        "mediana": 58000,
+        "p25": 58000,
+        "p75": 58000
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "kia",
+        "n": 3,
+        "mediana": 44000,
+        "p25": 29000,
+        "p75": 44500
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "lada",
+        "n": 2,
+        "mediana": 7500,
+        "p25": 7500,
+        "p75": 7500
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "nissan",
+        "n": 3,
+        "mediana": 30000,
+        "p25": 18750,
+        "p75": 31000
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "renault",
+        "n": 1,
+        "mediana": 10500,
+        "p25": 10500,
+        "p75": 10500
+      },
+      {
+        "municipio": "habana vieja",
+        "marca": "toyota",
+        "n": 3,
+        "mediana": 40000,
+        "p25": 26000,
+        "p75": 42500
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "audi",
+        "n": 2,
+        "mediana": 14500,
+        "p25": 13750,
+        "p75": 15250
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "bmw",
+        "n": 2,
+        "mediana": 30000,
+        "p25": 26000,
+        "p75": 34000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "cadillac",
+        "n": 1,
+        "mediana": 70000,
+        "p25": 70000,
+        "p75": 70000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "chevrolet",
+        "n": 3,
+        "mediana": 5000,
+        "p25": 4250,
+        "p75": 6500
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "daewoo",
+        "n": 2,
+        "mediana": 9500,
+        "p25": 8250,
+        "p75": 10750
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "fiat",
+        "n": 7,
+        "mediana": 3000,
+        "p25": 2500,
+        "p75": 3000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "ford",
+        "n": 3,
+        "mediana": 7000,
+        "p25": 5250,
+        "p75": 22500
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "gac",
+        "n": 1,
+        "mediana": 27000,
+        "p25": 27000,
+        "p75": 27000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "geely",
+        "n": 1,
+        "mediana": 12000,
+        "p25": 12000,
+        "p75": 12000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "honda",
+        "n": 5,
+        "mediana": 40000,
+        "p25": 28000,
+        "p75": 42000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "hyundai",
+        "n": 18,
+        "mediana": 31500,
+        "p25": 22250,
+        "p75": 37250
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "kia",
+        "n": 6,
+        "mediana": 18000,
+        "p25": 14375,
+        "p75": 19000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "lada",
+        "n": 7,
+        "mediana": 4000,
+        "p25": 3000,
+        "p75": 4500
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "land rover",
+        "n": 1,
+        "mediana": 50000,
+        "p25": 50000,
+        "p75": 50000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "mercedes-benz",
+        "n": 2,
+        "mediana": 19750,
+        "p25": 16375,
+        "p75": 23125
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "mini",
+        "n": 1,
+        "mediana": 3500,
+        "p25": 3500,
+        "p75": 3500
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "nissan",
+        "n": 2,
+        "mediana": 27000,
+        "p25": 25500,
+        "p75": 28500
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "oldsmobile",
+        "n": 1,
+        "mediana": 7000,
+        "p25": 7000,
+        "p75": 7000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "peugeot",
+        "n": 1,
+        "mediana": 2500,
+        "p25": 2500,
+        "p75": 2500
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "renault",
+        "n": 2,
+        "mediana": 9000,
+        "p25": 5250,
+        "p75": 12750
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "toyota",
+        "n": 5,
+        "mediana": 13000,
+        "p25": 12000,
+        "p75": 23000
+      },
+      {
+        "municipio": "la lisa",
+        "marca": "volkswagen",
+        "n": 3,
+        "mediana": 3200,
+        "p25": 3000,
+        "p75": 5850
+      },
+      {
+        "municipio": "marianao",
+        "marca": "bmw",
+        "n": 1,
+        "mediana": 50000,
+        "p25": 50000,
+        "p75": 50000
+      },
+      {
+        "municipio": "marianao",
+        "marca": "buick",
+        "n": 1,
+        "mediana": 5000,
+        "p25": 5000,
+        "p75": 5000
+      },
+      {
+        "municipio": "marianao",
+        "marca": "chery",
+        "n": 1,
+        "mediana": 18500,
+        "p25": 18500,
+        "p75": 18500
+      },
+      {
+        "municipio": "marianao",
+        "marca": "chevrolet",
+        "n": 3,
+        "mediana": 6500,
+        "p25": 6000,
+        "p75": 7050
+      },
+      {
+        "municipio": "marianao",
+        "marca": "dongfeng",
+        "n": 2,
+        "mediana": 77000,
+        "p25": 74500,
+        "p75": 79500
+      },
+      {
+        "municipio": "marianao",
+        "marca": "fiat",
+        "n": 1,
+        "mediana": 3000,
+        "p25": 3000,
+        "p75": 3000
+      },
+      {
+        "municipio": "marianao",
+        "marca": "geely",
+        "n": 2,
+        "mediana": 12000,
+        "p25": 12000,
+        "p75": 12000
+      },
+      {
+        "municipio": "marianao",
+        "marca": "haval",
+        "n": 1,
+        "mediana": 17500,
+        "p25": 17500,
+        "p75": 17500
+      },
+      {
+        "municipio": "marianao",
+        "marca": "hyundai",
+        "n": 12,
+        "mediana": 18250,
+        "p25": 10833,
+        "p75": 30125
+      },
+      {
+        "municipio": "marianao",
+        "marca": "kia",
+        "n": 9,
+        "mediana": 24000,
+        "p25": 18500,
+        "p75": 25500
+      },
+      {
+        "municipio": "marianao",
+        "marca": "lada",
+        "n": 9,
+        "mediana": 6700,
+        "p25": 6000,
+        "p75": 8000
+      },
+      {
+        "municipio": "marianao",
+        "marca": "mg",
+        "n": 1,
+        "mediana": 15000,
+        "p25": 15000,
+        "p75": 15000
+      },
+      {
+        "municipio": "marianao",
+        "marca": "nissan",
+        "n": 6,
+        "mediana": 31050,
+        "p25": 30100,
+        "p75": 32000
+      },
+      {
+        "municipio": "marianao",
+        "marca": "plymouth",
+        "n": 1,
+        "mediana": 4500,
+        "p25": 4500,
+        "p75": 4500
+      },
+      {
+        "municipio": "marianao",
+        "marca": "seat",
+        "n": 1,
+        "mediana": 11000,
+        "p25": 11000,
+        "p75": 11000
+      },
+      {
+        "municipio": "marianao",
+        "marca": "toyota",
+        "n": 1,
+        "mediana": 23500,
+        "p25": 23500,
+        "p75": 23500
+      },
+      {
+        "municipio": "marianao",
+        "marca": "volkswagen",
+        "n": 1,
+        "mediana": 32000,
+        "p25": 32000,
+        "p75": 32000
+      },
+      {
+        "municipio": "playa",
+        "marca": "audi",
+        "n": 8,
+        "mediana": 37000,
+        "p25": 19000,
+        "p75": 54000
+      },
+      {
+        "municipio": "playa",
+        "marca": "baic",
+        "n": 1,
+        "mediana": 33000,
+        "p25": 33000,
+        "p75": 33000
+      },
+      {
+        "municipio": "playa",
+        "marca": "bmw",
+        "n": 20,
+        "mediana": 45500,
+        "p25": 33250,
+        "p75": 98750
+      },
+      {
+        "municipio": "playa",
+        "marca": "byd",
+        "n": 2,
+        "mediana": 35000,
+        "p25": 35000,
+        "p75": 35000
+      },
+      {
+        "municipio": "playa",
+        "marca": "cadillac",
+        "n": 1,
+        "mediana": 130000,
+        "p25": 130000,
+        "p75": 130000
+      },
+      {
+        "municipio": "playa",
+        "marca": "chery",
+        "n": 5,
+        "mediana": 20500,
+        "p25": 20500,
+        "p75": 21000
+      },
+      {
+        "municipio": "playa",
+        "marca": "chevrolet",
+        "n": 13,
+        "mediana": 28000,
+        "p25": 18000,
+        "p75": 38000
+      },
+      {
+        "municipio": "playa",
+        "marca": "daewoo",
+        "n": 2,
+        "mediana": 7250,
+        "p25": 6875,
+        "p75": 7625
+      },
+      {
+        "municipio": "playa",
+        "marca": "dodge",
+        "n": 3,
+        "mediana": 6000,
+        "p25": 4250,
+        "p75": 35500
+      },
+      {
+        "municipio": "playa",
+        "marca": "dongfeng",
+        "n": 13,
+        "mediana": 28000,
+        "p25": 26000,
+        "p75": 35000
+      },
+      {
+        "municipio": "playa",
+        "marca": "fiat",
+        "n": 13,
+        "mediana": 6500,
+        "p25": 5500,
+        "p75": 9000
+      },
+      {
+        "municipio": "playa",
+        "marca": "ford",
+        "n": 6,
+        "mediana": 50000,
+        "p25": 42500,
+        "p75": 61250
+      },
+      {
+        "municipio": "playa",
+        "marca": "foton",
+        "n": 3,
+        "mediana": 53000,
+        "p25": 46500,
+        "p75": 54500
+      },
+      {
+        "municipio": "playa",
+        "marca": "geely",
+        "n": 5,
+        "mediana": 10500,
+        "p25": 10500,
+        "p75": 11500
+      },
+      {
+        "municipio": "playa",
+        "marca": "gmc",
+        "n": 2,
+        "mediana": 68500,
+        "p25": 66750,
+        "p75": 70250
+      },
+      {
+        "municipio": "playa",
+        "marca": "honda",
+        "n": 23,
+        "mediana": 30000,
+        "p25": 23000,
+        "p75": 44000
+      },
+      {
+        "municipio": "playa",
+        "marca": "hyundai",
+        "n": 210,
+        "mediana": 28250,
+        "p25": 21275,
+        "p75": 38000
+      },
+      {
+        "municipio": "playa",
+        "marca": "infiniti",
+        "n": 1,
+        "mediana": 28000,
+        "p25": 28000,
+        "p75": 28000
+      },
+      {
+        "municipio": "playa",
+        "marca": "isuzu",
+        "n": 3,
+        "mediana": 50000,
+        "p25": 48000,
+        "p75": 54500
+      },
+      {
+        "municipio": "playa",
+        "marca": "jac",
+        "n": 3,
+        "mediana": 21000,
+        "p25": 20000,
+        "p75": 21500
+      },
+      {
+        "municipio": "playa",
+        "marca": "jeep",
+        "n": 2,
+        "mediana": 9950,
+        "p25": 7425,
+        "p75": 12475
+      },
+      {
+        "municipio": "playa",
+        "marca": "jmc",
+        "n": 1,
+        "mediana": 35000,
+        "p25": 35000,
+        "p75": 35000
+      },
+      {
+        "municipio": "playa",
+        "marca": "kia",
+        "n": 76,
+        "mediana": 18900,
+        "p25": 15875,
+        "p75": 24000
+      },
+      {
+        "municipio": "playa",
+        "marca": "lada",
+        "n": 36,
+        "mediana": 6250,
+        "p25": 4925,
+        "p75": 7625
+      },
+      {
+        "municipio": "playa",
+        "marca": "land rover",
+        "n": 8,
+        "mediana": 41000,
+        "p25": 29000,
+        "p75": 50750
+      },
+      {
+        "municipio": "playa",
+        "marca": "maxus",
+        "n": 1,
+        "mediana": 34000,
+        "p25": 34000,
+        "p75": 34000
+      },
+      {
+        "municipio": "playa",
+        "marca": "mazda",
+        "n": 1,
+        "mediana": 37000,
+        "p25": 37000,
+        "p75": 37000
+      },
+      {
+        "municipio": "playa",
+        "marca": "mercedes-benz",
+        "n": 6,
+        "mediana": 25500,
+        "p25": 25000,
+        "p75": 44000
+      },
+      {
+        "municipio": "playa",
+        "marca": "mg",
+        "n": 9,
+        "mediana": 24000,
+        "p25": 13000,
+        "p75": 26000
+      },
+      {
+        "municipio": "playa",
+        "marca": "mitsubishi",
+        "n": 13,
+        "mediana": 22000,
+        "p25": 12000,
+        "p75": 27000
+      },
+      {
+        "municipio": "playa",
+        "marca": "moskvich",
+        "n": 6,
+        "mediana": 6500,
+        "p25": 5750,
+        "p75": 6500
+      },
+      {
+        "municipio": "playa",
+        "marca": "nissan",
+        "n": 35,
+        "mediana": 30000,
+        "p25": 24000,
+        "p75": 33500
+      },
+      {
+        "municipio": "playa",
+        "marca": "peugeot",
+        "n": 6,
+        "mediana": 11500,
+        "p25": 11000,
+        "p75": 13125
+      },
+      {
+        "municipio": "playa",
+        "marca": "plymouth",
+        "n": 2,
+        "mediana": 5600,
+        "p25": 5150,
+        "p75": 6050
+      },
+      {
+        "municipio": "playa",
+        "marca": "pontiac",
+        "n": 1,
+        "mediana": 4000,
+        "p25": 4000,
+        "p75": 4000
+      },
+      {
+        "municipio": "playa",
+        "marca": "porsche",
+        "n": 2,
+        "mediana": 13579,
+        "p25": 13579,
+        "p75": 13579
+      },
+      {
+        "municipio": "playa",
+        "marca": "renault",
+        "n": 8,
+        "mediana": 12750,
+        "p25": 10750,
+        "p75": 23499
+      },
+      {
+        "municipio": "playa",
+        "marca": "seat",
+        "n": 1,
+        "mediana": 9000,
+        "p25": 9000,
+        "p75": 9000
+      },
+      {
+        "municipio": "playa",
+        "marca": "skoda",
+        "n": 8,
+        "mediana": 10000,
+        "p25": 8750,
+        "p75": 10000
+      },
+      {
+        "municipio": "playa",
+        "marca": "toyota",
+        "n": 38,
+        "mediana": 24998,
+        "p25": 19000,
+        "p75": 38000
+      },
+      {
+        "municipio": "playa",
+        "marca": "volkswagen",
+        "n": 20,
+        "mediana": 9525,
+        "p25": 5500,
+        "p75": 12625
+      },
+      {
+        "municipio": "playa",
+        "marca": "volvo",
+        "n": 1,
+        "mediana": 56000,
+        "p25": 56000,
+        "p75": 56000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "audi",
+        "n": 4,
+        "mediana": 15000,
+        "p25": 13250,
+        "p75": 36250
+      },
+      {
+        "municipio": "plaza",
+        "marca": "bmw",
+        "n": 1,
+        "mediana": 62000,
+        "p25": 62000,
+        "p75": 62000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "byd",
+        "n": 2,
+        "mediana": 28500,
+        "p25": 27750,
+        "p75": 29250
+      },
+      {
+        "municipio": "plaza",
+        "marca": "chevrolet",
+        "n": 4,
+        "mediana": 12000,
+        "p25": 9375,
+        "p75": 18000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "citroen",
+        "n": 1,
+        "mediana": 13000,
+        "p25": 13000,
+        "p75": 13000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "daewoo",
+        "n": 6,
+        "mediana": 9400,
+        "p25": 7575,
+        "p75": 11000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "dodge",
+        "n": 1,
+        "mediana": 39500,
+        "p25": 39500,
+        "p75": 39500
+      },
+      {
+        "municipio": "plaza",
+        "marca": "dongfeng",
+        "n": 4,
+        "mediana": 35500,
+        "p25": 32749,
+        "p75": 37000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "fiat",
+        "n": 11,
+        "mediana": 6500,
+        "p25": 3250,
+        "p75": 7500
+      },
+      {
+        "municipio": "plaza",
+        "marca": "ford",
+        "n": 3,
+        "mediana": 15000,
+        "p25": 9750,
+        "p75": 28500
+      },
+      {
+        "municipio": "plaza",
+        "marca": "foton",
+        "n": 2,
+        "mediana": 32250,
+        "p25": 30875,
+        "p75": 33625
+      },
+      {
+        "municipio": "plaza",
+        "marca": "gac",
+        "n": 1,
+        "mediana": 27000,
+        "p25": 27000,
+        "p75": 27000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "geely",
+        "n": 6,
+        "mediana": 31000,
+        "p25": 15750,
+        "p75": 34250
+      },
+      {
+        "municipio": "plaza",
+        "marca": "honda",
+        "n": 13,
+        "mediana": 33000,
+        "p25": 28000,
+        "p75": 37500
+      },
+      {
+        "municipio": "plaza",
+        "marca": "hyundai",
+        "n": 56,
+        "mediana": 28000,
+        "p25": 19375,
+        "p75": 33625
+      },
+      {
+        "municipio": "plaza",
+        "marca": "infiniti",
+        "n": 1,
+        "mediana": 13500,
+        "p25": 13500,
+        "p75": 13500
+      },
+      {
+        "municipio": "plaza",
+        "marca": "jac",
+        "n": 1,
+        "mediana": 20000,
+        "p25": 20000,
+        "p75": 20000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "jeep",
+        "n": 3,
+        "mediana": 11000,
+        "p25": 9250,
+        "p75": 12250
+      },
+      {
+        "municipio": "plaza",
+        "marca": "kia",
+        "n": 11,
+        "mediana": 18500,
+        "p25": 17000,
+        "p75": 24500
+      },
+      {
+        "municipio": "plaza",
+        "marca": "lada",
+        "n": 18,
+        "mediana": 6500,
+        "p25": 4625,
+        "p75": 6725
+      },
+      {
+        "municipio": "plaza",
+        "marca": "mercedes-benz",
+        "n": 5,
+        "mediana": 25000,
+        "p25": 25000,
+        "p75": 30000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "moskvich",
+        "n": 2,
+        "mediana": 4750,
+        "p25": 4125,
+        "p75": 5375
+      },
+      {
+        "municipio": "plaza",
+        "marca": "nissan",
+        "n": 10,
+        "mediana": 28500,
+        "p25": 11625,
+        "p75": 32000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "opel",
+        "n": 2,
+        "mediana": 4150,
+        "p25": 3975,
+        "p75": 4325
+      },
+      {
+        "municipio": "plaza",
+        "marca": "peugeot",
+        "n": 4,
+        "mediana": 13500,
+        "p25": 11750,
+        "p75": 15375
+      },
+      {
+        "municipio": "plaza",
+        "marca": "renault",
+        "n": 2,
+        "mediana": 10500,
+        "p25": 9750,
+        "p75": 11250
+      },
+      {
+        "municipio": "plaza",
+        "marca": "seat",
+        "n": 3,
+        "mediana": 8500,
+        "p25": 7750,
+        "p75": 9750
+      },
+      {
+        "municipio": "plaza",
+        "marca": "subaru",
+        "n": 3,
+        "mediana": 7000,
+        "p25": 6500,
+        "p75": 7000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "suzuki",
+        "n": 1,
+        "mediana": 5000,
+        "p25": 5000,
+        "p75": 5000
+      },
+      {
+        "municipio": "plaza",
+        "marca": "toyota",
+        "n": 19,
+        "mediana": 25000,
+        "p25": 14750,
+        "p75": 42500
+      },
+      {
+        "municipio": "plaza",
+        "marca": "volkswagen",
+        "n": 13,
+        "mediana": 4000,
+        "p25": 3000,
+        "p75": 17500
+      },
+      {
+        "municipio": "regla",
+        "marca": "hyundai",
+        "n": 2,
+        "mediana": 20000,
+        "p25": 19000,
+        "p75": 21000
+      },
+      {
+        "municipio": "regla",
+        "marca": "lada",
+        "n": 1,
+        "mediana": 5750,
+        "p25": 5750,
+        "p75": 5750
+      },
+      {
+        "municipio": "regla",
+        "marca": "moskvich",
+        "n": 1,
+        "mediana": 5000,
+        "p25": 5000,
+        "p75": 5000
+      },
+      {
+        "municipio": "regla",
+        "marca": "toyota",
+        "n": 1,
+        "mediana": 24997,
+        "p25": 24997,
+        "p75": 24997
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "buick",
+        "n": 1,
+        "mediana": 4000,
+        "p25": 4000,
+        "p75": 4000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "chevrolet",
+        "n": 7,
+        "mediana": 28000,
+        "p25": 13750,
+        "p75": 30000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "fiat",
+        "n": 2,
+        "mediana": 6500,
+        "p25": 6000,
+        "p75": 7000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "geely",
+        "n": 2,
+        "mediana": 11750,
+        "p25": 11375,
+        "p75": 12125
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "honda",
+        "n": 1,
+        "mediana": 26500,
+        "p25": 26500,
+        "p75": 26500
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "hyundai",
+        "n": 11,
+        "mediana": 25000,
+        "p25": 21250,
+        "p75": 35000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "kia",
+        "n": 1,
+        "mediana": 18000,
+        "p25": 18000,
+        "p75": 18000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "lada",
+        "n": 2,
+        "mediana": 7250,
+        "p25": 6625,
+        "p75": 7875
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "maxus",
+        "n": 3,
+        "mediana": 30000,
+        "p25": 26000,
+        "p75": 30000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "moskvich",
+        "n": 1,
+        "mediana": 4800,
+        "p25": 4800,
+        "p75": 4800
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "nissan",
+        "n": 5,
+        "mediana": 32000,
+        "p25": 30000,
+        "p75": 32000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "plymouth",
+        "n": 1,
+        "mediana": 7000,
+        "p25": 7000,
+        "p75": 7000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "seat",
+        "n": 1,
+        "mediana": 7500,
+        "p25": 7500,
+        "p75": 7500
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "toyota",
+        "n": 4,
+        "mediana": 40000,
+        "p25": 35500,
+        "p75": 40000
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "volkswagen",
+        "n": 1,
+        "mediana": 3500,
+        "p25": 3500,
+        "p75": 3500
+      },
+      {
+        "municipio": "san miguel del padrón",
+        "marca": "volvo",
+        "n": 1,
+        "mediana": 56000,
+        "p25": 56000,
+        "p75": 56000
       }
     ],
     "marcas": [
@@ -1018,9 +3620,82 @@
     ],
     "anios": {
       "declarado": 1821,
+      "declarado_precio_valido": 1519,
       "sin_declarar": 1745,
       "clasicos": 69,
       "modernos": 1752,
+      "con_anio_mediana": 26000,
+      "sin_anio_n": 1184,
+      "sin_anio_mediana": 11000,
+      "sin_anio_p25": 6000,
+      "sin_anio_p75": 28000,
+      "sin_anio_share": 43.803181650018495,
+      "por_decada": [
+        {
+          "decada": 1950,
+          "n": 26,
+          "mediana": 5250,
+          "p25": 3625,
+          "p75": 9250,
+          "share": 1.7116524028966424
+        },
+        {
+          "decada": 1960,
+          "n": 5,
+          "mediana": 4000,
+          "p25": 4000,
+          "p75": 4000,
+          "share": 0.32916392363396973
+        },
+        {
+          "decada": 1970,
+          "n": 8,
+          "mediana": 5000,
+          "p25": 4975,
+          "p75": 5050,
+          "share": 0.5266622778143515
+        },
+        {
+          "decada": 1980,
+          "n": 3,
+          "mediana": 2500,
+          "p25": 2000,
+          "p75": 3650,
+          "share": 0.19749835418038184
+        },
+        {
+          "decada": 1990,
+          "n": 16,
+          "mediana": 8000,
+          "p25": 7500,
+          "p75": 9375,
+          "share": 1.053324555628703
+        },
+        {
+          "decada": 2000,
+          "n": 88,
+          "mediana": 12000,
+          "p25": 10000,
+          "p75": 13000,
+          "share": 5.793285055957867
+        },
+        {
+          "decada": 2010,
+          "n": 441,
+          "mediana": 20000,
+          "p25": 17000,
+          "p75": 23000,
+          "share": 29.03225806451613
+        },
+        {
+          "decada": 2020,
+          "n": 932,
+          "mediana": 33000,
+          "p25": 25000,
+          "p75": 39000,
+          "share": 61.356155365371954
+        }
+      ],
       "por_anio": [
         {
           "anio": 1950,
@@ -12960,199 +15635,158 @@
       {
         "clave": "dongfeng",
         "label": "Dongfeng",
-        "anuncios": 27,
-        "n": 27,
+        "modelos": 27,
         "mediana": 32383,
-        "media_recortada_10": 31302,
         "p25": 27341,
         "p75": 34624,
         "min": 17816,
-        "max": 48071,
-        "calidad": "baja"
+        "max": 48071
       },
       {
         "clave": "foton",
         "label": "Foton",
-        "anuncios": 15,
-        "n": 15,
+        "modelos": 15,
         "mediana": 44709,
-        "media_recortada_10": 46505,
         "p25": 41227,
         "p75": 52255,
         "min": 27229,
-        "max": 54982,
-        "calidad": "baja"
+        "max": 54982
       },
       {
         "clave": "mg",
         "label": "MG",
-        "anuncios": 8,
-        "n": 8,
+        "modelos": 8,
         "mediana": 22896,
-        "media_recortada_10": 24212,
         "p25": 17476,
         "p75": 29502,
         "min": 16639,
-        "max": 35272,
-        "calidad": "insuficiente"
+        "max": 35272
       },
       {
         "clave": "dfsk",
         "label": "DFSK",
-        "anuncios": 5,
-        "n": 5,
+        "modelos": 5,
         "mediana": 28013,
-        "media_recortada_10": 28552,
         "p25": 25173,
         "p75": 32207,
         "min": 20639,
-        "max": 36725,
-        "calidad": "insuficiente"
+        "max": 36725
       },
       {
         "clave": "maxus",
         "label": "MAXUS",
-        "anuncios": 5,
-        "n": 5,
+        "modelos": 5,
         "mediana": 24592,
-        "media_recortada_10": 24397,
         "p25": 20754,
         "p75": 25347,
         "min": 19364,
-        "max": 31929,
-        "calidad": "insuficiente"
+        "max": 31929
       },
       {
         "clave": "mercedes-benz",
         "label": "Mercedes-Benz",
-        "anuncios": 5,
-        "n": 5,
+        "modelos": 5,
         "mediana": 72722,
-        "media_recortada_10": 66818,
         "p25": 61517,
         "p75": 73773,
         "min": 46950,
-        "max": 79125,
-        "calidad": "insuficiente"
+        "max": 79125
       },
       {
         "clave": "baic",
         "label": "BAIC",
-        "anuncios": 4,
-        "n": 4,
+        "modelos": 4,
         "mediana": 45493,
-        "media_recortada_10": 47966,
         "p25": 38707,
         "p75": 54752,
         "min": 27005,
-        "max": 73871,
-        "calidad": "insuficiente"
+        "max": 73871
       },
       {
         "clave": "bestune",
         "label": "Bestune",
-        "anuncios": 4,
-        "n": 4,
+        "modelos": 4,
         "mediana": 29468,
-        "media_recortada_10": 25850,
         "p25": 22339,
         "p75": 32979,
         "min": 10645,
-        "max": 33818,
-        "calidad": "insuficiente"
+        "max": 33818
       },
       {
         "clave": "changan",
         "label": "Changan",
-        "anuncios": 4,
-        "n": 4,
+        "modelos": 4,
         "mediana": 30198,
-        "media_recortada_10": 31459,
         "p25": 28573,
         "p75": 33084,
         "min": 26893,
-        "max": 38546,
-        "calidad": "insuficiente"
+        "max": 38546
       },
       {
         "clave": "nissan",
         "label": "Nissan",
-        "anuncios": 3,
-        "n": 3,
+        "modelos": 3,
         "mediana": 35000,
-        "media_recortada_10": 37283,
         "p25": 33450,
         "p75": 39975,
         "min": 31900,
-        "max": 44950,
-        "calidad": "insuficiente"
+        "max": 44950
       },
       {
         "clave": "toyota",
         "label": "Toyota",
-        "anuncios": 1,
-        "n": 1,
+        "modelos": 1,
         "mediana": 22380,
-        "media_recortada_10": 22380,
         "p25": 22380,
         "p75": 22380,
         "min": 22380,
-        "max": 22380,
-        "calidad": "insuficiente"
+        "max": 22380
       }
     ],
     "entidades": [
       {
         "clave": "MCV Comercial S.A.",
         "label": "MCV Comercial S.A.",
-        "anuncios": 37,
-        "n": 37,
+        "marcas": 6,
+        "modelos": 37,
         "mediana": 41448,
-        "media_recortada_10": 41983,
         "p25": 31263,
         "p75": 50648,
         "min": 10645,
-        "max": 79125,
-        "calidad": "suficiente"
+        "max": 79125
       },
       {
         "clave": "DONGFENG CUBA",
         "label": "DONGFENG CUBA",
-        "anuncios": 27,
-        "n": 27,
+        "marcas": 1,
+        "modelos": 27,
         "mediana": 32383,
-        "media_recortada_10": 31302,
         "p25": 27341,
         "p75": 34624,
         "min": 17816,
-        "max": 48071,
-        "calidad": "baja"
+        "max": 48071
       },
       {
         "clave": "BDC ONE",
         "label": "BDC ONE",
-        "anuncios": 13,
-        "n": 13,
+        "marcas": 2,
+        "modelos": 13,
         "mediana": 23463,
-        "media_recortada_10": 23980,
         "p25": 19364,
         "p75": 28282,
         "min": 16639,
-        "max": 35272,
-        "calidad": "baja"
+        "max": 35272
       },
       {
         "clave": "CIMEX",
         "label": "CIMEX",
-        "anuncios": 6,
-        "n": 6,
+        "marcas": 4,
+        "modelos": 6,
         "mediana": 31045,
-        "media_recortada_10": 32395,
         "p25": 30010,
         "p75": 34225,
         "min": 22380,
-        "max": 44950,
-        "calidad": "insuficiente"
+        "max": 44950
       }
     ],
     "precios_validos": [
@@ -13246,39 +15880,483 @@
     }
   },
   "comparacion": {
-    "criterio": "n >= 10 en ambos canales",
+    "criterio": "≥10 anuncios informales y presencia en catálogo formal; el catálogo no es una muestra",
     "marcas": [
+      {
+        "clave": "foton",
+        "label": "Foton",
+        "estado": "comparable",
+        "informal": {
+          "n": 10,
+          "mediana": 50000,
+          "calidad": "baja"
+        },
+        "formal": {
+          "modelos": 15,
+          "mediana": 44709
+        },
+        "diferencia": 5291,
+        "direccion": "informal"
+      },
       {
         "clave": "dongfeng",
         "label": "Dongfeng",
+        "estado": "comparable",
         "informal": {
           "n": 32,
-          "mediana": 35000
+          "mediana": 35000,
+          "calidad": "suficiente"
         },
         "formal": {
-          "n": 27,
+          "modelos": 27,
           "mediana": 32383
         },
-        "calidad": {
-          "informal": "suficiente",
-          "formal": "baja"
+        "diferencia": 2617,
+        "direccion": "informal"
+      },
+      {
+        "clave": "nissan",
+        "label": "Nissan",
+        "estado": "comparable",
+        "informal": {
+          "n": 106,
+          "mediana": 30000,
+          "calidad": "suficiente"
+        },
+        "formal": {
+          "modelos": 3,
+          "mediana": 35000
+        },
+        "diferencia": 5000,
+        "direccion": "formal"
+      },
+      {
+        "clave": "mercedes-benz",
+        "label": "Mercedes-Benz",
+        "estado": "comparable",
+        "informal": {
+          "n": 31,
+          "mediana": 25000,
+          "calidad": "suficiente"
+        },
+        "formal": {
+          "modelos": 5,
+          "mediana": 72722
+        },
+        "diferencia": 47722,
+        "direccion": "formal"
+      },
+      {
+        "clave": "toyota",
+        "label": "Toyota",
+        "estado": "comparable",
+        "informal": {
+          "n": 127,
+          "mediana": 24997,
+          "calidad": "suficiente"
+        },
+        "formal": {
+          "modelos": 1,
+          "mediana": 22380
+        },
+        "diferencia": 2617,
+        "direccion": "informal"
+      },
+      {
+        "clave": "mg",
+        "label": "MG",
+        "estado": "comparable",
+        "informal": {
+          "n": 19,
+          "mediana": 24000,
+          "calidad": "baja"
+        },
+        "formal": {
+          "modelos": 8,
+          "mediana": 22896
+        },
+        "diferencia": 1104,
+        "direccion": "informal"
+      }
+    ],
+    "cobertura": [
+      {
+        "clave": "audi",
+        "label": "Audi",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 24,
+          "mediana": 18500,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "baic",
+        "label": "BAIC",
+        "estado": "informal_baja",
+        "informal": {
+          "n": 7,
+          "mediana": 33000,
+          "calidad": "insuficiente"
+        },
+        "formal": {
+          "modelos": 4,
+          "mediana": 45493
         }
+      },
+      {
+        "clave": "bestune",
+        "label": "Bestune",
+        "estado": "solo_formal",
+        "informal": null,
+        "formal": {
+          "modelos": 4,
+          "mediana": 29468
+        }
+      },
+      {
+        "clave": "bmw",
+        "label": "BMW",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 33,
+          "mediana": 46000,
+          "calidad": "suficiente"
+        },
+        "formal": null
+      },
+      {
+        "clave": "changan",
+        "label": "Changan",
+        "estado": "informal_baja",
+        "informal": {
+          "n": 1,
+          "mediana": 33000,
+          "calidad": "insuficiente"
+        },
+        "formal": {
+          "modelos": 4,
+          "mediana": 30198
+        }
+      },
+      {
+        "clave": "chevrolet",
+        "label": "Chevrolet",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 67,
+          "mediana": 9500,
+          "calidad": "suficiente"
+        },
+        "formal": null
+      },
+      {
+        "clave": "daewoo",
+        "label": "Daewoo",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 16,
+          "mediana": 8500,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "dfsk",
+        "label": "DFSK",
+        "estado": "solo_formal",
+        "informal": null,
+        "formal": {
+          "modelos": 5,
+          "mediana": 28013
+        }
+      },
+      {
+        "clave": "dongfeng",
+        "label": "Dongfeng",
+        "estado": "comparable",
+        "informal": {
+          "n": 32,
+          "mediana": 35000,
+          "calidad": "suficiente"
+        },
+        "formal": {
+          "modelos": 27,
+          "mediana": 32383
+        },
+        "diferencia": 2617,
+        "direccion": "informal"
+      },
+      {
+        "clave": "fiat",
+        "label": "Fiat",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 51,
+          "mediana": 5500,
+          "calidad": "suficiente"
+        },
+        "formal": null
+      },
+      {
+        "clave": "ford",
+        "label": "Ford",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 28,
+          "mediana": 11750,
+          "calidad": "baja"
+        },
+        "formal": null
       },
       {
         "clave": "foton",
         "label": "Foton",
+        "estado": "comparable",
         "informal": {
           "n": 10,
-          "mediana": 50000
+          "mediana": 50000,
+          "calidad": "baja"
         },
         "formal": {
-          "n": 15,
+          "modelos": 15,
           "mediana": 44709
         },
-        "calidad": {
-          "informal": "baja",
-          "formal": "baja"
+        "diferencia": 5291,
+        "direccion": "informal"
+      },
+      {
+        "clave": "geely",
+        "label": "Geely",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 25,
+          "mediana": 11600,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "honda",
+        "label": "Honda",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 74,
+          "mediana": 32250,
+          "calidad": "suficiente"
+        },
+        "formal": null
+      },
+      {
+        "clave": "hyundai",
+        "label": "Hyundai",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 713,
+          "mediana": 29000,
+          "calidad": "suficiente"
+        },
+        "formal": null
+      },
+      {
+        "clave": "jeep",
+        "label": "Jeep",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 10,
+          "mediana": 11000,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "kia",
+        "label": "Kia",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 177,
+          "mediana": 18000,
+          "calidad": "suficiente"
+        },
+        "formal": null
+      },
+      {
+        "clave": "lada",
+        "label": "Lada",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 161,
+          "mediana": 6500,
+          "calidad": "suficiente"
+        },
+        "formal": null
+      },
+      {
+        "clave": "land rover",
+        "label": "Land Rover",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 14,
+          "mediana": 43500,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "maxus",
+        "label": "MAXUS",
+        "estado": "informal_baja",
+        "informal": {
+          "n": 7,
+          "mediana": 30000,
+          "calidad": "insuficiente"
+        },
+        "formal": {
+          "modelos": 5,
+          "mediana": 24592
         }
+      },
+      {
+        "clave": "mercedes-benz",
+        "label": "Mercedes-Benz",
+        "estado": "comparable",
+        "informal": {
+          "n": 31,
+          "mediana": 25000,
+          "calidad": "suficiente"
+        },
+        "formal": {
+          "modelos": 5,
+          "mediana": 72722
+        },
+        "diferencia": 47722,
+        "direccion": "formal"
+      },
+      {
+        "clave": "mg",
+        "label": "MG",
+        "estado": "comparable",
+        "informal": {
+          "n": 19,
+          "mediana": 24000,
+          "calidad": "baja"
+        },
+        "formal": {
+          "modelos": 8,
+          "mediana": 22896
+        },
+        "diferencia": 1104,
+        "direccion": "informal"
+      },
+      {
+        "clave": "mitsubishi",
+        "label": "Mitsubishi",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 22,
+          "mediana": 23500,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "moskvich",
+        "label": "Moskvich",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 16,
+          "mediana": 5250,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "nissan",
+        "label": "Nissan",
+        "estado": "comparable",
+        "informal": {
+          "n": 106,
+          "mediana": 30000,
+          "calidad": "suficiente"
+        },
+        "formal": {
+          "modelos": 3,
+          "mediana": 35000
+        },
+        "diferencia": 5000,
+        "direccion": "formal"
+      },
+      {
+        "clave": "opel",
+        "label": "Opel",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 10,
+          "mediana": 5000,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "peugeot",
+        "label": "Peugeot",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 30,
+          "mediana": 12000,
+          "calidad": "suficiente"
+        },
+        "formal": null
+      },
+      {
+        "clave": "renault",
+        "label": "Renault",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 20,
+          "mediana": 10750,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "skoda",
+        "label": "Skoda",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 15,
+          "mediana": 5000,
+          "calidad": "baja"
+        },
+        "formal": null
+      },
+      {
+        "clave": "toyota",
+        "label": "Toyota",
+        "estado": "comparable",
+        "informal": {
+          "n": 127,
+          "mediana": 24997,
+          "calidad": "suficiente"
+        },
+        "formal": {
+          "modelos": 1,
+          "mediana": 22380
+        },
+        "diferencia": 2617,
+        "direccion": "informal"
+      },
+      {
+        "clave": "volkswagen",
+        "label": "Volkswagen",
+        "estado": "solo_informal",
+        "informal": {
+          "n": 76,
+          "mediana": 8950,
+          "calidad": "suficiente"
+        },
+        "formal": null
       }
     ]
   }

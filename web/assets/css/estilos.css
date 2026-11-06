@@ -1554,3 +1554,128 @@ strong {
     white-space: normal;
   }
 }
+
+/* ---------- Nuevos exploradores (percentiles, concentración, rangos, décadas) ---------- */
+
+.controles-dobles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-top: 22px;
+}
+
+.controles-dobles .control {
+  margin-top: 0;
+}
+
+.controles-dobles .control select {
+  width: 100%;
+  max-width: none;
+}
+
+.lista-municipios {
+  margin: 10px 0 0;
+  color: var(--gris);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.rangos {
+  display: grid;
+  gap: 26px;
+  margin: 26px 0 0;
+}
+
+.rango__cabecera {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.rango__cabecera strong {
+  font-size: 1.05rem;
+}
+
+.rango__cabecera span {
+  color: var(--gris);
+  font-size: 0.82rem;
+}
+
+.rango__pista {
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  background: #eef0f3;
+  border-radius: 999px;
+}
+
+.rango__banda {
+  position: absolute;
+  top: 4px;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--azul);
+  opacity: 0.38;
+  transition: left 0.35s ease, width 0.35s ease;
+}
+
+.rango__mediana {
+  position: absolute;
+  top: 1px;
+  width: 3px;
+  height: 14px;
+  border-radius: 2px;
+  background: var(--naranja);
+  transform: translateX(-50%);
+  transition: left 0.35s ease;
+}
+
+.rango__valores {
+  margin: 8px 0 0;
+  color: var(--gris);
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.estado {
+  margin: 0 0 18px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.estado--comparable {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.estado--solo-informal {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.estado--informal-baja {
+  background: #ffedd5;
+  color: #9a3412;
+}
+
+.estado--solo-formal {
+  background: #e0e7ff;
+  color: #3730a3;
+}
+
+@media (max-width: 640px) {
+  .controles-dobles {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .comparador--compacto .comparador__lado + .comparador__lado {
+    padding-top: 14px;
+    border-top: 1px solid var(--linea);
+  }
+}

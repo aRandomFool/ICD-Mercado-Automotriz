@@ -71,6 +71,10 @@ def usd(valor: float) -> str:
     return f"{miles(valor)} USD"
 
 
+def modelos_txt(cantidad: int) -> str:
+    return "modelo" if int(cantidad) == 1 else "modelos"
+
+
 def guardar(fig, nombre: str, tambien_reporte: bool = False) -> None:
     WEB.mkdir(parents=True, exist_ok=True)
     fig.savefig(WEB / nombre, dpi=170, bbox_inches="tight", pad_inches=0.22)
@@ -191,9 +195,10 @@ def fig_brecha(inf: pd.DataFrame, form: pd.DataFrame) -> None:
         color=[AZUL, NARANJA],
         width=0.52,
     )
-    for barra, valor, n in zip(barras, [med_inf, med_form], [n_inf, n_form]):
+    etiquetas = [f"n = {miles(n_inf)}", f"{miles(n_form)} {modelos_txt(n_form)}"]
+    for barra, valor, etiqueta in zip(barras, [med_inf, med_form], etiquetas):
         ax.annotate(
-            f"{usd(valor)}\nn = {miles(n)}",
+            f"{usd(valor)}\n{etiqueta}",
             (barra.get_x() + barra.get_width() / 2, valor),
             textcoords="offset points",
             xytext=(0, 9),
@@ -228,7 +233,7 @@ def fig_brecha(inf: pd.DataFrame, form: pd.DataFrame) -> None:
     ax.text(
         0,
         1.02,
-        "Precios válidos: 1.000–999.999 USD · Revolico son precios pedidos, no de cierre",
+        "Precios válidos: 1.000–999.999 USD · Revolico: pedidos · catálogo: lista",
         transform=ax.transAxes,
         fontsize=9.5,
         color=GRIS,
@@ -336,17 +341,17 @@ def fig_marcas(inf: pd.DataFrame, form: pd.DataFrame) -> None:
 
     # Formal
     filas = [
-        {"label": marca_label(clave), "n": len(grupo), "mediana": grupo["precio_usd"].median()}
+        {"label": marca_label(clave), "modelos": len(grupo), "mediana": grupo["precio_usd"].median()}
         for clave, grupo in form.groupby("marca_norm")
         if clave not in ("microbus", "pickup")
     ]
     tabla = pd.DataFrame(filas).sort_values("mediana")
     fig, ax = plt.subplots(figsize=(9.2, 5.8))
-    colores = [AZUL if n >= 5 else GRIS_CLARO for n in tabla["n"]]
+    colores = [AZUL if modelos >= 5 else GRIS_CLARO for modelos in tabla["modelos"]]
     barras = ax.barh(tabla["label"], tabla["mediana"], color=colores, height=0.62)
     for barra, fila in zip(barras, tabla.itertuples()):
         ax.annotate(
-            f"{usd(fila.mediana)}  ·  n={miles(fila.n)}",
+            f"{usd(fila.mediana)}  ·  {miles(fila.modelos)} {modelos_txt(fila.modelos)}",
             (barra.get_width(), barra.get_y() + barra.get_height() / 2),
             xytext=(6, 0),
             textcoords="offset points",
@@ -365,7 +370,7 @@ def fig_marcas(inf: pd.DataFrame, form: pd.DataFrame) -> None:
     ax.text(
         0,
         1.015,
-        "Barras grises: n<5 (muestra insuficiente) · cada entidad vende marcas distintas",
+        "Barras grises: menos de 5 modelos en catálogo · cada entidad vende marcas distintas",
         transform=ax.transAxes,
         fontsize=9.5,
         color=GRIS,
@@ -385,41 +390,45 @@ def fig_comparacion(inf: pd.DataFrame, form: pd.DataFrame) -> None:
 
     filas = []
     for clave in sorted(set(inf_g.index) & set(form_g.index)):
-        if inf_g.loc[clave, "count"] >= 10 and form_g.loc[clave, "count"] >= 10:
+        if inf_g.loc[clave, "count"] >= 10:
             filas.append(
                 {
                     "label": marca_label(clave),
                     "n_inf": int(inf_g.loc[clave, "count"]),
                     "med_inf": inf_g.loc[clave, "median"],
-                    "n_form": int(form_g.loc[clave, "count"]),
+                    "modelos": int(form_g.loc[clave, "count"]),
                     "med_form": form_g.loc[clave, "median"],
                 }
             )
-    tabla = pd.DataFrame(filas)
+    tabla = pd.DataFrame(filas).sort_values("med_inf")
 
-    x = np.arange(len(tabla))
-    ancho = 0.34
-    fig, ax = plt.subplots(figsize=(9.2, 5.6))
-    b1 = ax.bar(x - ancho / 2, tabla["med_inf"], ancho, color=AZUL, label="Informal (Revolico)")
-    b2 = ax.bar(x + ancho / 2, tabla["med_form"], ancho, color=NARANJA, label="Formal (catálogo)")
-    for barras, columna, n_col in (
-        (b1, "med_inf", "n_inf"),
-        (b2, "med_form", "n_form"),
+    y = np.arange(len(tabla))
+    alto = 0.36
+    fig, ax = plt.subplots(figsize=(9.8, 6.2))
+    b1 = ax.barh(y + alto / 2, tabla["med_inf"], alto, color=AZUL, label="Informal (precio pedido)")
+    b2 = ax.barh(y - alto / 2, tabla["med_form"], alto, color=NARANJA, label="Formal (precio de lista)")
+
+    for barras, columna, sufijo in (
+        (b1, "med_inf", "n"),
+        (b2, "med_form", "modelos"),
     ):
         for barra, fila in zip(barras, tabla.itertuples()):
+            cantidad = getattr(fila, "n_inf") if sufijo == "n" else getattr(fila, "modelos")
+            texto = f"{usd(getattr(fila, columna))} · n={miles(cantidad)}" if sufijo == "n" else f"{usd(getattr(fila, columna))} · {miles(cantidad)} {modelos_txt(cantidad)}"
             ax.annotate(
-                f"{usd(getattr(fila, columna))}\nn={miles(getattr(fila, n_col))}",
-                (barra.get_x() + barra.get_width() / 2, barra.get_height()),
-                xytext=(0, 6),
+                texto,
+                (barra.get_width(), barra.get_y() + barra.get_height() / 2),
+                xytext=(6, 0),
                 textcoords="offset points",
-                ha="center",
-                fontsize=9,
+                va="center",
+                fontsize=8.8,
                 color=TINTA,
             )
-    ax.set_xticks(x)
-    ax.set_xticklabels(tabla["label"])
-    ax.set_ylim(0, max(tabla[["med_inf", "med_form"]].max()) * 1.28)
-    ax.set_ylabel("Precio mediano (USD)")
+
+    ax.set_yticks(y)
+    ax.set_yticklabels(tabla["label"])
+    ax.set_xlim(0, max(tabla[["med_inf", "med_form"]].max()) * 1.38)
+    ax.set_xlabel("Precio mediano (USD)")
     ax.set_title(
         "El mismo nombre, dos precios (con cautela)",
         loc="left",
@@ -429,14 +438,14 @@ def fig_comparacion(inf: pd.DataFrame, form: pd.DataFrame) -> None:
     ax.text(
         0,
         1.015,
-        f"Marcas con n≥10 en ambos canales: {len(tabla)} de 11 marcas del catálogo formal",
+        f"{len(tabla)} marcas con ≥10 anuncios informales y presencia en catálogo formal",
         transform=ax.transAxes,
         fontsize=9.5,
         color=GRIS,
     )
-    ax.legend(frameon=False, loc="upper right", fontsize=9.5)
-    estilo(ax, eje_y=True)
-    ax.spines["bottom"].set_visible(False)
+    ax.legend(frameon=False, loc="lower right", fontsize=9.5)
+    estilo(ax, eje_x=True)
+    ax.spines["left"].set_visible(False)
     fuente(fig, "Fuente: Revolico y catálogos formales. No es el mismo vehículo, versión ni año.")
     guardar(fig, "04_comparacion_formal_vs_informal_por_marca.png", tambien_reporte=True)
 
@@ -472,7 +481,7 @@ def fig_catalogo(form: pd.DataFrame) -> None:
             zorder=4,
         )
         ax.annotate(
-            f"n={len(precios)}",
+            f"{len(precios)} {modelos_txt(len(precios))}",
             (precios.max(), y),
             xytext=(10, 0),
             textcoords="offset points",
@@ -493,7 +502,7 @@ def fig_catalogo(form: pd.DataFrame) -> None:
     ax.text(
         0,
         1.015,
-        "Cada punto es un modelo · línea naranja = mediana · no ordenar entidades por precio: venden productos distintos",
+        "Cada punto es un modelo · línea naranja = mediana · cobertura de catálogo, no ventas",
         transform=ax.transAxes,
         fontsize=9.2,
         color=GRIS,
@@ -677,6 +686,8 @@ def fig_anios(inf: pd.DataFrame) -> None:
         fontweight="bold",
     )
     ax.set_xlim(0, len(con_anio))
+    ax.set_xticks([0, 250, 500, 750, 1_000, 1_250, 1_500, len(con_anio)])
+    ax.minorticks_off()
     ax.set_yticks([])
     ax.set_xlabel("Anuncios con año declarado")
     ax.set_title(
