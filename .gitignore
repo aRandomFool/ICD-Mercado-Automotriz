@@ -16,7 +16,6 @@ __pycache__/
 *.log
 
 # Notebooks ejecutados (si se exportan)
-*.html
 *.pdf
 
 # La página web es un entregable del proyecto
